@@ -27,8 +27,8 @@ Toutes les explications ci-dessous sont valides pour [Ubuntu](http://www.ubuntu-
 Si ce n'est pas déjà le cas, il faut installer _WINE_ et un complément, _cabextract_. Ce dernier permet d'installer des programmes dans WINE à partir d'exécutables _Windows_. Très très difficile, il suffit de taper cette commande :
 
 ```bash
-sudo aptitude install wine cabextract`</pre>
-``
+sudo aptitude install wine cabextract
+```
 
 #### Télécharger IE4Linux
 
