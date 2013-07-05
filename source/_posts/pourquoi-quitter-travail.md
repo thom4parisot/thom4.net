@@ -1,7 +1,7 @@
 title: "Pourquoi j'ai décidé de quitter mon travail"
 id: 17852
 date: 2010-12-06 10:30:15
-tags: 
+tags:
 - clever age
 - freelance
 - humain
@@ -11,13 +11,14 @@ tags:
 - rh
 - rmll
 - valeurs
-categories: 
+categories:
 - Développement Web
 - Projets
 ---
 
-> **Remarque** : j'ai initialement intitulé cet article « pourquoi j'ai décidé de devenir indépendant » mais au final, je me suis rendu compte que je ne répondais pas à la question. Ce sera l'objet d'un autre billet, détaillant pourquoi j'ai préféré l'indépendance à un autre employeur.> 
-> 
+> **Remarque** : j'ai initialement intitulé cet article « pourquoi j'ai décidé de devenir indépendant » mais au final, je me suis rendu compte que je ne répondais pas à la question. Ce sera l'objet d'un autre billet, détaillant pourquoi j'ai préféré l'indépendance à un autre employeur.
+>
+>
 > **Remarque (bis)** : [comme le fait justement remarquer Padawan en commentaire](https://oncletom.io/2010/pourquoi-quitter-travail/#comment-30577), un meilleur titre à ce billet aurait pu (ou dû) être « Pourquoi j'ai décidé de quitter le salariat ». Subtile différence qui marque une volonté de changer de façon de travailler. C'est ce qu'il faut en retenir.
 Le 30 novembre dernier, j'effectuais mon dernier jour chez [Clever Age](http://www.clever-age.com), société que j'ai rejoins [3 ans plus tôt](https://oncletom.io/2007/clever-age/), le 5 novembre 2007\. Aujourd'hui, je pointe à Pôle Emploi dans un contexte de **création d'entreprise**. De toutes façons, personne ne me prend au sérieux quand je dis être chômeur (ce qui est pourtant une réalité, positive dans mon cas).
 
@@ -29,7 +30,7 @@ Peut-être. Dans tous les cas, je vous livre mon point de vue et ce qui me motiv
 
 <!--more-->
 
-### It's About Time
+## It's About Time
 
 En janvier 2010, lors de mon entretien annuel, je n'étais pas fichu de savoir où je serais dans 2 ou 3 ans. Je me voyais toujours chez Clever Age, et absolument pas indépendant. Je **craignais** trop la nécessité d'avoir à démarcher commercialement et à traiter la paperasse administrative (la comptabilité par dessus tout).
 
@@ -39,7 +40,7 @@ Puis finalement, arrivent les [RMLL à Bordeaux](http://2010.rmll.info). L'occas
 
 Les doutes se sont alors forgés en conviction : j'étais en train de **perdre mon temps**.
 
-### La croissance ne fait pas tout
+## La croissance ne fait pas tout
 
 Je perdais mon temps car mes **convictions** et celles de mon employeur divergeaient de plus en plus. La croissance économique voulue et assumée entraîne des recrutements, le nombre de projets et fatalement, la taille de l'entreprise.
 
@@ -49,7 +50,7 @@ Tout ça pour tourner à fond, limiter l'intercontrat et être le plus productif
 Enfin, productif, être le plus facturable possible.
 En fait, à mes yeux, ce qui n'était pas une SSII car plutôt proche d'une agence Web de techos, était/est en train de devenir une SSII. Psychologiquement parlant, je n'ai pas pu ni voulu passer ce cap.
 
-### Privilégier l'homme à la ressource
+## Privilégier l'homme à la ressource
 
 Qui dit SSII dit « ressource ». Au même type que ressource humaine. À partir du moment où on parle de ressource, **l'homme n'existe plus**, en tant qu'individu, on ne voit plus que ce qu'on pourra en tirer.
 Et plus la taille de l'entreprise augmente, plus l'homme devient une ressource.
@@ -62,7 +63,7 @@ J'ai été définitivement convaincu de ça le jour où je n'ai pas été défen
 
 [![](http://farm5.static.flickr.com/4151/5155103053_876a5b8df6_m.jpg "We are not clowns")](http://www.flickr.com/photos/the-jedi/5155103053/)
 
-### Parce que je me suis senti prêt
+## Parce que je me suis senti prêt
 
 Même si j'ai mon amour-propre et que j'ai servi de paillasson, j'avoue que cela m'a apporté, couplé au fait qu'il s'agissait d'une mission de longue durée. Le **recul**.
 
@@ -82,7 +83,7 @@ Après moult discussions, réflexions et interruptions de sommeil, j'ai réalis�
 *   ma famille, mes amis, mes relations professionnelles et ma tendre compagne me soutiennent et m'encouragent
 En clair, il est temps, ni trop tard, ni trop tôt. Juste le moment, dans ma vie, où je veux me lancer. J'ai envie de me dire que je réussirai et s'il s'avérait que ce n'était pas le cas, tant pis, j'aurais essayé.
 
-### Liberté
+## Liberté
 
 J'ai réalisé une chose cette année, parmi d'autres : **mon évolution est conditionnée par ma liberté**. Dès que j'ai la sensation d'être en cage, d'avoir à subir un boulet au quotidien, j'essaie de rectifier le tir. Si ça ne fonctionne pas, je dérive le chemin, et je trace le mien.
 
@@ -95,11 +96,12 @@ La frustration a ça de bénéfique : elle pousse à la liberté.
 
 [![](http://farm6.static.flickr.com/5005/5210196928_a7ffcd5266_m.jpg "End of Line")](http://www.flickr.com/photos/the-jedi/5210196928/)
 
-### Et la suite ?
+## Et la suite ?
 
 Je suis en train de préparer mon avenir, administrativement et stratégiquement parlant. J'aurai l'occasion d'expliquer dans un prochain billet pourquoi j'ai souhaité choisir la formule _freelance_ / indépendant.
 
 Rien ne démarrera avant 2011, je me laisse encore le temps d'y réfléchir et de profiter des fêtes de fin d'année dans le sud de la France.
-> **Nota bene** : pour éviter toute confusion, je n'ai aucun regret à avoir passé 3 ans de ma vie chez Clever Age. Sans cette étape, sans les gens que j'y ai cotoyé et sans ce que j'y ai appris, je n'aurais peut-être pas franchi le pas. Ce n'est pas un règlement de compte, ou un tir à boulet rouge. C'est un constat.> 
-> 
+> **Nota bene** : pour éviter toute confusion, je n'ai aucun regret à avoir passé 3 ans de ma vie chez Clever Age. Sans cette étape, sans les gens que j'y ai cotoyé et sans ce que j'y ai appris, je n'aurais peut-être pas franchi le pas. Ce n'est pas un règlement de compte, ou un tir à boulet rouge. C'est un constat.
+>
+>
 > **Nota bene **_again_ : à celles et ceux qui pensent qu'il s'agit d'un billet plein de rancune contre mon ancien employeur, relisez le titre. J'aime mes anciens collègues, ils sont bons et motivés. Ils ont été et sont une famille à mes yeux. Mais ne lisez pas entre les lignes : je partage un ressenti, c'est personnel et lié à ma personne.

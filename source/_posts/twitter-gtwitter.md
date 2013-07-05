@@ -1,12 +1,12 @@
 title: "Twitter, la mini-messagerie"
 id: 649
 date: 2007-06-01 13:00:18
-tags: 
+tags:
 - im
 - messagerie instantanee
 - reseaux sociaux
 - twitter
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -22,7 +22,7 @@ Et ce matin, voilà t'il pas que je lis [10 conseils pour bien utiliser Twitter]
 
 Allez, on va quand même tenter le coup. Soyons jeune !
 
-### gTwitter
+## gTwitter
 
 ![gTwitter interface](https://oncletom.io/images/2007/05/gtwitter.png)
 
@@ -34,12 +34,12 @@ Il est d'ailleurs possible de suivre un utilisateur ou de lui envoyer des messag
 
 J'essaierai d'utiliser Twitter intelligemment en formulant des messages intéressants (enfin j'espère).
 
-### Twitter depuis n'importe où
+## Twitter depuis n'importe où
 
 La force de Twitter réside dans son <acronym title="Application Programming Interface">API</acronym> ouverte et simple d'accès. Du coup n'importe quelle application peut lire et recevoir des messages Twitter. Des passerelles intelligentes ont été créées. Un téléphone mobile envoyant des SMS suffit pour twitter depuis le ciné ou durant un repas ennuyeux. D'ailleurs on peut [twitter depuis Firefox](http://twitbin.com/).
 Quand je disais <cite>n'importe où</cite> ...
 
-### Voyeurisme, vie privée, communication publique
+## Voyeurisme, vie privée, communication publique
 
 Le _principal avantage de Twitter_ (suivre les mouvements de personnes) peut également être un _inconvénient_. N'importe qui étant capable de trouver votre profil Twitter peut savoir à quelle heure vous avez donné signe de vie. Autant de facteurs qui peuvent se révéler gênant en entreprise si l'on s'aperçoit que _vous passez davantage de temps à parler de vos errances sur Internet que de votre productivité en chute libre_.
 

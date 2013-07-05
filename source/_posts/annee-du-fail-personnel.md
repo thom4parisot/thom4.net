@@ -1,7 +1,7 @@
 title: "2011 : l'année du #fail personnel"
 id: 18470
 date: 2011-12-21 18:49:29
-tags: 
+tags:
 - choix
 - code
 - freelance
@@ -12,7 +12,7 @@ tags:
 - projet
 - réflexion
 - web
-categories: 
+categories:
 - Entrepreneuriat
 - Personnel
 ---
@@ -25,7 +25,7 @@ Et de continuer à savourer de plus belle les discussions et autres flacons pré
 
 <!--more-->
 
-### Paradoxe
+## Paradoxe
 
 Ce discours a de quoi étonner, surtout pour les personnes m'ayant physiquement fréquenté ces derniers temps. Pourtant cette année, rien ne s'est passé comme je l'imaginais ou ne l'espérais, que ça soit sur le plan professionnel ou personnel. Pourtant tout a été indispensable, des échecs à la réussite. Je dirais même que la réussite a en majeure partie puisé dans l'échec ; tout particulièrement en 2011.
 
@@ -41,7 +41,7 @@ Cette année j'ai appris à **suivre les étoiles dans la nuit**.
 
 Cette année j'ai appris.
 
-### Contribution en baisse/berne
+## Contribution en baisse/berne
 
 Que ça soit au niveau du rythme de publication sur ce blog, ça n'a pas dû dépasser **la _frénésie_ d'un article tous les 2 mois**. J'en connais qui attendent encore des billets envisagés et annoncés il y a 1 an. Engloutir 3 ou 4 heures par billet est quelque chose qui m'est devenu plus difficile à envisager.
 
@@ -51,7 +51,7 @@ Fatalement, coder sur des projets personnels en dehors des heures de travail a s
 
 **S'il fallait créer, ce fût avec des images** puisqu'en [2011, je capturais une photo tous les 3 jours, en moyenne](http://www.flickr.com/photos/the-jedi/archives/date-taken/2011/calendar/) ; en numérique et en argentique.
 
-### La solitude quotidienne du freelance
+## La solitude quotidienne du freelance
 
 À bientôt 12 mois d'exercice, ce que j'avais initialement estimé être le paradis s'est transformé en poids pesant : **travailler de chez soi est humainement insupportable à moyen et long terme**.
 
@@ -63,7 +63,7 @@ Par contre, ne pas croiser une seule personne pendant ses horaires de travail, c
 
 Juste en soirée, ce n'est pas viable. _Period_.
 
-### La pression (soci|idé|anim)ale
+## La pression (soci|idé|anim)ale
 
 Cette année j'ai perdu un idéal me propulsant sans crier gare dans la situation du drogué en manque, sans autre choix que de renoncer à sa poudre blanche. Gérer la situation en ayant à gérer les projets professionnels, les clients et le calendrier n'a pas été une partie de plaisir.
 Fort heureusement l'été est prompt à une indulgence de délais.
@@ -81,7 +81,7 @@ D'un autre côté, tout ceci a eu pour effet de renforcer le **désir de singula
 
 [![Peer to Peer](http://farm8.staticflickr.com/7025/6393687987_7762280d60.jpg)](http://www.flickr.com/photos/the-jedi/6393687987/ "Peer to Peer by Oncle Tom, on Flickr")
 
-### L'aventure humaine
+## L'aventure humaine
 
 Avec ou sans surprise, **on en revient aux hommes, et aux femmes**. Ces gens qu'on connaissait peu, de loin ou qui sont géographiquement loin. Ces gens qui s'ouvrent, partagent et écoutent.
 
@@ -93,7 +93,7 @@ Et c'est là où je me dis que travailler chez soi, c'est du gâchis social.
 
 [![The Conflict](http://farm7.staticflickr.com/6238/6314643648_e2f57e248b.jpg)](http://www.flickr.com/photos/the-jedi/6314643648/ "The Conflict by Oncle Tom, on Flickr")
 
-### Conclusion
+## Conclusion
 
 Le fil rouge de cet article est un **triptyque problème/conflit/solution**. À ce titre, je ne saurais que trop vous conseiller la lecture de l'ouvrage [Le conflit](http://www.amazon.fr/Conflit-Georges-Simmel/dp/2908024837) de Georg Simmel (ainsi qu'une bonne palanquée de ses écrits). On y retrouve beaucoup d'exemples sociologiques, historiques et amoureux des conflits, ce qu'ils ont engendré … très souvent en bien d'ailleurs. Comme il écrit, le conflit est déjà une étape avancée dans la résolution d'un problème. C'est donc sain.
 

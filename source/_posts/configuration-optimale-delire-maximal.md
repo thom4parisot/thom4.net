@@ -1,14 +1,14 @@
 title: "Configuration optimale, délire maximal"
 id: 1159
 date: 2008-10-07 07:00:19
-tags: 
+tags:
 - carton rouge
 - cookies
 - critique
 - ooshop
 - ssl
 - twitter
-categories: 
+categories:
 - Accessibilité
 ---
 
@@ -24,20 +24,28 @@ Entrevue d'une configuration optimale tout sauf accessible et acceptable.
 
 Avant toute chose, prenez connaissance de cette [fameuse configuration optimale](http://www.ooshop.com/Content/FR/PreHome/Conf.html "la configuration optimale selon Ooshop"). Y'aurait de quoi écrire une thèse dessus.
 
-### Navigateur optimal
+## Navigateur optimal
 
-> Ooshop recommande d'utiliser               la résolution d'écran suivante : 1024x768.> 
-> 
-> Ooshop recommande pour une navigation optimale d'utiliser les navigateurs               suivants :> 
-> 
-> **Pour PC :**> 
-> Internet Explorer 6 - [Télécharger](http://download.microsoft.com/download/ie6sp1/finrel/6_sp1/W98NT42KMeXP/EN-US/ie6setup.exe)> 
-> Firefox 1.5 - [Télécharger](http://www.mozilla-europe.org/fr/products/firefox/)> 
-> 
-> **Pour Mac :**> 
-> Firefox 1.5 - [Télécharger](http://www.mozilla-europe.org/fr/products/firefox/)> 
-> Safari 2.0.3 - Ce navigateur est installé par defaut par               Apple> 
-> 
+> Ooshop recommande d'utiliser               la résolution d'écran suivante : 1024x768.
+>
+>
+> Ooshop recommande pour une navigation optimale d'utiliser les navigateurs               suivants :
+>
+>
+> **Pour PC :**
+>
+> Internet Explorer 6 - [Télécharger](http://download.microsoft.com/download/ie6sp1/finrel/6_sp1/W98NT42KMeXP/EN-US/ie6setup.exe)
+>
+> Firefox 1.5 - [Télécharger](http://www.mozilla-europe.org/fr/products/firefox/)
+>
+>
+> **Pour Mac :**
+>
+> Firefox 1.5 - [Télécharger](http://www.mozilla-europe.org/fr/products/firefox/)
+>
+> Safari 2.0.3 - Ce navigateur est installé par defaut par               Apple
+>
+>
 > Les navigateurs Konqueror, Opéra, Avant Browser ne sont pas               encore entièrement compatibles sur notre site.
 Tout est critiquable mais je suis joueur.
 
@@ -59,7 +67,7 @@ Et à côté de ça on me cite Konqueror, un des navigateurs avec les plus faibl
 
 **Solution** : virer ce bout de texte et opter pour un code compatible avec des navigateurs modernes, d'Internet Explorer 7 à Safari en passant par Firefox.
 
-### Configuration optimale
+## Configuration optimale
 
 J'adore ce genre de pots-pourris façon Internet de la bulle Internet des années 2000\. Et vas-y qu'y a du _simple pixel gif_ et que je te parle de ce qu'il faut configurer sans image aucune (ben ouais, c'est pas optimisé les images).
 
@@ -79,7 +87,7 @@ Mon conseil : **vérifier que les cookies sont activés sur le navigateur**. C'e
 Je passe également le volet sur le SSL. Quand on vient faire des courses, c'est certainement pas pour prendre des cours de crypto. J'entends déjà mon médecin m'expliquer que les données sur ma carte Vitale sont accessibles car non protégées lors d'une visite médicale.
 [Ah non pardon, ça c'est vrai](http://fr.wikipedia.org/wiki/Carte_Vitale#Big_Brother_Awards).
 
-### Conclusion
+## Conclusion
 
 Au lieu de s'évertuer à pondre une pleine page en _popup_ pour expliquer comment paramétrer un navigateur dans un language peu compréhensible, il faudrait glisser du _il faut_ à _nous allons_.
 Oui, **optimiser au lieu d'expliquer** comment optimiser son navigateur pour un site donné.

@@ -21,7 +21,7 @@ De l'eau a coulé sous les ponts depuis [Paris Web](http://paris-web.fr/), et su
 
 <!--more-->
 
-### La présentation
+## La présentation
 
 [slideshare id=5459902&amp;doc=industrialiser-artisanat-integration-html-101016073637-phpapp01]
 
@@ -33,7 +33,7 @@ Le plus amusant fût qu'**on arrivait aux mêmes conclusions**, et que les _slid
 
 Pour l'expérience, et le résultat produit, j'en suis satisfait :-)
 
-### Déroulement de l'atelier
+## Déroulement de l'atelier
 
 L'atelier consistait à passer en revue 3 des étapes du développement _frontend_ : l'intégration HTML, l'habillage CSS et les interactions JavaScript. Chaque étape se divisait en 4 composants de travail :
 
@@ -54,7 +54,7 @@ D'ailleurs, parce qu'on n'a pas bossé pour rien, et que Paris Web c'est aussi l
 
 [mindmeister]65925228[/mindmeister]
 
-### Constats
+## Constats
 
 Mon premier constat, en regardant la carte mentale, c'est qu'on a quand même réussi à produire un **bon nombre d'éléments** en 1 heure, avec un public qui n'était pas préparé et dans une configuration de salle de classe, remplie de surcroît.
 La logistique s'est organisée d'elle-même, avec des contributions diverses pour ramasser les post-it, leur circulation et même la modération.
@@ -66,7 +66,7 @@ Quant au contenu en lui-même, plusieurs remarques s'imposent :
 *   en production de CSS et de JavaScript, le** nombre de mauvaises pratique équivaut ou dépasse les bonnes pratiques**
 En une phrase et une seule : le développement frontend, en tous cas représentatif de la population présente dans la salle, **travaille dans son coin**, avec ses méthodes, peu adaptables à d'autres cadres.
 
-### Et la suite ?
+## Et la suite ?
 
 Mon avis c'est que si la production n'est pas forcément industrialisable au sens où on ne peut que difficilement automatiser la production du code, en revanche on peut **automatiser les tests et la documentation**, voire certains aspects d'organisation (diffusion automatique des _commits_, rapports etc.).
 

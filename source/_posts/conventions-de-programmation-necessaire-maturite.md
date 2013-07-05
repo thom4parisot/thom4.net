@@ -28,7 +28,7 @@ Tout développeur tend donc à utiliser des [conventions de programmation](http:
 
 <!--more-->
 
-### Quelle convention de nommage adopter ?
+## Quelle convention de nommage adopter ?
 
 Avant de choisir une convention, encore faudrait-il savoir quelles conventions existent :
 
@@ -55,13 +55,13 @@ C'est pour ça que partir sur une **convention parfaite sur le papier mais inapp
 Mon conseil : **essayez, choisissez** mais ne prenez pas non plus trop laxiste en terme de notation.
 Une chose est sure : quand on a essayé une belle
 
-### Mes conventions de nommage en PHP
+## Mes conventions de nommage en PHP
 
 [![Exemple de code PHP dans Eclipse](https://oncletom.io/images/2008/07/eclipse-php-code-sample-300x207.png "Exemple de code PHP dans Eclipse")](https://oncletom.io/images/2008/07/eclipse-php-code-sample.png)
 
 J'avoue, la notation utilisée dans [symfony](http://www.symfony-project.org/) m'a tellement plu que je la réutilise quasiment partout. Ci-dessus, une illustration montrant du code pour un [plugin Wordpress](https://oncletom.io/code/wordpress/) (en PHP 4 malheureusement ...). Elle en présente un bon aperçu.
 
-#### Notation
+### Notation
 
 J'utilise UpperCamelCase pour le nommage des classes _sauf_ s'il y a un préfixe qui, lui, reste en minuscule.
 _Exemples_ : `class AmazonWidgetsShortcodes`, `class sfUploader`.
@@ -72,7 +72,7 @@ Enfin, pour les fonctions orphelines, _helpers_ & cie, c'est tout en minuscule s
 (un nom particulier à ça ? _lowered_and_underscored_ ? ;-))
 _Exemple_ : `add_filter()`
 
-#### Indentation
+### Indentation
 
 Dans l'indentation il y a 2 camps : celui des espaces et celui des tabulations.
 
@@ -82,7 +82,7 @@ En revanche, là encore je suis mais j'aime, je suis sur une **tabulation à 2 e
 
 Cette "limite" n'est que virtuelle mais ouvrez un terminal, 80 lignes par défaut. C'est plus confortable de rester en-dessous de ce nombre. Ceci dit je fais quelques exceptions, des fois ;-)
 
-#### Structures de contrôle
+### Structures de contrôle
 
 On pourrait résumer à <cite>1 ligne = 1 action</cite> et 2 types d'utilisation.
 
@@ -108,7 +108,7 @@ Côté templating en revanche j'utilise la [syntaxe alternative de PHP](http://f
 </ol>
 ```
 
-#### Syntaxe de la documentation
+### Syntaxe de la documentation
 
 Enfin, pour terminer sur la partie PHP, [PHPDoc](http://www.phpdoc.org/) est surpuissante en plus d'être simple à utiliser. Comble du bonheur, sa syntaxe est réutilisable dans d'autres langages.
 
@@ -119,7 +119,7 @@ PHPDoc est le principe du **code autodocumenté** :
 
 L'idéal est de **documenter en même temps qu'on produit le code**. Par principe on revient rarement sur son propre code juste pour le loisir de le décrire, par manque de temps ou par flemme.
 
-### Mes conventions de nommage en JavaScript
+## Mes conventions de nommage en JavaScript
 
 [![Exemple de code JavaScript dans Eclipse](https://oncletom.io/images/2008/07/eclipse-javascript-code-sample-300x288.png "Exemple de code JavaScript dans Eclipse")](https://oncletom.io/images/2008/07/eclipse-javascript-code-sample.png)
 
@@ -139,7 +139,7 @@ var OncleTom = {
 };
 ```
 
-### Mes conventions de nommage en CSS
+## Mes conventions de nommage en CSS
 
 ![](https://oncletom.io/images/2008/02/css-folding.png "Folding en CSS")
 
@@ -147,7 +147,7 @@ Inutile de paraphraser ce que j'ai déjà écris dans mon article sur les [bonne
 
 Deux lectures en une oui ;-)
 
-### Conclusion
+## Conclusion
 
 Bon au final on voit que ce n'est pas si compliqué que ça d'apporter un brin de rigueur.
 On pourra même s'amuser à compléter le tout par la disposition des méthodes et fonctions d ans un fichier par ordre alphabétique (j'en connais un que ça fera sourire ;-)).

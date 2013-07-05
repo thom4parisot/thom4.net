@@ -21,7 +21,7 @@ S'il est très facile d'utiliser les sélecteurs CSS de jQuery, je constate de c
 Alors on se retrousse les manches et c'est parti pour un petit **cas pratique sur les sélecteurs CSS** jQuery, plus une petite récap' pour grapiller du temps et des lignes de code ;-)
 <!--more-->
 
-### Le cas pratique
+## Le cas pratique
 
 J'ai pensé à une chose : plutôt que vous papillonniez en lisant cet article, j'ai fait en sorte que vous puissiez y prendre part. JQuery est très divertissant - certainement plus que votre voisine d'en face - alors tant qu'à me lire, autant optimiser la compréhension ;-)
 Pour cela il vous faut 2 choses :
@@ -29,7 +29,7 @@ Pour cela il vous faut 2 choses :
 1.  un [bac à sable HTML / jQuery](https://oncletom.io/images/2007/12/sandbox-oncletom-20071217.htm "Sandbox HTML / jQuery") concocté par mes soins
 2.  l'inévitable [extension Firebug](https://addons.mozilla.org/fr/firefox/addon/1843) pour bénéficier d'une console digne de ce nom (entre autre)
 
-### Principe de la sélection CSS de jQuery
+## Principe de la sélection CSS de jQuery
 
 Que celui qui s'est lancé corps et âme dans jQuery sans lire la [documentation](http://docs.jquery.com/Selectors "documentation jQuery") lâche un com' ! Elle est suffisamment complète pour éviter la plupart des questions du genre <q>comment je fais pour ...</q>.
 
@@ -54,7 +54,7 @@ $('.pays > li').length;
 
 Magique non ?
 
-### Comprendre la sélection CSS de jQuery
+## Comprendre la sélection CSS de jQuery
 
 Les résultats sont propres mais n'est pas parce que ça marche que c'est bien. La preuve, tous les exemples ci-dessus ne sont pas du tout optimisés.
 Alors **comment savoir si un sélecteur est optimisé** ou pas ? La réponse n'est pas systématique car elle dépend exclusivement de votre rigueur et du <acronym title="Document Object Model">DOM</acronym> à interroger. Plus il sera touffu et plus votre sens aigü de la performance sera sollicité.
@@ -141,7 +141,7 @@ for (i in el)
 Un sélecteur par classe ne devrait être qu'un cas extrême, quand on ne peut se fier à une balise donnée. Car de manière générale, le `getElementsByTagName('*')` est à bannir. Charger tout le DOM est une folie furieuse.
 La bonne idée ici est l'utilisation du symbole `>`. Cela se traduit par `.childNodes` et nous verrons plus bas pourquoi c'est mieux.
 
-### Et maintenant, optimisons
+## Et maintenant, optimisons
 
 S'il fallait **résumer l'optimisation en 3 points**, voici ce que je donnerai :
 
@@ -189,7 +189,7 @@ $('.pays > li').length;
 $('#geoliste > li > ul > li').length;
 ```
 
-### Évitons les doublons : chaînons !
+## Évitons les doublons : chaînons !
 
 Les CSS c'est un peu fatiguant alors terminons sur une autre utilisation de jQuery parfois sous-employée à cause d'un manque de compréhension : les chaînes. jQuery renvoie des objets et permet de réutiliser/filtrer les résultats avec un seul sélecteur.
 
@@ -220,7 +220,7 @@ $('#intro')
 Tout se suit jusqu'à la fonction `children()` qui modifie le sélecteur de départ et applique la suite de la chaîne à cette nouvelle sélection.
 Une autre optimisation consiste à déplacer la déclaration CSS `cursor` dans la classe `.jevaisdisparaitre` de l'hypothétique feuille de style. **Essayez de dissocier au mieux fond et forme** : ça évite _BEAUCOUP_ de modifications de code pour des ajustements esthétiques.
 
-### Conclusion
+## Conclusion
 
 **Optimiser ses sélecteurs n'est finalement pas si difficile que ça quand on comprend comment fonctionnent les rouages internes**. Il est évident que les gains peuvent être minimes sur de petites pages. Il s'agit cependant d'une gymnastique à maîtriser : ce n'est pas en arrivant sur de gros volumes qu'il faudra apprendre à sélectionner proprement.
 

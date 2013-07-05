@@ -1,14 +1,14 @@
 title: "Prochainement : réussir son blog professionnel"
 id: 1385
 date: 2009-07-20 07:00:02
-tags: 
+tags:
 - blog
 - blog pro
 - communication
 - eyrolles
 - influence
 - livre
-categories: 
+categories:
 - Projets
 ---
 
@@ -18,7 +18,7 @@ categories:
 
 <!--more-->
 
-### Motivations et objectifs
+## Motivations et objectifs
 
 Cette envie d'apporter ma pierre sur la compréhension de l'outil blog est en partie née avec l'animation des [BlogCamp Bordeaux](http://bordeaux.blogcamp.fr/). Cette année et demi de contribution, d'animation et de rencontres avec un large horizon de personnes m'ont laissé à penser qu'il y avait encore du chemin à parcourir pour démocratiser cet outil. Mais on parle là de démocratisation et de bonne utilisation dans un contexte professionnel. J'ai vu des utilisateurs aguéris et des personnes qui n'attendaient qu'une chose : qu'on leut confirme que ce n'était pas ringard du tout d'utiliser des blogs.
 
@@ -27,7 +27,7 @@ Cette envie d'apporter ma pierre sur la compréhension de l'outil blog est en pa
 Tout ça est parti d'une proposition de Mémento auprès d'[Eyrolles](http://www.eyrolles.com/) : quelques mois plus tard, c'est finalement un livre dépassant les 200 pages de contenu qui atterrira sur les étals de vos crémeries préférées. Plusieurs mois de travail m'ont été nécessaires pour traiter le sujet, de manière perfectible je préfère l'annoncer. J'ai entre temps bouquiné pas mal de références sur le sujet et je peux dores et déjà annoncer que leurs contenus seront complémentaires. Je n'ai pas l'expérience de 10 ans de déploiement de blogs en entreprise mais je pense avoir concentré les arguments et les informations nécessaires pour avoir une vision transverse du sujet : communiquer, rédiger et affirmer sa présence en ligne.
 Des conseils qui s'adapteront aux futurs outils du Web, le jour où les blogs seront mis à la poubelle pour quelque chose de mieux ... si tant et si bien que ça se produise ;-)
 
-### Table des matières
+## Table des matières
 
 J'en profite pour partager avec vous la table des matières de l'ouvrage. Je suis ouvert à vos critiques mais il ne faut pas rêver : à quelques jours du bouclage il ne faudra pas espérer de changement majeur. Si c'est le cas ça sera à voir pour la deuxième édition ... et les suivantes je l'espère ;-)
 
@@ -176,7 +176,7 @@ J'en profite pour partager avec vous la table des matières de l'ouvrage. Je sui
         7.  Autres solutions de publication
 Cette table des matières est encore sujette à évolution, notamment dans le choix des titres. À ce stade là, il me paraît difficile de changer profondément la structure ;-)
 
-### Et la suite ?
+## Et la suite ?
 
 Pendant cette fin de mois de juillet, je procède aux corrections sur les judicieux conseils de ma batterie de relecteurs. [Philippe Martin](http://www.nayezpaspeur.ca/blog/) participe également au projet en proposant une préface et sa vision franco-canadienne de l'utilité des blogs. Au mois d'août, l'imprimeur fait son office pour que le 3 septembre vous puissiez apprécier le travail mené et commencer à m'insulter parce que de toutes façons, les blogs c'est nul, ça craint et que le classement Wikio ça sert à rien :-)
 

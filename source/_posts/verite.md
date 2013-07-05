@@ -23,7 +23,7 @@ Il se sera passé beaucoup de choses en 2012\. Beaucoup de joie. Beaucoup d’é
 
 <!--more-->
 
-### La désillusion Dijiwan
+## La désillusion Dijiwan
 
 L’épicentre de la souffrance se révèle lorsque le [premier chèque de salaire émis par la société Dijiwan se retrouve impayé](http://www.sudouest.fr/2012/10/23/un-gros-couac-dans-la-success-story-857820-713.php). On est alors au mois de juillet 2012.
 
@@ -45,7 +45,7 @@ Dans cette histoire, le _code informatique_ n’est rien. Bien indenté, mal ind
 
 [![](https://oncletom.io/images/2013/01/8206099378_43f3c7e1cb_z-600x404.jpg "Mountain View")](http://www.flickr.com/photos/the-jedi/8206099378/)
 
-### Retour à la réalité : qui suis-je ?
+## Retour à la réalité : qui suis-je ?
 
 Épicentre car les secousses font mal là où on ne s’y attend pas.
 
@@ -63,7 +63,7 @@ Quand on se tient en apnée, _en attendant_, parce qu’on n’a plus d’argent
 
 Ces pensées sont l'occasion de saluer [Scopyleft, coopérative éthique et intelligente](http://scopyleft.fr/). Je ne peux que soutenir leur démarche.
 
-### Accepter de jouer avec les règles du jeu
+## Accepter de jouer avec les règles du jeu
 
 Quand le monde entier est devenu un problème qu’on n’arrive plus à gérer, **c’est le moment de prendre le problème à l’envers**. _Think out of the box_ nous soufflerait notre fée dans un jeu vidéo, histoire d’éviter qu’on tourne en rond indéfiniment en pestant contre sa manette — des fois qu'elle ait une âme décidée à nous empêcher.
 
@@ -79,7 +79,7 @@ Pour afficher cette cohérence, l’identité du blog a été refondue pour s’
 
 ![](https://oncletom.io/images/2013/01/oncletom_-on-Instagram-600x291.png "Same Place, Every Day")
 
-### Poursuivre dans mes choix de vie
+## Poursuivre dans mes choix de vie
 
 Cohérence toujours, 2012 aura été celle des réussites dans l’accomplissement de mes choix de vie :
 
@@ -88,7 +88,7 @@ Cohérence toujours, 2012 aura été celle des réussites dans l’accomplisseme
 *   mon alimentation repose quasi-exclusivement sur un **circuit court**, du producteur au consommateur — raisonné et issu de l’agriculture biologique de surcroît.
 J’ai envie d’étendre le « local » au non-alimentaire, d’utiliser une énergie à faible <del>coût</del> empreinte écologique (bois et électricité 0% nucléaire entre autre) et de continuer à offrir des sourires dans la rue, parce que ça me fait plaisir.
 
-### Pratique photographique accrue
+## Pratique photographique accrue
 
 Une année de plus à pratiquer la photographie, à apprendre et à l’utiliser comme moyen d’expression.
 
@@ -106,7 +106,7 @@ Je ressens aussi le besoin de rompre l’isolement. [J’ai rejoins un collectif
 
 [![](https://oncletom.io/images/2013/01/8099301942_74feed9455_z-424x600.jpg "Dyrhólaey to Somewhere — Lin &amp; Unknown")](http://www.flickr.com/photos/the-jedi/8099301942/)
 
-### Conclusion
+## Conclusion
 
 En 2008, une carte de vœux me signifiait ceci :
 > Cher Thomas,

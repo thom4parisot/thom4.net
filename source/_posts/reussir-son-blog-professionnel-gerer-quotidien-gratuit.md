@@ -27,7 +27,7 @@ Je saisis donc l'occasion pour offrir la partie traitant des blogs et des obliga
 
 <!--more-->
 
-### Contenu du chapitre offert : gérer son blog au quotidien
+## Contenu du chapitre offert : gérer son blog au quotidien
 
 Ce chapitre de 56 pages contient une synthèse de ce qu'il faut savoir pour gérer un blog au quotidien, à savoir :
 
@@ -56,14 +56,14 @@ J'ai grassé les parties relatives à ce qui a été contrarié par l'[utilisati
 
 D'ailleurs en restant dans le domaine de la photo, la photo de couverture de ce chapitre est intitulée [Gardener](http://www.flickr.com/photos/72861652@N00/1347885647/). Elle est publiée sous licence [Creative Commons BY-ND](http://creativecommons.org/licenses/by-nd/2.0/deed.fr), autorisant une utilisation commerciale. Je n'ai pas manqué de la citer dans l'ouvrage et d'en remercier l'auteur. Je m'appelle pas Paris Match ;-)
 
-### Conditions de partage de cet extrait gratuit
+## Conditions de partage de cet extrait gratuit
 
 Le fait de partager ce chapitre ne vous laisse pas tous les droits bien entendu. Mais ça vous le savez maintenant ;-)
 Tout comme mes photos, ce PDF est proposé sous licence [Creative Commons BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.fr). Libre à vous de le redistribuer tant qu'il y a citation de l'auteur, de la source, sans modification et en dehors d'un contexte commercial.
 
 Vous ne souhaitez en citer qu'une partie ? On retombe sur le droit d'auteur donc une mise en forme citation, le livre, la page, l'auteur et l'édition suffisent :-)
 
-### Bonus : extraire certaines pages d'un PDF
+## Bonus : extraire certaines pages d'un PDF
 
 Pour les besoins de ce partage, j'ai eu à extraire certaines pages du PDF du livre − celui correspondant à la version papier de «Réussir son blog professionel». 3 programmes sont certes nécessaires mais ça s'effectue en 2 coups de cuillère à pot :
 

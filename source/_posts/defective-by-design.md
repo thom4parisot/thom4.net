@@ -1,8 +1,8 @@
 title: "Defective by design"
 id: 158
 date: 2006-06-11 18:20:57
-tags: 
-categories: 
+tags:
+categories:
 - Personnel
 ---
 
@@ -18,11 +18,11 @@ L'épisode <acronym title="Droit d'Auteur et aux Droits Voisins dans la Sociét�
 
 Pour mieux comprendre en quoi cet acte est grave, replaçons-nous dans le contexte.
 
-### Free Software Foundation
+## Free Software Foundation
 
 Ou en français, la _fondation du logiciel libre_ (à ne pas confondre avec _logiciel gratuit_, j'y reviendrai). Cette fondation internationale milite pour la liberté d'utilisation des logiciels (et par extension, de l'informatique). Son éminent président, Richard Stallman, a pour credo une libre utilisation de l'outil informatique tant au niveau matériel que logiciel. Vous qui utilisez votre PC, Mac ou PDA, vous aimez pouvoir en faire ce que vous voulez ? Lire des vidéos, écouter de la musique, jouer, travailler, naviguer sur Internet et bien plus encore. Vous avez surement dû enrager quand vous avez voulu désinstaller un ou plusieurs logiciels (qui a dit [Norton](http://www.symantec.com/fr/fr/home_homeoffice/products/overview.jsp?pcid=is&pvid=nav2006) ?) mais celui produisait, pour une raison X ou Y, un message mentionnant qu'il n'arrivait pas à se supprimer. Et bien ça, ça n'est pas une liberté.
 
-### Le rapport avec DADvSI
+## Le rapport avec DADvSI
 
 Alors me direz-vous, quel est le rapport avec Stallman (américain au demeurant) et notre très française (mais pas tant que ça) loi DADvSI (qui n'est toujours pas officiellement adoptée qu'on se le dise) ? Et bien cet homme a contacté l'hôtel Matignon et son hôte du moment (Dominique de Villepin) pour l'informer qu'il serait de passage à Paris pour discuter de la loi DADvSI et des risques encourus, pétition de plus de 160 000 signataires sous le bras. Notre pays pronant la liberté et tentant de banaliser l'utilisation de verrous numériques (<acronym title="Digital Right Management">DRM</acronym> ou _Digital Restriction Management_) a pourtant préféré faire la sourde oreille. Comme quoi, qu'on manifeste avec plus ou moins d'intelligence contre le <acronym title="Contrat Première Embauche">CPE</acronym> ou qu'un défenseur des libertés frappe à sa porte, elle ne s'ouvrira pas. Bizaremment, quand c'est _Bill Gates_ de Microsoft qui sonne au portillon, on ouvre.
 
@@ -30,7 +30,7 @@ Je ne peux que déplorer ce manque d'ouverture d'esprit face à des technologies
 
 Alors, vous vous sentez toujours libre ?
 
-### [Defective by Design](http://www.defectivebydesign.org/)
+## [Defective by Design](http://www.defectivebydesign.org/)
 
 Pourtant vous ne devriez pas car la tendance est justement à l'encloisement et au verrouillage tous azimuts. La campagne _defective by design_ lancée par la [FSF](http://www.fsf.org/) et pouvant être traduit par _volontairement défectueux_ (dès la conception) en est le timide reflet.
 
@@ -46,7 +46,7 @@ Vous ne pourrez pas car tout a soigneusement été étudié pour que vous ayiez 
 
 Alors, vous vous sentez toujours libre et maître de vos achats ?
 
-### Pour en savoir plus, rappels
+## Pour en savoir plus, rappels
 
 *   [DADVSI & les DRM: Droits Ridicules et Misérables](https://oncletom.io/2006/03/16/dadvsi-drm-droits-ridicules-et-miserables/)
 *   [LesTelechargements.com et la loi DADVSI](https://oncletom.io/2006/03/05/lestelechargementscom-et-la-loi-dadvsi/)

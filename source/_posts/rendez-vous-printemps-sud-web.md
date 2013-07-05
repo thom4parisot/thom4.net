@@ -1,7 +1,7 @@
 title: "Rendez-vous du printemps, dans le Sud et le Web"
 id: 18421
 date: 2011-04-19 10:00:13
-tags: 
+tags:
 - aperoweb
 - aquinum
 - évènement
@@ -12,7 +12,7 @@ tags:
 - sudweb
 - tedx
 - web
-categories: 
+categories:
 - Évènements
 - Développement Web
 - Entrepreneuriat
@@ -24,7 +24,9 @@ Alsacréations a publié hier son [calendrier des conférences 2011](http://www.
 
 ![](http://media.oncle-tom.net/images/2011/01/logo-sudweb.png "Sud Web")
 
-### <!--more-->BarCamp Bordeaux
+<!--more-->
+
+## BarCamp Bordeaux
 
 **Lieu** : hôtel de ville de Bordeaux, du 23 au 24 avril.
 
@@ -34,7 +36,7 @@ Je pensais animer un atelier sur le _freelancing_ mais ne restant qu'une journé
 
 [Inscriptions BarCamp Bordeaux](http://www.barcamp-bordeaux.com/inscription.html).
 
-### Startup Weekend Bordeaux
+## Startup Weekend Bordeaux
 
 **Lieu** : BEM, Talence, du 20 au 22 mai.
 
@@ -44,7 +46,7 @@ J'espère que les travaux d'Open Data de la Cub et/ou la Région avanceront d'ic
 
 [Inscriptions Startup Weekend Bordeaux](http://bordeaux.startupweekend.org/inscriptions).
 
-### Sud Web 2011
+## Sud Web 2011
 
 **Lieu** : EMA, Nîmes, le 27 mai.
 
@@ -59,7 +61,7 @@ Pensez-y **avant le 2 mai**, date de fermeture des ventes des tickets :-)
 
 [![](http://farm6.static.flickr.com/5309/5611576044_fa51c24c93.jpg "Startup Weekend")](http://www.flickr.com/photos/startupweekend/5611576044/in/photostream/)
 
-### Mais aussi
+## Mais aussi
 
 J'aurais pu vous parler de [Djangocong](http://rencontres.django-fr.org/2011/) ... sauf que c'était le week-end dernier. À Bordeaux, il y a désormais le [PHP User Group](http://bordeauxpug.org/) à suivre de près. Le 28 mai se tiendra le premier [TEDx Bordeaux](http://www.tedxbordeaux.com/) : des prises de parole courtes, avec des idées qui changent la vie/vision. D'ici là, le 5 mai, se tiendra le cinquième [TwitterCamp](http://twittercamp.fr/) à Cap Sciences.
 

@@ -1,7 +1,7 @@
 title: "High Performance Web Sites"
 id: 943
 date: 2008-07-15 07:00:15
-tags: 
+tags:
 - apache
 - bonnes pratiques
 - critique
@@ -16,7 +16,7 @@ tags:
 - oreilly
 - yahoo
 - yslow
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -31,7 +31,7 @@ C'est d'autant plus intéressant que l'**approche se base sur les mécanismes** 
 Ce livre fait étrangement penser aux [conseils de haute performance](http://developer.yahoo.com/performance/) prodigués par le [Yahoo! Developer Network](http://developer.yahoo.com) et repris par l'extension [Firefox pour Firebug](http://getfirebug.com), j'ai nommé [YSlow](http://developer.yahoo.com/yslow/).
 C'est normal : ce livre est écrit par un ingénieur de Yahoo!, probablement un de ceux qui ont participé à la rédaction du guide de performances.
 
-### Pourquoi acheter High Performance Web Sites ?
+## Pourquoi acheter High Performance Web Sites ?
 
 On serait tenté de ne pas acheter le livre puisqu'une bonne partie de ses conseils sont repris sur le guide de haute performance cité plus haut.
 
@@ -47,7 +47,7 @@ J'achèterais ce livre si j'étais :
 
 [![YSLow sur Emu Nova : les composants](https://oncletom.io/images/2008/07/yslow-emunova-components-300x81.png "YSLow sur Emu Nova : les composants")](https://oncletom.io/images/2008/07/yslow-emunova-components.png)
 
-### Les 14 points d'optimisation
+## Les 14 points d'optimisation
 
 High Performance Web Sites axe son discours sur 14 points :
 
@@ -69,7 +69,7 @@ Il prend cependant le soin de bien expliquer les **mécanismes d'HTTP** et les i
 
 Le livre termine sur un comparatif des 14 points sur 10 sites, notation YSLow comprise, dont Amazon, Google, CNN, eBay, Wikipédia et Yahoo!.
 
-### La mise en pratique
+## La mise en pratique
 
 J'étais déjà sensibilité à presque tous les points pour avoir lu ces fameuses 14 règles en utilisant l'[extension YSlow et Firebug](https://oncletom.io/2007/12/25/bonnes-pratiques-firebug-developpement-web/). Cependant après la lecture du livre j'ai eu davantage de clés et des exemples probants pour me convaincre de les mettre en œuvre.
 
@@ -83,7 +83,7 @@ C'est bête à dire mais **le résultat s'est vraiment senti avec des chargement
 
 ![YSLow sur Emu Nova : les statistiques](https://oncletom.io/images/2008/07/yslow-emunova-stats.png "YSLow sur Emu Nova : les statistiques")
 
-### Conclusion
+## Conclusion
 
 J'ai dévoré **High Performance Web Sites** grâce à sa simplicité de rédaction, les nombreux exemples et surtout, les explications enrichissantes. Elles sont mises en application sur Yahoo! et certes, même si on peut se dire qu'on n'a pas de site de leur envergure, leurs conseils sont toujours bons à prendre.
 

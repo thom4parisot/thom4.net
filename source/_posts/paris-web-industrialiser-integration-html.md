@@ -1,7 +1,7 @@
 title: "Paris-Web 2010 : industrialiser l'artisanat de l'intégration HTML"
 id: 17526
 date: 2010-09-20 11:00:04
-tags: 
+tags:
 - atelier
 - blueprint
 - bonnes pratiques
@@ -13,7 +13,7 @@ tags:
 - optimisation
 - parisweb
 - performances
-categories: 
+categories:
 - Évènements
 - Développement Web
 - Standards du Web
@@ -27,7 +27,7 @@ Je reviens aux sources et à mon grand dada avec l'**intégration HTML** au sens
 
 <!--more-->
 
-### Origine de l'atelier
+## Origine de l'atelier
 
 Juste après l'édition 2009 de Paris-Web, je me demandais sur quoi je pourrais parler en conférence ou en atelier. Cette manifestation a le mérite d'attirer des orateurs de qualité ... et ce n'est pas évident de monter sur scène en se disant : que pourrais-je apporter au public, qui ne soit pas de la redite et suscite autant d'intérêt qu'une [Stéphanie Troeth](http://stephanietroeth.com/), [Karl Dubost](http://www.la-grange.net/) ou [Christian Heilmann](http://icant.co.uk/).
 
@@ -35,7 +35,7 @@ Et là j'ai lu [la lettre au papa Paris-Web d'Elie Sloïm](http://blog.temesis.c
 
 Comme il s'agit également d'une pratique ayant du mal à accepter les changements - je me souviens encore des réticences liées aux _frameworks_, alors que dans tout langage de programmation ces outils sont perçus comme du pain béni - je me suis dis qu'il y avait quelque chose à faire.
 
-### Les axes initiaux de l'atelier
+## Les axes initiaux de l'atelier
 
 En préparant l'appel à propositions de Paris-Web, j'avais convenu que cet atelier devrait tenter de répondre aux objectifs suivants :
 
@@ -53,7 +53,7 @@ J'ai également repris l'historique des précédents Paris-Web pour voir que de 
 
 Pour autant, les objectifs tout comme les questions ne sont pas figées dans le marbre. Cet article est également là pour **capter vos avis et vos remarques**, pour ajuster cela avant le jour de l'atelier.
 
-### Discuter, échanger, et créer
+## Discuter, échanger, et créer
 
 Enfin, mon évolution personnelle au long de cette année 2010 et certaines paroles de [David Larlet](http://larlet.fr/) résonnaient dans ma tête.
 Un sujet de cette importance ne peut pas être magistral. Pourquoi ? Parce que tous les intégrateurs rencontrent une **variété de conditions de travail différentes**, et qu'il serait d'autant plus difficile d'obtenir un consensus en prodiguant cet atelier de manière magistrale.
@@ -66,7 +66,7 @@ Cette collecte en _live_ des post-it, affichés au tableau, permettrait de dress
 
 A défaut de parler d'une industrialisation vidant l'intégration HTML de son côté artisanal, on aurait une excellente occasion pour tous se poser ensemble les bonnes questions, et **repartir avec des réponses et des idées pleins la tête**.
 
-### Conclusion
+## Conclusion
 
 Bref, si le sujet de l'intégration HTML vous préoccupe, est au centre de vos intérêts et que vous souhaitez en améliorer sa pratique professionnelle (pour une meilleure reconnaissance de celle-ci ?), je vous invite à la fois à venir à l'atelier technique du samedi ([il reste quelques places ; ça ne coûte que 22€](http://inscriptions.paris-web.fr/)) et à réagir en commentaires. Je ferai mon possible pour adapter l'animation de l'atelier à vos problématiques et questionnements.
 

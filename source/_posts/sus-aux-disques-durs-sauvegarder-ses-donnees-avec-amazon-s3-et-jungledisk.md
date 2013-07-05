@@ -1,7 +1,7 @@
 title: "Sus aux disques durs : sauvegarder ses données avec Amazon S3 et JungleDisk"
 id: 870
 date: 2008-05-27 07:00:34
-tags: 
+tags:
 - amazon s3
 - backup
 - cloud computing
@@ -10,7 +10,7 @@ tags:
 - sauvegarde
 - ubuntu
 - webservices
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -24,7 +24,7 @@ Seulement voilà, **sauvegarder 10Go de données pour 2$ par mois**, ça vaut le
 
 <!--more-->
 
-### Pourquoi sauvegarder en ligne plutôt que sur un disque dur externe ?
+## Pourquoi sauvegarder en ligne plutôt que sur un disque dur externe ?
 
 Je me suis posé cette question lorsque je me suis lassé de sauvegarder mes données sur 1, puis sur 2, puis enfin sur 3 DVD réinscriptibles : **disque dur ou solution en ligne** ?
 
@@ -35,7 +35,7 @@ Les disques durs réseaux ? Super mais rares et là encore, peu sécurisés. Il 
 
 Bref j'allais me résigner à l'achat jusqu'à ce <span style="text-decoration: line-through;">que le [Gastero Prod](http://www.gasteroprod.com/blog/)</span> qu'un [Électron Libre](http://www.unelectronlibre.info/) lâche le mot sur une liste de diffusion interne à [Clever Age](http://www.clever-age.com/) : <q>j'utilise Amazon S3 pour mes backups</q>.
 
-### Amazon S3
+## Amazon S3
 
 La première chose qui m'a frappé sur Amazon S3 ce sont les prix :
 
@@ -54,7 +54,7 @@ J'ai fait mon calcul pour 20Go à sauvegarder et j'ai vite compris que j'y gagna
 Sans remord grâce à l'eurodollar, le choix était fait.
 À noter qu'**Amazon propose de stocker ses données aux États-Unis ou en Europe**. J'ai choisis les États-Unis par radinerie et parce que je n'avais pas de contrainte légale à ce que mes données siègent sur le Vieux Continent. C'est une question que peuvent en revanche se poser plusieurs entreprises fortement encadrées à ce niveau.
 
-### JungleDisk
+## JungleDisk
 
 Comme Amazon S3 n'est qu'un conteneur, il me fallait également trouver une solution adaptée à la sauvegarde. Qui a encore envie de lancer manuellement ses sauvegardes ? Pas moi en tous cas.
 
@@ -82,7 +82,7 @@ Je sauvegarde 3 choses en ligne : mes sites Web, mes documents personnels et sur
 
 J'ai paramétré une sauvegarde quotidienne et depuis cette version 2 et son option de reprise de sauvegarde, tous les jours où je connecte mon ordinateur au Web mes données sont sauvegardées.
 
-### Conclusion
+## Conclusion
 
 À l'heure actuelle **je doute du bien fondé de sauvegarder sur Amazon S3 ses DivX** ou des volumes de données mettant à mal votre bande-passante. Pour une entreprise, ça peut être en revanche une **solution de sécurité à moindre coût** surtout en cas d'architecture décentralisée.
 Avec l'arrivée de la fibre optique pourquoi pas.

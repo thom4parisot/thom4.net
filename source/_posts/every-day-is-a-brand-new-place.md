@@ -1,19 +1,19 @@
 title: "Every Day Is A Brand New Place"
 id: 18947
 date: 2013-06-07 14:08:04
-tags: 
+tags:
 - bbc
 - déménagement
 - londres
 - transition
-categories: 
+categories:
 - Personnel
 - Travail 2.0
 ---
 
 C’est peu ou prou le discours tenu par un vagabond à Donald Draper dans la première saison de [Mad Men](http://www.amctv.com/shows/mad-men). C’est son _mantra_. **Cette rencontre changea à jamais** la vie de ce petit garçon même s’il ne s’en souvint que bien plus tard, lorsqu’il voulut à nouveau fuir une vie qui lui réussit mais dans laquelle _il ne se sentirait plus jamais à sa place_. <!--more-->
 
-### Deux semaines pour tout quitter
+## Deux semaines pour tout quitter
 
 **14 février 2013**, entretien d’embauche dans les bureaux de la BBC à Londres. Confirmation dans l’après-midi. Cette **Valentine** pour laquelle je consentais volontiers à tout quitter. Et en peu de temps : déménagement le 1er mars, démarrage à W12 le 4 mars.
 
@@ -27,25 +27,25 @@ En tête, cette **admiration envers les gens qui quittent tout**, partent à l�
 
 [![Guardian of Nowhere. Of Everywhere.](https://oncletom.io/images/2013/06/8721964504_6ec83240fb_c-600x399.jpg)](http://www.flickr.com/photos/the-jedi/8721964504/)
 
-### Réinventer les habitudes
+## Réinventer les habitudes
 
 Si jusqu’à présent j’avais vécu en accumulant progressivement l’expérience de vivre, ce bond au-dessus de la Manche sans billet retour est l’occasion de remettre les pendules à l’heure. Il y a plusieurs territoires à (re)conquérir.
 
-#### Le cocon régénérateur
+### Le cocon régénérateur
 
 Troquer son confort, son grand espace à proximité de tout contre un petit espace au sein d'un autre petit espace collectif. Poser des cadres photo, des livres et mes sachets préférés de thé.
 
-#### Le milieu professionnel
+### Le milieu professionnel
 
 Être/devenir celui avec qui l’on va s’adresser car on sait ce que tu fais et ce que tu apportes. Demander d’où viennent les gens. Placer ses photos en fond d’écran. Le dialogue crée des ponts et des affinités. Plus qu’ailleurs, ils savent résumer l’être et le savoir-faire en deux phrases et sans superflu. Passer de l'individu, à l'équipe soudée de startup à la personne parmi la dizaine de milliers d'une grosse machine. La meute vous entend crier. Pas la machine.
 
-#### La vi(ll)e
+### La vi(ll)e
 
 Explorer les rues, descendre dans des sous-sols improbables, suivre les affiches dans le métro, lire toutes les rubriques du journal tendu à la criée et emporté à l'arrachée (y compris les pages sport ; y compris _guilty pleasures_), parler à quelqu’un qui a l’air perdu, tendre la main à celle dont la valise pourrait la contenir entièrement (et apprendre qu’il y a dedans toutes ses affaires de ski), _bruncher_, _roaster_, se rendre compte du nombre de personnes que l’on a croisé dans sa vie qui vivent ici. **Il y a nos habitudes, pour se sentir bien en soi**.
 
 Il y aussi les habitudes des autres. **Pour se sentir bien avec eux**. Leurs années vécues sur le territoire. Ces familiarités, ces connaissances et ces cultures implicitement partagées entre ces individus. Il y a des habitudes qui dépendent du quotidien. Le vendredi soir qui est la décompression d'une semaine qui semble peser. Cette journée qui semble intéresser les camarades de chambrée (mais comprennent-ils que ce n'est pas un fardeau ?). Et ce week-end qui vous définit socialement — mais pas les autres soirées la semaine, curieusement.
 
-### Se réadapter au temps
+## Se réadapter au temps
 
 C’est étonnant à quel point le corps et l’esprit sont désorientés au début. Le besoin d’explorer et de se reposer se sont intensifiés. Cette sensation de vivre la réalité mais de ne rien connaître autour de soi. Londres était un point sur une carte. C’est devenu une assiette géante de spaghettis où les vies et les rues s’entrecroisent à l’infini.
 
@@ -55,13 +55,13 @@ Et puis il y a ces gens talentueux que l'on croise à tout bout de champ. Ils au
 
 [![Mile End Canal](https://oncletom.io/images/2013/06/ed3ad2aeca2011e2b97522000a1f97e9_7-600x600.jpg)](http://instagram.com/p/Z_IOYVhfoR/)
 
-### Ce qu’on laisse derrière nous continue d’exister
+## Ce qu’on laisse derrière nous continue d’exister
 
 On réalise à quel point on aime lorsque l'on s'en sépare. Les attaches émotionnelles sont évidemment les plus difficilement remplaçables. On ne réinvente pas les histoires. On ne retrouve pas les mêmes personnes, ailleurs. Elles n'auront jamais cette expérience qui fait la différence et qui a créé cet ancrage dans un instant à jamais conjugué au passé. La rencontre et le puissant battement d'aile de papillon sur lequel se bâtit une histoire entre deux personnes.
 
 À la place, ce sont d'autres liens, basés sur cette expérience qui fait désormais la différence. Un peu trop tenté de regarder dans le passé, j'ai supprimé mon compte Facebook. Pour mieux le réouvrir 2 semaines après, silencieusement. Ça (Facebook) ne manque pas. C'est plutôt le contact avec les proches, leur fiabilité, les rayons de soleil qu'ils procurent et génèrent.
 
-### Et maintenant ?
+## Et maintenant ?
 
 Deux semaines pour régler le volet administratif, et la logistique de mettre ses affaires quelque part, c'est très court. Il aura fallu bien une semaine supplémentaire, des bras de déménageurs et des âmes charitables pour m'aider à nettoyer la poussière entassée sous le paillasson (et encore, quelques artefacts trainent toujours).
 
@@ -69,8 +69,9 @@ Avoir 30 ans en Albion, ça a tout d'un symbole. Le "zéro" de la réinvention, 
 
 Ça peut paraître sympa vu de loin ; c'est pas tous les jours roses. Juste parce que des fois il n'y a pas (encore ?) ces gens qui passaient à l'improviste prendre le café ou avec qui on débouchait une bouteille pour le plaisir de la discussion. Mais ça aussi, ça se recrée. **Différemment**.
 
-### Apparté pour compléter
+## Apparté pour compléter
 
-> Le moment du déménagement cristallise plusieurs questions, à plus forte raison quand il est déclenché par des opérations de démolition. Comment les lieux sont investis par les gens qui les habitent ? Que reste-t-il de leur passage au moment où la démolition vient faire table rase ? Comment cela vient-il révéler la nature de leur attachement à ces lieux ?> 
-> 
+> Le moment du déménagement cristallise plusieurs questions, à plus forte raison quand il est déclenché par des opérations de démolition. Comment les lieux sont investis par les gens qui les habitent ? Que reste-t-il de leur passage au moment où la démolition vient faire table rase ? Comment cela vient-il révéler la nature de leur attachement à ces lieux ?
+>
+>
 > [Déménagements](http://www.annelaureboyer.com/fr/travaux/amenagements.html) — [Anne-Laure Boyer](http://www.annelaureboyer.com/)

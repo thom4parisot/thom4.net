@@ -1,7 +1,7 @@
 title: "5 septembre : dédicace chez Eyrolles à Paris"
 id: 1454
 date: 2009-08-20 13:54:37
-tags: 
+tags:
 - blog
 - dédicace
 - eyrolles
@@ -9,7 +9,7 @@ tags:
 - livre
 - paris
 - rendez-vous
-categories: 
+categories:
 - Évènements
 - Projets
 ---
@@ -23,7 +23,7 @@ Il y aura de toutes façons une **réduction offerte **par la librairie à cette
 
 Et comme le soir je repars à Bordeaux, on peut même faire un bout de route/rail ensemble ;-)
 
-### ![Réussir son blog professionnel](https://oncletom.io/images/2009/07/reussir-son-blog-professionnel-nq8-218x300.png "Réussir son blog professionnel")Informations complémentaires
+## ![Réussir son blog professionnel](https://oncletom.io/images/2009/07/reussir-son-blog-professionnel-nq8-218x300.png "Réussir son blog professionnel")Informations complémentaires
 
 **Librairie Eyrolles**
 55, 57, 61 et 63 boulevard Saint-Germain

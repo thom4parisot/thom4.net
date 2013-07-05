@@ -12,7 +12,7 @@ categories:
 Il m'arrive fréquemment d'avoir à sélectionner des lignes de données à partir d'un ou plusieurs critères. C'est le cas dès que l'on souhaite récupérer une liste. C'est également très pratique pour mettre à jour ces dites-lignes. Seulement voilà, des fois on pourrait éviter quelques boucles et quelques complications avec l'utilisation de deux fonctions magiques de MySQL : [IN()](http://dev.mysql.com/doc/refman/4.1/en/comparison-operators.html) et [GROUP_CONCAT()](http://dev.mysql.com/doc/refman/4.1/en/group-by-functions.html).
 <!--more-->
 
-### Sélection optimisée avec IN()
+## Sélection optimisée avec IN()
 
 `IN()` devrait être utilisé dès lors que l'on a plusieurs critères sur un même colonne.
 L'écriture suivante ne devrait pas apparaitre dans votre code :
@@ -63,7 +63,7 @@ $tableau = explode(',', $tableau);
 /* du code nécessitant $tableau en tant que tableau */
 ```
 
-### Aggrégats avec GROUP_CONCAT()
+## Aggrégats avec GROUP_CONCAT()
 
 Dans les exemples précédents, `$tableau` était rempli "en dur". Dans la vraie vie, ça ne se passe pas comme ça : on récupère des identifiants (clés et/ou index) pour valider les sélections. L'exemple basique : _on veut mettre à jour une table de configuration avec les ID d'articles présents dans une ou plusieurs catégories_.
 

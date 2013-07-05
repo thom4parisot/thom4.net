@@ -1,7 +1,7 @@
 title: "Everything You Know About CSS Is Wrong!"
 id: 1287
 date: 2009-01-20 07:00:44
-tags: 
+tags:
 - critique
 - css
 - css3
@@ -9,7 +9,7 @@ tags:
 - html
 - livre
 - sitepoint
-categories: 
+categories:
 - Développement Web
 - Standards du Web
 ---
@@ -23,7 +23,7 @@ Ce titre fortement accrocheur à la limite de l'injure annonce la couleur : l'ou
 En route pour cette saine lecture ... ou pas.
 <!--more-->
 
-### Chapitrage
+## Chapitrage
 
 [Everything You Know About CSS Is Wrong!](http://www.sitepoint.com/books/csswrong1/) est découpé en 5 chapitres. Cela représente un volume d'une petite centaine de pages. En voici la structure :
 
@@ -34,7 +34,7 @@ En route pour cette saine lecture ... ou pas.
 5.  The Road Ahead
 Si vous commencez à flairer le mauvais plan, vous n'avez pas tout à fait tort.
 
-### display: table-cell au lieu de float/clear/margin
+## display: table-cell au lieu de float/clear/margin
 
 Tel serait le _credo_ de l'ouvrage. C'est en teneur ce qui y est distillé, ni plus ni moins.
 
@@ -51,7 +51,7 @@ Le chapitre 5, _The Road Ahead_, propose une présentation maintes fois vue et r
 
 [caption id="attachment_1289" align="aligncenter" width="449" caption="Texte 2 colonnes avec display: table-cell"][![Texte 2 colonnes avec display: table-cell](https://oncletom.io/images/2009/01/txt-2cols.png "Texte 2 colonnes avec display: table-cell")](http://css.alsacreations.com/xmedia/exemples/display/txt-2cols.png)[/caption]
 
-### Pourquoi je ne vous recommande pas son achat ?
+## Pourquoi je ne vous recommande pas son achat ?
 
 Parce qu'au final on se trouve face à _gros article_ doublé d'un titre bon pour écouler des exemplaires. Il aurait pu s'appeler "_comment présenter en grille sans tableaux et sans flottants_" par exemple.
 

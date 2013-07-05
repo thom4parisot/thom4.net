@@ -18,13 +18,13 @@ categories:
 Certes il y a des plugins qui produisent ce même effet ([All in One SEO](wordpress.org/extend/plugins/all-in-one-seo-pack/) par exemple) mais c'est un peu comme acheter une crémerie juste pour manger un bon coulant : _démesuré_.
 <!--more-->
 
-### L'idée
+## L'idée
 
 L'idée de départ est de collecter la liste des tags employés sur la page et de l'injecter dans une balise META nommé _keywords_. Wordpress est suffisamment bien fichu pour qu'on n'ait pas à tripatouiller son code.
 
 On va donc décortiquer une **fonction qui sera appelée systématiquement sur toutes les pages contenant potentiellement des tags**, on aggrègera tout ça pour l'afficher dans l'entête de la page.
 
-### Le code
+## Le code
 
 En attendant que j'en fasse un plugin à part entière un peu plus modulable, voici la démarche technique employée.
 

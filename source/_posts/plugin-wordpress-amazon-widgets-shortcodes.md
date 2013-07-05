@@ -1,7 +1,7 @@
 title: "Plugin Wordpress Amazon Widgets Shortcodes"
 id: 1123
 date: 2008-09-23 07:00:44
-tags: 
+tags:
 - amazon
 - blogs
 - i18n
@@ -10,7 +10,7 @@ tags:
 - shortcodes
 - tinymce
 - widgets
-categories: 
+categories:
 - Projets
 - WordPress
 ---
@@ -25,7 +25,7 @@ Présentation et explications sur la conception du plugin.
 
 <!--more-->
 
-### Widgets Amazon
+## Widgets Amazon
 
 Amazon fournit des widgets au travers de son [programme Partenaires](http://partenaires.amazon.fr) (également nommé _Associates_ dans le reste du monde). Ces widgets permettent d'intégrer des fonctionnalités sympathiques sur son propre site ou blog à partir d'un code HTML généré par leur interface.
 
@@ -49,7 +49,7 @@ Enfin, côté maintenance c'est pas gagné : si Amazon change le code HTML des �
 
 [caption id="attachment_1144" align="aligncenter" width="345" caption="Arborescence du code d&#39;Amazon Widgets Shortcodes"]![Arborescence du code d](https://oncletom.io/images/2008/09/awshortcode-workspace.png "Arborescence du code d")[/caption]
 
-### Les objectifs fixés et avoués du plugin Amazon Widgets Shortcodes
+## Les objectifs fixés et avoués du plugin Amazon Widgets Shortcodes
 
 Toujours désireux d'utiliser les widgets Amazon et sentant que ça pouvait être pratique, je me suis dit que c'était l'occasion rêvée de produire un plugin utile, bien conçu et fiable.
 
@@ -61,7 +61,7 @@ En développant ce plugin, je me devais d'atteindre ces objectifs :
 *   fournir une **documentation** d'utilisation appropriée
 *   rendre l'**évolution du code aussi souple que possible**
 
-### Stratégie de développement
+## Stratégie de développement
 
 Maintenant que j'avais les idées, il fallait les mettre en place. Voici comment j'avais envisagé les étapes du développement :
 
@@ -79,7 +79,7 @@ Cette progression permet de créer petit à petit l'application, de la rendre mo
 
 [caption id="attachment_1143" align="aligncenter" width="500" caption="Code JavaScript d&#39;Amazon Widgets Shortcodes"]![Code JavaScript d](https://oncletom.io/images/2008/09/awshortcode-javascript-abstraction.png "Code JavaScript d")[/caption]
 
-### Ce à quoi il faut penser en développant un plugin
+## Ce à quoi il faut penser en développant un plugin
 
 Développer un plugin c'est bien. Il faut cependant toujours avoir en tête qu'il ne sera pas installé que sur son propre blog. Ça doit être le _leitmotiv_ qui accompagne toute nouvelle idée afin de prévoir les installations et mises à jour.
 
@@ -91,7 +91,7 @@ Voici **5 points clés pour développer un bon plugin** :
 4.  penser aux **scénarios de mise à jour** (base de données, tests fonctionnels/unitaires)
 5.  penser que ce plugin n'est pas le seul sur le blog (optimisation, nommage)
 
-### Intégration d'un widget Amazon par copier/coller
+## Intégration d'un widget Amazon par copier/coller
 
 C'est le serpent qui se mord la queue diraient certains.
 Et pourtant, c'est la meilleure fonctionnalité qu'on puisse apporter. Tout le monde n'étant pas technicien, les utilisateurs lambda apprécieront de pouvoir simplement se débarrasser de leur code HTML Amazon pour le convertir sur leur blog.
@@ -99,7 +99,7 @@ Et pourtant, c'est la meilleure fonctionnalité qu'on puisse apporter. Tout le m
 Simple comme bonjour !
 <div style="text-align:center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="350" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/BigIblty910" /><embed type="application/x-shockwave-flash" width="425" height="350" src="http://www.youtube.com/v/BigIblty910"></embed></object></div>
 
-### Conclusion
+## Conclusion
 
 **Le développement d'un plugin Wordpress est relativement aisé**. Certaines parties de la documentation sont quelque peu obscures, notamment celle qui touche l'éditeur HTML et son internationalisation. Il m'a fallu m'inspirer d'autres plugins mais aussi comprendre que Wordpress 2.5 mettait en cache la configuration de TinyMCE dans un fichier.
 

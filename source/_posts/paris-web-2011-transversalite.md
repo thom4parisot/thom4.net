@@ -1,7 +1,7 @@
 title: "Paris Web 2011 : transversalité"
 id: 18460
 date: 2011-10-21 11:34:07
-tags: 
+tags:
 - accessibilité
 - communication
 - conférence
@@ -11,7 +11,7 @@ tags:
 - parisweb
 - typographie
 - web
-categories: 
+categories:
 - Accessibilité
 - Évènements
 - Développement Web
@@ -26,7 +26,9 @@ Pour ma part, c'est la **quatrième année consécutive** où je m'y rends … e
 
 [![Legalize Table](http://media.oncle-tom.net/images/2011/10/shot_1318684180740-300x300.jpg "Legalize Table")](http://media.oncle-tom.net/images/2011/10/shot_1318684180740.jpg)
 
-### <!--more-->Gloire au petit amphitéâtre
+<!--more-->
+
+## Gloire au petit amphitéâtre
 
 Les double sessions sont apparues à l'origine avec une orientation décideur/technique. Aujourd'hui j'y vois davantage une découpe **atypique**/**grand public** puisque dans la pratique, la distinction se fait sur la contenance de l'amphithéâtre.
 
@@ -35,7 +37,7 @@ Subtilement, en deux heures, on a pu se rendre compte qu'un changement de code h
 
 Sensation. Mot qui navigue lui aussi au travers de l'**accessibilité**, de l'**ergonomie** ou plus généralement, d'**UX** (expérience utilisateur).
 
-### De la technique au management
+## De la technique au management
 
 Le public a eu du mal à retenir un rire sarcastique, moi compris, lorsqu'[Arthur Rigaud de Voyages-SNCF.com a débuté sa présentation sur l'accessibilité](http://www.paris-web.fr/2011/conferences/l-accessibilite-vue-dun-grand-compte-et-comment-la-loi-de-2005-a-change-nos-facons-de-travaille.php). Malin, il a préféré utiliser _grand compte_ pour éviter la désertion de la salle ?
 
@@ -47,7 +49,7 @@ Une **approche tranversale** a ensuite été adoptée : communication dans les l
 
 De la brutalité isolée à la douce transversalité.
 
-### Du public au grand public
+## Du public au grand public
 
 On ne parle pas de _backend_ à Paris Web par contre on y parle _Open Data_ !
 
@@ -57,7 +59,7 @@ David "Nippon" Larlet et Olivier Thereau ont présenté à la fois un [panorama 
 
 Y'a du maille pour mailler les données, car le Web sémantique c'est bien beau, mais lier des fichiers PDF entre eux, c'est priver un diabétique de son insuline en le gavant de chamallow (OK ? © Pablo).
 
-### L'atelier des bonnes idées
+## L'atelier des bonnes idées
 
 Samedi fût un peu plus difficile : réveil tardif suite à la retombée de pression de la veille et d'un épuisement lié au manque de sommeil. Bref, j'ai préféré rogner sur le premier atelier pour réserver mon attention au reste de la journée.
 
@@ -69,7 +71,7 @@ Et le meilleur pour la fin : [deux jeux sur l'itération et la communication de 
 
 Puis de tester la communication écrite (nos belles specs et cahiers des charges) vs. la communication orale. Cette dernière a donné de meilleurs résultats, en permettant d'ajuster en fonction du _feedback_. Ça m'a donné à réfléchir sur la **capitalisation technique** : travailler à 2 en même temps, pour qu'un formalise par écrit semble plus efficace qu'une seule personne, réfléchissant et écrivant. Et de constater une fois de plus la difficulté à imposer un processus formalisé à des personnes ne se sentant pas en mesure de le faire.
 
-### Des outils aux ressentis
+## Des outils aux ressentis
 
 C'est avec surprise que je suis reparti sans le _boost_ d'énergie habituel, et sans le _spleen_ post-évènement. Et de me rendre compte que finalement, j'ai passé tout mon temps à m'imprégner des expériences humaines exposées sur scène, ainsi que des conversations pendant les repas, apéritifs et autres diners plus ou moins informels.
 
@@ -80,7 +82,7 @@ J'y vois trois raisons :
 3.  je n'espérais pas révolutionner ma vision des outils pour améliorer radicalement mon quotidien.
 À vrai dire, ça doit bien être la première année où je me suis fichu éperdument des outils pour me focaliser totalement sur le **comment** et le **pourquoi**. Pourquoi ça foire ? Comment des hommes et femmes font réussir un projet ?
 
-### Et ma conférence ?
+## Et ma conférence ?
 
 J'y reviens dans un prochain article pour apporter à la fois une explication à mes _slides_ et aussi des éléments complémentaires.
 

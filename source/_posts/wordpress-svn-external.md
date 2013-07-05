@@ -31,7 +31,7 @@ Avant toute chose, sachez que **ce tutorial est optimisé pour les personnes qui
 
 L'avantage évident ici est de pouvoir déployer son blog n'importe où en un rien de temps.
 
-### Structure des fichiers
+## Structure des fichiers
 
 Installer Wordpress en tant que dépendance SVN revient à mélanger 2 techniques :
 
@@ -56,11 +56,11 @@ Sur le répertoire racine, j'ai appliqué ces propriétés pour Wordpress 2.7 :
 Je ne versionne volontairement pas le fichier wp-config.php car c'est le seul fichier susceptible de changer d'une instance à une autre. Je le récupère depuis wordpress/wp-config-sample.php et je le personnalise selon mes besoins.
 Et puis versionner des mots de passe ... qui y tient ?
 
-### Configuration
+## Configuration
 
 Après cette restructuration, on aura toutefois besoin de configurer 2-3 bricoles. Vraiment rien de méchant promis.
 
-#### Le .htaccess
+### Le .htaccess
 
 Voici ma configuration. Elle peut être aisément déportée dans votre déclaration de _Virtual Host_ pour des raisons de performance. Sur un serveur mutualisé vous n'avez en général pas accès à ce dernier type de configuration.
 
@@ -101,13 +101,13 @@ Donc non on ne peut pas vraiment se passer de ces fichiers. D'où ces 2 règles 
 
 Enfin, pourquoi avoir poussé les commentaires Wordpress vers le bas ? Tout simplement pour **éviter que nos règles personnalisées soient écrasées par Wordpress** lors d'une mise à jour des permaliens. Nos règles primeront toujours ainsi.
 
-#### Le fichier wp-config.php
+### Le fichier wp-config.php
 
 Dans le fichier _wp-config.php_, nous n'allons rien modifier. Nous allons juste ajouter forcer 2 paramètres. Ils indiqueront à Wordpress où se trouve le véritable répertoire _wp-content_ (renommable mais je ne jouerai pas avec).
 
 [caption id="attachment_1262" align="aligncenter" width="600" caption="wp-config.php modifié pour Wordpress SVN"]![wp-config.php modifié pour Wordpress SVN](https://oncletom.io/images/2008/12/wordpress-svn-wpconfig.png "wp-config.php modifié pour Wordpress SVN")[/caption]
 
-#### Le blog
+### Le blog
 
 Bon j'ai menti un peu toute à l'heure en indiquant qu'on ne toucherait qu'à _wp-config.php_. Cependant la modification est on ne peut plus mineure et ne concerne que l'upload de medias.
 
@@ -117,7 +117,7 @@ En effet si on ne touche pas à l'emplacement des fichiers envoyés, Wordpress c
 
 À noter qu'il s'agit du **seul paramétrage hors d'un fichier**. Si j'avais pu m'en passer je l'aurais fait.
 
-### Dépendance SVN pour la traduction
+## Dépendance SVN pour la traduction
 
 C'est en tombant sur un autre [article traitant de svn:externals pour Wordpress](http://sunfox.org/blog/2007/05/28/installation-svn-de-wordpress-et-de-ses-plugins/) que j'ai été interpelé sur la prise en charge des langues via SVN également.
 Le système n'est pas parfait puisqu'on ne peut gérer qu'une seule langue par ce biais là. Ça ne conviendra donc pas aux blogs multilingues.
@@ -133,7 +133,7 @@ languages http://svn.automattic.com/wordpress-i18n/fr_FR/branches/2.7/messages/
 
 **Simple et efficace** mais ça reste encore de la bricole.
 
-### Cas particulier : plugins et i18n
+## Cas particulier : plugins et i18n
 
 Je vous expose le problème mais malheureusement vous ne pourrez pas y faire grand chose. Par contre ami développeurs, pour rendre votre code de plugin 100% portable, merci de prendre note ;-)
 
@@ -152,11 +152,11 @@ load_plugin_textdomain('votreplugin', dirname(plugin_basename(__FILE__)), dirnam
 
 Et si jamais vous utilisez votre plugin en lien symbolique ça ne fonctionnera pas ... mais on s'éloigne du sujet ;-)
 
-### Et pour Wordpress Mu ?
+## Et pour Wordpress Mu ?
 
 Je ne m'attarderai pas dessus mais les manipulations sont sensiblement les mêmes. Je n'ai pas encore eu l'occasion d'essayer mais j'ose imaginer qu'il n'y a pas tant de différences que ça :-)
 
-### Conclusion
+## Conclusion
 
 Le jour où vous souhaitez migrer vers une autre version majeure de Wordpress, c'est simple :** il suffit de changer les externals vers le tag adéquat**.
 

@@ -20,17 +20,17 @@ _La problématique du jour_ : **comment utiliser Feedburner sur des flux RSS dé
 
 <!--more-->
 
-### Créer son flux Feedburner
+## Créer son flux Feedburner
 
 Avant de faire quoi que ce soit, il convient de créer son flux Feedburner à partir d'un flux déjà existant (qu'on souhaite rediriger tant qu'à faire). L'étape la plus simple.
 
 ![Création d](https://oncletom.io/images/2007/03/feedburner-create-feed.png)
 
-### Modifier les liens vers les flux
+## Modifier les liens vers les flux
 
 Une fois le flux créé, pensez à mettre à jour **tous vos liens** pointant vers ce fichier (balises <link />, liens hypertextes, boutons personnalisés etc.). Ceci a pour but d'unifier toute les adresses et éviter qu'il y aient plusieurs adresses visibles pour accéder à la même information.
 
-### Rediriger les flux existants
+## Rediriger les flux existants
 
 Arrivé à ce stade, il faut bien comprendre que nous avons 2 cas de figure :
 
@@ -60,7 +60,7 @@ RewriteCond %{HTTP_USER_AGENT} !FeedBurner
 L'utilisation de cette condition est d'ailleurs la seule raison pour laquelle une règle de réécriture a été employée en lieu et place d'un `RedirectPermanent`.
 **Attention cependant**, le `RewriteCond` est à spécifier à _chaque règle de réécriture_. La documentation est assez explicite à ce sujet : **la condition n'est effective que pour une seule règle de réécriture**.
 
-### Le résultat final
+## Le résultat final
 
 Et plutôt qu'un long discours, voici le résultat final obtenu pour [Emu Nova](http://www.emunova.net/). Les fichiers RSS étaient placés dans le répertoire `go/rss/`. J'y ai donc placé un fichier `.htaccess` contenant le code suivant :
 

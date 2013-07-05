@@ -11,7 +11,7 @@ Canalblog est une plateforme de blogs fermée et dont le support ne m'a jamais a
 *   [Canalblog Importer sur l'annuaire officiel d'extensions WordPress](http://wordpress.org/extend/plugins/canalblog-importer/)
 *   Statut : **fonctionnel** mais nécessiterait d'autres tests
 
-### Fonctionnalités
+## Fonctionnalités
 
 *   Importe les articles
 *   Importe les catégories et les tags

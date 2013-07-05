@@ -1,7 +1,7 @@
 title: "Quand Jaiku surpassera Twitter"
 id: 934
 date: 2008-06-24 07:00:04
-tags: 
+tags:
 - api
 - google
 - jaiku
@@ -9,7 +9,7 @@ tags:
 - plurk
 - pownce
 - twitter
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -23,7 +23,7 @@ Seulement voilà, les pannes à répétition sont, à mon sens, en train de ruin
 
 <!--more-->
 
-### Jaiku, Twitter : micro-blogs et/ou messagerie instantanée délocalisée
+## Jaiku, Twitter : micro-blogs et/ou messagerie instantanée délocalisée
 
 Entre messagerie instantanée asynchrone et micro-blogs, mon cœur balance.
 
@@ -36,7 +36,7 @@ Malgré tout mon enthousiasme pour _Twitter_, je n'ai pour l'instant envie que d
 *   un service qui ne s'effondre pas une page sur 2 en plein milieu de journée
 *   un service qui communique sur ses problèmes : déjà 3 semaines que le client IM est hors-ligne. C'est pourtant le [deuxième client Twitter le plus utilisé](http://www.readwriteweb.com/archives/top_twitter_clients_definitive_list.php)
 
-### Pourquoi Jaiku est mieux que Twitter
+## Pourquoi Jaiku est mieux que Twitter
 
 Jaiku ne bénéficie pas du même engouement que Twitter, peut-être pas à tort. Son adoption a été fortement freinée par le rachat de Google en 2007\. Ce rachat a placé Jaiku en inscription sur invitation.
 Parallèlement à ça, très peu de nouveautés ont fait leur apparition sur le service.
@@ -50,7 +50,7 @@ Et avec ça je tente de vous convaincre que Jaiku est mieux ? Et pourtant :
 *   une **API plus sécurisée** : [parce qu'il ne faut jamais, ô grand jamais donner son mot de passe](http://www.codinghorror.com/blog/archives/001128.html), cette hérésie est remplacée par une clé unique (mais malheureusement pas regénérable)
 *   les "channels" ou **groupes de discussion**. Ils facilitent la création de conversation liées à une thématique ou à des sites/services Web. Pratique pour éviter la schizophrénie du multi-compte.
 
-### Pourquoi Twitter est mieux que Jaiku
+## Pourquoi Twitter est mieux que Jaiku
 
 Malgré tout, Twitter possède une bonne avance, notamment grâce à son énorme base d'utilisateurs :
 
@@ -60,7 +60,7 @@ Malgré tout, Twitter possède une bonne avance, notamment grâce à son énorme
 *   **fonctionnalité de veille** sympathique : "track". Recevez tous les twit qui contiennent tel ou tel mot
 *   affichage affiné avec la possibilité de n'afficher que les réponses qui nous sont faites (_@replies_)
 
-### Comment Jaiku peut surpasser Twitter
+## Comment Jaiku peut surpasser Twitter
 
 [![Vue d](https://oncletom.io/images/2008/06/jaiku-overview-300x159.png "Vue d")](https://oncletom.io/images/2008/06/jaiku-overview.png)
 

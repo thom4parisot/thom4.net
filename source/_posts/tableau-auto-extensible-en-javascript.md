@@ -31,19 +31,19 @@ Donc ma solution a été très simple : **je ne mettrai qu'une ligne**.
 
 <!--more-->
 
-### L'idée
+## L'idée
 
 Comment faire pour satisfaire tout le monde, les gros donneurs d'ordre comme les petits ?
 **En faisant en sorte que le formulaire s'adapte à leur besoin.** Je voulais donc qu'à chaque ligne complétée s'en ajoute une autre avant de passer à la validation finale. Place au combo **JavaScript + DOM = Ajax**.
 
-### La version dégradée
+## La version dégradée
 
 Une _bonne pratique de l'Ajax_ est de partir du cas particulier : celui où les conditions ne sont pas requises. En clair, une personne qui n'a pas JavaScript d'activé ou pas de JavaScript tout court.
 Conclusion, j'ai décidé de générer un tableau en HTML de 10 lignes. 10 est un choix arbitraire, modifiable à tout moment et qui ne doit donc pas gêner la version dynamique en cas de changement (ajout de colonne, ajout de lignes).
 
 ![Tableau auto-extansible dégradé](https://oncletom.io/images/2007/06/articles-autoexpand.png)
 
-### La version Ajax
+## La version Ajax
 
 On peut manipuler le document à loisir grâce à JavaScript. **Avec un code propre et ordonné c'est d'autant plus simple**. Alors voici la logique à mettre en oeuvre :
 
@@ -60,9 +60,9 @@ Au final, **50 lignes de JavaScript ont suffit** à transformer un tableau compl
 
 C'est à dire **exactement ce que l'on souhaitait au départ**.
 
-### Le code
+## Le code
 
-#### Le tableau HTML
+### Le tableau HTML
 
 ```html
 <table cellspacing="0" id="ajout_multi_articles">
@@ -117,7 +117,7 @@ C'est à dire **exactement ce que l'on souhaitait au départ**.
 </table>
 ```
 
-#### La fonction JavaScript
+### La fonction JavaScript
 
 ```javascript
 /**

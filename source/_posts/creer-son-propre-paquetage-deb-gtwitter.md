@@ -21,7 +21,7 @@ Et là je tombe sur le cas d'école par excellence : **la version proposée par 
 
 <!--more-->
 
-### Installation de checkinstall
+## Installation de checkinstall
 
 Sous Ubuntu, checkinstall s'installe via le gestionnaire de paquets Synaptics ou bien par la commande suivante (autant prendre le coup de main vu qu'on en aura besoin) :
 
@@ -31,7 +31,7 @@ sudo aptitude install checkinstall
 
 [Des RPM, DEB ainsi que le code source sont disponibles sur le site officiel de checkinstall](http://asic-linux.com.mx/~izto/checkinstall/).
 
-### Préparation du package
+## Préparation du package
 
 Cette étape est identique à celle d'une compilation classique. Après avoir récupéré le [code source de gTwitter sur son site officiel](http://code.google.com/p/gtwitter/), elle se résume dans notre cas à deux commandes :
 
@@ -42,7 +42,7 @@ make
 
 Par rapport à un système de base, je sais que j'ai dû installer une librairie pour satisfaire une dépendance mais _j'en ai oublié le nom_. En cas de problème je devrais cependant pouvoir vous indiquer laquelle il s'agit _grâce à votre message d'erreur_ ;-)
 
-### Checkinstall à l'œuvre
+## Checkinstall à l'œuvre
 
 Nous en arrivons au principal : la création du paquet. Si tout s'est correctement passé précédemment, fendez-vous de la commande suivante, toujours dans le même répertoire de travail :
 

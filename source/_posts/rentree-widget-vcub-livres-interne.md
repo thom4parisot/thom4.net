@@ -28,7 +28,7 @@ Par manque de temps (ou plutôt parce que je préfère le consacrer à d'autres 
 
 <!--more-->
 
-### Widget VCUB
+## Widget VCUB
 
 J'ai peaufiné le [widget VCUB pour Netvibes annoncé en avril dernier](https://oncletom.io/2010/widget-netvibes-vcub/). J'ai ajouté ces quelques éléments :
 
@@ -42,7 +42,7 @@ D'ici là, je dois accumuler des données, à la fois pour secouer les performan
 
 En attendant, vous pouvez toujours _[forker](http://github.com/oncletom/uwa-vcub)_[ uwa-vcub sur Github](http://github.com/oncletom/uwa-vcub) ou [installer le widget VCUB sur votre page Netvibes](http://eco.netvibes.com/widgets/378209/vcub-disponibilite-des-velos).
 
-### Boulimie littéraire
+## Boulimie littéraire
 
 Catalogué _geek_ ou pas, on a beau passer ses journées à travailler dessus/sur/devant un ordinateur, cela n'empêche pas d'aimer lire.
 Je suis tenu en haleine par un pavé ô combien instructif : [amazon-product text="Berlin − Les offensives géantes de l'Armée Rouge" type="text"]2717857834[/amazon-product] de Jean Lopez. Il s'agit d'un livre historique sacrément bien ficelé sur les offensives finales de l'Armée Rouge entre 1944 et 1945.
@@ -65,7 +65,7 @@ Se sont entassés sur le canapé, pour cause de bibliothèque remplie :
 Bref, il me faudra un petit bout de temps pour voir la lumière au bout du tunnel de la lecture.
 Peut-être devenir fonctionnaire pour avoir davantage de temps ? ;-)
 
-### Association du numérique en Aquitaine
+## Association du numérique en Aquitaine
 
 Le besoin commençait à se faire sentir depuis quelques temps déjà. **La filière numérique en Aquitaine s'organise** et est en train de se constituer en association de loi 1901\. Elle <q>s’adresse aux acteurs du numérique en Aquitaine qui, par l’innovation, la recherche, la formation ou l’usage, développent la filière numérique dans cette région</q>.
 
@@ -77,7 +77,7 @@ Bref, j'y participe et j'ai hâte de voir cette agence tous risques à l'œuvre 
 
 [![How I Met a Good Moment − Again](http://farm5.static.flickr.com/4102/4871868747_448ba41195.jpg)](http://www.flickr.com/photos/the-jedi/4871868747/ "How I Met a Good Moment − Again")
 
-### Paris-Web 2010
+## Paris-Web 2010
 
 J'animerai un atelier technique pour la troisième année consécutive. Rendez-vous à l'atelier provoc' [Industrialiser l'artisanat de l'intégration HTML](http://www.paris-web.fr/2010/programme/industrialiser-lartisanat-de-lintegration-html.php) le samedi matin, à 10h50\. Ça se passe dans les locaux de Télécom Paris, donc beaucoup plus proche du centre de la capitale que lors des précédentes éditions.
 

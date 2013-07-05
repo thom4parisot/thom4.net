@@ -20,7 +20,7 @@ Bref, j'ai voulu implémenter ça de **manière propre et peu gourmande** avec [
 
 <!--more-->
 
-### Le besoin
+## Le besoin
 
 La plupart des exemples que l'on trouve sur le Web attaquent directement l'API Feedburner Awareness. Autrement dit, votre page ne s'affichera pas tant que l'API n'aura pas été appelée et son résultat interprété. Étant donné que cette valeur change 1 fois par jour, il vaut mieux aborder la chose différemment. C'est pourquoi je voulais :
 
@@ -28,7 +28,7 @@ La plupart des exemples que l'on trouve sur le Web attaquent directement l'API F
 *   accéder à cette valeur simplement depuis mes templates (avec un appel à get_option() par exemple).
 **On y gagne sur tous les fronts** : on ne ralentit pas l'affichage côté utilisateur, l'information est récupérée en arrière-plan, nos templates graphiques restent simples.
 
-### Activation du service Feedburner Awareness
+## Activation du service Feedburner Awareness
 
 La première chose à faire est d'**activer l'API Awareness pour votre flux**. Cette API permet de récupérer des statistiques sur un flux Feedburner au format XML. On y retrouve entre autre le nombre de lecteurs. On peut obtenir ces informations pour la date courante, la veille ou une plage de jours par exemple.
 
@@ -38,7 +38,7 @@ C'est vraiment simple à utiliser, la [documentation Feedburner Awareness](http:
 
 **Remarque** : cette API s'active par flux Feedburner de manière individuelle et est désactivée par défaut.
 
-### Extraction du nombre de lecteurs
+## Extraction du nombre de lecteurs
 
 Dans un premier temps, on va **récupérer le nombre de lecteurs pour son flux**. On verra dans un second temps comment l'automatiser.
 
@@ -81,7 +81,7 @@ Quelques remarques :
 *   on aurait pu utiliser un paramètre de fonction pour fournir l'URI du flux _mais_ dans l'étape d'après, il se trouve qu'on ne pourra lui en passer ... dommage ;
 *   on aurait également pu remplacer la constante par un appel à un `get_option()` et pourquoi pas, récupérer l'ID depuis un réglage du plugin Feedburner FeedSmith.
 
-### Programmation d'une tâche planifiée avec WP-Cron
+## Programmation d'une tâche planifiée avec WP-Cron
 
 On en arrive à la partie sympa : programmer cette récupération du nombre d'abonnés pour qu'on n'ait pas de travail manuel à faire. L'idéal est de placer ceci dans un plugin. Personnellement je l'ai inséré dans le _hook_ `switch_theme()` de mon thème pour économiser un fichier/plugin.
 
@@ -121,7 +121,7 @@ Vous vous souvenez encore de notre fonction `oncletom_update_feed_readers()` ? E
 Quoiqu'il en soit, une fois le plugin activé, **tout est prê**t : il ne reste qu'à intégrer le compteur d'abonnés dans le thème. C'est notre prochaine étape.
 Juste une remarque : la fonction `wp_schedule_event()` prend comme dernier argument un nom de _hook_ et non un nom de fonction.
 
-### Intégration dans le thème
+## Intégration dans le thème
 
 C'est la partie la plus simple et pour cause, un simple appel à `get_option('feed_readers')` nous retourne le nombre d'abonnés. On ne pouvait pas faire plus rapide ;-)
 
@@ -129,7 +129,7 @@ C'est la partie la plus simple et pour cause, un simple appel à `get_option('fe
 <p>J'ai <?php echo get_option('feed_readers') ?> abonnés</p>
 ```
 
-### Conclusion
+## Conclusion
 
 **WordPress fournit tous les mécanismes** pour accéder aisément à des données de manière asynchrone. Il ne nous a pas coûté grand chose de collecter le flux XML et de l'enregistrer. En le faisant ainsi en arrière plan, on évite toute gêne pour l'utilisateur et tout traitement superflu exécuté en affichage.
 

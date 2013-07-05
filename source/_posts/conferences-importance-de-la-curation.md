@@ -21,7 +21,7 @@ Aujourd’hui je porte la casquette de participant, de conférencier et d’orga
 
 <!--more-->
 
-### Philosophie d’une conférence
+## Philosophie d’une conférence
 
 L’équipe organisatrice et l’annonce de futurs conférenciers de renom ont clairement été déterminants dans l’achat du billet pour DotJS.
 
@@ -40,7 +40,7 @@ C’était le contrat proposé.
 
 [caption id="attachment_18568" align="aligncenter" width="600"][![DotJS Venue](https://oncletom.io/images/2012/12/2012-11-30_12-25-33-600x328.jpg "DotJS Venue")](http://svay.com/photos/2012-11-30_dotjs/) Photo de Maurice Svay en CreativeCommons BY-SA.[/caption]
 
-### Enjeux de la curation pour les organisateurs
+## Enjeux de la curation pour les organisateurs
 
 L’absence de programme connu _révèle_ d’autant plus l’effort de curation effectué par DotJS. C’est d’autant plus flagrant que **toute la conférence a été focalisée sur les individus**.Et ce, qu’il s’agisse des orateurs ou de l’assemblée réunie par une même thématique (JavaScript).
 
@@ -57,7 +57,7 @@ La curation de la conférence impacte très largement sur la perception du prix.
 
 Dans tous les cas, **la curation constitue le message des organisateurs aux participants**.
 
-### Enjeux de la curation pour les participants
+## Enjeux de la curation pour les participants
 
 Du point de vue des participants, la lecture factuelle d’un programme de conférence en devient piégeuse :
 
@@ -68,7 +68,7 @@ Du point de vue des participants, la lecture factuelle d’un programme de conf�
 
 Cette liste n’est pas exhaustive. Mais ce sont **différents niveaux de lecture** de la curation du point de vue du participant.
 
-### Confiance et acceptation
+## Confiance et acceptation
 
 Alors clairement, il me parait important qu’une personne partage ce que JavaScript _a changé_ pour elle. Parce qu’elle ne savait pas ce qu’était l’Open Source impliquant des centaines de _Pull Request_, des nuits entières de travail et la gestion des susceptibilités de chacun.
 Il me paraît plus important qu’une personne explique en quoi _être le boss_ ne sert à rien dans des structures demandant à fonctionner davantage dans le respect mutuel des individus et de la philsophie projet que dans le respect d’un organigramme _corporate_.
@@ -81,7 +81,7 @@ C’est un choix assumé. Ça peut rater. Je pense à la forme catastrophique de
 
 [caption id="attachment_18569" align="aligncenter" width="600"][![DotJS Timer](https://oncletom.io/images/2012/12/2012-11-30_17-57-16-600x400.jpg "DotJS Timer")](http://svay.com/photos/2012-11-30_dotjs/) Photo de Maurice Svay en CreativeCommons BY-SA.[/caption]
 
-### Conclusion
+## Conclusion
 
 **Les critiques dépendant fortement des attentes de chacun**. Des fois on ne réalise pas qu’on demande l’impossible : nos attentes évoluent, le niveau de technicité voulu augmente le risque pour l’organisation.
 

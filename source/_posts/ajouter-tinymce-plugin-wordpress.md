@@ -21,7 +21,7 @@ J'ai eu besoin récemment d'inclure un éditeur visuel dans un plugin Wordpress.
 J'ai pensé à tort et ça m'a confirmé une fois de plus que le code source de Wordpress était un joyeux bazar.
 <!--more-->
 
-### Le besoin
+## Le besoin
 
 Mon besoin était tout bête : sur une seule page de mon plugin, j'avais besoin de transformer un bête champ texte en éditeur avancé avec possibilité d'uploader des images et tout ça.
 
@@ -32,7 +32,7 @@ Avec ce simple besoin, j'ai cependant constaté :
 3.  qu'on trouve **à boire et à manger** dans le code de Wordpress. Pour le <cite>code is poetry</cite>, on est plutôt proche du SMS kikoololesque
 Après avoir trouvé ma solution, je suis cependant tombé sur un [article expliquant comment inclure TinyMCE dans Wordpress](http://blog.zen-dreams.com/fr/2008/11/06/how-to-include-tinymce-in-your-wp-plugin/). Elle est juste mais nous verrons que seule la moitié du chemin a été faite avec.
 
-### La solution
+## La solution
 
 ```php
 <?php
@@ -59,7 +59,7 @@ Plusieurs remarques par rapport à ce code :
     Pour afficher l'éditeur, il suffira d'appeler la fonction `the_editor()` en lieu et place de son `textarea`. Vous noterez toutefois que vous serez obligé(e)s de nommer l'éditeur _content_ sous peine de devoir ajouter quelques filtres supplémentaires.
     Après à vous de vous débrouiller avec l'architecture de votre plugin. Personnellement j'ai tout basculé dans des classes depuis un bon moment pour éviter tout conflit de nom.
 
-### La solution optimisée
+## La solution optimisée
 
 Cependant ne crions pas victoire si vite : avec ce qu'on a fait, nous avons juste réussi à inclure TinyMCE sur _toutes_ les pages de l'admin WordPress. Ce n'est pas ce que je recommanderai pour deux raisons :
 
@@ -104,7 +104,7 @@ function include_tinycme()
 
 Là on a bien terminé le travail.
 
-### Conclusion
+## Conclusion
 
 Il n'y a au final pas grand chose à chose à ajouter pour disposer de TinyMCE. Encore faut-il le savoir.
 

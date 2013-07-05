@@ -26,7 +26,7 @@ Une petite scéance de rattrapage s'impose ;-)
 
 <!--more-->
 
-### Pourquoi avoir choisi ce sujet ?
+## Pourquoi avoir choisi ce sujet ?
 
 J'ai lu un article sur [l'importance du rythme vertical](http://www.biologeek.com/ergonomie,informatique/l-importance-du-rythme-vertical-en-design-css/) l'an dernier sur [Biologeek](http://www.biologeek.com) et ça m'a sensibilisé au fait qu'on pouvait rendre la lecture d'un site tout simplement en rendant prédictible la position du texte.
 
@@ -36,13 +36,13 @@ Depuis je suis devenu fan de [Blueprint CSS](http://www.blueprintcss.org/) (je c
 
 Comme le suggérait très justement [Christian Heilmann](http://www.wait-till-i.com) dans sa présentation, l'utilisation d'outils déjà existants est nécessaire pour réduire les coûts de production. C'était déjà un bon alibi mais je les apprécie aussi parce qu'on gagne un temps fou ! On se concentre sur le code métier, pas le reste.
 
-### La présentation
+## La présentation
 
 Je n'en dis pas plus, je vous laisse lire la présentation. Ayez toutefois en tête qu'en vrai elle dure facilement 1h.
 
 <div style="text-align:center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=pariswebdeveloppementefficaceframeworkscss-1226764594180788-9&amp;stripped_title=dveloppement-efficace-avec-les-frameworks-css-presentation" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slideshare.net/swf/ssplayer2.swf?doc=pariswebdeveloppementefficaceframeworkscss-1226764594180788-9&amp;stripped_title=dveloppement-efficace-avec-les-frameworks-css-presentation" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
 
-### Ce qu'il faut en retenir
+## Ce qu'il faut en retenir
 
 J'ai rencontré 2 types de réactions lorsque j'ai parlé des frameworks : les enthousiastes et les réfractaires.
 
@@ -72,7 +72,7 @@ Certains outils l'ont d'ailleurs bien compris en proposant des supports pour gra
 
 [caption id="attachment_1213" align="aligncenter" width="300" caption="Feuilles de dessin pour 960 Grid System"][![Feuilles de dessin pour 960 Grid System](https://oncletom.io/images/2008/11/960-sketch-sheets-300x232.png "Feuilles de dessin pour 960 Grid System")](https://oncletom.io/images/2008/11/960-sketch-sheets.png)[/caption]
 
-### Conclusion
+## Conclusion
 
 Quoiqu'il en soit, les _frameworks_ CSS sont à mon avis promis à un bel avenir dès lors que les critères d'industrialisation auront débarqué au sein des agences Web.
 

@@ -1,10 +1,10 @@
 title: "Pratiques de copiage des internautes français"
 id: 59
 date: 2005-12-21 16:22:51
-tags: 
+tags:
 - drm
 - piratage
-categories: 
+categories:
 - Personnel
 ---
 
@@ -36,7 +36,7 @@ Alors pourquoi toute cette répression :
 
 On ne pirate pas quelque chose parce que c'est cher mais bien parce qu'on y porte un certain intérêt (personnel, pour être comme les autres, par goût) et qu'on souhaite y avoir accès. Intervient alors le frein (pas assez d'argent, trop cher, indisponibilité) et la facilité procurée par le P2P : un clic, un peu d'attente et c'est dans la poche. Qu'est-ce qu'on y perd ? La légalité, la boîte et la jaquette. Qu'est-ce qu'on y gagne ? Une dépense monétaire en moins, un bien immédiat (quoiqu'un peu altéré).
 
-### Pourquoi mettre fin à la copie privée ?
+## Pourquoi mettre fin à la copie privée ?
 
 **Raison officielle** : pour empêcher le piratage
 
@@ -46,7 +46,7 @@ On rentre tous dans au moins une catégorie. Personnellement, je n'écoute jamai
 
 Maintenant je comprends tout à fait qu'empêcher la copie privée empêche de diffuser du contenu aquis illégalement. Mais dans ce cas nous sommes tous des criminels sans pitié.
 
-### Pourquoi obliger les systèmes <acronym title="Digital Rights Management">DRM</acronym> ?
+## Pourquoi obliger les systèmes <acronym title="Digital Rights Management">DRM</acronym> ?
 
 **Raison officielle** : pour sécuriser le contenu et le contenant
 
@@ -56,7 +56,7 @@ Dans le cas des oeuvres protégées, c'est surtout destiné à empêcher leur co
 
 Lire une ouvre protégée sur un système libre devient également impossible : adieu linux, MacOS X quand tu voudras et votre baladeur MP3 datant de plus de 2 ans au revoir. Là encore adieu la liberté : on écoutera la musique comme on l'aura décidé pour nous, pas comme on le voudra. Si je fais le choix de m'enfermer dans une salle obscure pour visionner un film, c'est par choix et non parce qu'on me l'impose.
 
-### Pourquoi devrais-je avoir peur ?
+## Pourquoi devrais-je avoir peur ?
 
 **Raison officielle** : pour rien car c'est pour notre bien (et celui de notre portefeuille)
 

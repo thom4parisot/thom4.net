@@ -1,7 +1,7 @@
 title: "colorblind-applet : des filtres pour daltonien sous Linux"
 id: 1038
 date: 2008-08-12 07:00:25
-tags: 
+tags:
 - applet
 - color oracle
 - colorblind-applet
@@ -12,7 +12,7 @@ tags:
 - linux
 - logiciels libres
 - ubuntu
-categories: 
+categories:
 - Accessibilité
 ---
 
@@ -25,7 +25,7 @@ Petit tour du propriétaire et mise en application dans le cas du développement
 
 <!--more-->
 
-### Présentation rapide du daltonisme
+## Présentation rapide du daltonisme
 
 Se mettre dans la peau d'un daltonien, ou voir à travers ses yeux, est une chose difficile. Comment imaginer le rendu des couleurs ? Et surtout, comment l'imaginer en fonction du daltonisme ?
 Il faut savoir qu'il existe plusieurs variations de cette anomalie de perception de couleurs :
@@ -43,7 +43,7 @@ Et pour votre gouverne, **être daltonien ne signifie pas être handicapé**. Le
 
 Pour savoir savoir si on est daltonien, il suffit de regarder les images des [planches du test d'Ishihara](http://daltonien.free.fr/daltonien/article.php3?id_article=6). Peut-être la "mauvaise" nouvelle du jour ?
 
-### Présentation de colorblind-applet
+## Présentation de colorblind-applet
 
 Mais alors, que vient faire _colorblind-applet_ dans tout ça ?
 Cet applet pour [Gnome](http://gnome.org) est un "simple" filtre de visualisation. En clair, il altère la colorimétrie de votre écran pour l'afficher comme si vous étiez daltonien.
@@ -60,7 +60,7 @@ En clair je résumerais comme suit :
 *   dans les autres cas, utilisez _Color Oracle_ (compatible Linux, MacOS X et Windows)
 [caption id="attachment_1055" align="aligncenter" width="498" caption="Colorblind-applet : contrôles"]![Colorblind-applet : contrôles](https://oncletom.io/images/2008/08/colorblind-applet-controls.png "Colorblind-applet : contrôles")[/caption]
 
-### colorblind-applet en action
+## colorblind-applet en action
 
 Puisqu'une image vaut davantage qu'un long discours (trop tard me direz-vous ;-)), voici une série d'images présentant mon bureau de travail ainsi qu'un navigateur Web ouvert sur la page de [Planète Accessibilité](http://planete-accessibilite.com/).
 

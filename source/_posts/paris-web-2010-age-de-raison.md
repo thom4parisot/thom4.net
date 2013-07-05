@@ -1,7 +1,7 @@
 title: "Paris Web 2010 : l'âge de raison"
 id: 17772
 date: 2010-10-28 18:25:22
-tags: 
+tags:
 - a11y
 - accessibilité
 - architecture
@@ -17,7 +17,7 @@ tags:
 - ux
 - webdesign
 - yahoo
-categories: 
+categories:
 - Accessibilité
 - Évènements
 - Développement Web
@@ -34,7 +34,7 @@ Je suis donc arrivé à Paris Web sans avoir regardé le programme, en décidant
 
 <!--more-->
 
-### L'ouverture par l'architecture
+## L'ouverture par l'architecture
 
 Ce n'est pas tout à fait vrai : je savais quelle était la _première conférence_ à laquelle j'allais assister. Graine semée il y a 2 ans, dans le retour en métro de Paris Web 2008\. J'apprenais que [Fabien Basmaison](http://arkhi.org/) partait 1 année entière en Chine (ou ailleurs en Asie ?).
 Absent de Paris Web 2009, il propose "[Espace construit et espace virtuel, un retour vers le futur ?](http://www.paris-web.fr/2010/programme/le-web-lespace-public.php)" en guise d'introduction.
@@ -51,7 +51,7 @@ Paris Web est un moment où l'**on s'ouvre l'esprit** : cette conférence était
 
 **Conseil livre** : [amazon-product text="Vers une architecture" type="text"]2081217449[/amazon-product] de Le Corbusier.
 
-### Let's Interface!
+## Let's Interface!
 
 [Christian Heilmann](http://www.wait-till-i.com) me fascine littéralement. Il a le don d'arriver à insuffler ce qu'il recherche : du fun et de l'intelligence.
 Si je devais résumer cette conférence en une phrase, ça serait la sienne : <q>le Web est un outil, utilisons-le</q>. On ne construit pas pour le Web, on construit _avec_ le Web.
@@ -61,7 +61,7 @@ C'est la transcription parfaite de l'architecture vers le Web. Tenir compte de l
 **Les interfaces devraient être des outils faciles à utiliser**, et à comprendre. De l'accessibilité au sens large en somme.
 De quoi insister auprès des clients de ne pas perdre de vue l'objectif principal ? L'utilisateur ?
 
-### L'accessibilité dans une chaîne de production Web
+## L'accessibilité dans une chaîne de production Web
 
 Quel meilleur moyen de ne pas perdre ses objectifs de vue en effectuant un contrôle qualité, matérialisé par une vérification de l'accessibilité à _toutes_ les étapes du processus, plutôt qu'en livraison finale. C'est le point de vue de [Denis Boudreau](http://twitter.com/dboudreau) et de [Vincent François](http://accessibiliteweb.com/).
 
@@ -82,7 +82,7 @@ Le liant entre ces phases étant la gestion de projet, menée de concert entre l
 
 [![](http://farm2.static.flickr.com/1328/5107972863_754420e883.jpg "Paris Web Marketing Fail")](http://www.flickr.com/photos/nicolas-hoizey/5107972863/)
 
-### Innover de 9 à 5
+## Innover de 9 à 5
 
 Je m'intéresse à l'innovation, pas seulement à la théorie mais également à sa mise en pratique, depuis que je vois passer sous mon nez des projets intéressants mais qui oublient toujours une chose. Les usagers (tiens, on y revient). Un site est réalisé par une entreprise, pour accomplir un but (besoin marketing, nouveau produit ou autre) mais ... la praticité et l'intérêt de l'usager, bien souvent, y sont absent ou trop peu représenté.
 
@@ -101,7 +101,7 @@ Encore une fois, les personnes les plus fascinantes ne sont pas celles qui appor
 
 **Conseil lecture** : [amazon-product text="The Myths of Innovation" type="text"]0596527055/[/amazon-product] de Scott Berkun.
 
-### Journey over Destination: creating an effective framework with UX tools
+## Journey over Destination: creating an effective framework with UX tools
 
 J'ai malheureusement été moins attentif sur la conférence de [Stéphanie Troeth](http://unadorned.org/) (projet client à régler, à croire que chaque année j'y coupe pas ;-(). Néanmoins, à la lecture de ses _slides_ pendant sa présentation, une chose m'avait frappé : tout est clair, limpide et extrêmement synthétique. Sans le son, il y avait de quoi apprendre. C'est d'ailleurs comme ça que je me suis aperçu que la méthode employée lors de mon atelier technique ([dont vous pouvez lire l'annonce ](https://oncletom.io/2010/paris-web-industrialiser-integration-html/); le détail et résumé arrivent) était en fait de l'_interactive design_.
 
@@ -113,7 +113,7 @@ Notre conversation en _off_ m'a confirmé mon intuition : sa présentation repr�
 
 [![](http://farm2.static.flickr.com/1139/5107657136_4c4de67512.jpg "Amphithéâtre IBM à Paris Web")](http://www.flickr.com/photos/mauriz/5107657136/)
 
-### La typographie comme outil de design
+## La typographie comme outil de design
 
 Encore un petit nouveau à Paris Web : [David Rault](http://www.davidrault.com/). Encore un globetrotter, à croire que ça va devenir un élément déterminant sur le CV ;-)
 
@@ -127,7 +127,7 @@ En considérant que le Web, c'est 95% de typographie (ce que l'on lit), ce n'est
 
 **Conseil lecture** : [amazon-product text="Guide pratique de choix typographique" type="text"]2911220269[/amazon-product]de David Rault.
 
-### La macrotypographie de la page Web
+## La macrotypographie de la page Web
 
 On reste dans l'univers de la communication visuelle avec [Anne-Sophie Fradier](http://lasoeurkaramazov.net/). L'occasion d'ailleurs de me rendre compte que j'avais déjà lu son blog auparavant, et que je le découvre juste maintenant, à l'occasion de la rédaction de cet article :-D Le Web est petit et on se connait plus facilement en avatar en fin de compte.
 
@@ -143,7 +143,7 @@ Un **regard rafraîchissant** de plus sur la manière de concevoir et d'archite
 
 [caption id="" align="aligncenter" width="500" caption="La crois au rouge français"][![](http://farm2.static.flickr.com/1153/5108562588_7a9d7e59d8.jpg "La croix au rouge français")](http://www.flickr.com/photos/nicolas-hoizey/5108562588/)[/caption]
 
-### Conclusion
+## Conclusion
 
 Alors, pourquoi avoir titré mon article l'âge de la raison ? Parce qu'en plus de partager notre amour du Web, les intervenants de Paris Web, les organisateurs, mais aussi les participants, ont réussi à démontrer qu'on n'était plus que dans la diffusion d'informations à coup de slides.
 Non, on était dans la **création**.

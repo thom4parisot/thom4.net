@@ -1,10 +1,10 @@
 title: "Coulisses d'un déménagement virtuel"
 id: 75
 date: 2006-05-15 21:19:20
-tags: 
+tags:
 - Emu Nova
 - hébergement
-categories: 
+categories:
 - Développement Web
 - Projets
 ---
@@ -17,7 +17,7 @@ Besoins et nécessités, impératifs et exigences ... suivez les coulisses d'un 
 
 Si un changement de serveur peut paraître anodin, il s'agit d'une tâche rendue ardue par une seule phrase : "**retrouver à l'arrivée ce que l'on avait au départ**". Comprendre par là : il faut que ça marche ... et de suite.
 
-### Rapide historique
+## Rapide historique
 
 J'en parlerai dans un prochain billet mais gérer un site n'est pas une mince affaire contrairement aux apparences. Si [Emu Nova](http://www.emunova.net/) a débuté sur la Toile en avril 2002 par un simple forum (piraté à l'époque) posé chez un hébergeur gratuit, la présence de 20 personnes en simultané faisait déjà ressentir le besoin d'un véritable hébergement.
 
@@ -29,7 +29,7 @@ Janvier 2004 et 3000 visiteurs uniques par jour au compteur, je souscris à un c
 
 La facture mensuelle "explose" et passe de 30€ à 108€. Ce coût pour une machine louée aux Etats-Unis est pourtant _réduit_ par rapport à ce qu'on aurait pu payer en France à cette époque là : à prix équivalent, on disposait d'une machine moins puissante et surtout, moins fournie en bande-passante. Là, on avait 1000Go (= 1<abbr title="Tera-octet">To</abbr>) et on se disait déjà qu'on ne les utiliserait jamais...
 
-### Bilan et constats
+## Bilan et constats
 
 2 ans plus tard, en janvier 2006, la machine commence à montrer des signes de faiblesse : redémarrages intempestifs (en partie dus à des attaques massives destinées à surcharger le serveur pour en prendre le contrôle), lenteur accrue et difficulté à maintenir la couche logicielle. Installer un programme quelconque relève du calvaire total. Je me demandais même comment la machine faisait pour tenir le coup. Allez demander à un asmatique de courir un marathon à la montagne avec un vent de face...
 
@@ -51,7 +51,7 @@ Plusieurs solutions s'offraient alors à nous :
 
 Tout le monde l'aura compris, la dernière solution était la plus intéressante et pertinente face à nos besoins. Le prix gonfle bien entendu avec l'offre souscrite puisqu'on passe de 108€ à 178€. Légèrement au-dessus des revenus générés par le site (intégralement financé par la publicité et peut-être dans un futur proche par de véritables partenaires commerciaux), la balance devrait revenir à l'équilibre avec le temps. Plus un site rapporte, plus il coûte ... l'inverse ne marche pas ;-)
 
-### Préparatifs
+## Préparatifs
 
 Maintenant que la situation est bien cernée et qu'on a trouvé ce qu'il nous fallait, "y'a plus qu'à" comme qui dirait ? Oui mais en fait non pas vraiment. Au départ si le site n'était composé que d'une poignée de fichiers pouvant tenir dans une tête de pigeon, il a non seulement pris de l'ampleur et du volume mais il s'est également complexifié et "enraciné" à la structure existante.
 
@@ -69,7 +69,7 @@ La préparation a duré 9 jours. Ce temps ne compte pas la consultation d'offres
 
 C'est seulement à la fin de toutes ces étapes que j'ai pu me dire "c'est bon, on va pouvoir tenter le coup !". Le rendez-vous était pris : dimanche 14 mai à 21h. Ca passe ou ça casse.
 
-### La migration en elle-même
+## La migration en elle-même
 
 Dimanche 14 à 20h55, le site Emu Nova est mis en berne pour l'immobiliser. En effet, le problème de ces sites c'est que les données sont perpétuellement altérées (ajout de messages dans les forums, édition de messages, envoi de fichiers). Pour être sûr d'avoir une sauvegarde fidèle à 100%, il faut donc tout arrêter. C'est le moment d'effectuer le changement de <acronym title="Domain Name Server">DNS</acronym>.
 
@@ -81,7 +81,7 @@ Délai souvent compris entre 24 et 72h, la propagation de la nouvelle adresse d'
 
 Le lundi 15 à 8h30 pétantes, après un oubli d'intégration de base de données (100 000 messages dans les forums ça s'oublie pas pourtant), le site reprend vie et accueille de nouveau les errants en manque d'activité au lycée, à la fac ou en "pause-café-toute-la-journée".
 
-### Bilan des courses
+## Bilan des courses
 
 Voici donc ce qu'une simple bascule de serveur occasionne : des heures d'étude, des heures de préparation, des heures d'installation. Et quand c'est bien fait, ça représente peu d'ennuis et surtout beaucoup de satisfaction pour de nombreux jours à venir ;-)
 

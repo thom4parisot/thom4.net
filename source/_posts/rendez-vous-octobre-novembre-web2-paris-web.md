@@ -1,7 +1,7 @@
 title: "Mes rendez-vous d'octobre/novembre : Web2, Paris-Web & cie"
 id: 1152
 date: 2008-10-03 22:30:30
-tags: 
+tags:
 - blogcamp
 - bordeaux
 - diagnostic aquitaine
@@ -13,7 +13,7 @@ tags:
 - symfony
 - webdeux.connect
 - yann leroux
-categories: 
+categories:
 - Développement Web
 - Personnel
 ---
@@ -27,7 +27,7 @@ Les mois d'octobre et de novembre seront assurément chargés cette année puisq
 *   [Paris-Web 2008](http://www.paris-web.fr/2008/)
 Bref, 2 évènements à Paris, 1 à Bordeaux et beaucoup de contacts en perspective :-)<!--more-->
 
-### Diagnostique de l'Aquitaine Numérique
+## Diagnostique de l'Aquitaine Numérique
 
 Chaque année depuis 7 ans, l'[AEC](http://www.aecom.org) publie son Diagnostique de l'Aquitaine Numérique qui recense entre autre :
 
@@ -38,9 +38,9 @@ Ce sera une première pour moi mais j'imagine que ça sera à la hauteur de mes 
 
 C'est **lundi 6 octobre à 17h00** à Cap Sciences à Bordeaux.
 
-### ![](https://oncletom.io/images/2008/10/diagnotic-aquitaine.gif "Diagnostique Aquitaine")
+## ![](https://oncletom.io/images/2008/10/diagnotic-aquitaine.gif "Diagnostique Aquitaine")
 
-### Webdeux.Connect
+## Webdeux.Connect
 
 J'ai failli y aller l'an dernier, on m'a plus que très fortement recommandé et insisté d'y être cette année donc sous la pression, j'y serai ... parmi les 400 autres personnes attendues !
 
@@ -61,7 +61,7 @@ Si jamais certains d'entre vous y vont, n'**hésitez pas à vous signaler** :-) 
 
 C'est **samedi 11 octobre de 8h30** jusqu'à pas d'heure à l'[Usine](http://www.lusine-saintdenis.com).
 
-### Paris-Web 2008
+## Paris-Web 2008
 
 ![](https://oncletom.io/images/2008/10/paris-web-2008.png "Paris-Web 2008")
 
@@ -86,7 +86,7 @@ Ateliers où il faudra peut-être que je prépare quelque chose car j'ai été c
 
 Là c'est plus violent, c'est du **jeudi 13 au samedi 15 novembre** inclus, chez IBM à la tour Descarte (Paris la Défense).
 
-### BlogCamp Bordeaux #7
+## BlogCamp Bordeaux #7
 
 ![](https://oncletom.io/images/2008/02/blogcamp-france-logo.png "Logo BlogCamp France")
 

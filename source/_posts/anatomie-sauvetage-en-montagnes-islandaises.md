@@ -1,7 +1,7 @@
 title: "Anatomie d'un sauvetage en montagnes islandaises"
 id: 18524
 date: 2012-10-03 10:00:26
-tags: 
+tags:
 - agile
 - équipe
 - confiance
@@ -9,7 +9,7 @@ tags:
 - islande
 - organisation
 - valeurs
-categories: 
+categories:
 - Personnel
 - Travail 2.0
 ---
@@ -22,7 +22,7 @@ Une journée ordinaire, une randonnée en montagne, des paysages gigantesques.
 
 <!--more-->
 
-### L'épicentre
+## L'épicentre
 
 Faire ce que l'on sait faire le mieux : marcher.
 
@@ -40,7 +40,7 @@ En 5h de marche, je n'ai pas croisé d'âme humaine empruntant ou remontant ce c
 
 Après 5 minutes de tergiversation, une conclusion s'impose : ravaler sa fierté réduit le risque qu'un petit problème devienne un **gros** problème. L'Islande rappelle régulièrement que la Nature est plus forte que l'ego de l'homme.
 
-### Feedback 112
+## Feedback 112
 
 Force de la prévention locale et joies de la couverture GSM en montagne, le numéro unique de secours revient vite en tête. 112.
 
@@ -54,7 +54,7 @@ Rappel du 112, transmission des coordonnées. Ils relisent. C'est OK même s'ils
 
 **Troisième problème** : il est 18h, ça fait 2h qu'on attend et toujours personne. La luminosité commence à décliner. Le vent se rafraichit. L'immobilité refroidit les os. Allez on rappelle. On vérifie les coordonnées. Les secouristes progressent vite, ils devraient être là sous peu. OK si tu le dis. Mais dans 30 minutes je me remets sur pied en croisant les doigts parce que l'hypothèse de finir congelé en hauteur prend forme.
 
-### Mise en sarcophage
+## Mise en sarcophage
 
 18h45.
 
@@ -67,7 +67,7 @@ Ils parlent tous de manière **calme**. Ils échangent à distance via micro. Il
 
 ![](https://oncletom.io/images/2012/10/DSC_4514_W1280-600x399.jpg "L")
 
-### Les yeux rivés au ciel
+## Les yeux rivés au ciel
 
 Les secouristes étendent la civière. La seule idée d'être un fardeau me désole.
 Ils me ligotent. Bouger le corps devient une option. Seule la tête est mobile. J'ai à nouveau chaud. Je ne vois plus que le ciel – enfin, les nuages gris sombres. Ils lèvent la civière. Elle tangue au rythme de leurs pas. De temps en temps, l'inclinaison me permet de voir l'herbe ou les cailloux. Mais pas devant. Je ne sais pas où on va. C'est très **étrange**. Ils parlent. Me demande si ça va.
@@ -85,7 +85,7 @@ Ils ne cachent pas la fatigue. Ils ne cachent pas la douleur. J'ai mal, pour eux
 Comme si leur douleur s'était effacée aussitôt arrivés.
 30 minutes de descente balayées d'un revers de main.
 
-### L'atterrissage
+## L'atterrissage
 
 La voiture nous dépose à l'hôpital. C'est tout. Ils repartent. Content d'être au chaud. Dehors il fait noir.
 
@@ -103,7 +103,7 @@ Bon, il est satisfait de l'explication.
 Où est-ce que je dors ? Au camping. Ah, c'est juste à côté de chez lui. Si je me sens pas de dormir dans le froid, je n'ai qu'à venir chez lui.
 Oh … (je n'écrirai pas que j'en avais les larmes aux yeux ; un sentiment de dette éternelle envers tant de **générosité**).
 
-### Conclusion
+## Conclusion
 
 Constat constant chez les Islandais : leur **détermination**, leur **attitude** posée et leur **prévenance** est sans équivoque ([David en parlait dans son article Caring](https://larlet.fr/david/thoughts/#caring)).
 Non seulement ils sont volontaires, mais en plus ils s'assurent que tout _ira bien_ en plus du tout _va bien_.

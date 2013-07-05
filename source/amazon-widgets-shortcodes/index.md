@@ -12,7 +12,7 @@ I was pretty tired of copy/pasting ugly code to share Amazon affiliate links. So
 ](http://wordpress.org/extend/plugins/amazon-widgets-shortcodes/)
 *   State : **stable and ready to use**
 
-### Features
+## Features
 
 *   **Amazon Internationalization** : Canada, France, Germany, Japan, UK and USA
 *   **Locales support** : Belorussian, English, French and Italian (opened to contributors)
@@ -24,7 +24,7 @@ I was pretty tired of copy/pasting ugly code to share Amazon affiliate links. So
 
 [download url="http://wordpress.org/extend/plugins/amazon-widgets-shortcodes/"]Download Now[/download]
 
-### Supported widgets
+## Supported widgets
 
 *   Carrousel
 *   Deals

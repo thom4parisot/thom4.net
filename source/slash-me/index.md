@@ -11,7 +11,7 @@ Dans le passé, j'ai été CTO et co-fondateur de la startup **Dijiwan**, consul
 
 **Je suis partisan de l'interdisciplinarité, de l'ouverture et de la finitude**.
 
-### On peut se voir ?
+## On peut se voir ?
 
 Nous aurons sûrement l'occasion dans un _tube_, concert ou exposition à **Londres** au Royaume-Uni ou pendant une conférence Web en **Europe** ou sur un chemin de randonnée **quelque part sur cette planète**.
 

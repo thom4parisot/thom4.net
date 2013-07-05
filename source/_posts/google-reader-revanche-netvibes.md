@@ -1,13 +1,13 @@
 title: "Google Reader, la revanche de l'économiseur de temps"
 id: 498
 date: 2007-03-11 11:53:09
-tags: 
+tags:
 - atom
 - google
 - google reader
 - rss
 - veille
-categories: 
+categories:
 - Travail 2.0
 ---
 
@@ -19,19 +19,19 @@ J'ai eu envie de tester [Google Reader](http://www.google.com/reader/) après av
 Quoiqu'il en soit après une semaine d'utilisation, le **verdict est sans appel**.
 <!--more-->
 
-### Basculer de Netvibes à Google Reader
+## Basculer de Netvibes à Google Reader
 
 Avec plus de 90 abonnements, autant dire qu'il aurait été très pénible de les rajouter manuellement dans _Google Reader_. Heureusement qu'il existe l'export universel au [format OPML](http://fr.wikipedia.org/wiki/OPML). En 2 clics, j'ai pu basculer toutes mes lectures. Simple comme bonjour.
 
 ![Migration Netvibes vers Google Reader](https://oncletom.io/images/2007/03/migration-netvibes-google-r.png)
 
-### Avant-propos sur Google Reader
+## Avant-propos sur Google Reader
 
 Avant de m'avancer sur l'utilisation de Google Reader, je vais expliquer son fonctionnement. De manière générale, un lecteur RSS (que ce soit logiciel ou Web, à quelques exceptions près) **récupère les différents flux lorsqu'il est lancé**. Si vous partez une semaine loin d'un ordinateur, _votre lecteur RSS ne fournira donc logiquement pas toute l'activité qui s'est passée_.
 
 **Google Reader ne fonctionne pas comme ça**. Au lieu d'aller vérifier les nouveautés sur demande (lorsque vous affichez Google Reader donc), **un robot se charge d'aller régulièrement interroger les flux auxquels vous êtes abonnés**. Cette subtile différence anéantit le plus gros défaut des RSS, à savoir le côté éphémère évoqué plus tôt.
 
-### Google Reader au quotidien
+## Google Reader au quotidien
 
 Du fait de cette approche différente (mais totalement pertinente), le **chargement de l'interface est incroyablement rapide**. C'est notamment dû au fait que la page n'a pas à aller interroger tous les flux auxquels vous êtes abonnés puisque c'est systématiquement fait, que vous soyiez connecté(e) ou pas. A l'inverse sur _Netvibes_, plus j'avais de flux, plus la page était longue et lourde à charger.
 

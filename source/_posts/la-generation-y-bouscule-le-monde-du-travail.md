@@ -1,7 +1,7 @@
 title: "La génération Y bouscule le monde du travail"
 id: 1125
 date: 2008-09-16 07:00:19
-tags: 
+tags:
 - aec
 - Au travail
 - blog
@@ -14,7 +14,7 @@ tags:
 - le monde
 - twitter
 - web2
-categories: 
+categories:
 - Travail 2.0
 ---
 
@@ -35,7 +35,7 @@ J'aborde ce sujet car la [publication Aquitaine Numérique](http://www.aecom.org
 *   côté utilisateur (génération Y)
 <span style="text-decoration: line-through;">[Cette édition est consultable de manière numérique](http://fr.calameo.com/books/000007502669a3c650d7c "Lire l"). Je reviendrai dessus dans un prochain billet car je trouve le système particulièrement inconfortable.</span> [Vous pouvez télécharger le PDF correspondant](http://www.aecom.org/veille/pdf/lan17.pdf).
 
-### Notre génération Y
+## Notre génération Y
 
 **Je ne suis pas intimement convaincu que la génération Y refuse la hiérarchie**. Elle refuse tout simplement une hiérarchie trop rigide, incompréhensive et éloignée des réalités.
 Je considère que pouvoir tutoyer son patron et pouvoir tout aussi bien discuter du beau temps que de sujets sérieux sans rendez-vous est autrement plus enrichissant que d'éternelles courbettes.
@@ -54,16 +54,20 @@ Autrement dit, **ce qui est apprécié, c'est la flexibilité**. Dans son travai
 En clair, la génération Y ne demande pas tant de choses que ça si ce n'est un peu d'humanité dans les relations et de la souplesse dans le travail.
 Aux entreprises de s'adapter pour évoluer avec leur temps.
 
-### Jamais sans mon Web !
+## Jamais sans mon Web !
 
 C'est sous cette accroche que plusieurs personnes ont été interrogées sur l'utilisation du Web dans leur quotidien professionnel. À ce titre j'ai pu répondre à plusieurs questions. Le tout a été synthétisé en quelques lignes :
-> #### Une vie 2.0
-> 
-> Il se présente comme un « early adopters» : à l’affût des tendances et des derniers services du web 2.0\. «Je teste beaucoup d’outils en ligne mais seulement s’ils sont intuitifs, simples et peuvent me servir dans mon travail », nuance Thomas.> 
-> N’empêche, la liste est déjà longue : un blog* personnel, des profils sur les réseaux Facebook, LinkedIn et Viadeo, une présence permanente sur internet via Twitter, des favoris archivés sur Delicious, des flux RSS agrégés chez Google Reader et du partage d’information sous Digg. Il ouvre des Wikis pour les clients qu’il accompagne. « J’utilise ces services aussi bien dans ma vie professionnelle que privée. Je fais de la veille technologique le soir chez moi que je partage en direct avec tous mes collaborateurs. Je faisais déjà cette veille avant d’être recruté car je tiens à rester à jour des évolutions du web. On ne sait jamais quelle sera notre carrière...» , témoigne le consultant.> 
-> Le réflexe est « évident, naturel », au point que Thomas a créé une association de blogueurs bordelais pour transmettre ses savoirs.> 
-> 
-> Le voilà donc, cet autodidacte de la toile, érigé «expert» du web 2.0\. Un vrai « Y » qui s’affiche comme tel: «Quand je cherchais du boulot, l’adresse de mon blog était placée bien en évidence sur mon CV électronique. Ça faisait office de lettre de  motivation. J’ai gardé un lien avec la plupart des recruteurs qui m’ont contacté par le biais des réseaux sociaux professionnels.> 
+> ### Une vie 2.0
+>
+> Il se présente comme un « early adopters» : à l’affût des tendances et des derniers services du web 2.0\. «Je teste beaucoup d’outils en ligne mais seulement s’ils sont intuitifs, simples et peuvent me servir dans mon travail », nuance Thomas.
+>
+> N’empêche, la liste est déjà longue : un blog* personnel, des profils sur les réseaux Facebook, LinkedIn et Viadeo, une présence permanente sur internet via Twitter, des favoris archivés sur Delicious, des flux RSS agrégés chez Google Reader et du partage d’information sous Digg. Il ouvre des Wikis pour les clients qu’il accompagne. « J’utilise ces services aussi bien dans ma vie professionnelle que privée. Je fais de la veille technologique le soir chez moi que je partage en direct avec tous mes collaborateurs. Je faisais déjà cette veille avant d’être recruté car je tiens à rester à jour des évolutions du web. On ne sait jamais quelle sera notre carrière...» , témoigne le consultant.
+>
+> Le réflexe est « évident, naturel », au point que Thomas a créé une association de blogueurs bordelais pour transmettre ses savoirs.
+>
+>
+> Le voilà donc, cet autodidacte de la toile, érigé «expert» du web 2.0\. Un vrai « Y » qui s’affiche comme tel: «Quand je cherchais du boulot, l’adresse de mon blog était placée bien en évidence sur mon CV électronique. Ça faisait office de lettre de  motivation. J’ai gardé un lien avec la plupart des recruteurs qui m’ont contacté par le biais des réseaux sociaux professionnels.
+>
 > On peut ainsi constater notre évolution réciproquement : la meilleure voie de recrutement reste le bouche à oreille.
 Malgré ce discours d'hyperconnecté, **j'arrive quand même à vivre sans ordinateur**.
 Mais il est clair que concevoir mon travail sans ordinateur ni Web, ça je n'y arrive pas/plus ;-)

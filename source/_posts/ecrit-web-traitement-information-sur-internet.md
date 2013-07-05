@@ -1,14 +1,14 @@
 title: "L'écrit Web : traitement de l'information sur Internet"
 id: 830
 date: 2008-01-08 07:00:31
-tags: 
+tags:
 - bonnes pratiques
 - html
 - livres
 - optimisation
 - web
 - xhtml
-categories: 
+categories:
 - Personnel
 ---
 
@@ -20,7 +20,7 @@ Ce bagage m'a permis d'affiner mon écriture sur le Web mais je cherchais à l'a
 J'apprécie ces hommes, entre autre, pour leur bonne parole donc il n'en fallait pas davantage pour me procurer cet ouvrage.
 <!--more-->
 
-### Pourquoi le lire ?
+## Pourquoi le lire ?
 
 **L'écrit Web se destine à toute personne désireuse de perfectionner son écriture**. Et plus particulièrement l'écriture sur le Web.
 Combien d'entre vous ou parmi vos connaissances n'ont jamais dis que <q>lire sur un écran c'est fatiguant, les livre c'est mieux</q> ? Une bonne majorité. Et c'est bien parce qu'on ne lit pas de la même manière un livre qu'un écran d'ordinateur qu'on doit impérativement adapter son écriture à un lectorat volatile, contraint par la technologie et difficile à capter.
@@ -40,7 +40,7 @@ L'idée générale n'est pas d'apprendre à écrire mais de _réapprendre_. Les 
 *   on lit moins vite sur un écran d'ordinateur ;
 *   on lit en profondeur et non à plat, grâce aux liens hypertextes (qui ralentissent aussi la lecture).
 
-### Organiser et structurer
+## Organiser et structurer
 
 En partant de ces principes là, il faut donc songer à réorganiser ses textes voire ses sites Web d'une part pour faciliter la vie de ses lecteurs (occasionnels ou pas) mais aussi pour capter plus facilement leur attention. Que faites-vous devant un gros pavé de texte ou un site mal organisé ? Vous zappez. Alors pensez qu'on fait de même avec ce que vous écrivez ;-) .
 
@@ -58,7 +58,7 @@ Autre conseil judicieux, respecter les 5W (ou <acronym title="">QQOQP</acronym> 
 5.  **P**ourquoi ? (_**W**hy_)
 En y songeant lors de la rédaction et en respectant l'ordre, on se retrouve à construire des **phrases informatives, bien structurées et plaisantes à lire**. Cumulez avec la pyramide inversée et c'est le gros lot : votre lecteur sait tout et tout de suite.
 
-### Comment mieux écrire pour le Web
+## Comment mieux écrire pour le Web
 
 Maintenant que l'on connaît l'ordre de rédaction, écrivons mieux. Écrivons court en suivant les principes <q>1 idée par phrase</q> et <q>sujet, verbe, complément</q>. La lecture n'en est que fluidifiée. Si en plus il n'y a pas de fautes d'orthographe et que le style reste naturel, alors on touche presque au but.
 
@@ -68,7 +68,7 @@ Cette particularité est une bonne raison pour **donner des titres explicites**.
 **La construction des liens hypertexte** était indispensable et mérite vraiment d'être lue par toute personne peu familière du référencement. Au-delà de cette pratique, ce sont tout simplement la compréhension et l'accessibilité qui sont en jeu. Pas de liens sur des <q>cliquez ici</q>, <q>ici</q> ou <q>là</q>. Je rajouterai même qu'il ne faut pas de liens ayant le même libellé pointant vers des URL différentes.
 Tout comme [le libellé du lien décrit le contenu vers lequel il pointe](http://fr.opquast.com/bonnes-pratiques/fiche/167), il vaut mieux englober plusieurs mots (plus facile à cliquer) et qu'ils soient soulignés surtout ! Combien de chartes graphiques je reçois sans aucun lien soulignés ; j'outrepasse systématiquement cette mauvaise pratique du graphiste, dans le contenu en tous cas.
 
-### Conclusion
+## Conclusion
 
 **J'ai énormément apprécié et appris de ce livre**, surtout les parties structurelles et organisationnelles. La pyramide inversée et les bonnes pratiques de rédaction sont des gros "plus" que j'ai rarement retrouvé ailleurs ... ou tout du moins, pas concentré en si peu de pages.
 Il se lit très bien et rapidement. J'ai prévu de l'offrir à quelques collaborateurs rédacteurs qui seront susceptibles d'en tirer des leçons et ainsi améliorer leur qualité rédactionnelle. Un bon investissement.

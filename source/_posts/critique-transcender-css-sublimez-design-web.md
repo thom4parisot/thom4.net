@@ -30,7 +30,7 @@ Ou comment CSS, sémantique, intégration XHTML, microformats, sources d'inspira
 
 ![Extrait du chapitre “Découverte” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-1-decouverte.jpg)
 
-### Découverte
+## Découverte
 
 <q>Organiser les contenus avant tout</q>, tel est le credo de **Transcender CSS**. C'est l'objectif majeur de cette première partie ; partie qui devrait être lue et transmise par tous les enseignants puisqu'elle explique **comment on adapte le design au contenu** et non l'inverse.
 
@@ -48,7 +48,7 @@ Et d'aborder dans la foulée les [microformats](https://oncletom.io/2007/07/31/s
 
 ![Extrait du chapitre “Processus” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-2-processus.jpg)
 
-### Processus
+## Processus
 
 **Transcender CSS** s'intéresse à une approche industrielle du processus de création. Autrement dit : **comment proposer efficacement une interface graphique à un client/décideur sans investir trop de temps**. Nous savons tous qu'il y a toujours du changement, mineur mais surtout majeur, et qu'il est difficile de chambouler toute une feuille de style pour repositionner des éléments en conservant une cohérence.
 
@@ -63,7 +63,7 @@ L'ouvrage poursuit sur des **bonnes pratiques d'organisation de son code** au se
 
 ![Extrait du chapitre “Inspiration” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-3-inspiration.jpg)
 
-### Inspiration
+## Inspiration
 
 Cette troisième partie a été mon deuxième choc pendant la lecture. C'est la partie dans laquelle j'ai le plus appris car **elle explore des aspects finalement peu abordés** dans les ouvrages liés aux CSS.
 
@@ -77,7 +77,7 @@ Cette lubie n'est pas si excentrique que cela puisqu'elle nous provient directem
 
 ![Extrait du chapitre “Transcendance” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-4-transcendance.jpg)
 
-### Transcendance
+## Transcendance
 
 Cette partie termine en apothéose **Transcender CSS**. Nous savons intégrer, nous savons structurer et nous savons imaginer alors maintenant il va falloir sublimer. Au prix du livre, ça serait dommage que notre côté créatif n'aie pas pris du galon ;-)
 
@@ -92,7 +92,7 @@ L'Advanced Layout est probablement l'avancée la plus attendue car elle permet d
 
 Autant dire que les **designs bâtis sur CSS 3 seront riches en créativité**. Et ce n'est pas l'initiative [Goto CSS3](http://www.gotocss3.com/) qui dira le contraire ;-)
 
-### Conclusion
+## Conclusion
 
 Cet ouvrage m'a énormément plu pour 2 raisons :
 

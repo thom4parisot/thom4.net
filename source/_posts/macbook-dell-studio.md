@@ -1,7 +1,7 @@
 title: "Mon nouveau MacBook s'appelle Dell Studio"
 id: 1226
 date: 2008-12-30 07:00:56
-tags: 
+tags:
 - 64bits
 - acer
 - apple
@@ -13,7 +13,7 @@ tags:
 - vente liée
 - windows
 - windows vista
-categories: 
+categories:
 - Développement Web
 - Personnel
 ---
@@ -26,7 +26,7 @@ J'ai **finalement opté pour un [Dell Studio 17](http://www1.euro.dell.com/conte
 
 <!--more-->
 
-### Pourquoi pas de MacBook ?
+## Pourquoi pas de MacBook ?
 
 [![Clavier rétro-éclairé du Dell Studio 17](http://farm4.static.flickr.com/3224/3148616128_4487b7536a_m.jpg)](http://www.flickr.com/photos/the-jedi/3148616128/ "Clavier rétro-éclairé du Dell Studio 17")
 
@@ -42,7 +42,7 @@ Les Mac sont devenus un phénomène de mode voire de foire : quand je regarde ma
 
 Fin de la parenthèse ;-)
 
-### Pourquoi un Dell Studio ?
+## Pourquoi un Dell Studio ?
 
 [![Entrée d](https://oncletom.io/images/2008/12/dell-studio-17-corner-200x300.jpg "Entrée d")](https://oncletom.io/images/2008/12/dell-studio-17-corner.jpg)
 
@@ -64,7 +64,7 @@ En clair, je voulais de la RAM (merci Eclipse ;-)), de la puissance et un beau l
 
 Mais il y'avait Windows Vista.
 
-### La parenthèse remboursement de Windows Vista
+## La parenthèse remboursement de Windows Vista
 
 [caption id="attachment_1269" align="aligncenter" width="300" caption="CLUF Windows Vista / Dell"][![CLUF Windows Vista / Dell](https://oncletom.io/images/2008/12/windows-vista-cluf-300x200.jpg "CLUF Windows Vista / Dell")](https://oncletom.io/images/2008/12/windows-vista-cluf.jpg)[/caption]
 
@@ -93,7 +93,7 @@ En clair, on a le droit de ne pas avoir d'ordinateur sans qu'on nous force la ma
 
 **Les lois DADVSI, Olivennes et cie ça gonfle**. Pas étonnant que le [Parti Pirate triomphe en Suède](http://fr.readwriteweb.com/2008/12/29/divers/parti-pirate-suede/).
 
-### Ubuntu «Intrepid Ibex» 64 bits
+## Ubuntu «Intrepid Ibex» 64 bits
 
 [caption id="attachment_1268" align="aligncenter" width="300" caption="Clavier rétro-éclairé"][![Clavier rétro-éclairé](https://oncletom.io/images/2008/12/dell-studio-17-keyboard-300x200.jpg "Clavier rétro-éclairé")](https://oncletom.io/images/2008/12/dell-studio-17-keyboard.jpg)[/caption]
 
@@ -108,7 +108,7 @@ J'ai cependant rencontré 2-3 problèmes [à l'instar d'un autre utilisateur](ht
 *   avec les effets graphiques _compiz_ activés, ça clignote de partout quand je regarde une vidéo avec VLC ou Totem ; faut désactiver les effets temporairement
 Rien de bien méchant d'autant plus que ça sera sûrement corrigé dans un futur plus ou moins proche.
 
-### Conclusion
+## Conclusion
 
 Difficile de cacher ma satisfaction avec ce Dell Studio 17 : **c'est un bon produit, rapide, performant et agréable à l'œil**. Le clavier est très confortable et je prends davantage de plaisir à écrire des articles ou à tapoter sous Eclipse qu'avant. Forcément quand tout répond rapidement ...
 

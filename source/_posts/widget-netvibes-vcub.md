@@ -1,7 +1,7 @@
 title: "Widget Netvibes VCUB"
 id: 7989
 date: 2010-04-14 10:00:45
-tags: 
+tags:
 - git
 - github
 - netvibes
@@ -13,7 +13,7 @@ tags:
 - uwa
 - VCUB
 - widgets
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -21,7 +21,9 @@ Cela faisait un petit moment que je n'avais pas réalisé de [widget Netvibes](h
 
 Le compteur est remis à zéro cette année avec la publication du [widget VCUB](https://oncletom.io/code/netvibes/vcub/).
 
-### <!--more-->VCUB
+<!--more-->
+
+## VCUB
 
 Le soir en sortant du travail, j'aime bien prendre un VCUB pour prendre l'air, raccourcir mon trajet (les bus en centre-ville à 18h c'est pas forcément gagné) ou pour me déplacer plus rapidement.
 
@@ -37,7 +39,7 @@ En terme de fonctionnalités, ça reste simple : il y a la liste des stations ai
 Si vous avez des idées ou d'autres besoins, n'hésitez pas à m'en faire part. J'essaierai de les ajouter dans un délai raisonnable.
 Sinon, il ne vous restera plus qu'à contribuer au code.
 
-### Github
+## Github
 
 J'ai profité de l'occasion pour _jouer_ (oui un _geek_ joue quand il s'amuse à produire du code) avec _git_ et [Github](http://github.com), cette plate-forme de _social coding_.
 
@@ -47,12 +49,13 @@ Avec Github ce n'est pas ça, c'est presque le contraire : _forker_ c'est vraime
 
 En clair, Github peut devenir une réelle addiction pour qui aime contribuer à des projets libres et ouverts. On a envie de tout _forker_ et d'apporter notre pierre à l'édifice.
 
-### Conclusion
+## Conclusion
 
 Il est tellement plus facile de pouvoir compenser un problème lorsqu'on a les outils à disposition. En quelques 400 lignes de HTML, JavaScript et CSS tous les bordelais ont 2 choses :
 
 *   des informations fraiches sur la disponibilité des vélos à portée de main
 *   une possibilité d'enrichir eux-même le widget
+
 **La pérennité est assurée par l'ouverture du code**. Libre à vous d'en faire un widget concurrent ou de l'adapter pour une autre ville que Bordeaux.
 
 Mais surtout, tout l'intérêt d'un service (comme VCUB) repose dans la communauté et les usagers. Certaines personnes sont prêtes à donner de leur temps et de leurs idées pour enrichir un service qu'ils utilisent et apprécient.

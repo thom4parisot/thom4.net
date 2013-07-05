@@ -1,8 +1,8 @@
 title: "LesTelechargements.com et la loi DADVSI"
 id: 154
 date: 2006-03-05 12:30:43
-tags: 
-categories: 
+tags:
+categories:
 - Personnel
 ---
 
@@ -17,7 +17,7 @@ La loi **DADVSI** devait être votée à la veillée de Noël 2005 et elle l'a �
 
 Une annulation qui était finalement préférable, en tous cas aux yeux des majors de la musique. Une telle loi existe déjà aux Etats-Unis sous le nom de <acronym title="Digital Millenium Copyright Act">DMCA</acronym > depuis 1998 et en Europe sous le nom <acronym title="European Union Copyright Directive">EUCD</acronym>. La loi DADVSI est une transposition de l'EUCD pour la France. Les droits européen et français étant différents, il faut donc l'adapter à la sauce "bleu blanc rouge". Mais juste "bleu blanc rouge" car n'oublions pas que la France c'est aussi "Liberté Egalité Fraternité". Tout le contraire de la loi DADVSI, quoiqu'on nous en dise. Le but premier de cette loi est en effet de **verrouiller l'utilisation numérique** de tout contenu.
 
-### LesTelechargements.com
+## LesTelechargements.com
 
 Depuis la fin du mois de février, le [site de propagande](http://www.lestelechargements.com/) **lestelechargements.com** a été lancé sous forme d'un [blog](http://fr.wikipedia.org/wiki/Blog). Son but? Permettre aux citoyens d'en savoir plus sur la loi DADVSI et surtout, permettre au peuple de donner son avis. Soit. Ca démontre implicitement qu'on n'avait finalement aucun droit de parole avant l'échec.
 
@@ -31,7 +31,7 @@ C'était bien sûr sans compter sur une dose de mauvaise foi évidente dans la m
 *   une neutralité à faire peur: le site est une initiative du [Ministère de la Culture](http://www.culture.gouv.fr/), du [Ministère de l'Économie, des finances et de l'industrie](http://www.minefi.gouv.fr/), de la [SACEM](http://www.sacem.fr/) et de la [SACD](http://www.sacd.fr/). TOUTES ces entités sont POUR le passage de la loi DADVSI. "Liberté **égalité** fraternité";
 *   la mise en place de cette farce a coûté la bagatelle de 180000€. Rien que ça. Pour un site fonctionnant grâce aux logiciels libres. Ce qui a coûté? L'animation du blog, le nom de domaine et la super soirée de lancement. Ce sont vos impôts qui paient tout ça mes frères. "Liberté égalité **fraternité**".
 
-### DADVSI
+## DADVSI
 
 La loi DADVSI est composée de 270 amendements. Elle est donc assez vaste et pas forcément évidente à cerner. Vous pouvez aussi consulter le [dossier DADVSI](http://formats-ouverts.org/blog/2005/12/21/656-dossier-dadvsi) sur le site [formats ouverts](http://formats-ouverts.org/), intéressants d'ailleurs pour comprendre l'utilité des formats ouverts (en opposition aux <acronym title="Digital Rights Management">DRM</acronym>):
 
@@ -43,7 +43,7 @@ La loi DADVSI est composée de 270 amendements. Elle est donc assez vaste et pas
 *   protection juridique des mesures techniques
  (légaliser les systèmes de protection)*   l'interopérabilité (permettre l'utilisation d'un fichier protégé sans restriction de système d'utilisation)
 
-### Ne pas faire confiance à la "confiance numérique"
+## Ne pas faire confiance à la "confiance numérique"
 
 TOUT dans la loi DADVSI n'est pas à jeter, au contraire. Le gros problème vient du fait que ceux qui y gagnent sont les maisons de disque, ceux qui y perdent sont les utilisateurs. Cette loi est censée protéger l'industrie de la musique du piratage. Ca signifie que cela doit aider les artistes et favoriser la diffusion de leurs oeuvres. Quand vous achetez un CD, l'artiste ne touche que 3% de son prix de vente. Ca ne favorise donc rien du tout car ce sont les maisons de disques qui favorisent en choisissant quel artiste rapportera gros, comment le promouvoir (à tort ou à raison). On crée le succès et on empoche dessus. Les artistes les plus commercialisés ne sont certainement pas ceux qui font preuve de tout leur talent. Apprenez donc à fouiller dans l'obscurité.
 
@@ -62,7 +62,7 @@ Il a été un moment question de _licence globale_. En plus de votre abonnement 
 
 Je suis contre la licence globale: je télécharge sur eMule mais pas tous les mois et la majorité de mes achats se traduisent par l'achat d'un CD/DVD par la suite (s'il est disponible dans le commerce). Tout le monde ne fait pas comme ça. Là encore les usagers un minimum réglo se font entuber en puissance. La licence globale étant optionnelle, seuls ceux ayant un minimum de conscience (et achetant donc dans le commerce) auraient intérêt à la prendre pour ne pas être dans l'illégalité. Mais dans ce cas ça revient à payer plusieurs fois pour la même chose. Pourquoi?
 
-### Un avenir en demi-teinte
+## Un avenir en demi-teinte
 
 Que ce soit en informatique, en musique, au cinéma: tout sera tôt ou tard contrôlé pour "éviter le piratage". Parce que le client est considéré comme un voleur: celui qui paie ne peut utiliser pleinement son achat tandis que celui qui pirate oui. Or sont touchés par toutes ces mesures... les gens qui paient.
 

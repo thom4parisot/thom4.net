@@ -1,14 +1,14 @@
 title: "Ubuntu 7.04 : configurer les effets graphiques"
 id: 568
 date: 2007-04-20 13:46:39
-tags: 
+tags:
 - beryl
 - bureau 3d
 - compiz
 - linux
 - logiciels libres
 - ubuntu
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -20,7 +20,7 @@ Seulement voilà, les préférences sont un peu chiches : _on active ou on n'act
 Voyons ensemble comment améliorer tout ça en n'installant qu'un tout petit programme, `gnome-compiz-preferences`.
 <!--more-->
 
-### Installation
+## Installation
 
 C'est petit, c'est léger et ça se tape rapidement : <kbd>sudo aptitude install gnome-compiz-manager</kbd>.
 
@@ -28,13 +28,13 @@ En utilisant le gestionnaire de paquets Synaptic (_Système > Administration > G
 
 ![Ubuntu : gnome-compiz-preferences](https://oncletom.io/images/2007/04/ubuntu-gnome-compiz-preferences.png)
 
-### Configuration
+## Configuration
 
 Les amateurs de la ligne de commande auront déjà flairé la manipulation, il suffit de taper <kbd>gnome-compiz-preferences</kbd>.
 
 Ce même menu se retrouve dans le menu _Système > Préférences > Bureau 3D_. Même s'il n'est pas des plus complets, c'est en tous cas bien mieux que les deux pauvres options de base ;-)
 
-### J'ai perdu mes bordures de fenêtres !
+## J'ai perdu mes bordures de fenêtres !
 
 Il se peut qu'activer le bureau 3D rende vos bordures de fenêtres invisibles. Il faudra modifier le fichier de configuration du serveur vidéo _X11_. Rien de méchant ;-)
 Tapez <kbd>sudo gedit /etc/X11/xorg.conf</kbd>. Placez-vous au niveau de _Section "Device"_ et rajoutez la ligne <kbd>Option "AddARGBGLXVisuals" "True"</kbd>

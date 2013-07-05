@@ -1,14 +1,14 @@
 title: "Réussir son blog professionnel − deuxième édition"
 id: 13332
 date: 2010-06-10 15:00:04
-tags: 
+tags:
 - blog
 - blog pro
 - communication
 - eyrolles
 - influence
 - livre
-categories: 
+categories:
 - Projets
 ---
 
@@ -20,7 +20,7 @@ J'y répondrai, rassurez-vous ;-)
 
 <!--more-->
 
-### Une édition, pourquoi si tôt ?
+## Une édition, pourquoi si tôt ?
 
 Une deuxième édition après seulement 9 mois de mise en rayon, ce n'est pas très courant. À vrai dire, je ne m'y attendais pas non plus mais la raison était simple. Début mars 2010, j'apprends que le premier tirage − 1800 exemplaires − arrive à épuisement. 2 alternatives me sont proposées :
 
@@ -30,7 +30,7 @@ La deuxième option n'aurait pas été drôle si je n'avais pas jusqu'au 1<sup>e
 
 L'actualité des réseaux sociaux ayant été chargée depuis septembre 2009, **je souhaitais limiter l'obsolescence du contenu**.
 
-### Nouveautés et changements
+## Nouveautés et changements
 
 En grand garçon organisé et méthodique que je suis, j'avais déjà noté tous les chapitres et sous-chapitres impactés par des mises à jour de contenu. En acceptant ce petit défi, j'avais donc la tranquillité d'esprit de mon côté. Il n'y avait plus qu'à écrire.
 Et c'est aussi ce qui évite tout sentiment de précipitation quant à la fenêtre réduite pour y parvenir.
@@ -51,7 +51,7 @@ Et du côté des changements, de manière _synthétique_ :
 7.  mise à jour des données de Yammer − recherche améliorée, hashtags etc.
 J'ai déjà des idées pour la troisième édition, mais si vous avez des requêtes, corrections ou d'autres idées à faire passer, **n'hésitez pas** :-)
 
-### Le phénomène des blogs
+## Le phénomène des blogs
 
 Honte à moi, je n'avais pas parlé de cette vidéo réalisée par 2 anciens de mes étudiants en [SRC à Bordeaux](http://www.srcbordeaux.com/). [Béatrice Valéro](http://www.beatricevalero.com/) a, à mon sens, réalisé un sacré travail de conception/réalisation/montage. Je ne saurais que recommander son travail en dépit d'un caractère bien trempé ;-)
 
@@ -61,7 +61,7 @@ J'ai choisi d'inclure cette vidéo en fin de premier chapitre, afin de clôturer
 
 [dailymotion]http://www.dailymotion.com/video/x8hpg0_documentaire-le-phenomene-des-blogs_news[/dailymotion]
 
-### Conclusion
+## Conclusion
 
 Cette actualisation a nécessité quelques heures de travail mais certainement pas autant que pour la première édition − tant mieux, c'est déjà assez éprouvant pour l'entourage qui nous prend pour un autiste, quand il arrive à comprendre ce besoin d'isolement.
 

@@ -1,7 +1,7 @@
 title: "Pourquoi apprendre quand Google le sait ?"
 id: 1308
 date: 2009-02-10 07:00:26
-tags: 
+tags:
 - aec
 - bordeaux
 - débat numérique
@@ -9,7 +9,7 @@ tags:
 - ijba
 - le monde
 - mémoire
-categories: 
+categories:
 - Travail 2.0
 ---
 
@@ -22,7 +22,7 @@ Un débat intéressant une fois de plus mais trop trempé dans le pessimisme si 
 
 <!--more-->
 
-### Apprendre ou reposer sur les connaissances entreposées sur le Web
+## Apprendre ou reposer sur les connaissances entreposées sur le Web
 
 "[Pourquoi apprendre quand Google le sait ? La mémoire court-circuitée par le Net](http://www.aecom.org/blog/rdv/2009/01/le-dbat-numrique-pourquoi-apprendre.html)", un titre un brin provocateur mais qui reflète un certain état d'esprit. Nous cherchons et apprenons différemment depuis que l'Internet haut-débit et le développement de Google ont gagné la majorité des foyers des pays dits civilisés.
 
@@ -40,7 +40,7 @@ Au final, le résumé de fin de séance le montrait bien, je trouve qu'on restai
 *   on fait comment sans Google ?
 Alors certes c'est un débat, certains de ces points sont légitimes, d'autres moins. Au fond, [faut-il confier notre vie numérique à Google ?](https://oncletom.io/2008/03/11/google-ange-demon-vie-numerique/)
 
-### Un vrai-faux débat : parlons éducation !
+## Un vrai-faux débat : parlons éducation !
 
 ![Logo Wikipédia - L](https://oncletom.io/images/2009/02/wikipedia.png "Logo Wikipédia - L")
 
@@ -58,7 +58,7 @@ On avait droit à des cours d'éducation civique, pourquoi pas des **cours d'éd
 
 Et si on en revient à notre hypothèse de départ, à savoir que la concentration du savoir sur le Web est dangereuse, on se rend compte qu'au final, c'est la mauvaise utilisation, la non-utilisation et le manque de recul vis à vis de l'information qui sont dangereux ... pas l'étalage des connaissances.
 
-### N'oublions pas la réalité : rien n'est éternel
+## N'oublions pas la réalité : rien n'est éternel
 
 [caption id="attachment_1310" align="aligncenter" width="300" caption="Parterre de téléphones mobiles devant Barrack Obama"][![Parterre de téléphones mobiles devant Barrack Obama](https://oncletom.io/images/2009/02/obama-parterre-photos-300x236.png "Parterre de téléphones mobiles devant Barrack Obama")](http://soupsoup.tumblr.com/post/72097686/put-the-camera-down-and-enjoy-a-moment-for-once)[/caption]
 

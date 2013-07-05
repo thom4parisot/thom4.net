@@ -27,7 +27,7 @@ Pour cette édition 2010, il y a 2 thématiques transversales : le développemen
 
 <!--more-->
 
-### Les thèmes des RMLL
+## Les thèmes des RMLL
 
 Les logiciels libres sont un vaste domaine, couvrant de multiples aspects de notre vie ordinaire ... et de l'informatique. C'est pourquoi ce cycle est composé de thèmes, regroupés sur 2 jours chacun :
 
@@ -40,7 +40,7 @@ Les logiciels libres sont un vaste domaine, couvrant de multiples aspects de not
 *   Collectivités, administrations, politiques publiques
 Chacune de ces thématiques comporte ensuite des sessions. Ces sessions agissent comme des sous-thèmes, afin d'affiner et guider le visiteur au sein de la centaine de conférences réparties sur 5 jours.
 
-### La session Internet
+## La session Internet
 
 [Nicolas](http://prendreuncafe.com/) et moi-même nous occupons de la session Internet, sous-thème de « Technique ». Le [programme 2009](http://2009.rmll.info/-Internet-et-communication-.html) est à disposition si cela peut vous donner des idées.
 Allez, quelques pistes :
@@ -56,13 +56,13 @@ Allez, quelques pistes :
 *   Licences − CreativeCommons etc.
 Soyez créatifs, proposez des sujets ;-)
 
-### Internet != Web
+## Internet != Web
 
 À titre de précision : si le Web fait partie de l'Internet ; l'Internet est bien plus que le Web. Cela concerne aussi bien IRC, le transport de mails, les protocoles de transport que l'infrastructure permettant à ce nuage d'exister.
 
 Donc n'hésitez pas à avoir une vision large et de ne pas vous restreindre qu'au Web − aussi bien soit-il.
 
-### Pour en savoir plus
+## Pour en savoir plus
 
 Le site Web de l'édition 2010 des RMLL est en ligne à l'adresse permanente [http://2010.rmll.info](http://2010.rmll.info). On y trouve, entre autre, d'autres [informations sur l'appel à  conférences](http://2010.rmll.info/Appel-a-conferences.html).
 **Vous avez jusqu'au début du mois de mars pour y songer**.

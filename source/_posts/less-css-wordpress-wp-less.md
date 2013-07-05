@@ -25,7 +25,7 @@ Cet outil me paraît **indispensable** alors j'ai décidé de l'intégrer à Wor
 
 <!--more-->
 
-### LESS en quelques mots (ou lignes de code)
+## LESS en quelques mots (ou lignes de code)
 
 Pour mettre en exergue l'intérêt de LESS, je reprends un exemple officiel :
 
@@ -61,7 +61,7 @@ Une fois ce code compilé par LESS, la feuille de style générée se résume à
 
 C'est simple et efficace. Surtout quand on sait que l'on peut effectuer des opérations mathématiques, y compris en utilisant les variables, la conception va se retrouver facilitée.
 
-### L'intérêt de WP-LESS
+## L'intérêt de WP-LESS
 
 [WP-LESS](http://wordpress.org/extend/plugins/wp-less/) intègre le parseur PHP, [phpless](http://leafo.net/lessphp/), au sein de WordPress pour minimiser le travail à fournir.
 
@@ -74,7 +74,7 @@ WP-LESS agit en toute **transparence et simplicité**.
 
 [caption id="attachment_1438" align="aligncenter" width="300" caption="Arborescence du plugin WP-LESS"][![Arborescence du plugin WP-LESS](https://oncletom.io/images/2009/08/wp-less-repository-300x125.png "Arborescence du plugin WP-LESS")](https://oncletom.io/images/2009/08/wp-less-repository.png)[/caption]
 
-### Quel avenir pour WP-LESS ?
+## Quel avenir pour WP-LESS ?
 
 J'ai déjà en tête d'autres fonctions pour simplifier encore plus la vie :
 

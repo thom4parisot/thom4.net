@@ -1,12 +1,12 @@
 title: "L'annuaire Service-Public (r)évolue !"
 id: 1192
 date: 2008-11-04 07:00:55
-tags: 
+tags:
 - communication
 - critique
 - redirection
 - utilisabilité
-categories: 
+categories:
 - Accessibilité
 ---
 
@@ -18,7 +18,7 @@ Ou comment un message partant d'**un bon sentiment peut ruiner une navigation**.
 
 <!--more-->
 
-### Manque de clarté du message
+## Manque de clarté du message
 
 Voici la disposition de l'alerte une fois sur la fiche de l'organisation recherchée :
 
@@ -42,7 +42,7 @@ L'information principale se retrouve noyée dans la masse et laisse à penser qu
 
 Alors soit, cliquons sur le [seul lien de rechange que l'on ait](http://lannuaire.service-public.fr/navigation/accueil_sl.html).
 
-### Perte de l'information et de la navigation
+## Perte de l'information et de la navigation
 
 Je pense qu'en terme de perte d'information de substitution, _on ne peut pas faire pire_ (sauf à avoir un lien cassé).
 
@@ -65,7 +65,7 @@ Le pifomètre m'a fait cliquer sur le premier des 8 liens et coup de bol ... c'e
 
 J'ai désormais l'information souhaitée ... différente de la page initiale sur le futur-ex annuaire local de Service-public.fr. Mais après combien de manipulations et de réflexion ?
 
-### Conclusion
+## Conclusion
 
 Trop de manipulations c'est certain. Résumons les erreurs principales :
 

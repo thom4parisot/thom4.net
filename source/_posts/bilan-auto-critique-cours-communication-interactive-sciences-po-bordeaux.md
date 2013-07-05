@@ -24,7 +24,7 @@ L'intitulé de mon cours était sobrement **Communication interactive**, dispens
 
 <!--more-->
 
-### Les défis et problématiques
+## Les défis et problématiques
 
 Ce cours a été un défi pour moi, pour plusieurs raisons :
 
@@ -38,7 +38,7 @@ Pourquoi différente ? Car **je ne suis pas enseignant**, je n'ai pas reçu cett
 
 **L'autre défi se situait sur le format du cour**s : 3 heures. Cette durée est visiblement assez peu fréquente et pose une problématique d'attention, sur un sujet à forte vocation interactive. Parler d'Internet sans avoir la possibilité d'expérimenter en même temps, il faut avouer que ce n'est pas vraiment évident. En tous cas, pour l'immersion et la dynamique de l'échange (même si ça ne les réduit pas à néant, loin de là).
 
-### L'organisation du cours
+## L'organisation du cours
 
 N'ayant « que » 4 séances mais surtout 3 heures à remplir à chaque fois, j'ai découpé mon cours comme suit :
 
@@ -48,7 +48,7 @@ N'ayant « que » 4 séances mais surtout 3 heures à remplir à chaque fois, j'
 4.  Utilisation des réseaux, sociaux ou pas, et moyens de diffusion d'un contenu publié
 Il s'agissait en fait d'adapter le contenu de mon livre, [Réussir son blog professionnel](http://reussir-son-blog.pro/), en l'étayant et en le mettant en pratique par un public pas nécessairement au fait.
 
-### L'évaluation
+## L'évaluation
 
 L'évaluation a donc tout naturellement porté sur la** mise en œuvre d'un blog individuel** (1 seul auteur). J'ai souhaité leur laisser carte blanche sur le contenu, tout en essayant de faire comprendre que le but était d'adopter une démarche professionnelle : blog d'association, d'entreprise ou personnage fictif.
 
@@ -92,7 +92,7 @@ Avant d'expliquer le graphique ci-dessus, petit rappel des faits. Lorsque j'ai d
 
 Ce que j'en retiens c'est qu'un certain nombre d'élèves se sont pris au jeu et dépassé le simple cadre de l'exercice noté. Ça correspond d'ailleurs plus ou moins aux élèves qui ont eu les meilleures notes. J'y vois donc un rapport d'implication fort, couplé à une compréhension de l'outil qui leur en a conféré une maitrise rapide. Je ne parlerais pas de plaisir immédiat mais pas loin ;-)
 
-### Erreurs courantes des étudiants
+## Erreurs courantes des étudiants
 
 Je ne m'étalerai pas sur les aspects positifs pour la simple et bonne raison que l'exercice a été réussi dans l'ensemble, de manière inégale. Probablement par la liberté laissée d'ailleurs. On y reviendra.
 Chaque étudiant recevra mes remarques de manière individuelle, histoire de progresser et savoir sur quels points porter davantage d'efforts la prochaine fois.
@@ -105,7 +105,7 @@ Globalement, les erreurs que j'ai rencontré :
 C'est d'ailleurs assez étonnant ce dernier point, surtout de la part de communiquants. Peut-être encore la tradition de la communication à sens unique ? Ou la peur de perdre l'internaute ?
 Toujours est-il que ce n'est pas une fatalité et j'espère bien qu'ils comprendront que le maillage de l'information est un vecteur de fidélisation. L'internaute ne reviendra pas que s'il trouvait le blog peu intéressant.
 
-### Mes erreurs/lacunes
+## Mes erreurs/lacunes
 
 Je ne suis pas en reste sur les erreurs.
 
@@ -123,7 +123,7 @@ J'étais accessible pour répondre aux questions pendant les cours, chose que j'
 Par contre quelque chose que je ne changerai pas, c'est la formule : on m'a reproché de tenir une **discussion**. C'est justement ce qui me plait. C'est ce côté déstructuré où le public peut influer sur le cours de la conversation et par là même, sur le contenu même qu'il apprendra. Là encore, il faut jouer le jeu sinon on retombe dans le classique cours magistral, et franchement, pour un domaine aussi vaste, en perpétuel mouvement et à de si nombreuses facettes, j'aurais du mal à m'y résoudre.
 Même pour le bon plaisir de rassurer.
 
-### Conclusion
+## Conclusion
 
 Je suis satisfait du cours et à en lire les remarques, les élèves aussi. Certains se sont révélés, peut-être à eux-même, et ont au moins découvert dans un contexte convivial l'utilisation d'un outil aux multiples facettes, utilisable aussi bien à titre personnel que dans un contexte professionnel, dans leur association, en entreprise ou en collectivité.
 

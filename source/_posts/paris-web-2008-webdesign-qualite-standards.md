@@ -24,7 +24,7 @@ Y'a même pas de troll pendant la conférence _Internet Explorer 8_, c'est dire.
 
 <!--more-->
 
-### Les conférences en quelques mots
+## Les conférences en quelques mots
 
 Les [conférences de Paris-Web 2008](http://www.paris-web.fr/2008/-programme-) étaient réparties du jeudi au vendredi. Je souhaitais intituler cette partie "mes conférences préférées" mais en faisant le décompte, j'en citerais au moins 75% :
 
@@ -60,7 +60,7 @@ Pour avoir un peu discuté avec lui après coup, il représente une chance excep
 Si fonctionnellement je me fiche éperdument du navigateur puisque je ne l'utiliserai plus, le monde a tout à gagner à avoir **un navigateur de plus à respecter les standards**.
 Bon courage à Chris car ça ne doit pas être évident tous les jours pour lui. Je n'ose pas imaginer les montages qu'il a dû déplacer pour imposer ce choix du respect.
 
-### Du côté des ateliers
+## Du côté des ateliers
 
 Le samedi c'était ateliers : 2 sessions le matin et 2 l'après-midi. Je me suis d'ailleurs vite retrouvé avec des choix cornéliens puisque pour chaque horaire, il y avait 5 sujets qui se faisaient concurrence.
 
@@ -83,7 +83,7 @@ Rien à redire sur **RDFa vs. Microformats** même si on aurait pu éjecter les 
 
 [caption id="" align="aligncenter" width="500" caption="La sublime Amélie Boucher"][![Amélie Boucher](http://farm4.static.flickr.com/3175/3035518848_5670eddbfa.jpg)](http://www.flickr.com/photos/the-jedi/3035518848/ "Amélie Boucher")[/caption]
 
-### Sans oublier les gens !
+## Sans oublier les gens !
 
 Paris-Web c'est aussi l'occasion de [rencontrer la moitié de son aggrégateur](http://www.biologeek.com/2008/11/paris-web-2008-retours-chaud/) et de ses _followers_ Twitter ;-)
 
@@ -97,7 +97,7 @@ Et Dieu sait s'il y avait tout un tas de pointures du Web à notre disposition d
 *   Et d'excellentes découvertes : [Anthony Ricaud](http://hanblog.info/blog/), [Mathieu Pillard](http://blog.virgule.info/) et toute l'**équipe Paris-Web** !
 [caption id="" align="aligncenter" width="500" caption="La brochette des meilleurs !"][![Table ronde du jeudi](http://farm4.static.flickr.com/3270/3034679191_d551c06a85.jpg)](http://www.flickr.com/photos/the-jedi/3034679191/ "Table ronde du jeudi")[/caption]
 
-### Conclusion
+## Conclusion
 
 Bref, **Paris-Web c'est bien**. Tellement bien que l'attente de l'édition 2009 me paraît déjà insoutenable !
 

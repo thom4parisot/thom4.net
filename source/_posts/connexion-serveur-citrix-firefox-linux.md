@@ -1,7 +1,7 @@
 title: "Connexion à un serveur Citrix depuis Firefox sous Linux"
 id: 1172
 date: 2008-10-28 07:00:54
-tags: 
+tags:
 - citrix
 - deb
 - debian
@@ -13,7 +13,7 @@ tags:
 - rpm
 - vpn
 - xenapp
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -24,7 +24,7 @@ Pour les besoins du boulot et non plus pour le plaisir, j'ai eu pour impératif 
 Et bien pour une fois, je peux dire que je n'ai presque pas ramé. Vous allez voir, c'est **simple et rapide**.
 <!--more-->
 
-### Citrix Presentation Server en 2 minutes
+## Citrix Presentation Server en 2 minutes
 
 Citrix Presentation Server c'est une manière d'offrir une connexion à des applications à distance indépendamment de la machine que l'on utilise. En clair, que l'on soit sous Linux, MacOS X ou Windows, on est censé pouvoir accéder à des applications d'une infrastructure distante.
 
@@ -33,7 +33,7 @@ Tout se fait via son navigateur Web préféré (Iceweasel sous Debian, Firefox s
 
 [caption id="attachment_1185" align="aligncenter" width="500" caption="Si on en est là, c&#39;est que ça ne va pas"]![Si on en est là, c](https://oncletom.io/images/2008/10/citrix-ica.png "Téléchargement d")[/caption]
 
-### Installer le plugin ICA pour Linux
+## Installer le plugin ICA pour Linux
 
 [Une recherche Google plus tard](http://www.agaveblue.org/howtos/Citrix_ICA_How-To.shtml  "Citrix ICA Client How-To for Linux"), je découvre donc sans surprise qu'il me faut installer un client Citrix. J'ai un peu peur en imaginant qu'il ne fonctionne que sur des systèmes d'exploitation arriérés.
 
@@ -54,7 +54,7 @@ Et pourtant, quand on sait ce qu'il faut installer c'est tellement plus simple :
 4.  Dans les modules complémentaires, vérifiez que le plugin apparaît bien (ou bien dans <kbd>about:plugins</kbd>)
 [caption id="attachment_1188" align="aligncenter" width="500" caption="Plugin Citrix vu depuis le gestionnaire de modules Firefox"]![Plugin Citrix vu depuis le gestionnaire de modules Firefox](https://oncletom.io/images/2008/10/citrix-plugin.png "Plugin Citrix vu depuis le gestionnaire de modules Firefox")[/caption]
 
-### Conclusion
+## Conclusion
 
 Bref ça marche bien même sous Firefox 3 et j'en suis content. Le chargement des applications est relativement rapide. Ça fait presque bizarre de voir une application Windows bien se lancer !
 

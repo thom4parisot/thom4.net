@@ -15,7 +15,7 @@ Je me suis laissé embarquer dans un [Mozilla Doc Sprint](https://wiki.mozilla.o
 
 <!--more-->
 
-### _Documenter_ c'est pas sexy
+## _Documenter_ c'est pas sexy
 
 À observer la réaction des gens qui se voyaient présenter l'évènement, clairement, ça ne les attirait pas.
 
@@ -25,7 +25,7 @@ Pour l'instant dire "on fait un apéro et on parle de <insérer ici un nom de la
 
 Bref, revenons à nos moutons.
 
-### Table de compatibilité automatisée
+## Table de compatibilité automatisée
 
 Un des axes de travail est de [renseigner les tables de compatibilité](https://developer.mozilla.org/fr/docs/Project:Compatibility_tables). C'est un travail effectué à la main, essentiellement en se basant sur [caniuse.com](http://caniuse.com) (mais pas que).
 Premier réflexe : me dire qu'on peut _automatiser_ la génération des tables, que c'est facile, et que ça peut se scripter avec [CasperJS](http://casperjs.org/).
@@ -47,7 +47,7 @@ Le plus gênant est ce dernier point. Il faudrait que le générateur de table d
 *   dans un deuxième temps passer par l'[API PUT de MDN](https://developer.mozilla.org/en-US/docs/User:lmorchard/PUT-API) pour automatiser l'écriture des tables de compatibilité.
 Le constat est qu'il faudrait bien plus que la journée pour faire quelque chose d'efficace et vraiment fonctionnel. La bonne idée tombe un peu à l'eau ; j'aurais aimé avoir quelque chose d'utile/utilisable dans l'après-midi.
 
-### href=#top
+## href=#top
 
 Par ricochet, je commence à chercher l'origine de la [compatibilité avec `href="#top"`](https://developer.mozilla.org/en-US/docs/HTML/Element/a#Browser_compatibility). C'est supporté depuis Firefox 10 (janvier 2012) donc autant dire que c'était récent.
 
@@ -57,7 +57,7 @@ Puis de constater que ce comportement a été [standardisé dans HTML5](http://w
 
 Une bonne heure de passée juste pour naviguer, lire et rajouter … un lien hypertexte dans [MDN](https://developer.mozilla.org/).
 
-### load et beforeunload
+## load et beforeunload
 
 [_beforeunload_, ça remonte (déjà) à 2008](http://blog.whatwg.org/this-week-in-html-5-episode-16), dans un résumé hebdomadaire du travail sur HTML5.
 
@@ -73,7 +73,7 @@ Au final, une après-midi aura été nécessaire pour compléter 4 pages dans MD
 *   [beforeunload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/beforeunload)
 [![6843235730_1cdac9f950_z](https://oncletom.io/images/2013/02/6843235730_1cdac9f950_z-600x399.jpg)](http://www.flickr.com/photos/the-jedi/6843235730/)
 
-### Conclusion
+## Conclusion
 
 Cette journée m'a permis d'**infirmer l'assertion** qui consiste à dire qu'_il faut savoir_ pour documenter.
 

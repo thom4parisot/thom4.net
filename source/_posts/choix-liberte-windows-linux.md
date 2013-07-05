@@ -1,13 +1,13 @@
 title: "Du choix de la liberté"
 id: 447
 date: 2007-02-13 13:00:48
-tags: 
+tags:
 - drm
 - linux
 - logiciel libre
 - logiciels libres
 - windows
-categories: 
+categories:
 - Personnel
 ---
 
@@ -19,7 +19,7 @@ Bref, aucune raison de changer.
 <!--more-->
 **Windows XP** a été pour moi un système stable et quasiment dépourvu d'écrans bleus. Une mise en réseau facilitée (terminé les heures passées à configurer / rebooter pour jouer à _Quake II_ en réseau local), une interface simple et des performances de jeux supérieures à Windows 2000.
 
-### La première expérience Linux
+## La première expérience Linux
 
 Ma première expérience sur un système d'exploitation non-Windows fût la Mandrake 8 ou 9\. Probablement la 8 d'ailleurs. Elle est restée une demi-journée sur mon ordinateur : je ne comprenais rien au système de partitionnement ([ext2](http://fr.wikipedia.org/wiki/Ext2), [ext3](http://fr.wikipedia.org/wiki/Ext3) qu'est-ce que c'est ?), je n'arrivais pas à utiliser mon modem ADSL ni à partager la connexion Internet de l'autre PC familial. Bref, aucun intérêt.
 
@@ -27,13 +27,13 @@ Ca devait être en 2001\. 3 années passèrent, les études étaient terminées.
 
 _Fedora Core 3_ resta sur mon PC en [dual boot](http://fr.wikipedia.org/wiki/Multiboot) avec Windows XP pendant un moment, le temps de flinguer entièrement l'installation et de passer à _Fedora Core 4_. Un peu intégriste dans l'âme, je n'envisageais pas de passer à autre chose mais bon, 95% de mon temps se passait encore sous Windows. Fedora était bien mais vraiment trop lente à mettre à jour sans compter qu'elle manquait de finition (bugs de clavier inexpliqués, mises à jour de version un peu casse-cou, système de mise à jour pas vraiment automatisé etc.).
 
-### Ubuntu : Linux pour les êtres humains
+## Ubuntu : Linux pour les êtres humains
 
 [Ubuntu](http://www.ubuntu-fr.org) arriva alors. Installation simplissime, aucun problème, tout fonctionnait au quart de tour. Mon principal critère était la finition de la distribution (ce qui était et est toujours le cas), le système de gestion de paquets au point (_apt-get_, ça m'évitait d'installer Debian, n'étant pas assez sûr de moi à ce niveau). Mais là encore, je démarrais sous Windows les 95% du temps.
 
 Jusqu'au jour où j'ai modifié le chargement par défaut de mon système d'exploitation pour mettre Ubuntu en me disant <cite>maintenant tu vas apprendre</cite>. Et j'ai appris. Maintenant je démarre Windows ... 5% des fois (même pas une fois par semaine) et très souvent pour une seule application : _Dreamweaver_ (je me soigne, bientôt je passerai à autre chose promis).
 
-### Du choix de la liberté
+## Du choix de la liberté
 
 Après avoir suivi Window pendant tant d'années, pourquoi le quitter et passer à un système qui me ferait passer pour un _geek_ ou un marginal de première ? Par choix. Par soucis de liberté. Par philosophie.
 Ce n'est cependant pas une explication valable pour tout utilisateur Windows averti : Windows XP marche bien, très bien même alors qu'y a-t-il de mieux sous Ubuntu (et le monde Linux en général) que n'a pas Windows ?

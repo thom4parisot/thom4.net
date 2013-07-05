@@ -1,7 +1,7 @@
 title: "Google, ange et démon : faut-il lui confier notre vie numérique ?"
 id: 882
 date: 2008-03-11 07:00:27
-tags: 
+tags:
 - gmail
 - google
 - google adsense
@@ -11,7 +11,7 @@ tags:
 - MySQL
 - wine
 - yahoo
-categories: 
+categories:
 - Personnel
 ---
 
@@ -23,9 +23,9 @@ Au-delà de ces querelles insipides et totalement subjectives, **qu'est-on en dr
 Aujourd'hui **nous confions notre vie à Google avec plus ou moins de visibilité** : données personnelles, emails, mots de passe, habitudes comportementales, organisation professionnelle et j'en passe. Est-ce parce que c'est écrit Google que l'on peut dormir tranquille ?
 <!--more-->
 
-### Quels intérêts à confier sa vie à Google ?
+## Quels intérêts à confier sa vie à Google ?
 
-#### Des services qui justifient leur taux d'adoption
+### Des services qui justifient leur taux d'adoption
 
 Rendons à César ce qui appartient à César : de **nombreux services Google sont exemplaires et méritent d'être utilisés**. Difficile de ne pas faire état du moteur de recherche, LE service qui a révélé Google au monde entier et sur lequel il a basé tout le reste de sa stratégie. Il n'est peut-être pas pertinent sur toutes les recherches (d'où l'intérêt d'avoir un choix de moteurs) mais il faut bien avouer que ses réponses cadrent bien avec les requêtes.
 Bilan des courses ? Un **moteur employé à hauteur de 90% en Europe** ; chiffre qui devrait être atteint fin 2008/début 2009 aux États-Unis.
@@ -34,7 +34,7 @@ Comment continuer sans parler de [Gmail](http://mail.google.com/) (emails), [Goo
 
 Tous ces services, on aurait du mal à les quitter du jour au lendemain, d'autant plus qu'ils sont gratuits. C'est peut-être à ça que l'on reconnaît un produit indispensable :** il améliore notre quotidien et ne représente pas une contrainte**.
 
-#### Des services tournés vers l'utilisateur
+### Des services tournés vers l'utilisateur
 
 [![Simplexité et Gmail](http://www.fredcavazza.net/wp/wp-content/uploads/Q1-08/Gmail2.jpg)](http://www.fredcavazza.net/wp/wp-content/uploads/Q1-08/Gmail2.jpg)
 
@@ -45,7 +45,7 @@ Leurs interfaces ne sont pas forcément belles, ne proposent pas d'effets graphi
 
 Une raison de plus d'utiliser des services Google.
 
-#### La gratuité n'a pas de prix
+### La gratuité n'a pas de prix
 
 Pourquoi payer quand on peut avoir quelque chose gratuitement ? Cet adage habille très bien Google puisque tous les services grand public sont gratuits (avec éventuellement quelques options payantes). Je me souviens encore des railleries au lancement de Gmail : <q>1Go pour ses mails ? Ça sert à rien</q>.
 Il n'empêche que pour bénéficier d'une telle capacité à l'époque il fallait mettre la main à la poche. Et effectuer une **recherche pour trouver un email datant de 3 ans ça n'a pas de prix** ... ou plutôt si ça en un : c'est cher, très cher. Mais pas pour Google. Maintenant qui cracherait sur son archivage d'emails ?
@@ -55,18 +55,18 @@ Cette gratuité n'est pas de la philanthropie de la part de Google (la [Fondatio
 
 En clair, **utiliser Google est gratuit mais permet même de générer des revenus**. Elle est pas belle la vie ?
 
-#### Une innovation qui hisse le Web
+### Une innovation qui hisse le Web
 
 Une autre raison de soutenir Google et/ou d'utiliser ses services est en rapport avec la **dynamique que le géant a su insuffler au Web** : l'innovation. Le grand réveil est apparu avec l'introduction de _Gmail_ et par la suite, de _Google Maps_. Ces 2 services ont été le catalyseur de ce qui a été bêtement appelé "Web 2.0". Le Web était tout simplement passé de l'enfance à l'adolescence.
 
 Par delà cet aspect visible, il y a également un travail de l'ombre avec des contributions à des projets libres tels que [Mozilla Firefox](http://www.getfirefox.com/), [Wine](http://www.winehq.org/) ou encore [MySQL](http://www.mysql.com/). Google utilise ces produits et redistribue ses contributions par rapport à son utilisation.
 En fournissant une forge nommée [Google Code](http://code.google.com/), Google permet aussi à des projets de naître en leur fournissant une infrastructure, certes limitée, à moindre coût.
 
-### De quoi est-on en droit de se méfier ?
+## De quoi est-on en droit de se méfier ?
 
 ![Google : Don’t Be Evil](https://oncletom.io/images/2008/03/google-dont-be-evil.gif)
 
-#### Don't be evil
+### Don't be evil
 
 Tout ceci paraît bien évidemment idylique : Google est beau, Google est grand, Google est fort. Son slogan est même <q>Don't be Evil</q>. Ne sois pas mauvais. **Sauf que mauvais, Google l'est quelques fois**. Notoriété oblige, tout problème est amplifié, à tort ou à raison et se termine parfois en polémique obligeant Google à faire marche arrière.
 
@@ -74,7 +74,7 @@ Des exemples ? La [controverse Google Reader et des amis](http://arstechnica.com
 
 On ne peut pas dire que la communication de Google à ce niveau aie été exemplaire ni ... entendue.
 
-#### Une communication destructurée
+### Une communication destructurée
 
 En y réfléchissant, **qui sait ce que Google va lancer dans 1, 2, 3 ou 6 mois** ? Pas grand monde. Si on sait que le [Master Plan](http://googlesystem.blogspot.com/2006/08/googles-master-plan.html) est la clé de tout, toujours est-il qu'on ne sait pas et qu'en dehors des annonces de produit, Google cultive le mystère.
 
@@ -84,7 +84,7 @@ Cette communication du _blackout_ est problématique pour une société censée 
 
 ![Google Web Accelerator stats](https://oncletom.io/images/2008/03/google-web-accelerator.gif)
 
-#### À la merci d'une politique obscure
+### À la merci d'une politique obscure
 
 Quand on aime, on ne compte pas. Et on se retrouve avec une majorité de produits Google dans notre quotidien.
 Ces produits sont nombreux, variés et certains sont totalement inconnus. C'est comme ça que [certains produits ferment du jour au lendemain](http://googleblog.blogspot.com/2006/11/adieu-to-google-answers.html) sans qu'on sache trop pourquoi si ce n'est qu'ils sont peu utilisés.
@@ -94,7 +94,7 @@ Votre épicier vous prévient avant de partir en congès alors pourquoi pas Goog
 
 Le pire c'est peut-être quand on n'utilise pas Google mais une société que Google rachète : les clients d'[Urchin](http://fr.wikipedia.org/wiki/Urchin_Software_Corporation) et de GrandCentral se mordent encore les doigts de ces acquisitions. À peine rachetés, ces services ont été fermés/non-maintenus. Il aura fallu attendre 3 ans pour qu'une nouvelle version du logiciel Urchin sorte ... en beta. C'est d'autant plus problématique que c'était le logiciel de sa catégorie le plus abouti.
 
-### Conclusion
+## Conclusion
 
 Je ne fais pas partie de ceux qui adulent corps et âme Google.
 Je ne fais pas non plus partie de ceux qui lui crachent dessus systématiquement.

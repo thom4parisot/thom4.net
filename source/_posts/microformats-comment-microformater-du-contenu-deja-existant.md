@@ -35,7 +35,7 @@ Nous nous intéresserons cette fois-ci à une partie plus pratique des microform
 
 <!--more-->
 
-### Des sites déjà microformatés
+## Des sites déjà microformatés
 
 Intéressons-nous toutefois à des sites ayant déjà microformaté leurs contenus. Nous pourrons ainsi éveiller notre curiosité et préparer le travail de réflexion de la prochaine étape.
 
@@ -70,7 +70,7 @@ Le microformat par excellence à adopter était bien évidemment le [microformat
 
 Ce microformatage permet d'aller au-delà d'une lecture classique puisque de manière simple, elle permet au visiteur de récupérer les évènements qui l'intéresse pour les ajouter à son gestionnaire de temps favoris, qu'il soit logiciel ou en ligne.
 
-### Identifier visuellement les microformats à intégrer
+## Identifier visuellement les microformats à intégrer
 
 Identifier des microformats déjà implémenté est assez simple avec les outils adéquats. En revanche pour décider de microformater du contenu, deux outils sont indispensables :
 
@@ -112,7 +112,7 @@ J'ai dénombré pas moins de 5 zones pouvant accueillir des microformats :
 
 Avec ce dernier exemple, nous venons de voir que le microformatage était facilement adaptable à un site Web de société. Dans ce cas précis, il y a énormément de contenu republiable mais pas systématiquement de manière pertinente.
 
-### Intégrer les microformats dans du (X)HTML
+## Intégrer les microformats dans du (X)HTML
 
 Les précédents exemples, sur de l'existant et ce qui pourrait exister, avaient pour but de former notre esprit à reconnaitre des zones susceptibles d'être microformatées.
 
@@ -176,7 +176,7 @@ Le [microformat XOXO](http://microformats.org/wiki/xoxo) nous permet de définir
 Le microformatage a été rendu possible uniquement en utilisant de manière standardisée des attributs définis par XHTML.
 Malgré cet aspect de simplicité, il faut s'investir dans la compréhension des spécifications XHTML. Ce n'est un problème que pour les personnes produisant du code XHTML non-conforme.
 
-### Valider l'intégration des microformats
+## Valider l'intégration des microformats
 
 La question qui se pose toujours après avoir produit un code quelconque c'est comment le tester ? Il existe à l'heure actuelle trois outils gratuits :
 
@@ -184,7 +184,7 @@ La question qui se pose toujours après avoir produit un code quelconque c'est c
 *   l'[extension Operator pour Firefox](https://addons.mozilla.org/firefox/addon/4106). Elle n'est toutefois pas complète et ne permettra pas de tester tous les microformats existants. Cette extension propose dans ses options un _mode débogage_ très utile ;
 *   le service en ligne [Optimus](http://microformatique.com/optimus/). Ce service polyvalent est capable de retourner sous forme de flux XML ou JSON les microformats présents dans une page Web. Il propose également un validateur, toujours pour une page Web, décrivant les erreurs de microformatage.
 
-### Conclusion
+## Conclusion
 
 Il est difficile d'infuser en un article la manière de microformater du contenu. Fort heureusement la documentation des microformats abonde d'exemples en traitant des cas de figure concrets. Les spécifications restent là pour savoir quels sont les attributs, obligatoires ou pas.
 

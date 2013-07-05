@@ -1,12 +1,12 @@
 title: "Profil Viadeo supprimé, LinkedIn traduit en français"
 id: 1136
 date: 2008-12-02 07:00:24
-tags: 
+tags:
 - données personnelles
 - linkedin
 - reseaux sociaux
 - viadeo
-categories: 
+categories:
 - Travail 2.0
 ---
 
@@ -18,7 +18,7 @@ Pourtant [j'ai supprimé mon profil Viadeo en septembre 2008](http://twitter.com
 
 <!--more-->
 
-### Développer son identité professionnelle via les réseaux sociaux
+## Développer son identité professionnelle via les réseaux sociaux
 
 Aujourd'hui il faut exister sur Internet, à plus forte raison quand on est un professionnel. Surtout du Web. Quand je suis contacté par une personne que je ne connais pas, mon réflexe est de chercher dans [Google](http://google.fr), [Facebook](http://facebook.com), [LinkedIn](http://linkedin.com) et [Spock](http://spock.com).
 Ça me fait toujours drôle de ne pas trouver un seul résultat : la personne qui me contacte n'a vraiment aucune activité sur Internet ? J'ai peine à croire que non.
@@ -34,7 +34,7 @@ Mettre à jour un statut ça paraît bête mais vous _poussez_ cette information
 
 [caption id="attachment_1233" align="aligncenter" width="500" caption="Connaissances, partagées ou non"]![Connaissances, partagées ou non](https://oncletom.io/images/2008/12/linkedin-shared-connections.png "Connaissances, partagées ou non")[/caption]
 
-### Les raisons d'une suppression
+## Les raisons d'une suppression
 
 Malgré toutes les qualités que pouvait avoir Viadeo, j'ai supprimé mon profil pour 2 raisons :
 
@@ -53,7 +53,7 @@ Je passe ensuite sur les 2 autres points puisque c'est purement subjectif. Toute
 
 [caption id="attachment_1232" align="aligncenter" width="500" caption="Statistiques géographiques de LinkedIn"]![Statistiques géographiques de LinkedIn](https://oncletom.io/images/2008/12/linkedin-geostats.png "Statistiques géographiques de LinkedIn")[/caption]
 
-### La solution LinkedIn
+## La solution LinkedIn
 
 Je dispose d'un [profil LinkedIn](http://www.linkedin.com/in/thomasparisot) depuis 1 an et demi. Je n'ai jamais rien eu à reprocher à LinkedIn :
 

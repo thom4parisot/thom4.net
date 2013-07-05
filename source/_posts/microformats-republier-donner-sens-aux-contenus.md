@@ -33,7 +33,7 @@ En ce sens, les formats <acronym title="Ressource Description Framework">RDF</ac
 
 **Les microformats sont nés du constat de complexité de mise en œuvre du couple RDF/OWL et d'un besoin de simplicité**.
 
-### Les microformats
+## Les microformats
 
 Tantek Çelik et Adam Rifkin dévoilent le concept des microformats en 2004 après 2 années d'expérimentation. Ils ne s'en cachaient pas : ils souhaitaient démocratiser et implanter la sémantique au cœur du Web en s'affranchissant au maximum de contraintes techniques.
 C'est ainsi qu'au lieu de créer un énième format de fichier les microformats se greffent sous la forme d'attributs (X)HTML pour tenter de donner du sens au contenu.
@@ -49,7 +49,7 @@ Il existe plusieurs spécifications de microformats :
 *   [XOXO](http://microformats.org/wiki/xoxo) (description de contenus) ;
 *   et de nombreux motifs de conception rel-* ([tags](http://microformats.org/wiki/rel-tag), [nofollow](http://microformats.org/wiki/rel-nofollow), [license](http://microformats.org/wiki/rel-license), [home](http://microformats.org/wiki/rel-home) etc.).
 
-### Intérêts et utilité des microformats
+## Intérêts et utilité des microformats
 
 La force des microformats réside dans sa souplesse d'utilisation, leur approche métier et surtout, la réutilisation de formats existants.
 Les microformats se basent sur deux attributs [[1](#nb1 "[1] Il en existe en réalité 3 mais l")] de (X)HTML :
@@ -80,7 +80,7 @@ Enfin, et pour achever d'attiser votre curiosité, voici un résumé des microfo
 *   ils offrent des perspectives d'interaction et de navigation intelligente pour les visiteurs d'une page microformatée ;
 *   ils sont un socle pour réutiliser le contenu (cf. « Outils agrégeant les microformats »).
 
-### Cas pratique : offrir une carte de visite en visitant une page Web
+## Cas pratique : offrir une carte de visite en visitant une page Web
 
 Prenons par exemple le cas des fichiers vCard. Nos carnets d'adresses en raffolent car ils contiennent des informations de contact : nom, prénom, adresse, numéro de téléphone, email etc.
 Il n'est pas rare de recevoir des emails contenant une vCard en pièce-jointe. Un clic dessus et les informations de l'expéditeur se retrouvent dans notre carnet d'adresses.
@@ -109,7 +109,7 @@ Google Maps pour obtenir les coordonnées GPS de l'adresse.
       <div>Email: <span class="email">commercial@clever-age.com</span></div>
     </div>
 
-### Outils proposant des microformats
+## Outils proposant des microformats
 
 Les industriels et les leaders du Web contribuent à diffuser les microformats en les adoptant progressivement. Cette adoption apporte une valeur ajoutée à leurs services et facilite la vie des utilisateurs.
 Concrètement, ils microformatent leur contenu pour enrichir leur présentation et faciliter les interactions avec d'autres services.
@@ -122,7 +122,7 @@ Voici une liste non-exhaustive de services proposant des contenus microformatés
 *   _Outils sociaux_ ([Flickr](http://flickr.com), [Del.icio.us](http://del.icio.us), [Ma.gnolia](http://ma.gnolia.com)) ;
 *   _Réseaux sociaux_ ([LinkedIn](http://www.linkedin.com), [Ziki](http://www.ziki.com)).
 
-### Outils agrégeant les microformats
+## Outils agrégeant les microformats
 
 ![Extension Operator pour Firefox](https://oncletom.io/images/2008/01/microformats-operator-c2fc2.png)
 
@@ -143,7 +143,7 @@ D'autres outils plus confidentiels s'efforcent de défricher le terrain, notamme
 *   [atom2rss](http://atom.geekhood.net/) ;
 *   [X2V](http://suda.co.uk/projects/X2V/).
 
-### Conclusion
+## Conclusion
 
 **Il est de plus en plus facile de microformater les contenus, d'interagir avec et de les republier**. Leur faible coût d'intégration et la rapidité
 d'apprentissage sont d'autres atouts pour intéresser vos intégrateurs HTML, vos programmeurs ou même vos décisionnels.
@@ -153,7 +153,7 @@ Ces pratiques ont pour vocation d'être généralisées, de quoi nous faciliter 
 Nous verrons dans une prochaine partie des bonnes pratiques d'intégration des microformats à des contenus déjà existants. Ce sera d'ailleurs l'occasion
 de remarquer que **sémantique, respect des standards et accessibilité génèrent une incroyable synergie**.
 
-### Pour en savoir plus
+## Pour en savoir plus
 
 *   [Présentation des microformats en mars 2006 au SXSW Interactive](http://tantek.com/presentations/2006/03/microformats-sxsw/) ;
 *   [En route vers le Web sémantique](http://www.readwriteweb.com/archives/semantic_web_road.php) ;

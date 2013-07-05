@@ -1,7 +1,7 @@
 title: "Livre blanc sur les frameworks PHP : présentation et explications"
 id: 926
 date: 2008-06-18 07:00:55
-tags: 
+tags:
 - admin generator
 - bonne pratique
 - cakephp
@@ -16,7 +16,7 @@ tags:
 - php
 - scaffolding
 - symfony
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -32,7 +32,7 @@ Les _frameworks_ font partie de cette troisième catégorie. Ils existent dans �
 Mon discours portera sur les frameworks PHP, parce que c'est mon langage de prédilection mais aussi parce qu'un [livre blanc sur les frameworks PHP pour l'entreprise](http://www.clever-age.com/veille/publications/livres-blancs/livre-blanc-frameworks-php-pour-l-entreprise.html) est récemment sorti. Il parlera aussi bien aussi bien aux décisionnels qu'aux développeurs, à leur compte ou pour celui d'une entreprise.
 <!--more-->
 
-### De l'intérêt d'utiliser un framework
+## De l'intérêt d'utiliser un framework
 
 Un _framework_ est littéralement ce que l'on peut appeler un socle logiciel : il propose des fonctionnalités de base et vous les utilisez pour concevoir votre propre application.
 
@@ -52,7 +52,7 @@ Ce n'est évidemment pas une raison valable pour passer à côté d'autant plus 
 
 ![Exemple d](https://oncletom.io/images/2008/06/exemple-application-symfony.png "Exemple d")
 
-### Framework PHP ou CMS ?
+## Framework PHP ou CMS ?
 
 Maintenant vous me direz : **pourquoi développer un logiciel avec un framework au lieu d'utiliser un bon CMS des familles** ou tout autre logiciel faisant son office ?
 Ce n'est à mon sens pas la bonne question à se poser : **un framework n'est pas une fin en soi**. Le choix du logiciel dépendra essentiellement du besoin, immédiat et futur. Vous aurez beau avoir le meilleur développeur d'un CMS de votre pays, si le choix de la solution technique est déjà erroné, il ne suffira pas à éviter la catastrophe.
@@ -62,7 +62,7 @@ Dans le cas d'un développement spécifique, le choix d'un framework est dans ce
 
 Dans tous les cas, **ce sont vos besoins qui doivent vous guider vers le choix d'une solution** et non l'inverse. Ne partez pas surtout d'une solution pour tenter d'y combler vos besoins.
 
-### Les principaux frameworks PHP
+## Les principaux frameworks PHP
 
 Le [livre blanc sur les frameworks PHP](http://www.clever-age.com/veille/publications/livres-blancs/livre-blanc-frameworks-php-pour-l-entreprise.html) expose en détail les frameworks majeurs en PHP avec leurs avantages, inconvénients et surtout une **grille comparative** permettant de mettre à bout à bout leurs différentes fonctionnalités.
 
@@ -79,7 +79,7 @@ On pourrait classer ces frameworks en 2 catégories :
 *   les **briques logicielles** : ils se présentent comme des briques indépendantes qu'on peut utiliser à souhait dans n'importe quel projet, y compris d'autres frameworks. C'est notamment le cas de _PEAR_, _EZ Components_ et _Zend Framework_ ;
 *   les **frameworks à proprement parler** : ils imposent une structure particulière et des lignes directrices de développement pour être plus efficace. On citera dans ce cas _symfony_, _CodeIgniter_ et _CakePHP_
 
-### symfony : champion toutes catégories
+## symfony : champion toutes catégories
 
 ![Écran de première installation de symfony](https://oncletom.io/images/2008/06/symfony-first-install.gif "Écran de première installation de symfony")
 
@@ -95,7 +95,7 @@ Pourquoi j'apprécie énormément symfony :
 *   grand confort de développement
 *   des conventions inspirées des plus grands (Ruby on Rails, Django etc.)
 
-### Conclusion
+## Conclusion
 
 Développeurs : **renseignez-vous et intéressez-vous à au moins un framework**. C'est bien pour le CV et vous gagnerez du temps.
 Décideurs : **exigez de savoir quelle solution on vous préconise** et surtout, pourquoi celle-là. À plus forte raison si votre projet comporte beaucoup de besoins spécifiques, demandez s'il s'agit d'un framework et si ce n'est pas le cas, pourquoi ça n'a pas été envisagé. Vous gagnerez aussi du temps et j'espère de l'argent.

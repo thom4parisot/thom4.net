@@ -1,7 +1,7 @@
 title: "BlogCamp Bordeaux #3 : le dessous des cartes"
 id: 881
 date: 2008-03-04 07:00:29
-tags: 
+tags:
 - atelier
 - blog
 - blogcamp bordeaux
@@ -11,7 +11,7 @@ tags:
 - france
 - OpenOffice
 - seo
-categories: 
+categories:
 - Projets
 ---
 
@@ -22,7 +22,7 @@ J'ai tenu ma première conférence vendredi 29 février 2008 à l'occasion de **
 C'est l'occasion pour moi d'aborder cette session par un angle un peu différent, en parlant notamment de l'aspect présentation : où, quand, comment et surtout combien de temps. Ce sera un bon [complément du résumé officiel](http://blogcamp.fr/2008/03/04/compte-rendu-blogcamp-bordeaux-3/) et du [wiki BlogCamp Bordeaux #3](http://blogcamp.fr/wiki/bordeaux/blogcamp3).
 <!--more-->
 
-### L'atelier BlogCamp Bordeaux #3
+## L'atelier BlogCamp Bordeaux #3
 
 <div style="text-align:center"><object width="425" height="355">
   <param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcamp-bordeaux-3-latelier-1204382639117599-4"/>
@@ -42,7 +42,7 @@ Comme toujours, une présentation en direct est autrement plus parlante puisque 
 
 L'exercice consistait à répondre à des questions posées au préalable : de la gestion générale à du très précis ciblant la présentation d'un blog particulier. L'occasion de vulgariser au maximum des concepts tels que les sauvegardes, le référencement et les feuilles de style.
 
-### Les faits marquants de BlogCamp Bordeaux #3
+## Les faits marquants de BlogCamp Bordeaux #3
 
 Outre la razzia sur les boissons (après 1h il n'y avait déjà plus rien à boire), j'ai noté une **grande mixité des participants** : étudiants, salariés, patrons ... tous liés au Web ... ou pas. Le dénominateur commun de toutes ces personnes était clairement la curiosité de découvrir un évènement lié au Web à Bordeaux.
 C'est d'autant plus satisfaisant que ces personnes en sont reparties le sourire aux lèvres, ravies d'avoir rencontré de nouveaux contacts et constaté qu'à Bordeaux, ça bougeait enfin un peu. Une progression à suivre.

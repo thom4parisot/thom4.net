@@ -1,7 +1,7 @@
 title: "Pourquoi j'ai décidé de devenir indépendant ?"
 id: 17868
 date: 2011-03-08 10:30:21
-tags: 
+tags:
 - business
 - choix
 - cyneticmonkey
@@ -9,7 +9,7 @@ tags:
 - indépendant
 - professionnel
 - sarl
-categories: 
+categories:
 - Entrepreneuriat
 ---
 
@@ -23,7 +23,7 @@ Dans mon cas, puisque je ne peux parler que de mon expérience avec la création
 
 <!--more-->
 
-### Rendons à César ...
+## Rendons à César ...
 
 Puisqu'il faut un début à toute histoire, commençons par là. Si ma vie n'a pas démarré chez [Clever Age](http://clever-age.com), c'est en tous cas dans cette entreprise que j'ai pu m'y accomplir le plus, professionnellement parlant. Les composantes sont multiples : les échanges avec les collaborateurs, les lignes de code lues et produites, les projets gérés autant que les problématiques des clients, toutes plus uniques les unes que les autres.
 
@@ -31,13 +31,13 @@ Puisqu'il faut un début à toute histoire, commençons par là. Si ma vie n'a p
 
 J'ai d'autant plus apprécié la chance que m'a offerte cette entreprise, **jusque dans l'accompagnement dans mon départ**, en me permettant de partir avec l'indemnisation ARE de [pôle emploi](http://pole-emploi.fr). J'eus entendu à [Web2Connect](http://www.webdeux.info/webdeux-connect-programme-infos-pratiques) que **pôle emploi est le premier investisseur en France**. Je confirme que bénéficier de 15 mois de trésorerie sur son salaire est _vraiment_ confortable, autorisant une montée en puissance progressive.
 
-### Pour aller où ?
+## Pour aller où ?
 
 Aussi paradoxal que cela puisse être, il y a à peine plus d'1 an de cela, **en janvier 2010, je ne me voyais ni partir de l'entreprise**, ni monter ma propre société.
 
 À vrai dire, si je devais partir, je ne voyais qu'une entreprise où aller ; à moins de repasser du côté d'un service interne, dans une optique de produire et améliorer l'outillage Web. Parce que je crois en cette idée que le Web est une plateforme, d'échange, de développement et de mise en commun : individus, idées, code, etc.
 
-### Le déclic
+## Le déclic
 
 Pourtant, au fur et à mesure, un doute me prend, persiste et croît au point de ne plus quitter mon esprit. Vous savez, ce genre d'idées dont on ne se défait pas tant qu'on n'est pas passé à l'action. Ce genre d'idées où avec le recul, je sais que j'ai toujours pu m'y fier ; la seule occasion de m'en être abstrait n'ayant été au final qu'un boulet traîné pour une décision reportée.
 
@@ -47,7 +47,7 @@ En fait, à chaque question que je leur posais, je me prenais conscience de la r
 
 Et ça, ça dépend vraiment de tout un chacun.
 
-### Envie d'expérimenter
+## Envie d'expérimenter
 
 L'expérimentation couvre plusieurs domaines : de la relation client à la manière de gérer les projets, ainsi que les outils de production ... jusqu'aux projets. Systématiser le travail avec les développeurs Open Source, et reverser le code pouvant l'être par exemple. M'impliquer sur des projets locaux (type OpenData) parce que je n'ai plus qu'à être d'accord avec moi-même, mon emploi du temps (et mes contraintes financières).
 
@@ -56,7 +56,7 @@ L'expérimentation couvre plusieurs domaines : de la relation client à la mani�
 Dans l'expérience, j'ai aussi envie de lancer à terme quelques services, pour répondre à un manque et aussi générer des revenus cycliques.
 Bref, du vrai projet à _marketer_ sous peine d'avoir perdu du temps, mais appris techniquement dans tous les cas.
 
-### Sortir d'une zone de confort
+## Sortir d'une zone de confort
 
 Le plus dur néanmoins est d'accepter de vouloir sortir de sa zone de confort.
 
@@ -65,7 +65,7 @@ En étant indépendant, **je considère qu'on n'a plus de parachute**, qu'il soi
 Ce n'est clairement pas ce qui m'a poussé à devenir indépendant. En revanche **c'est un défi que je veux relever**, même s'il me fait peur et que oui, ma vie aurait été plus tranquille et facile avec quelqu'un (responsable d'agence, commercial etc.) pour penser à ma place ou déblayer le terrain avant de rentrer en jeu (l'allusion au sport collectif est voulue).
 C'est une manière pour moi de voir si je suis aussi à l'aise en première ligne qu'au second plan, à attendre et exécuter en étant protégé de l'environnement extérieur.
 
-### Un choix de vie personnelle
+## Un choix de vie personnelle
 
 Dernier critère à prendre en compte, celui du choix personnel : **mon choix de vie**. Il se trouve que je souhaitais revenir à plus de simplicité, moins de dépenses et me focaliser sur l'essentiel.
 
@@ -75,7 +75,7 @@ Certes, cela se traduira dans un premier temps par moins de vacances, moins de c
 
 Je peux me tromper − la peur de sombrer dans une spirale infernale m'aide à conserver une certaine lucidité quant à ce choix.
 
-### Conclusion
+## Conclusion
 
 Avec le recul et en ce qui me concerne, je me rends compte que la décision de l'indépendance sont avant tout **une histoire de parcours, d'expérience et de convictions**.
 

@@ -1,7 +1,7 @@
 title: "L’étudiant est pauvre et incompétent"
 id: 18449
 date: 2011-06-15 15:46:05
-tags: 
+tags:
 - Au travail
 - compétences
 - contrat
@@ -10,7 +10,7 @@ tags:
 - polémique
 - stagiaire
 - twitter
-categories: 
+categories:
 - Développement Web
 - Travail 2.0
 ---
@@ -25,11 +25,11 @@ Pour les âmes sensibles, **oui** le titre est provocateur et reflète l’inver
 
 <!--more-->
 
-### L’objet de la demande
+## L’objet de la demande
 
 Prompt à diffuser un message rapide, je me suis servi de Twitter en m’adressant en ces termes : « [Si un étudiant parisien s’ennuie cet été, j’ai une refonte de blog #wordpress pour lui. Payée il va de soi.](http://twitter.com/oncletom/status/80544032941539328) ».
 
-### Particulier à particulier
+## Particulier à particulier
 
 Revenons-en au contexte. La blogueuse dispose déjà d’un blog et se fait aider par un graphiste pour la conception graphique de la refonte. Reste à trouver une personne capable de décliner ce travail dans un thème WordPress, quitte à y adjoindre des plugins supplémentaires :
 
@@ -44,7 +44,7 @@ La seule alternative que je voyais était de payer un étudiant :
 *   c’est l’occasion pour lui de travailler sur un projet externe, se faire la main et d’acquérir en expérience ;
 *   ça paie les prochaines vacances, un loyer ou autre.
 
-### L’étudiant : la Cosette des temps modernes
+## L’étudiant : la Cosette des temps modernes
 
 Quelques réactions m’ont par la suite interpelé :
 
@@ -66,7 +66,7 @@ Sans vouloir tomber dans la réponse de Normand ou en éluder sa formulation, il
 *   il n’est nulle part question d’affirmer qu’un indépendant ou un étudiant ont des compétences et un niveau de compétences identiques – il y en a probablement, mais ceux-ci ne seront pas intéressés par la mission, car pas assez rémunérée à leur goût (et c’est tout à fait compréhensible) ;
 *   un étudiant voulant monnayer (régulièrement) ses compétences passera par le statut d’auto-entrepreneur et là oui, il devrait facturer autant qu’un indépendant.
 
-### Petit boulot vs. professionnalisation
+## Petit boulot vs. professionnalisation
 
 Pour résumer, à somme identique, la perception de cette rémunération sera différente.
 
@@ -75,7 +75,7 @@ L’apprentissage du prix et de la confiance en soi n’est pas innée ; l’ind
 
 Il y a ensuite le cas de l’étudiant se professionnalisant. Il sait plus ou moins ce qu’il vaut, ce que demande le marché, tant en terme de prix que de compétences. Il intègre déjà qu’il y a un delta entre le montant de sa facture et ce qu’il percevra réellement, déduction faite des impôts et des charges.
 
-### Conclusion
+## Conclusion
 
 Il serait quand même dommage de terminer sans parler de **l’intention** ; celle de la personne proposant le boulot.
 Pour une somme donnée, elle peut être de l’exploitation (surtout s’il y a revente à un tarif bien plus élevé et assimilation à de la sous-traitance), du beurre dans les épinards etc.

@@ -24,7 +24,7 @@ Je me décide à passer un coup de peinture sur ce blog quasiment 2 ans après l
 
 <!--more-->
 
-### Le besoin
+## Le besoin
 
 Mon besoin était le suivant :
 
@@ -54,7 +54,7 @@ Mon besoin était le suivant :
     *   soucis de performance (peu d'éléments graphiques, utilisation des _sprites_)
 Finalement c'est [Lesly](http://leslyg.com/) qui s'est chargé de la création graphique. Vous pouvez d'ailleurs consulter la [maquette graphique originale sur son portfolio](http://leslyg.com/work/blog-de-thomas-parisot-oncle-tom/). Quant à moi, j'ai réalisé toute l'intégration CSS/HTML dans WordPress.
 
-### L'intégration
+## L'intégration
 
 Tout d'abord, qu'est ce qui a changé par rapport à la maquette ?
 
@@ -74,7 +74,7 @@ Je suis en revanche toujours dubitatif sur l'API de WP Cron : ma tâche a beau �
 
 Au final je n'ai même pas eu à placer la moindre ligne de JavaScript : tout est fait à partir de sélecteurs CSS. Mon seul regret : l'absence de sélecteur adjacent ... "précédent". Pour le menu du haut, je voulais pouvoir styler les éléments de menus ayant comme élément suivant une liste d'élément (`<ul>`).
 
-### Au final
+## Au final
 
 J'ai mis à peu près 2 jours pour tout intégrer et optimiser. Je n'ai pas encore tenté l'optimisation à coup de PNG 8 grâce aux quelques Ko gagnés avec [pngcrush](http://pmt.sourceforge.net/pngcrush/). Il faudrait également que je réunisse quelques images dans un seul et même sprite pour gagner encore quelques dizièmes de seconde en temps de chargement.
 

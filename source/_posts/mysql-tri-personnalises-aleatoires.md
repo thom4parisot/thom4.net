@@ -20,7 +20,7 @@ La majorité des systèmes de bases de données permettent de trier une sélecti
 
 <!--more-->
 
-### Le mécanisme de tri (`ORDER BY`)
+## Le mécanisme de tri (`ORDER BY`)
 
 Pour bien comprendre comment fonctionne en détail la commande `ORDER BY`, je vous invite à lire la documentation concernant les [optimisations relatives à ORDER BY](http://dev.mysql.com/doc/refman/5.1/en/order-by-optimization.html). Ce que l'on doit en retenir :
 
@@ -33,7 +33,7 @@ Lorsqu'on veut trier des données, il vaut donc mieux _écrémer au mieux la pla
 
 Mais revenons à nos moutons.
 
-### Tri aléatoire (`ORDER BY RAND()`)
+## Tri aléatoire (`ORDER BY RAND()`)
 
 **Deux solutions s'offrent au développeur pour effectuer un tri aléatoire** : recueillir les données voulues et les trier _via_ langage de programmation (`sort()`, `ksort()` etc.) ou alors trier directement à la source _via_ la base de données.
 Si les bases de données portent leur nom, c'est bien parce qu'elles sont performantes dans leur travail donc autant leur laisser celui-là, celui du tri aléatoire, qui sera bien plus rapide et performant, surtout sur des volumes importants de données.
@@ -46,7 +46,7 @@ SELECT * FROM `ma_table` ORDER BY RAND() LIMIT 1 ;
 
 Cette instruction prendra une ligne et une seule, au hasard. Rapide, concis et efficace.
 
-### Tri personnalisé (`ORDER BY FIELD()`)
+## Tri personnalisé (`ORDER BY FIELD()`)
 
 Pire que le tri aléatoire, il y a celui du tri personnalisé, celui qui n'est _ni_ ascendant, _ni_ descendant, _ni_ aléatoire : on veut un ordre précis. Imaginons que nous nous trouvions avec la table  suivante :
 
@@ -103,7 +103,7 @@ J'aurais tendance à dire que la requête parle d'elle-même : on spécifie un t
 Ce qui est intéressant dans notre cas c'est qu'on peut donc gérer des semaines débutant le jeudi, le samedi, le dimanche ou le lundi (histoire de coller avec tous les calendriers existants). Seuls les paramètres à donner à la requête changeraient.
 C'est également intéressant pour **trier le résultat d'une requête en fonction de l'ordre des lignes d'un fichier** qui aurait été uploadé sur un serveur.
 
-### Conclusion
+## Conclusion
 
 La clause `ORDER BY` est plus puissante qu'il n'y paraît. **Elle est garante de l'ordre des résultats retournés**. Si dans certains cas l'ordre n'a pas d'importance, le contraire peut également être valable. Et c'est précisément dans ce cas que l'on aime à pouvoir manipuler les données comme on l'entend.
 Il existe d'autres possibilités intéressantes en combinant par exemple le tri et les recherches _FULLTEXT_ pour **récupérer les lignes par ordre de pertinence** ou pourquoi pas sur des **résultats de calcul**.

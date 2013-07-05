@@ -18,7 +18,7 @@ Bien souvent on modifie directement cette feuille de style pour ensuite écraser
 Et généralement on se confronte au **problème du cache des navigateurs Web**. Ces derniers conservent en mémoire les feuilles de style pendant un certain temps causant ainsi un décalage entre le fichier <acronym title="Cascading Style Sheet">CSS</acronym> du serveur (et la présentation souhaitée) et celui du navigateur (reposant sur une présentation obsolète).
 <!--more-->
 
-### Inclure une feuille de style
+## Inclure une feuille de style
 
 L'inclusion d'une feuille de style au sein même de la page n'est pas une opération qui devrait vous poser trop de problèmes. Elle peut se faire de deux façons, la première étant compatible avec tous les navigateurs, la seconde seulement avec les navigateurs modernes.
 
@@ -30,7 +30,7 @@ L'inclusion d'une feuille de style au sein même de la page n'est pas une opéra
 <style type="text/css">@import url('url/style.css') screen;</style>
 ```
 
-### Inclure une feuille de style avec mise à jour automatique
+## Inclure une feuille de style avec mise à jour automatique
 
 Vous allez voir, c'est tout bête. _On reprend l'exemple précédent_ ; on veut conserver le même nom de fichier mais il a été mis à jour et on souhaite que le _navigateur le recharge sans que l'utilisateur ait à faire un petit F5_ sur son clavier.
 
@@ -44,7 +44,7 @@ Vous allez voir, c'est tout bête. _On reprend l'exemple précédent_ ; on veut 
 
 Vous voyez le **v=1234** ? Le fait d'ajouter un paramètre au fichier appelé dupe le navigateur et lui fait croire qu'il s'agit d'un fichier différent de _style.css_. En réalité on peut mettre n'importe quoi en paramètre (le timestamp de mise à jour du fichier par exemple. Par exemple `style.css?1180077252`).
 
-### Pourquoi ça fonctionne ?
+## Pourquoi ça fonctionne ?
 
 Dans une <acronym title="Uniform Ressource Identifier">URI</acronym>, le chemin physique du fichier s'arrête juste avant le <kbd>?</kbd>. _Tout ce qui est inscrit après est considéré comme étant des paramètres_, compléments virtuels du-dit fichier. Ce qui importe au navigateur, c'est que le fichier en question renvoie bien des données dans le type <acronym title="Multipurpose Internet Mail Extensions">MIME</acronym> attendu, ici `text/css`.
 

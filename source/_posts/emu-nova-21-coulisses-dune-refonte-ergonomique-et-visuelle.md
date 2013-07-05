@@ -1,7 +1,7 @@
 title: "Emu Nova 2.1 : coulisses d'une refonte ergonomique et visuelle"
 id: 902
 date: 2008-04-22 07:00:45
-tags: 
+tags:
 - blueprint
 - css
 - ergonomie
@@ -10,7 +10,7 @@ tags:
 - rythme vertical
 - ui
 - xhtml
-categories: 
+categories:
 - Développement Web
 - Projets
 - Standards du Web
@@ -25,9 +25,9 @@ Aujourd'hui je vous dévoile les **tenants et aboutissants d'un travail de réfl
 Où l'on parlera de jQuery, Blueprint et d'interface orientée utilisateur.
 <!--more-->
 
-### [![Emu Nova : version 2](https://oncletom.io/images/2008/04/emunova-2010-227x300.png)](https://oncletom.io/images/2008/04/emunova-2010.png)
+## [![Emu Nova : version 2](https://oncletom.io/images/2008/04/emunova-2010-227x300.png)](https://oncletom.io/images/2008/04/emunova-2010.png)
 
-### Objectifs de la refonte
+## Objectifs de la refonte
 
 Comme je le disais, la plus grosse critique se tournait vers l'agencement du site : les menus étaient séparés en 2 et étaient peu visible.
 
@@ -44,11 +44,11 @@ Plusieurs objectifs ont émergé en griffonnant au fur et à mesure l'interface 
 *   proposer un site conforme au **standard XHTML 1 Strict** en bannissant les mises en forme en tableau, entre autre
 On le voit, les objectifs de surface sont résolument tournés vers l'interface utilisateur. Derrière il y avait également des objectifs de simplification et de mutualisation du code avec l'interface d'administration.
 
-### Choix technologiques
+## Choix technologiques
 
 Plutôt que de réinventer la roue, j'ai souhaité utiliser les applications en qui je crois le plus. Je peux compter dessus tout en gagnant du temps. N'est-ce pas là l'essentiel ?
 
-#### JavaScript : jQuery
+### JavaScript : jQuery
 
 Je suis un féroce utilisateur de [jQuery](http://jquery.com/) que j'adore pour sa **souplesse d'utilisation** et sa **syntaxe vraiment plaisante**. Elle dépassera, à mon avis, largement le vieillissant couple Prototype/Scriptaculous d'ici la fin de l'année 2008.
 
@@ -63,7 +63,7 @@ jQuery sert de base à tout le code JavaScript :
 
 Il ne reste donc plus en tout et pour tout que 2 popup/alert/confirm obligeant à un affreux et désobligeant clic.
 
-#### CSS : Blueprint
+### CSS : Blueprint
 
 [Blueprint](http://code.google.com/p/blueprintcss/) est la librairie CSS la plus proche du Saint-Graal : facile d'utilisation et très puissante. Mon seul regret à l'heure actuelle est qu'elle ne fonctionne qu'en largeur fixe. Mais dans cette configuration elle joue parfaitement son rôle :
 
@@ -75,7 +75,7 @@ Une bonne présentation c'est une présentation sans contrainte : pas de couleur
 
 Le premier lecteur qui plisse les yeux c'est qu'il aura oublié d'allumer son écran ;-)
 
-#### Transparence d'images : GIF ou PNG ?
+### Transparence d'images : GIF ou PNG ?
 
 Quitte à trancher dans le vif, le **GIF a été abandonné au profit du PNG** pour le logo.
 
@@ -84,7 +84,7 @@ Pour rappel, si la transparence est possible avec le GIF, il lui manque la **cou
 Alors où est le problème ? Le sempiternel Internet Explorer 6 qui commence même à chauffer les oreilles à Microsoft. À tel point qu'il souhaite s'en débarrasser au plus tôt en poussant Internet Explorer 7, y compris pour les non-possesseurs du Service Pack 2 de Windows XP.
 La transparence est affichée comme du gris. Magnifique. Sauf en utilisant [jQuery.ifixpng](http://jquery.khurshid.com/ifixpng.php), entre autre.
 
-### Emu Nova : carte de chaleurs, avant et après
+## Emu Nova : carte de chaleurs, avant et après
 
 [![Heatmap d\](https://oncletom.io/images/2008/04/emunova-2000vs2100-heatmap-294x300.jpg "Heatmap d\")](https://oncletom.io/images/2008/04/emunova-2000vs2100-heatmap.jpg)
 
@@ -96,7 +96,7 @@ Sur la nouvelle version les clics semblent **moins concentrés mais touchent glo
 
 Notez aussi les clics en bas de page : **le pied de page compte**. Qui n'a pas eu envie qu'on lui suggère du contenu à lire une fois sa lecture terminée ?
 
-### Conclusion
+## Conclusion
 
 [![Emu Nova 2.1 : page d\](https://oncletom.io/images/2008/04/emunova-2101-homepage-203x300.png "Emu Nova 2.1 : page d\")](https://oncletom.io/images/2008/04/emunova-2101-homepage.png)
 

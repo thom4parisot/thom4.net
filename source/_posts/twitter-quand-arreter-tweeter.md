@@ -1,7 +1,7 @@
 title: "Quand faut-il s'arrêter de tweeter ?"
 id: 1501
 date: 2010-02-04 08:00:35
-tags: 
+tags:
 - canada
 - communication
 - france
@@ -10,7 +10,7 @@ tags:
 - réflexion
 - twitter
 - usa
-categories: 
+categories:
 - Travail 2.0
 ---
 
@@ -20,7 +20,9 @@ Je pense que la première chose que j'ai vu en débarquant dans le quartier de T
 
 En France, on ne sait pas trop en fin de compte. L'[IFOP parlait de 2% des internautes français](http://www.ifop.fr/media/poll/917-1-study_file.pdf) (~ 760 000 utilisateurs) mais j'ai vraiment peine à croire que le nombre soit aussi élevé. En 2009 ce service était considéré comme nouveau dans notre contrée. En 2010 on se pose encore les mêmes questions : faut-il utiliser Twitter ? À quoi ça sert ?
 
-### <!--more-->Condamné à Twitter
+<!--more-->
+
+## Condamné à Twitter
 
 En décembre dernier, j'étais interpelé par la condamnation d'un [joueur américain de basket-ball à payer 7 500$ d'amende pour avoir tweeté un peu trop rapidement sa joie](http://www.sports.fr/cmc/scanner/nba/200951/bucks-twitter-fatal-a-jennings_259901.html). Il s'ensuivit une interdiction aux joueurs de diffuser des informations sur Twitter avant la fin des conférences de presse post-match, entre autre.
 Un bon moyen de verrouiller la diffusion de l'information et de laisser la communication aux communicants.
@@ -28,7 +30,7 @@ Un bon moyen de verrouiller la diffusion de l'information et de laisser la commu
 Récemment, en France cette fois-ci, c'est [Sébastien Chabal qui a grillé le service presse du XV de France de rugby](http://www.ozap.com/actu/sebastien-chabal-agace-superieurs-twitter/323290) et provoqué une situation similaire, à l'amende près.
 Autrement dit, si les joueurs sont les vitrines de marque des clubs, faudrait pas qu'ils parlent.
 
-### Twitter − le court-circuit de l'information
+## Twitter − le court-circuit de l'information
 
 Sur le fond, on peut comprendre les réactions des dirigeants : de nouveaux canaux de communication se sont adjoints aux canaux traditionnels. Ils ne sont pas régulés et causent du tort à la diffusion classique et contrôlée de l'information. Les journalistes ont normalement la formulation et le recul nécessaire qu'un « simple » sportif n'aurait pas. Le tort viendrait de plusieurs points :
 
@@ -39,14 +41,14 @@ Bien que véridique, l'information doit-elle être diffusée ? Si on arrête la 
 
 ![](https://oncletom.io/images/2010/02/Iranian-voter-green-fingers.jpg "Iran Green Fingers")
 
-### Twitter − le dérégulateur de l'information
+## Twitter − le dérégulateur de l'information
 
 Pourtant avec le recul, j'étais bien content de [suivre les troubles de l'élection présidentielle en Iran en 2009 via Twitter](http://iran.twazzup.com/). Il aura fallu **attendre 2 jours** de plus pour obtenir une information cohérente en provenance des médias traditionnels. Les iraniens auraient-ils dû pour autant attendre sagement que les journalistes veuillent bien considérer leur sort avant de prendre la parole ?
 
 Twitter a également servi de fort relais de transmission d'information pendant la [houleuse procédure de vote pour l'adoption d'Hadopi](http://www.twazzup.com/?q=hadopi&amp;l=all), Hadopi, Lopsi et maintenant ACTA. Je pense que je n'ai jamais eu d'**information aussi qualifiée** que par ce biais − le tri de l'information se faisant naturellement par les utilisateurs du service.
 Devait-on pour autant attendre de l'information _uniquement_ par le biais des canaux traditionnels ?
 
-### Quand faut-il arrêter de tweeter ?
+## Quand faut-il arrêter de tweeter ?
 
 Les contextes sont différents : un coup Twitter **cannibalise** les relais d'informations traditionnels ; un coup il vient en **complément**, pour mettre en lumière des informations qu'on n'aurait pas forcément eu autrement. Est-il plus juste de tweeter dans un cas et pas dans l'autre ?
 

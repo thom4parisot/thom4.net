@@ -1,7 +1,7 @@
 title: "OpenID : comment gérer ses identités sur Internet"
 id: 865
 date: 2008-02-12 07:00:17
-tags: 
+tags:
 - blogger
 - claimid
 - identité numérique
@@ -10,7 +10,7 @@ tags:
 - openid
 - personas
 - yahoo
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -20,7 +20,7 @@ categories:
 Puisque de plus en plus de services proposent d'utiliser OpenID, intéressons-nous de près avant de terminer sur quelques astuces et autres microformats ;-)
 <!--more-->
 
-### OpenID, comment ça marche ?
+## OpenID, comment ça marche ?
 
 L'identification sur le Web se résume souvent à un couple nom d'utilisateur/mot de passe, email/mot de passe ou encore code client/mot de passe.
 Je ne vous apprendrai rien en indiquant que chaque site Web :
@@ -44,7 +44,7 @@ On peut se retrouver facilement avec une bonne dizaine de combinaisons au fur et
 En s'authentifiant sur un service compatible OpenID, l'identifiant et le mot de passe sont à fournir au prestataire OpenID (pour vérifier qu'il s'agit bien de vous), la dernière étape étant celle de l'autorisation du service.
 **Le prestataire OpenID vous met en relation de confiance**, relation qui peut s'arrêter du jour au lendemain. Vous révoquez ainsi l'accès du service à vos données personnelles.
 
-### Choisir un prestataire OpenID
+## Choisir un prestataire OpenID
 
 Avant de pouvoir utiliser OpenID, il faut obtenir une adresse OpenID ... comme on le ferait pour une adresse email par exemple.
 Le nombre de fournisseurs OpenID croît ce qui a un peu tendance à dérouter : un et un seul prestataire suffit. Certains sont très populaires ce qui fait que vous pouvez disposer d'une adresse OpenID sans le savoir :
@@ -58,7 +58,7 @@ J'ai pour ma part choisi d'être indépendant de tous ces services en utilisant 
 
 À partir du moment où vous disposez d'une adresse, vous pouvez l'utiliser sur tous les sites compatibles OpenID. Lors de votre première connexion, vous aurez le choix d'autoriser le service une seule fois, toujours ou jamais (les fraudes sont vite arrivées) mais aussi de choisir **quel profil de données transmettre au service** en question.
 
-### Gérer ses profils avec OpenID
+## Gérer ses profils avec OpenID
 
 Un des avantages indéniable à mes yeux c'est la gestion des profils. Avec un seul identifiant on peut choisir quelle casquette porter. Ça ne parlera peut-être pas aux plus jeunes d'entre vous qui n'ont qu'une identité mais dès que l'on souhaite partager des données différentes en fonction du contexte, c'est vraiment l'idéal.
 Ce concept est également appelé **personas** : on choisit quel masque on porte, quelle image on donne de soi.
@@ -72,7 +72,7 @@ Sur la capture d'écran ci-dessus, vous pouvez constater que je gère 2 personas
 
 J'ai la possibilité de choisir pour chacune des 2 personas mon avatar, ma date de naissance, mes sites Web, mon adresse etc. J'ai donc totalement la main sur les données que je souhaite transmettre. Ça ravira les personnes qui détestent fournir leur adresse email ;-)
 
-### Utiliser la délégation OpenID pour se simplifier la vie
+## Utiliser la délégation OpenID pour se simplifier la vie
 
 Maintenant voilà, l'URL du fournisseur n'est pas forcément la plus esthétique ni la plus facile à retenir qui soit. Mieux encore, vous souhaitez avoir une adresse OpenID mais pouvoir changer de fournisseur sans avoir à vous rappeler quel est votre fournisseur actuel.
 C'est tout à fait possible avec la [délégation OpenID](http://wiki.openid.net/Delegation).
@@ -81,7 +81,7 @@ C'est tout à fait possible avec la [délégation OpenID](http://wiki.openid.net
 
 Puisqu'on se souvient plus facilement de l'adresse de son propre site Web, autant l'utiliser. Après tout, **votre site fait partie de votre identité numérique**.
 
-### Choisir l'identification par certificat pour sécuriser ses connexions
+## Choisir l'identification par certificat pour sécuriser ses connexions
 
 J'apprécie tout particulièrement MyOpenID pour une autre fonctionnalité, en plus des personas : celle de l'authentification par certificat sécurisé. En clair je n'ai même plus à taper de mot de passe pour me connecter. **MyOpenID vérifie la présence d'un certificat** créé à ma demande et autorise en conséquent l'identification lorsque j'en ai besoin.
 
@@ -89,13 +89,13 @@ Ainsi, seule une personne ayant un accès physique à votre ordinateur ainsi qu'
 
 ![Gestion des certificats OpenID avec MyOpenID](https://oncletom.io/images/2008/02/myopenid-certificates.png)
 
-### OpenID et microformats, l'avenir ?
+## OpenID et microformats, l'avenir ?
 
 Des réflexions sont en cours pour alier [OpenID et microformats](http://microformats.org/wiki/openid-brainstorming). L'idée serait de pouvoir spécifier si une URL sert effectivement d'identifiant OpenID pour faciliter la création de réseaux (sociaux notamment).
 L'autre idée serait de coupler [OpenID, microformats et OAuth](http://microformats.org/wiki/OAuth) pour fournir un mécanisme d'authentification libre et pourquoi pas aboutir à du <acronym title="Single Sign On">SSO</acronym> : un identifiant pour les dominer tous.
 On pourrait également parler de l'initiative [MicroID](http://microid.org/) permettant ainsi de bâtir des services de vérification comme [ClaimID](http://claimid.com/).
 
-### Conclusion
+## Conclusion
 
 **OpenID est un service qui a de quoi faciliter la vie**, simplifie les processus d'identification, de création de compte et englobe tout ça dans une gestion sécuritaire de vos données.
 Étant donné la facilité à pouvoir obtenir une adresse sans se fatiguer et le nombre grandissant de services l'employant (Blogger, Twitterfeed, de nombreux blogs), ce billet est l'occasion rêvée de vous jeter à l'eau.

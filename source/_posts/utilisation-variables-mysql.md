@@ -18,7 +18,7 @@ Oui, la flemme est pour moi la **qualité numéro un** du développeur car _le f
 
 <!--more-->
 
-### Déclaration de variables
+## Déclaration de variables
 
 On peut déclarer une variable de deux façons dans MySQL.
 La première méthode consiste à utiliser l'opérateur `SET`.
@@ -35,7 +35,7 @@ SELECT @nb_total := COUNT(*) FROM `ma_table` ;
 
 **Note** : dans ce cas là, on préfixe l'opérateur `=` de `:` (deux points).
 
-### Utilisation simple des variables
+## Utilisation simple des variables
 
 L'utilisation première qui peut en être faite c'est d'assainir vos requêtes SQL en évitant au maximum l'apparition de variables issues d'autres langages.
 
@@ -54,7 +54,7 @@ SELECT * FROM `ma_table` WHERE colonne1 = @variable1, colonne2 = @variable2 LIMI
 
 Comme les variables sont effectives pour la connexion courante, une variable MySQL peut être réutilisée à tout moment. De quoi décomplexifier certains scripts pas forcément bien structurés.
 
-### Utilisation complexe des variables
+## Utilisation complexe des variables
 
 **Les variables peuvent également être modifiées à même la requête**. C'est à dire qu'à chaque itération effectuée par MySQL, le moteur va réévaluer le contenu de la variable. J'ai notamment eu besoin de ça pour ajouter de nouveaux éléments à la suite d'autres tout en renumérotant leur ordre. Je souhaitais **éviter une boucle récursive en PHP** qui aurait occasionné de multiples requêtes.
 

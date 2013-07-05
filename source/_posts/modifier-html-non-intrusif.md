@@ -22,7 +22,7 @@ Et comme l'indique le slogan de <cite>jQuery</cite> : <q>Write less, do more</q>
 
 <!--more-->
 
-### Le besoin
+## Le besoin
 
 Avant de se lancer tête baissée dans le code, **prenons le temps d'exprimer avec des mots ce que l'on aimerait faire**.
 
@@ -30,7 +30,7 @@ On souhaite disposer d'une **liste de liens**. **Lors d'un clic** sur un lien de
 
 J'ai grassé les mots importants de ce besoin. Vous le verrez par la suite, ils vont régir le comportement du script.
 
-### La structure HTML
+## La structure HTML
 
 Nous allons donc nous retrouver avec trois grosses parties dans le code :
 
@@ -77,7 +77,7 @@ Je pense que le code parle de lui-même, posez vos questions en commentaires si 
 Côté HTML tout est réglé avec ceci. **Il ne restera éventuellement que du travail de stylage pour lui donner une apparence plus conviviale**.
 Vous remarquerez qu'il n'y a aucune mention à du JavaScript à l'intérieur de ce code et ce sera le cas jusqu'au bout. C'est tout l'intérêt de séparer fond et forme et donc, du **JavaScript non intrusif**.
 
-### Le code Javascript
+## Le code Javascript
 
 J'ai pris la décision d'écrire ce code pour _jQuery_ car cette bibliothèque (ou _framework_) est embarquée dans Wordpress et réduit drastiquement la quantité de code à écrire pour produire des résultats.
 
@@ -150,7 +150,7 @@ $( function(){ oncletom_text_grabber({ 'target' : '#nouveau_conteneur_cible', 'b
 3.  Dans un troisième temps, on assigne la méthode déclarée juste avant. A chaque clic de chaque élément, elle sera appelée et surtout, aura accès à tous les paramètres de la classe ;
 4.  Enfin, après avoir clôturé la classe, on l'exécute dès que le DOM est chargé.
 
-### Conclusion et résultat
+## Conclusion et résultat
 
 Pour que ce code soit effectif, il faut bien évidemment l'insérer à même la page ou bien en appelant un script externe (cette méthode est recommandée justement pour dissocier fond et forme). Il faut aussi penser à inclure jQuery dans votre page sans quoi le compilateur JavaScript va tirer la tête.
 

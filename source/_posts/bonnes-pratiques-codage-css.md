@@ -28,7 +28,7 @@ Il n'y a en effet **pas de méthode universelle pour programmer** les <acronym t
 Où l'on parlera de présentation en 1 ligne, de CSSDoc mais aussi de _folding_ et d'indentation. **En clair, tout plein de bonnes pratiques** de développement en CSS qui vous feront gagner du temps, vous éviterons de la sueur et sentent bon le travail de qualité.
 <!--more-->
 
-### Halte là et retour à la ligne !
+## Halte là et retour à la ligne !
 
 J'ai utilisé pendant un moment la technique dite du [single line CSS](http://orderedlist.com/articles/single-line-css) ; à savoir 1 ligne par déclaration.
 Je n'hésiterai pas une seconde à dire que je déconseille fortement cette écriture pour les raisons suivantes :
@@ -38,7 +38,7 @@ Je n'hésiterai pas une seconde à dire que je déconseille fortement cette écr
 *   c'est tout bonnement illisible dès qu'on s'y replonge quelques semaines plus tard : imaginez pour quelqu'un qui n'a pas écrit le code !
 Les arguments avancés pour cette technique ne tiennent pas la route : **on recherche avant tout la qualité et la facilité de relecture**. Les quelques kilo-octets à perdre se feront par le biais de programmes. Ça ne doit certainement pas entraver le développement.
 
-### L'auto-documentation avec la syntaxe CSSDoc
+## L'auto-documentation avec la syntaxe CSSDoc
 
 Les habitués de Java connaissent [JavaDoc](http://java.sun.com/j2se/javadoc/).
 Les habitués de PHP connaissent [PHPDoc](http://www.phpdoc.org/).
@@ -74,7 +74,7 @@ html,
 }
 ```
 
-### L'organisation hiérarchique
+## L'organisation hiérarchique
 
 J'ai pour habitude de travailler avec une seule feuille de style par media. Comme je travaille sur des **hiérarchies thématiques**, leur découpage en plusieurs fichiers ne consiste qu'à du copier/coller. On peut ainsi facilement passer d'une mono-feuille à du multi-feuilles. Je ne suis pas un fervent utilisateur de ces dernières car un code bien lisible sur une seule page n'est pas problématique.
 Je ne l'emploie que pour faciliter la réutilisation des CSS sur plusieurs projets partageant la même base graphique.
@@ -135,9 +135,9 @@ p{
 
 Les mieux organisés d'entre vous ajouteront un **tri par fréquence d'utilisation** afin d'optimiser les va-et-vient : on met en haut ce qu'on est susceptible de modifier le plus souvent, en bas ce à quoi on touchera rarement. Je ne vais pas jusque là mais ça reste envisageable, pertinent et surtout adapté aux plus chevronnés de l'optimisation.
 
-### Autres conseils et astuces
+## Autres conseils et astuces
 
-#### Utilisation de raccourcis
+### Utilisation de raccourcis
 
 Les _aficionados_ de l'optimisation et du gain de temps apprécieront cette méthode, s'ils ne l'utilisent pas déjà. J'ai pour habitude de placer des raccourcis dans mes sections pour **faciliter l'utilisation d'une recherche via le raccourci clavier** <kbd>Control+F</kbd>.
 Je préfixe chaque raccourci d'un symbole <kbd>=</kbd> :
@@ -151,7 +151,7 @@ Je préfixe chaque raccourci d'un symbole <kbd>=</kbd> :
 
 Je trouve cette méthode très pratique pour atteindre des portions de code. On évite ainsi un appel à la touche <kbd>Alt Gr</kbd> pour appuyer sur le # d'un ID (pour peu que l'on n'ait que des ID en tant que sections). On évite aussi les collisions de nom ou les recherches infructueuses pour cause de changement de nom de classes ou d'ID.
 
-#### De la sémantique, que diable !
+### De la sémantique, que diable !
 
 Je suis particulièrement attaché à cette bonne pratique d'autant plus qu'elle ne tombe pas forcément sous le sens de tout le monde : **nommez vos ID et classes en fonction de leur _signification_, pas de leur _représentation_**. C'est la suite logique de la séparation fond et forme du HTML et des CSS.
 
@@ -190,14 +190,14 @@ Je suis particulièrement attaché à cette bonne pratique d'autant plus qu'elle
 `#sidebar` pourra être renommé différemment selon son contenu, selon que l'encart contienne des éléments de navigation supplémentaires, des informations utilisateur (`#user-content`) ou encore des widgets (`#widgets`).
 En conservant votre HTML intact et en jouant sur les CSS, la `#sidebar` peut en effet se retrouver tout en bas, à l'horizontale. Aurez-vous toujours envie de l'appeler pareil ? Pas forcément. **Un bon nommage est un nommage qui se conserve peu importe l'aspect de la présentation**.
 
-#### Du choix de la langue
+### Du choix de la langue
 
 Cette bonne pratique s'applique aussi bien aux CSS qu'à d'autres langages. Il faut partir du principe qu'**il ne faut pas mélanger les langues dans le code**, tant dans les commentaires que dans le nommage des classes et ID. **Choisissez-une langue et restez avec**.
 Certaines contraintes peuvent faciliter le choix de la langue : le travail avec une équipe internationale ou la redistribution du code. Dans ce cas l'anglais sera à 99% votre langue de prédilection.
 
 Il n'y a pas de choix idéal : certains préféreront le tout français, d'autres le tout anglais. L'essentiel est que ce **choix soit motivé par des arguments objectifs, pas une préférence personnelle**.
 
-#### Recours au _folding_
+### Recours au _folding_
 
 J'en parle succintement mais le _folding_ consiste à utiliser votre éditeur CSS pour **masquer une partie de code**. Eclipse propose par exemple de masquer toutes les définitions et tous les commentaires : leur contenu n'est révélé qu'en le dépliant.
 
@@ -205,7 +205,7 @@ Je ne suis pas un fervent utilisateur de cette pratique bien que je respecte son
 
 ![Folding en CSS](https://oncletom.io/images/2008/02/css-folding.png)
 
-### Conclusion
+## Conclusion
 
 Ma méthodologie n'est pas parfaite, peut être perfectible et ne conviendra pas à tout le monde, par goûts ou par habitudes. Ces dernières sont cependant à combattre pour améliorer son travail. **Quoi de mieux qu'un code propre, bien documenté et où l'on trouvera facilement ce que l'on cherche** ?
 

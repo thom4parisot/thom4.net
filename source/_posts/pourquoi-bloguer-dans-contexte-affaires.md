@@ -1,7 +1,7 @@
 title: "Pourquoi bloguer dans un contexte d'affaires ?"
 id: 935
 date: 2008-08-05 07:00:48
-tags: 
+tags:
 - évènement
 - blogcamp
 - blogs
@@ -14,7 +14,7 @@ tags:
 - pourquoibloguer
 - québec
 - Réseau professionnel
-categories: 
+categories:
 - Personnel
 ---
 
@@ -28,7 +28,7 @@ Je reviens sur cette journée si particulière, celle qui m'a permis de prendre 
 
 <!--more-->
 
-### Pourquoi bloguer, le livre
+## Pourquoi bloguer, le livre
 
 Il faut le savoir, le prétexte de cette journée était un livre, écrit à 20 mains (10 personnes donc ;-)), exclusivement par des professionnels québecois.
 Chacun de ces auteurs a une affinité particulière avec l'utilisation des blogs. L'écriture de ce livre était l'occasion pour eux de **synthétiser leur expérience des blogs en milieu professionnel**.
@@ -59,7 +59,7 @@ Au final **Pourquoi bloguer dans un contexte d'affaire** est simple à lire. Ce 
 
 Le livre est richement fourni en témoignages et en liens hypertextes. Une bonne occasion de prolonger le livre et de se nourrir des exemples choisis avec justesse.
 
-### Pourquoi bloguer, journée conférence à Bordeaux
+## Pourquoi bloguer, journée conférence à Bordeaux
 
 [caption id="" align="aligncenter" width="500" caption="Claude Malaison et Philippe Martin"][![Philippe Martin et Claude Malaison](http://farm4.static.flickr.com/3035/2577755472_26055597ca.jpg "Claude Malaison et Philippe Martin")](http://flickr.com/photos/nayezpaspeur/2577755472/in/set-72157605466714829)[/caption]
 
@@ -78,7 +78,7 @@ Ainsi on passe d'un modèle où les parents apprennent aux enfants à un modèle
 
 Une journée magique comme j'en aimerais tant d'autres. D'autres personnes ont déjà donné leur ressenti dont [Isabelle Juppé](http://www.lafemmedigitale.fr/non-classe/vive-le-quebec-digital/), le [blog du Club AEC](http://www.aecom.org/blog/rdv/2008/06/pourquoi-bloguer-dans-un-contexte.html) et [Vanessa de Proxima Créative](http://blog.proximacreative.fr/2008/06/04/bloguer-dans-un-contexte-daffaires-episode-1/).
 
-### Bloguer en entreprise : vérités et contre-vérités
+## Bloguer en entreprise : vérités et contre-vérités
 
 Cette journée, c'était aussi l'occasion d'intervenir avec la casquette [BlogCamp France](http://blogcamp.fr) et de démystifier les blogs devant une assemblée intéressée et aux réactions intéressantes.
 <div style="text-align:center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcampbloguerenentreprisemythescontreveriteslight-1213943930186908-9&amp;stripped_title=blogcamp-bloguer-en-entreprises-vrits-et-contrevrits" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcampbloguerenentreprisemythescontreveriteslight-1213943930186908-9&amp;stripped_title=blogcamp-bloguer-en-entreprises-vrits-et-contrevrits" allowscriptaccess="always" allowfullscreen="true"></embed></object>[](http://www.slideshare.net/oncletom/blogcamp-bloguer-en-entreprises-vrits-et-contrevrits)</div>

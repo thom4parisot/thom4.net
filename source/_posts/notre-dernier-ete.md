@@ -1,7 +1,7 @@
 title: "Notre dernier été"
 id: 18505
 date: 2012-08-07 20:38:22
-tags: 
+tags:
 - choix
 - cto
 - décisions
@@ -10,7 +10,7 @@ tags:
 - Photographie
 - réflexions
 - slow life
-categories: 
+categories:
 - Photographie
 - Travail 2.0
 ---
@@ -26,12 +26,12 @@ Une nouvelle succession de choix.
 
 <!--more-->
 
-### tl;dr
+## tl;dr
 
 Si quelque chose te tient à cœur, n'attends pas que ça se produise. Ça ne viendra pas tout seul. Fais-le.
 Place aux actes.
 
-### Apprendre à observer
+## Apprendre à observer
 
 Je constate souvent le même motif se répéter : le lycée, savoir ce qu'on veut faire (_mais que sait-on faire ?_), les études secondaires, son premier boulot, les copains se marient (_va falloir que je pense à me trouver une copine/un mec_), le premier divorce des amis (_ça n'arrive qu'aux autres_), mon deuxième boulot, bon finalement elle/il me trompait (_me méritait-il ? avec qui voudrais-je vivre ?_), les premiers pas du petit bout (_mais bon, c'est sa mère qui a le garde, je n'en aurais vu que les photos_) et puis bon sang, bientôt quarante/cinquante/soixante ans, et quel monde de merde. C'était mieux avant.
 
@@ -39,7 +39,7 @@ Avant quoi ? Quand on regardait quoi ? Ou plutôt, **quand on ne voyait pas** qu
 
 [En accentuant ma pratique de la photo](http://www.flickr.com/photos/the-jedi/), je me rends compte avoir acquis un regard sur ce qui m'entoure, m'obligeant à me détacher et à interpréter comme nouveau toute image se formant dans mon cerveau. 2011 m'aura été favorable en ce point, apprendre à déconstruire les symboles et les situations. **Rien n'est acquis**. **Rien n'est normal**.
 
-### Renouer le lien
+## Renouer le lien
 
 Et pas juste avec les personnes. Avec ce qu'on utilise. Avec ce dont on se nourrit, physiquement et intellectuellement.
 
@@ -49,7 +49,7 @@ En rendant la monnaie, avec un sourire.
 
 ![](https://oncletom.io/images/2012/08/6897228760_c2d023b043_b-300x199.jpg "Au loin")
 
-### Diriger sans commander
+## Diriger sans commander
 
 En endossant le rôle de directeur technique chez [Dijiwan](http://dijiwan.com) en septembre 2011, j'avais plusieurs objectifs à accomplir :
 
@@ -69,7 +69,7 @@ La qualité est là, la motivation persiste, la bonne humeur aussi.
 Je dirige : je donne une direction, j'accepte les changements et surtout, je travaille au même niveau que tout le monde, en produisant du code.
 Je ne dirige pas le maintien de la peur, l'acharnement à faire faillir ces personnes si précieuses pour la réussite d'une entreprise (l'étymologie prend ici toute sa signification – _entreprendre_).
 
-### Réduire la vitesse
+## Réduire la vitesse
 
 Offert par [David Larlet](https://larlet.fr/david/) avant son départ au Japon, j'ai débuté et achevé la lecture de [Et si l'aventure humaine devait échouer](http://www.senscritique.com/livre/Et_si_l_aventure_humaine_devait_echouer/critique/10540168) de Théodore Monot en janvier.
 > On ne peut plus croire à la stabilité définitive de toute chose.
@@ -82,7 +82,7 @@ Je considère cette facilité, cette _normalité_, comme un symbole de l'apogé
 
 Oui la voiture me manquera sûrement. **Changer d'habitude(s)**. Mais les solutions existent : auto-partage, la voiture des copains, location entre particuliers (réutilisons ce qu'on a bordel – [airbnb](http://airbnb.com) dans un autre registre correspond tout à fait à ce modèle), l'auto-stop ou le covoiturage.
 
-### Conclusion
+## Conclusion
 
 En cette période Olympique, la compatibilité des médailles de _notre_ pays semblent plus importante que tout. Plus importante que l'effort des athlètes (être sélectionné pour les jeux est déjà un succès en soi). Plus importante que la régularité de l'entrainement. Plus importante que le moral. Plus importante que la morale (contrôler ce que la population peut faire pour de riches corporations – sa nourriture, son téléphone, sa carte bleue VISA etc.).
 
@@ -91,7 +91,7 @@ Ce n'est pas notre faute. On a fait ce qu'on pouvait.
 
 Tout ceci manque cruellement de passion.
 
-### Anecdote quand même
+## Anecdote quand même
 
 La photo illustrant l'article s'appelle [Forest Couch](http://www.flickr.com/photos/the-jedi/5096781001/). Elle représente [l'appartement dans les bois](http://www.annelaureboyer.com/fr/travaux/lappartement-dans-les-bois.html), une œuvre éphémère d'Anne-Laure Boyer.
 

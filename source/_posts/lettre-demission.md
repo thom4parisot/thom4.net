@@ -1,9 +1,9 @@
 title: "La lettre de démission"
 id: 778
 date: 2007-10-05 13:00:59
-tags: 
+tags:
 - demission
-categories: 
+categories:
 - Travail 2.0
 ---
 
@@ -12,7 +12,7 @@ Changer de travail c'est signer un nouveau contrat mais aussi casser le contrat 
 Car oui, même si vous en avez marre de votre patron, la dernière des choses à faire c'est de se le mettre à dos.
 <!--more-->
 
-### La lettre de démission
+## La lettre de démission
 
 Je vous propose en téléchargement [ma lettre de démission](https://oncletom.io/images/2007/10/demission-type.pdf "Lettre-type de démission"). Il faudra l'imprimer une ou deux fois selon le mode de remise choisi.
 
@@ -24,7 +24,7 @@ J'ai opté pour la remise en mains propres. Je ne tenais pas à partir comme un 
 
 L'envoi par lettre recommandée est expéditif puisque le préavis commencera dès réception de la lettre (l'accusé faisant foi), peu importe la volonté de l'employeur.
 
-### Mes conseils
+## Mes conseils
 
 Pour terminer, je synthétise quelques remarques issues de mon expérience personnelle et de mon ressenti. En toute honnêteté, mieux vaut ne pas jouer avec le feu, y compris si vous êtes en facheux désaccord ou en situation de conflit. On ne sait jamais de quoi l'avenir est fait et si vous recroisez le chemin de votre ex-patron, il s'en souviendra et tâchera de vous le rappeler.
 

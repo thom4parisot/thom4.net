@@ -1,7 +1,7 @@
 title: "Webdeux.connect 2.0, les 400 coups du réseau"
 id: 1167
 date: 2008-10-14 07:00:43
-tags: 
+tags:
 - blogcamp
 - blogs
 - conférences
@@ -12,7 +12,7 @@ tags:
 - Réseau professionnel
 - usine
 - webdeux.connect
-categories: 
+categories:
 - Évènements
 - Personnel
 ---
@@ -25,7 +25,7 @@ Enfin presque ;-)
 
 <!--more-->
 
-### Les conférences
+## Les conférences
 
 Autant commencer par la déception  : les conférences. Je ne généraliserai cependant pas car je n'en ai vu que 2, à savoir _le financement des startup_ et _monétiser son blog_.
 
@@ -38,7 +38,7 @@ Bref, c'était bien mais perfectible. Rendez-vous est pris pour l'an prochain ;-
 
 [![Sébastien Rousset](http://farm4.static.flickr.com/3295/2934620836_dbdb029df0_m.jpg)](http://www.flickr.com/photos/the-jedi/2934620836/ "Sébastien Rousset")
 
-### Les connexions que j'attendais
+## Les connexions que j'attendais
 
 *   [Jean-François Ruiz](http://webdeux.info)
 Des discussions simples et un bon dîner bourré d'anecdotes comme j'aime.
@@ -54,7 +54,7 @@ On se link régulièrement via nos blogs respectifs, on échangeait via Twitter 
 Et quelle surprise d'apprendre son âge ! En première année d'IUT, déjà patron de sa société. Ça me fera bizarre de l'avoir en cours l'an prochain !
 [![Oxygène parfumé](http://farm4.static.flickr.com/3019/2938383121_56d7a726cb.jpg)](http://www.flickr.com/photos/the-jedi/2938383121/ "Oxygène parfumé")
 
-### Les petites surprises
+## Les petites surprises
 
 *   [Laurent Nicolas](http://alenty.com)
 Directeur d'Alenty. Une bonne discussion autour du service Who's Hot et de l'ingéniosité derrière pour savoir qui lit quoi dans les commentaires. Ça m'a presque donné envie de réécrire le widget Who's Hot pour Wordpress ...
@@ -78,7 +78,7 @@ Juriste chez VanksenGroup, notamment chez BuzzParadise. Une parole appréciée e
 La toute timide mais charmante _business developper_ chez Whosegame, la plateforme de jeux Flash réalisés par des indépendants.
 [![Webdeux.connect à l](http://farm4.static.flickr.com/3015/2933767005_e02ae4338e_m.jpg)](http://www.flickr.com/photos/the-jedi/2933767005/ "Webdeux.connect à l")
 
-### Conclusion
+## Conclusion
 
 Bref, une journée excellente. Certes la place était à 100€ mais étant donné la qualité des personnes sur place (et j'en ai raté), ça aurait été bien dommage de s'en priver.
 

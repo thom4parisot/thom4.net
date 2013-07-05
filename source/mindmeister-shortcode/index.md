@@ -9,7 +9,7 @@ date: 2010-11-20 14:31:54
 *   **[MindMeister Shortcode](http://wordpress.org/extend/plugins/mindmeister-shortcode/)**[ in the WordPress Plugin Directory](http://wordpress.org/extend/plugins/mindmeister-shortcode/)
 *   Status: **stable**
 
-### Features
+## Features
 
 *   Don't loose your embeding on post saving, or Visual/HTML editor switch
 *   Embed your mindmap by URL or it's ID

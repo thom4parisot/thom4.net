@@ -1,7 +1,7 @@
 title: "Comment j'ai préparé et optimisé ma recherche d'emploi"
 id: 773
 date: 2007-09-25 13:00:20
-tags: 
+tags:
 - bonnes pratiques
 - cv
 - embauche
@@ -9,7 +9,7 @@ tags:
 - internet
 - linkedin
 - reseaux sociaux
-categories: 
+categories:
 - Personnel
 - Travail 2.0
 ---
@@ -19,7 +19,7 @@ A l'heure qu'il est ma lettre de démission a été expédiée et reçue. C'est 
 Je vous livre ici les clés de ma réussite, _a priori_ inédite puisqu'entièrement basée sur de la communication, de la présence et de l'image de marque. J'ai utilisé tous les outils à ma disposition pour me mettre en valeur. Et je peux vous dire qu'il y a des reconsidérations à faire sur des outils Internet soit disant inutiles ;)
 <!--more-->
 
-### Anticiper et convertir sa propre démotivation
+## Anticiper et convertir sa propre démotivation
 
 _Période estimée : avril/mai 2007_
 
@@ -29,7 +29,7 @@ _Apprendre_ et _améliorer_ font partie de mes _leitmotiv_ liés au travail (et 
 
 Avant d'avoir envie de baisser les bras, **j'ai converti ce raz-le-bol général en volonté de changer**. J'ai donc décidé d'**utiliser Internet pour me mettre en valeur** : blog, réseaux sociaux, micro-blog et rencontre de personnes issues du milieu.
 
-### Définir ses cibles et ses objectifs
+## Définir ses cibles et ses objectifs
 
 _Période estimée : mai 2007_
 
@@ -47,7 +47,7 @@ Ce besoin dessine plusieurs structures d'entreprises susceptibles de me plaire e
 
 ![Aperçu de mon CV](https://oncletom.io/images/2007/09/cv-apercu.png)
 
-### Se créer une présence en ligne : CV, blog, veille et réseaux sociaux
+## Se créer une présence en ligne : CV, blog, veille et réseaux sociaux
 
 _Période estimée : juin à juillet 2007_
 
@@ -67,7 +67,7 @@ Sur ces différents réseaux, dites-en un maximum sur vous sans tomber dans la n
 
 ![Logo Facebook](https://oncletom.io/images/2007/09/facebook-logo.png)
 
-### Se créer une présence en ligne : nouer les contacts
+## Se créer une présence en ligne : nouer les contacts
 
 _Période estimée : juin à juillet 2007_
 
@@ -81,7 +81,7 @@ Ces contacts réels, je les ai inclus dans mon cercle de contacts en ligne. **[L
 **[Facebook](http://www.facebook.com) est LE réseau social qui grimpe**, plus informel et moins "pro" mais où bon nombre de personnes sont inscrites. J'y ai repéré des amis que je connaissais, les contacts réels que j'avais ou que j'allais nouer et j'ai surtout scruté leur liste d'amis. Ca prend un peu de temps mais c'est très instructif, on découvre de nouvelles têtes et ça permet de sortir un peu des cercles de relations habituels.
 Par contre **évitez de céder à la tentation d'ajouter tout plein d'applications à trois sous** (genre les Zombies etc.) et de spammer votre liste de contacts pour leur proposer d'adhérer à vos trouvailles. _C'est pénible_ et ça pourrait se retourner à terme contre vous.
 
-### La recherche active d'emploi
+## La recherche active d'emploi
 
 _Période estimée : août 2007_
 
@@ -98,7 +98,7 @@ Voici comment multiplier les contacts :
 Si jamais on vous demande une lettre de motivation, **surtout ne sortez pas de lettre bateau**. Au contraire écrivez une lettre générique dont les parties sont modulables en fonction de l'entreprise : décrivez vos _motivations_, votre _projet professionnel_, les _éléments marquants_ de votre parcours et _ce qui vous pousse à candidater_. **Ne paraphrasez pas le CV**, utilisez l'espace de la lettre de motivation pour écrire ce qui n'y figure pas faute de place. Vous aurez alors une lettre totalement personnalisée, adaptée à votre interlocuteur et qui vous multiplierez ainsi les chances d'attirer son attention.
 **Le recruteur doit sentir que vous apporterez à l'entreprise**, peut-être même davantage que ce que celle-ci vous apportera. Le contrat doit être gagnant-gagnant.
 
-### Conclusion
+## Conclusion
 
 Tout changement de travail oriente sa carrière. Pour choisir au mieux son orientation, il vaut mieux disposer d'un maximum d'entreprises intéressées par son profil, ne pas accepter la première offre venue et tout le temps réfléchir à ce que l'on veut, quitte à remettre en question ses objectifs de départ. Le tout est de ne pas regretter, de bien réfléchir et d'user de son instinct pour sentir l'entreprise qui nous conviendrait le mieux. Mieux vaut être moins bien payé et avoir un job plus intéressant que l'inverse.
 

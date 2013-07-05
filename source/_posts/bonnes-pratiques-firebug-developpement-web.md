@@ -1,7 +1,7 @@
 title: "Firebug : bonnes pratiques pour le développement Web"
 id: 819
 date: 2007-12-25 08:00:44
-tags: 
+tags:
 - css
 - dom
 - firebug
@@ -10,7 +10,7 @@ tags:
 - optimisation
 - performances
 - yslow
-categories: 
+categories:
 - Développement Web
 - Standards du Web
 ---
@@ -30,9 +30,9 @@ Le plus amusant dans l'histoire c'est que le site officiel de Firebug dévoile (
 2.  [pour le JavaScript](#firebug-javascript)
 3.  [pour gagner en performances](#firebug-performances)
 
-### Firebug pour le HTML
+## Firebug pour le HTML
 
-#### L'inspection HTML
+### L'inspection HTML
 
 ![Inspecteur HTML Firebug](https://oncletom.io/images/2007/12/firebug-html-inspector.png)
 
@@ -43,11 +43,11 @@ Le gros atout de cet inspecteur c'est également l'**édition à la volée de to
 
 Il faut également retenir que **toute balise est sélectionnable en cliquant sur son nom** (`div`, `h3` etc.). Cela a a pour effet de mettre à jour le panneau latéral de Firebug. Panneau latéral qui est également fort utile.
 
-#### L'inspection CSS, Layout et DOM
+### L'inspection CSS, Layout et DOM
 
 Le panneau latéral de l'inspecteur HTML se compose de 3 onglets, tous très utiles.
 
-##### Inspecteur CSS
+#### Inspecteur CSS
 
 ![Inspecteur CSS Firebug](https://oncletom.io/images/2007/12/firebug-css-inspector.png)
 
@@ -58,7 +58,7 @@ Désactiver, supprimer, modifier ou ajouter des propriétés sont quelques-unes 
 
 Là encore c'est une des parties où les gains de temps sont énormes. On peut en effet **modifier ses CSS et les tester tout en observant l'impact immédiat de ses modifications**.
 
-##### Inspecteur du modèle de boîte (_Layout_)
+#### Inspecteur du modèle de boîte (_Layout_)
 
 ![Modèle de boîte avec Firebug](https://oncletom.io/images/2007/12/firebug-layout-inspector.png)
 
@@ -67,14 +67,14 @@ Dans tous les cas c'est appréciable de pouvoir constater les marges en présenc
 
 Il a également la bonne idée d'afficher une **double règle millimétrée** au survol du panneau _layout_. Très pratique dans le cas de design en grilles ou nécessitant un certain rythme de visualisation.
 
-##### Inspecteur DOM
+#### Inspecteur DOM
 
 Ah l'inspecteur DOM ! S'il n'existait pas il faudrait l'inventer. Firefox proposait déjà un tel outil à la différence près qu'il était moins pratique d'utilisation.
 L'inspecteur DOM m'est moyennement utile dans le cas d'une simple inspection du code HTML bien que ce soit toujours pratique de visualiser la présence ou pas d'objets JavaScript dans tel ou tel élément. C'est fortement appréciable pour la [librairie Prototype](http://www.prototypejs.org) étant donné les dégâts causés par son extension du DOM à gogo.
 
-### Firebug pour le JavaScript
+## Firebug pour le JavaScript
 
-#### L'inspecteur JavaScript
+### L'inspecteur JavaScript
 
 ![Inspecteur JavaScript Firebug](https://oncletom.io/images/2007/12/firebug-javascript-watcher.png)
 
@@ -85,7 +85,7 @@ Quel intérêt ? Observer. En agissant ainsi, vous avez la main sur toutes les v
 
 En parallèle de ça, l'inspecteur DOM est à utiliser pour **visualiser d'un coup d'œil les différentes variables actives ainsi que leur arborescence**. Comme tout est cliquable, l'inspecteur vous transporte sur n'importe quel objet pour en étudier le contenu.
 
-#### La console Firebug _alias_ `console.*`
+### La console Firebug _alias_ `console.*`
 
 ![Console Firebug](https://oncletom.io/images/2007/12/firebug-console.png)
 
@@ -105,11 +105,11 @@ Autrement dit, si l'inspecteur ne suffisait pas, au lieu de lancer un `alert(mav
 
 Et top du top, en cas d'erreur JavaScript, la console affiche un petit cercle rouge qui rappelle fortement le point d'arrêt. Normal puisque c'en est un. Un clic et on évite de rechercher la ligne problématique dans le code. Encore une fois, du temps de gagné.
 
-### Firebug pour les performances
+## Firebug pour les performances
 
 Après avoir bien développé, Firebug propose de mieux développer. L'extension magique propose quelques outils sympathiques pour rapidement déceler les problèmes, notamment de scripts trop gourmands ou à optimiser.
 
-#### Le traceur réseau
+### Le traceur réseau
 
 ![Traceur réseau Firebug](https://oncletom.io/images/2007/12/firebug-net-tracer.png)
 
@@ -119,7 +119,7 @@ Outre une petite prévisualisation des contenus, le traceur affiche aussi les **
 
 J'aime beaucoup le traceur pour le **suivi des requêtes XHR (appels AJAX)**. Un clic sur un appel affiche à la fois les entêtes, les données transmises au serveur et sa réponse. Fini les requêtes AJAX qui ne produisent rien sans qu'on puisse savoir pourquoi. Le clic droit sera également un fidèle allié, notamment pour ouvrir l'appel AJAX dans un nouvel onglet. C'est plus lisible pour déboguer quand même ;-)
 
-#### Le profileur JavaScript
+### Le profileur JavaScript
 
 ![Profileur JavaScript Firebug](https://oncletom.io/images/2007/12/firebug-profiler.png)
 
@@ -129,7 +129,7 @@ Le profileur (_profiler_) JavaScript s'utilise un peu à la manière de la conso
 
 Sauf en utilisant le profileur directement dans le code comme on a déjà pu le faire pour les _logs_. `console.profile()` et `console.profileEnd()` seront vos amis. C'est vraiment l'idéal pour **profiler l'exécution d'une fonction**, voire même les portions de code exécutée en son sein.
 
-#### L'extension YSlow
+### L'extension YSlow
 
 ![Firebug YSlow](https://oncletom.io/images/2007/12/firebug-yslow.png)
 
@@ -142,7 +142,7 @@ Si ce n'est pas le cas, il y a de l'optimisation à faire et cela peut aussi sig
 
 Enfin on termine sur une partie complémentaire aux stats : les composants (_components_). Elle distille des informations plus verbeuses que le traceur réseau de Firebug en se focalisant sur les E-Tag, la présence ou pas de compression, la date de validité du cache ainsi que la taille des objets.
 
-### Conclusion
+## Conclusion
 
 J'espère avoir éclairé quelques lanternes sur l'utilisation de Firebug. Cette extension est suffisamment puissante pour gagner en confort de développement ; il serait dommage de s'en priver. **On gagne du temps, du confort et surtout, de la qualité de développement**.
 À noter qu'il existe aussi Firebug Lite. Il s'agit d'un script JavaScript compatible avec les principaux navigateurs du marché mais comme le _Lite_ l'indique, les fonctionnalités sont plutôt limitées. Seule la console JavaScript persiste.

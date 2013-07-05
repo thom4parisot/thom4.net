@@ -26,7 +26,7 @@ La réalisation de ce widget était pour moi l'occasion de réaliser mon premier
 
 <!--more-->
 
-### Présentation du widget Jaiku pour Netvibes
+## Présentation du widget Jaiku pour Netvibes
 
 Avant de rentrer dans les détails techniques, faisons ensemble un petit tour de ce qu'est capable de faire le widget Jaiku. Rien de bien méchant puisqu'il fait ce qu'on veut : lire et envoyer les messages. Faut savoir rester simple ;-)
 
@@ -49,7 +49,7 @@ J'ai ensuite agrémenté de plusieurs fonctionnalités que j'apprécie à l'usag
 *   **formattage des messages** avec une meilleure reconnaissance de URL que le widget Twitter et surtout, une reconnaissance des noms d'utilisateurs (@utilisateur) et des noms de canaux (#canal) ... vous permettant de leur répondre en cliquant sur leur nom
 Il resterait encore pas mal de choses à faire mais on arrive malheureusement assez rapidement aux limites des 2 services.
 
-### L'API Jaiku
+## L'API Jaiku
 
 L'[API Jaiku](http://devku.org/docs) est très bien mais un peu **chiche en services**.
 
@@ -64,13 +64,13 @@ Il ne manque pas grand chose pour qu'on puisse tout faire :
 *   une API qui ne souffre pas d'autant de délai ... parfois il faut attendre 3 heures avant d'avoir un flux actualisé. Pas pratique pour de la messagerie en temps quasi-réel
 Ces demandes ont été faites mais bon, il faudra attendre la [relance de Jaiku avec Google App Engine](http://www.jaiku.com/blog/2008/08/18/from-the-dev-corner-an-under-the-hood-preview-of-our-new-engine/) ... très bientôt visiblement.
 
-### Et du côté de Netvibes ?
+## Et du côté de Netvibes ?
 
 Le développement du widget repose sur l'API UWA de Netvibes et donc par conséquent, c'est du développement 99% JavaScript.
 
 Heureusement tout n'est pas à faire puisqu'UWA fournit une base d'outils et quelques fonctionnalités natives comme la pagination ou les onglets.
 
-### Quels avantages à utiliser Netvibes UWA ?
+## Quels avantages à utiliser Netvibes UWA ?
 
 La [spécification UWA](http://dev.netvibes.com/doc/universal_widget_api) permet donc à partir d'un **développement unique de le porter sur d'autres plateformes de blogs** en un minimum d'efforts (très souvent aucun). Il faut savoir qu'à chaque plateforme de widget il y a une manière de développer différente.
 
@@ -80,7 +80,7 @@ Le développement d'un widget aboutit très généralement à l'ajout dans l'[é
 
 Côté développement, tout reste globalement simple quand on veut faire du simple.
 
-### Mais quelle galère à développer avec Netvibes UWA ...
+## Mais quelle galère à développer avec Netvibes UWA ...
 
 En revanche ça devient beaucoup moins drôle quand on tombe sur des besoins mal couverts par la documentation.
 Et quand je dis _mal couvert_, ça inclut :
@@ -107,7 +107,7 @@ Enfin là où le bas blesse c'est que les **comportements et la présentation so
 
 Ce qui sous-entend des bugs présents en développement et pas en production, la gestion des mots de passe qui diffère en développement de la production et du paramétrage spécifique pas documenté.
 
-### Proxy local pour widget Netvibes
+## Proxy local pour widget Netvibes
 
 Le [proxy de développement Netvibes](http://dev.netvibes.com/doc/uwa_faq) indiqué dans la FAQ est fonctionnel mais _trop minimaliste_. On peut en effet récupérer les données mais dès qu'il s'agit d'en envoyer, c'est cuit.
 
@@ -191,7 +191,7 @@ J'ai donc adapté le [proxy du Yahoo! Developer Network](http://developer.yahoo.
 
 En revanche, je serais vous, **j'éviterais de m'en servir publiquement** car il n'y a aucune vérification de sécurité donc à moins que vous ayiez envie de servir de relais à spam, le mieux est de n'utiliser ce proxy que sur une instance locale ou bien de davantage le blinder.
 
-### Conclusion
+## Conclusion
 
 On arrive désormais au terme de ce billet fleuve ;-)
 

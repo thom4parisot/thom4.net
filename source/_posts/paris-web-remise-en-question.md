@@ -1,7 +1,7 @@
 title: "Paris Web 2012 : la remise en question"
 id: 18545
 date: 2012-10-25 10:00:20
-tags: 
+tags:
 - conférence
 - cyneticmonkey
 - doutes
@@ -10,7 +10,7 @@ tags:
 - off
 - parisweb
 - readme
-categories: 
+categories:
 - Évènements
 - Développement Web
 - Personnel
@@ -22,7 +22,7 @@ Le trajet retour dans un train surpeuplé est propice à l’écriture et à la 
 
 <!--more-->
 
-### Ma conférence
+## Ma conférence
 
 _Je parle de moi en preum's, comme ça si la suite vous ennuie, je me serais au moins fait mousser ;-)_
 
@@ -43,7 +43,7 @@ Les retours sur Twitter ont été plutôt enthousiastes. Certains ont clairement
 Si vous avez des choses à redire, ce sera avec plaisir.
 Je me suis en effet trouvé brouillon et pas aussi clair que je ne l’aurais souhaité. La pression du chronomètre et de [l’esprit embrumé par les imprévus](http://www.sudouest.fr/2012/10/23/un-gros-couac-dans-la-success-story-857820-713.php) ; ça n’est pas une excuse.
 
-### Les conférences
+## Les conférences
 
 Passer en revue chaque conférence ne serait pas intéressant. Partage de mes apprentissages :
 
@@ -62,7 +62,7 @@ Je suis assez circonspect de cette difficulté à vendre cette discipline pourta
 Quel est le bilan de 7 années de Paris Web intégrant le mot « accessibilité » à la baseline ? Je m’interroge.
 <div>![](https://oncletom.io/images/2012/10/Capture-d’écran-2012-10-24-à-23.45.41-600x451.png "Extrait de ma conférence sur le RDD")</div>
 
-### Ressenti et analyses
+## Ressenti et analyses
 
 Si je repars satisfait de l’évènement, j’ai tout de même des nuances à apporter. Elles sont peut-être biaisées par mon implication dans Sud Web et ne sont en aucun cas un souhait d’imposer la philosophie que j’ai souhaité apporter dans l’évènement sudiste itinérant. Soit.
 
@@ -72,7 +72,7 @@ Les informelles sont trop formelles et pas assez propices à l’expression. Jus
 
 Je ressens aussi une certaine **frustration** à ne plus découvrir les choses comme avant, de ne plus ressentir cet effet _wow_ … difficile de jauger entre ma propre évolution et celle de Paris Web. Peut-être et surement aussi parce que ce n'est plus cet évènement salvateur, celui où on est entouré de gens qui nous comprennent. Parce que **j'ai fait évoluer ma vie afin d'être entouré de gens qui me comprennent**, au quotidien.
 
-### Le « off »
+## Le « off »
 
 Samedi, finalement pas d’ateliers. Trop de fatigue accumulée et l’envie de profiter du moment en sirotant du thé genmaicha dans une [cantine japonaise](https://foursquare.com/v/nanashi/4d0905151657a35df0d02fe7).
 
@@ -80,7 +80,7 @@ Cela aura été l’occasion d’alterner réflexions personnelles, évènements
 
 C’est le moment de lancer [BordeauxJS](http://meetup.com/BordeauxJS/).
 
-### Remise à plat
+## Remise à plat
 
 Paris Web aura été cette **chance**, celle de discuter avec des gens brillants, de pousser plus loin vers l’inconnu.
 
@@ -88,7 +88,7 @@ Paris Web aura été cette chance, celle de briser définitivement cette humilit
 
 Paris Web aura été cette chance, celle de lever le doute, les doutes et que de ces discussions aussi improbables que savoureuses, de celles-ci naissent de belles choses, renforcent les bourgeons et troncs déjà bien vivants.
 
-### L’avenir
+## L’avenir
 
 L’envie est clairement à du **JavaScript full stack**.
 

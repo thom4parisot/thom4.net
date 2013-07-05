@@ -24,7 +24,7 @@ S'il faudra bien évidemment [soigner l'intitulé des liens](http://fr.opquast.c
 Les [microformats](http://microformats.org) sont pour moi un élément essentiel qui accéléreront le processus et permettront de comprendre l'intérêt de la sémantique.
 <!--more-->
 
-### Qu'est-ce que la sémantique ?
+## Qu'est-ce que la sémantique ?
 
 La sémantique est loin d'être une invention de l'informatique puisque ce principe est à la base de toutes les langues du monde. **La sémantique se réfère tout simplement au sens exprimés par les mots**. Ce concept peut être à vrai dire être élargi à tout ce qui structure de l'information.
 
@@ -32,7 +32,7 @@ Plus concrètement encore, ouvrez un journal (Le Figaro, Libération ou même Vo
 
 Et si vous ne prenez pas garde à la sémantique en elle-même c'est parce qu'elle silencieuse et logique : **votre cerveau analyse lui-même ce qu'il faut faire car il comprend la signification de la disposition sans avoir à comprendre ce qui est écrit**.
 
-### Bien structurer une page HTML
+## Bien structurer une page HTML
 
 Récemment encore j'entendais de la bouche d'une agence Web <q>on fait des sites aux standards, avec des div et du <acronym title="Cascading Style Sheet">CSS</acronym></q>. C'est déjà bien de passer au validateur mais c'est encore mieux si on produit du code significatif.
 Voici deux exemples de code qui contiennent les _mêmes textes_ et qui respectent le standard <acronym title="eXtensible HyperText Markup Language">(X)HTML</acronym>.
@@ -66,7 +66,7 @@ Sans avoir à donner un cours de balisage, voici les principes auxquels se tenir
 
 Et c'est tout ! Cette **petite touche de rigueur assurera une pérennité certaine** dans vos développements. Sans compter la _facilité à intégrer_ les microformats par la suite.
 
-### Et les microformats dans tout ça ?
+## Et les microformats dans tout ça ?
 
 Justement les microformats parlons-en. Si de prime abord sémantique et microformats peuvent paraitre sans grand rapport, _ces concepts sont pourtant intimement liés_. En utilisant les attributs `class` et `rel` (pour les liens hypertextes) dans une logique bien précise, **on décrit le contenu et sa nature** (titre de billet, auteur, date d'un évènement etc.).
 
@@ -78,7 +78,7 @@ Pour faire simple :
 
 Pour bien compléter ces paroles, je vous recommande cette [excellente introduction aux microformats](http://fredericdevillamil.com/presentations/2006/que-sont-les-microformats/index.html).
 
-### Intérêt supplémentaire des microformats
+## Intérêt supplémentaire des microformats
 
 Ce qui est intéressant avec les microformats c'est que l'on peut les utiliser sans avoir derrière un site Web super hi-tech en _Web 46.0 full Ajax_. **Une page HTML suffit**. J'ai justement utilisé les microformats la première fois lorsque j'ai voulu refaire mon CV en me disant qu'en HTML ça serait sympa. Il existe fort heureusement un [microformat hResume](http://microformats.org/wiki/hresume) réutilisant lui-même les microformats [hCard](http://microformats.org/wiki/hcard) (carte de visite) et [hCalendar](http://microformats.org/wiki/hcalendar) (calendrier et évènements).
 Outre l'aspect purement technique de cet exercice, **ce CV me sert maintenant de carte de visite** (en utilisant le [service _contacts_ de Technorati](http://technorati.com/contacts/)) en plus de pouvoir **être réutilisé sur des sites de recherche d'emploi**.
@@ -89,7 +89,7 @@ Mis à part une sémantisation de votre contenu, voici les **bénéfices à reti
 *   **les navigateurs Web intégreront eux aussi les microformats** pour faciliter la navigation des utilisateurs : installez l'[extension Operator pour Firefox](https://addons.mozilla.org/fr/firefox/addon/4106), revenez sur cette page et améliorez votre expérience de navigation
 *   **les microformats sont au coeur de l'Internet de demain** et c'est aujourd'hui qu'il faut y travailler
 
-### La sémantique, moteur des futures recherches sur Internet
+## La sémantique, moteur des futures recherches sur Internet
 
 Même si à l'heure actuelle on peut considérer que les microformats aident au référencement, ce n'est pas explicitement mentionné. Mais l'avenir est à la recherche sémantique afin d'affiner les résultats et de mieux répondre aux requêtes. C'est un énorme défi puisqu'entre indexer du contenu et comprendre ce qu'il dit, il y a tout un fossé. Cette recherche sémantique s'appliquera aussi bien au texte qu'aux ressources audio (musique, interview etc.) et vidéo.
 [Hakia s'intéresse à la recherche sémantique musicale](http://arstechnica.com/articles/culture/hakia-semantic-search-set-to-music.ars) tandis que d'un autre côté, [la recherche sémantique est considérée comme étant une fonctionnalité nécessaire pour le futur de la recherche sur Internet](http://altsearchengines.com/2007/07/30/what-is-a-search-engine/).

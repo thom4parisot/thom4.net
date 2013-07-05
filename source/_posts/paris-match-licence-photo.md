@@ -1,13 +1,13 @@
 title: "Si à 30 ans, on ne s'est pas fait piquer une photo par Paris Match, c'est qu'on a quand même raté sa vie !"
 id: 1463
 date: 2009-11-08 20:56:42
-tags: 
+tags:
 - flickr
 - paris match
 - photo
 - presse
 - sampietro
-categories: 
+categories:
 - Personnel
 - Travail 2.0
 ---
@@ -24,7 +24,7 @@ Oncle Tom vs. Paris Match peut commencer ;-)
 
 <!--more-->
 
-### Le problème initial
+## Le problème initial
 
 Le problème de l'apparition de cette photo en tête d'article tient à un élément bien précis : la **licence d'utilisation de la photo**.
 Toutes mes photos publiées sur Flickr sont sous licence [Creative Commons BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.fr) ce qui revient à laisser la liberté de reproduire, distribuer et communiquer cette création au public **sous ces conditions explicites** :
@@ -41,22 +41,30 @@ Bref, autant d'arguments qui donneraient envie de tirer à vue sur Paris Match, 
 
 [caption id="" align="aligncenter" width="161" caption="Photo originelle"][![Éric Sampietro aux commandes](http://farm4.static.flickr.com/3258/3111920922_4331a3f05f_m.jpg "Photo originelle")](http://www.flickr.com/photos/the-jedi/3111920922/ "Éric Sampietro aux commandes")[/caption]
 
-### Prise de contact avec Paris Match
+## Prise de contact avec Paris Match
 
 On est dimanche après-midi, je contacte donc Paris Match en suivant le lien judicieusement intitulé <q>Signaler du contenu illicite</q>. Il est 13h30 et j'y tiens ces propos :
-> Adresse de la page : [http://www.parismatch.com/Conso-Match/Gastronomie/Actu/Eric-Sampietro-la-cuisine-du-mousquetaire-141329/](http://www.parismatch.com/Conso-Match/Gastronomie/Actu/Eric-Sampietro-la-cuisine-du-mousquetaire-141329/)> 
-> Votre message :> 
-> 
-> Bonjour,> 
-> 
-> j'ai pris connaissance aujourd'hui de la présence d'une de mes photos pour illustrer l'article dont le lien est mentionné ci-avant.> 
-> Cette photo est publiée sur le Web depuis le 16 décembre 2008 à cette adresse : [http://www.flickr.com/photos/the-jedi/3111920922/](http://www.flickr.com/photos/the-jedi/3111920922/) (dont une taille plus élevée que celle vous avez).> 
-> 
-> Le problème, pour vous :> 
-> 
+> Adresse de la page : [http://www.parismatch.com/Conso-Match/Gastronomie/Actu/Eric-Sampietro-la-cuisine-du-mousquetaire-141329/](http://www.parismatch.com/Conso-Match/Gastronomie/Actu/Eric-Sampietro-la-cuisine-du-mousquetaire-141329/)
+>
+> Votre message :
+>
+>
+> Bonjour,
+>
+>
+> j'ai pris connaissance aujourd'hui de la présence d'une de mes photos pour illustrer l'article dont le lien est mentionné ci-avant.
+>
+> Cette photo est publiée sur le Web depuis le 16 décembre 2008 à cette adresse : [http://www.flickr.com/photos/the-jedi/3111920922/](http://www.flickr.com/photos/the-jedi/3111920922/) (dont une taille plus élevée que celle vous avez).
+>
+>
+> Le problème, pour vous :
+>
+>
 > *   vous indiquez "Photo Dr". Or ça m'étonnerait que ça soit un droit réservé pour vous
-> *   la photo est licenciée sous [Creative Commons NC-BY-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.en). Autrement dit, elle doit être republiée telle quelle et dans un contexte non commercial. Si ce n'est pas le cas il faut prendre contact avec l'auteur et lui demander une permission, moyennant finances ou pas.> 
-> La balle est dans votre camp maintenant.> 
+> *   la photo est licenciée sous [Creative Commons NC-BY-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.en). Autrement dit, elle doit être republiée telle quelle et dans un contexte non commercial. Si ce n'est pas le cas il faut prendre contact avec l'auteur et lui demander une permission, moyennant finances ou pas.
+>
+> La balle est dans votre camp maintenant.
+>
 > Merci d'avance
 À 14h30, l'image est retirée de l'article sur le Web et je reçois une réponse cordiale du rédacteur en chef s'excusant et me faisant part du retrait. C'est d'autant plus appréciable que je n'attendais franchement pas de réponse un dimanche après-midi, surtout de la part d'une personne se présentant comme encore en vacances (et donc pas forcément au courant de subtilités concernant tel ou tel article).
 
@@ -68,7 +76,7 @@ On pourrait imaginer que je n'ai plus à faire valoir mes droits sur la photo vu
 *   la photo se trouve toujours sur le [PDF de l'article](http://www.julieandrieu.com/images/ilsontdit/210.pdf) ... ainsi que dans la version papier
 [![Extrait de l](https://oncletom.io/images/2009/11/parismatch-sampietro-extrait-papier-300x263.jpg "Extrait de l")](https://oncletom.io/images/2009/11/parismatch-sampietro-extrait-papier.jpg)
 
-### Un cheminement compliqué
+## Un cheminement compliqué
 
 Si on peut facilement retirer une image problématique sur le Web (mais on laisse des traces, n'oublions pas), quid de la version papier qui elle, est belle et bien imprimée, diffusée et vendue. Bref, **je dois faire valoir mes droits**.
 
@@ -80,7 +88,7 @@ Et pourtant, elle a également été reprise dans la galerie de l'organisatrice 
 
 Dans tous les cas, **la propriété intellectuelle était clairement indiquée**, à défaut d'une licence explicite dans le dernier exemple.
 
-### Conclusion
+## Conclusion
 
 **J'espère avoir une réponse claire et définitive dans la semaine**. La journaliste à l'origine de l'article n'était peut-être pas au courant, ou pas. J'ose espérer qu'il s'agit d'une erreur maladroite et non pas un abus déguisé. Vu de notre petit nuage d'internaute ça peut paraître aberrant mais vu du point de vue d'une rédaction, j'imagine à quel point ce détail est noyé dans les autres contraintes du bouclage.
 Ça n'excuse rien cependant.
@@ -101,9 +109,9 @@ J'en profite pour partager quelques liens sur la photographie et les contraintes
 *   [5 modèles-types d'autorisation](http://www.virusphoto.com/10575-5-modeles-types-dautorisations-a-faire-signer-a-vos-modeles.html)
 Quant à moi, j'ai un sacré retard en terme de billets mais ça me fera une bonne transition pour parler la prochaine fois de [Réussir son blog professionnel](http://reussir-son-blog.pro/), 2 mois après son lancement ;-)
 
-### Mise à jour
+## Mise à jour
 
-#### Lundi 9 novembre 2009 ~ 17h30
+### Lundi 9 novembre 2009 ~ 17h30
 
 La rédactrice de l'article, qui fait donc partie de la société ayant fourni l'article à Paris Match, me contacte pour m'expliquer comment ça s'est  passé. La photo lui a été communiquée par Éric Sampietro. Photo qui est donc ensuite remontée côté Paris Match. De son point de vue, ce n'est ni de sa faute ni celle de Paris Match puisqu'ils n'ont fait "que" récupérer une photo qu'on leur a communiqué.
 

@@ -24,7 +24,7 @@ Nous verrons aussi pourquoi il est **important de dissocier la présentation et 
 
 <!--more-->
 
-### Buts et objectifs de l'exercice
+## Buts et objectifs de l'exercice
 
 J'ai eu besoin d'appliquer cette technique sur le site [Emu Nova](http://www.emunova.net). Je souhaitais plusieurs choses :
 
@@ -44,7 +44,7 @@ Nous allons aborder les 3 phases de ce tracé de flèche :
 2.  le déplacement du contenu (la flèche)
 3.  la construction de notre nouveau menu (la zone bleue)
 
-### Étape 1 : construire le menu en HTML
+## Étape 1 : construire le menu en HTML
 
 C'est l'étape essentielle. De sa structure dépend le reste de l'application. On doit **d'abord penser à présenter le contenu de manière dégradée**. C'est ainsi que le verront les utilisateur et c'est important de penser d'abord au pire des cas avant de mettre en place les paillettes et les artifices.
 
@@ -87,7 +87,7 @@ que de la recréer séquentiellement.
 
 Avec cette structure, on peut dores et déjà deviner que les <ul> de second niveau seront masqués et affichés à la demande.
 
-### Étape 2 : préparer le menu HTML
+## Étape 2 : préparer le menu HTML
 
 La deuxième reste assez simple : on transporte `#navigation` dans son nouveau conteneur (déjà existant) : `#welcome-bar.`
 
@@ -116,7 +116,7 @@ En soi, ce n'est pas excessif du tout :
 
 Tout le travail se situait dans la réflexion il faut croire ;-)
 
-### Étape 3 : assigner les évènements
+## Étape 3 : assigner les évènements
 
 Maintenant le plus dur c'est de donner vie à tout ça. C'est bien beau d'avoir des menus mais encore faut-il les animer. Là encore nous avons plusieurs contraintes à subir :
 
@@ -173,7 +173,7 @@ Et pour les explications :
 2.  Pour ces liens hypertextes nouvellement créés (plus faciles à styler sans JS au rollover), on leur demande de déplier le sous-menu voisin
 3.  Ce sous-menu ne sera replié que lorsqu'on quittera le li.column
 
-### Conclusion
+## Conclusion
 
 La **mise en œuvre de ce menu est relativement aisée** et surtout, suffisamment souple pour que vous puissiez l'adapter à vos besoins.
 Dans tous les cas on remarquera que les clés de la réussite sont :

@@ -11,7 +11,7 @@ date: 2009-08-16 16:49:10
 *   [WP-LESS on Wordpress.org plugins repository ](http://wordpress.org/extend/plugins/wp-less/)
 *   State : **stable and ready to use**
 
-### Features
+## Features
 
 *   Relies on [lessphp library](http://leafo.net/lessphp/)
 *   **Automatic** detection of LESS files

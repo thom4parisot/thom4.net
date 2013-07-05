@@ -28,7 +28,7 @@ J'ai donc utilisé un **iPod Touch** pendant 2 semaines pour tester ses capacit�
 
 J'ai au début été séduit ... puis déçu dès qu'il s'agissait de pousser les choses un peu plus en profondeur (pas d'arrières-pensées merci ;-)).
 
-### Les raisons d'acheter un iPhone
+## Les raisons d'acheter un iPhone
 
 1.  un **bel objet** il faut bien le reconnaître ;
 2.  une **interface utilisateur globalement simple et intuitive** (quoique, sur du tactile on ne pense pas nécessairement au double-tap) ;
@@ -39,7 +39,7 @@ Au final, on peut se retrouver avec un produit totalement autonome, permettant d
 
 ![iPhone & iPod Touch Jailbreak](https://oncletom.io/images/2008/07/ipod-touch-iphone-jailbreak.jpg "iPhone & iPod Touch Jailbreak")
 
-### Les raisons de ne pas acheter un iPhone
+## Les raisons de ne pas acheter un iPhone
 
 1.  on est **à la merci de la politique d'Apple** : fermée et finalement sans respect pour l'utilisateur. Microsoft se fait jeter des cailloux pour les mêmes choses avec l'activation sous 30 jours de Windows et j'en passe et des meilleures ;
 2.  **pas de rétention des mots de passe** : vous aimez retaper sans arrêt vos identifiants et mots de passe sur les sites Web ? Moi non et pourtant c'est le lot de tout utilisateur iPhone ... ;
@@ -56,7 +56,7 @@ On pourrait également citer le copier/coller mais ces 8 points m'ont au final d
 
 ![iPhone Installer](https://oncletom.io/images/2008/07/iphone-installer.jpg "iPhone Installer")
 
-### Mon ressenti sur iPhone
+## Mon ressenti sur iPhone
 
 iPhone est un magnifique objet avec une interface innovante. Je le vois très bien devenir le PDA par défaut de tout commercial, la console de jeux de nos enfants mais aussi leur téléphone, carnet d'adresses ... bref un **appareil numérique qui rassemble notre vie** tout en la rendant communiquante.
 

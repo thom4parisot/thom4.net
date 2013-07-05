@@ -12,7 +12,7 @@ It's pretty handy to use a blog to gather informations from our other activities
 
 [![Lifestream preview](https://oncletom.io/images/2010/03/lifestream-nq8.png "Lifestream preview")](https://oncletom.io/images/2010/03/lifestream-nq8.png)
 
-### My Work
+## My Work
 
 *   French translation
 *   [Diigo](http://www.diigo.com/) extension

@@ -29,7 +29,7 @@ Nous allons voir comment procéder à ce changement tout en adaptant les sécuri
 
 **Remarque importante** : j'ai publié une [version améliorée du déplacement des données d'un serveur MySQL](https://oncletom.io/2008/12/11/configuration-apache-mysql-php-symlinks/). Je la recommande par rapport à cet article : elle implique moins de manipulations et est plus propre.
 
-### Quelques généralités avant de commencer
+## Quelques généralités avant de commencer
 
 Quitte à changer l'emplacement du _datadir_, autant le déplacer sur une partition qui ne sera pas effacé lors de la réinstallation de votre système d'exploitation, que ça soit du Linux, MacOS ou Windows.
 
@@ -45,7 +45,7 @@ Enfin, dernier détail à connaître : l'emplacement de vos données MySQL :
 *   sous Linux, généralement : `/var/lib/mysql`
 *   sous Windows, avec WAMP : `C:Program FilesWampmysqldata`
 
-### Méthode 1 : modifier la configuration MySQL
+## Méthode 1 : modifier la configuration MySQL
 
 C'est probablement la **méthode la plus simple** mais elle a l'inconvénient d'avoir à modifier un fichier de configuration. Il faut donc modifier la propriété _datadir_ de votre [fichier de configuration MySQL](http://dev.mysql.com/doc/refman/5.1/en/option-files.html) :
 
@@ -79,7 +79,7 @@ cp -pr /var/lib/mysql/* /home/mysql
 /etc/init.d/mysql start`
 ```
 
-### Méthode 2 : utilisation d'un lien symbolique
+## Méthode 2 : utilisation d'un lien symbolique
 
 La [documentation de MySQL explique l'utilisation des liens symboliques](http://dev.mysql.com/doc/refman/5.1/en/symbolic-links.html) pour tout, une base de données précises voire même les tables. Ceci dit nous allons voir l'exemple global : on déplace tout.
 
@@ -103,7 +103,7 @@ cp -pr /var/lib/mysql-old/* /home/mysql
 
 Là encore, supprimez la copie de vos données (répertoire mysql-old) seulement en cas de succès. Ça facilite les retours en arrière en cas de pépin.
 
-### Cas particulier : systèmes employant AppArmor ou SELinux
+## Cas particulier : systèmes employant AppArmor ou SELinux
 
 Il y a cependant un hic possible si vous utilisez une distribution Fedora ou Ubuntu, surtout depuis sa version [Hardy Heron (8.04)](http://doc.ubuntu-fr.org/hardy). Celle-ci intègre une sécurité pour éviter à certains services critiques d'être altérés par une manipulation extérieure ... comme la notre.
 
@@ -141,7 +141,7 @@ sudo /etc/init.d/apparmor restart
 sudo /etc/init.d/mysqld restart
 ```
 
-### Conclusion
+## Conclusion
 
 Nous avons vu 2 méthodes pour rendre sa **gestion des bases de données plus souple et plus sure**. En cas de défaillance système - ça arrive même aux meilleurs - il faut pouvoir le réinstaller sans craindre de perdre des données vitales. Et les bases de données le sont.
 

@@ -20,7 +20,7 @@ Une fois de plus, **la flemme a vaincu**.
 <!--more-->
 Après avoir lu des billets intéressants sur l'[installation de Subversion sur Ubuntu](http://www.prendreuncafe.com/blog/post/2006/09/05/489-installer-et-configurer-apache2-trac-et-subversion-sur-ubuntu) ainsi que l'[installation de Subversion sur Ubuntu ou Debian](http://www.beroot.org/Configurations/installation-subversion-trac-debian-ubuntu), je devais me rendre à l'évidence : pour chaque dépôt créé, il faut également modifier (à la main) le fichier de configuration d'Apache.
 
-### Directive DirectoryMatch
+## Directive DirectoryMatch
 
 J'ai tenté de contourner le problème en utilisant la [directive DirectoryMatch d'Apache](http://httpd.apache.org/docs/2.0/mod/core.html#directorymatch) mais impossible de récupérer le résultat du masque.
 Si vous comptiez faire ceci, oubliez de suite, ce n'est pas possible :
@@ -35,7 +35,7 @@ Si vous comptiez faire ceci, oubliez de suite, ce n'est pas possible :
 
 En effet, `DirectoryMatch` ne fait que vérifier l'existence d'un chemin par rapport à un masque ; il n'en récupère pas le contenu pour une exploitation ultérieure. C'est bien dommage.
 
-### Solution : SVNParentPath
+## Solution : SVNParentPath
 
 Heureusement tout a été prévu (mais rarement mentionné). Au lieu d'utiliser `SVNPath` pour renseigner le chemin _d'un seul dépôt_, il vaut mieux utiliser `SVNParentPath` qui, lui, spécifie la racine des dépôts Subversion. En gros, tous les répertoires enfants à `SVNParentPath` sont considérés comme étant des dépôts (référentiels) indépendants.
 

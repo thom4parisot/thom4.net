@@ -28,7 +28,7 @@ En revanche la solution du copié/collé n'est pas à mes yeux une _véritable s
 
 Je suis feignant donc je n'aime pas faire le travail 2 fois alors je propose une solution qui fonctionnera chez vous. C'est d'ailleurs celle que j'emploie depuis la refonte de ce blog ... c'est à dire bientôt 1 an.
 
-### Les modèles de page Wordpress
+## Les modèles de page Wordpress
 
 Il existe peu de différences entre une page et un article dans Wordpress :
 
@@ -52,7 +52,7 @@ Template Name: <Nom du template>
 
 La dernière étape avant son utilisation consiste à tapoter un peu de code PHP pour aboutir à votre souhait. N'hésitez pas à parcourir la [documentation de Wordpress](http://codex.wordpress.org) pour produire un code pérenne et utiliser au maximum les [fonctionnalités proposées par Wordpress](http://codex.wordpress.org/Function_Reference).
 
-### Un modèle de page Wordpress pour Blogroll
+## Un modèle de page Wordpress pour Blogroll
 
 Notre besoin initial tombe à point nommé puisque nous avons justement besoin d'un template
 de page pour gérer sa blogroll depuis son module d'administration sans avoir à mettre à
@@ -88,7 +88,7 @@ Une fois enregistré, le modèle apparaît dans le sélecteur de modèle (unique
 
 Ça y'est, vous avez votre page dédiée aux liens sans travail de recopie supplémentaire.
 
-### Un modèle imparfait
+## Un modèle imparfait
 
 Attention toutefois puisque créer un modèle signifie que **Wordpress ne va utiliser QUE ce modèle** pour la présentation. Autrement dit il va falloir toute reproduire jusqu'au titre de la page si vous le désirez.
 
@@ -99,7 +99,7 @@ Pour bien reproduire le thème, plusieurs possibilités :
 *   _vous vous débrouillez_ vous-même pour comprendre comment est construit l'affichage du thème
 *   vous _connaissez quelqu'un_ qui se débrouille avec Wordpress et vous lui demandez de le faire (pas la peine de me demander)
 
-### Conclusion
+## Conclusion
 
 Les modèles de page (ou templates) est une fonctionnalité assez méconnue mais pourtant ô combien utile pour les utilisations suivantes :
 

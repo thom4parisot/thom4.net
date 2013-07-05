@@ -27,7 +27,7 @@ Un instant à cheval sur 2 calendriers, et qui conclut ma _quête_ de 2010, effl
 [![](http://farm3.static.flickr.com/2716/4511931016_6c63e42f5f_m.jpg)](http://www.flickr.com/photos/the-jedi/4511931016/)
 <!--more-->
 
-### 2010 : l'effet Big Bang
+## 2010 : l'effet Big Bang
 
 Ce qui est amusant, c'est à quel point **la rencontre d'une personne peut changer notre propre vie**, jusqu'au petit détail de la vie quotidienne. Ça a marqué tout le long de l'année, tant dans les rencontres que dans ma façon de penser, d'appréhender les choses ou de les apprécier.
 Cela vaut bien évidemment pour toutes ces relations déjà existantes, dont le lien a pu se renforcer.
@@ -40,7 +40,7 @@ En clair, on passe notre temps à tisser, du lien, avec cette faculté si partic
 
 [![](http://farm5.static.flickr.com/4116/4801391690_e32266c23b_m.jpg)](http://www.flickr.com/photos/the-jedi/4801391690/)
 
-### 6 changements réussis
+## 6 changements réussis
 
 L'an dernier, c'était l'occasion d'appliquer la méthode [6 changes](http://6changes.com/). Le but était de se focaliser sur 6 objectifs et d'y parvenir. Je ne me suis pas contenté de ne faire _que_ ça mais ils représentaient des axes qui me tenaient, et me tiennent toujours à cœur.
 
@@ -62,7 +62,7 @@ Dans la catégorie imprévus imprévisibles mais appréciables, je citerais la d
 
 [![](http://farm5.static.flickr.com/4102/4871868747_448ba41195_m.jpg)](http://www.flickr.com/photos/the-jedi/4871868747/)
 
-### Juste 1 seul changement pour 2011 ?
+## Juste 1 seul changement pour 2011 ?
 
 Si 2010 m'a permis de _mieux tisser et appréhender le lien humain_ (et tout ce que ça implique), cela a eu une conséquence, facteur de changement et élément majeur que je souhaite développer en 2011 : la **liberté**.
 

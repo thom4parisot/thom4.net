@@ -1,7 +1,7 @@
 title: "Freelance, 4 mois plus tard"
 id: 18428
 date: 2011-05-03 10:00:50
-tags: 
+tags:
 - comptable
 - cyneticmonkey
 - expérience
@@ -9,7 +9,7 @@ tags:
 - projet
 - stratégie
 - tarif
-categories: 
+categories:
 - Développement Web
 - Entrepreneuriat
 ---
@@ -22,7 +22,7 @@ Je vous fais part de mes impressions, de mes actions mais aussi de mes craintes.
 
 <!--more-->
 
-### Choisir une banque
+## Choisir une banque
 
 [La banque est un univers formidable](http://www.lesbanquiers.com/) (évitez d'avoir votre patron dans le dos pour ouvrir le précédent lien ...). Tout est plus ou moins sujet à taxe ou autre prélèvement : frais de tenue de compte, frais de mouvement, frais d'immobilisation etc. Leurs sites Web sont nazes mais à part ça, faut quand même payer.
 
@@ -32,7 +32,7 @@ _End of line_ comme dirait l'autre.
 Je me suis au final tourné vers le Crédit Mutuel – non pas pour leur ignoble site Web de gestion de comptes mais plutôt parce que la conseillère a d'une part été dynamique, disponible, et surtout suffisamment efficace pour que tout se passe rapidement. Pas folle non plus, aucun coût d'acquisition de client, peu de complications en prévision.
 J'ai apprécié le coup de pouce consistant à exonérer de frais de gestion pendant les 6 premiers mois, et d'une grille tarifaire claire (on ne paie rien de plus que les frais de gestion mensuels). J'adore leur machine à scanner/encaisser les chèques : saisie du montant à l'écran et photocopie dans la foulée. Qui plus est, ça simplifie simplifie la gestion comptable.
 
-### Mise en place de l'infrastructure technique
+## Mise en place de l'infrastructure technique
 
 J'ai passé les premiers jours de mon activité à mettre en place toute mon infrastructure technique. Ça passe aussi bien par l'outillage nécessaire à produire, via mon ordinateur, que par les solutions logicielles à employer pour facturer, suivre les projets et gérer mes opportunités commerciales.
 
@@ -47,7 +47,7 @@ Je me sers pour l'instant des fonctionnalités par défaut, des _milestones_ au 
 
 [![](http://farm6.static.flickr.com/5017/5515047854_9c3d2912f7.jpg "Bloody Crime Scene")](http://www.flickr.com/photos/the-jedi/5515047854/)
 
-### Formalités administratives
+## Formalités administratives
 
 Tout ça c'est bien beau, mais la réalité administrative attend.
 
@@ -63,7 +63,7 @@ La Responsabilité Civile professionnelle est l'autre indispensable – et qui c
 
 Restent encore les volets de la **mutuelle santé et de la prévoyance**. Bénéficiant encore du portage de mon ancienne mutuelle pro, j'en suis resté au stade des devis. Toujours est-il qu'en tant que travailleur non-salarié, faites passer les deux sur la [loi Madelin](http://www.loimadelin.com/cadre-fiscal-madelin/fiscalite-prevoyance-sante-madelin) : c'est la boîte qui paie, pas vous. Vos impôts vous diront merci.
 
-### Création des documents types
+## Création des documents types
 
 Entre les installations et les rendez-vous administratifs à droite et à gauche, le temps file. Pour autant, avant de signer le premier contrat, il est important de disposer du minimum pour ... les signer justement :
 
@@ -74,7 +74,7 @@ L'idéal est d'en avoir un maximum avant d'avoir le premier client. Surtout pour
 
 À terme je compte passer par la case juriste pour tout ce qui est document légal ou contrat – sur de sages conseils. Ça se fera par la suite, après avoir signé quelques contrats et sécurisé ma trésorerie.
 
-### Premiers clients, premières propositions
+## Premiers clients, premières propositions
 
 Une des choses qui m'a le plus effrayé au début, c'est le fait de ne pas avoir de rentrées d'argent. En fait j'ai eu quelques petites missions, suffisantes pour couvrir les frais de départ (responsabilité civile, comptable) mais rien de très long. Se pose alors le **problème de la disponibilité et de la visibilité**.
 
@@ -89,7 +89,7 @@ Au final, les opportunités suivantes ont été beaucoup plus rassurantes, le be
 
 En tous cas, c'est aussi l'occasion de constater que rien n'est à l'heure et que compter sa dispo au jour près suivant la date de réponse théorique d'un projet se révèle être périlleux. En pratique, il y a toujours plusieurs jours ou plusieurs semaines de flottement. Une bonne communication, à la fois pour prospecter une réponse, mais aussi envers les clients avec qui je suis engagé est importante et nécessaire. Pas de tension, pas de friction, pas de conflit.
 
-### S'adapter au rythme de travail
+## S'adapter au rythme de travail
 
 J'étais déjà habitué à travailler dans un cadre autre qu'un bureau avec des collègues : chez moi, dans un autre logement ou encore dans les locaux de mes clients.
 Toutefois, ça n'a jamais été une situation permanente et la dernière des choses à se dire, c'est qu'il n'y a pas de règles. Mon réveil est calé tous les matins sur 7h30 – sauf cas où j'estime que dormir plus m'apportera un travail de meilleure qualité. De même, j'essaie de m'astreindre à 1h30 voire 2h de pause le midi. En prenant bien le soin de faire autre chose que de l'ordinateur : ménage, bouquiner, prendre l'air/marcher.
@@ -99,7 +99,7 @@ Je sais en revanche que je bénéficie d'un environnement calme, où les distrac
 
 En revanche clairement, j'ai banni Twitter et Facebook de mes heures de travail : la tentation est trop forte. Ma fenêtre de navigation "loisir" se trouve sur un autre bureau, que je ne consulte que pendant mes pauses, courtes ou longues. Ces pauses sont dictées par la [méthode Pomodoro](http://www.pomodorotechnique.com/). À défaut de couper mes tâches en 25 minutes, je travaille en _sprints_ de 25 minutes, avec pause forcée et arrêt d'utilisation de l'ordinateur. Ça a le gros avantage de retarder l'effet de lassitude, si prompt à pédaler dans la choucroute.
 
-### Affiner le positionnement et les tarifs
+## Affiner le positionnement et les tarifs
 
 Dans le temps que je consacre à mon activité, j'ai en revanche une chance énorme : celle de n'avoir quasiment pas à prospecter. J'ai répondu à 3 appels d'offre, parce qu'ils me plaisaient et que j'en avais envie. Le reste, c'est sur cooptation et recommandation. Mon blog, celui-là même, joue encore un rôle important puisqu'il permet à quiconque de suivre mon évolution et, détail récurrent, c'est ce qui les motive à vouloir travailler avec moi. Même si ce n'était pas mon but initial, force est de constater que la part de **confiance joue un rôle déterminant** dans l'acquisition de mon flux commercial.
 
@@ -116,7 +116,7 @@ Ce mode opératoire, accompagnée d'une transparence totale sur le temps passé 
 
 Ils n'ont ainsi (jusqu'à présent) jamais eu l'impression de payer autre chose que de la qualité et de la tranquillité, dans le déroulement et la communication.
 
-### Investissement matériel
+## Investissement matériel
 
 Initialement, j'avais tendance à croire que mon ordinateur portable (Ubuntu sur Centrino Duo, 2Go de RAM et écran 17") suffirait, en terme de puissance et d'habitude de travail pour me procurer efficacité et donc productivité. Jusqu'au jour où j'ai réalisé la nécessité de me déplacer (notamment pour [Sud Web](http://sudweb.fr) – 5 heures de train jusqu'à Nîmes ...). Qu'à cela ne tienne, je complète cela par un Netbook (Ubuntu Netbook sur HP PC Mini puis eeePC suite à un problème matériel du premier).
 
@@ -124,7 +124,7 @@ Au bout de 2 mois, je me résous à penser que ce n'est pas la bonne stratégie 
 
 L'improbable se passe alors : **je bascule sous Mac**. D'abord pour la machine. Ensuite pour l'intégration OS/machine qui, il faut le reconnaître, renvoie au placard tous les micro-détails de la gestion matérielle d'Ubuntu (excellente au demeurant – agaçante parfois). En clair, j'ai considéré la combinaison OS/machine comme un **investissement en productivité**, en temps que je ne perds pas et surtout, en confort de travail, peu importe mon lieu de travail.
 
-### Conclusion
+## Conclusion
 
 En bref, je trouve le bilan positif pour l'instant, tant dans l'apprentissage que dans l'accomplissement des valeurs me tenant à cœur.
 

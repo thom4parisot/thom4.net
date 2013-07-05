@@ -1,8 +1,8 @@
 title: "ENES : Open Source ... ?"
 id: 71
 date: 2005-08-02 20:48:28
-tags: 
-categories: 
+tags:
+categories:
 - Projets
 ---
 
@@ -14,13 +14,13 @@ Le premier anniversaire approche et une réflexion interne a été lancé. **Ape
 
 Le projet **ENES** est mené par 4 personnes : _jeandubois_ (partie matérielle et développement), _Sigfrodi_ et _Julio_ (support, assistance et recherche) puis moi-même (gestion du projet, site Web et relations extérieures). Il était temps de prendre un peu de recul par rapport à notre parcours car le projet fêtera sa première année d'activité le 13 octobre prochain.
 
-### Que s'est-il passé en 1 an ?
+## Que s'est-il passé en 1 an ?
 
 _Tout et rien_. En effet si on a démarré en trombe sur un jeu "exclusif" (<ins>Sword & Serpents</ins>), on s'est finalement plus heurté à des problèmes qu'autre chose : cartouche impossible à dumper (<ins>Maniac Mansion</ins> en version française et allemande pour ne citer qu'elles), lecture erronée due à l'oxydation des connecteurs métalliques et flou total dans la pertinence de notre liste des jeux nécessitant d'être sauvegardés.
 
 Wow, un an pour tout ça ? Et bien en fait, le temps de comprendre et de trouver l'origine des problèmes ... oui. Le monde de l'électronique est (très/trop) complexe pour tout comprendre d'un coup, surtout lorsqu'on est face à des boîtes noires (manque de documentation, documentations imprécises ou erronées). Donc il faut avancer à taton pour comprendre par nous-même ce sur quoi on travaille.
 
-### Alors que va-t-on faire ?
+## Alors que va-t-on faire ?
 
 _Jeandubois_ travaille actuellement sur la troisième version de _Spaghetto_, notre dumper (machine permettant d'extraire le contenu des cartouches de jeu) et sur toute la clique logicielle nécessaire à son exploitation. Tout ou presque sera mis à disposition du public sous licence **GPL**. Voici en gros comment nous allons présenter le tout :
 

@@ -25,7 +25,9 @@ J'ai contacté le support à plusieurs reprises pour prendre connaissance de la 
 Le gros problème est que **Canalblog ne m'a jamais répondu**. Ni à moi ni à plusieurs utilisateurs.
 En 2010, ce sont donc plus de** 700 000 blogs qui se retrouvent captifs** d'une plateforme avec une seule porte de sortie : le copié/collé de leurs articles. Difficilement acceptable.
 
-### <!--more-->Canalblog Importer : plugin d'import de Canalblog vers WordPress
+<!--more-->
+
+## Canalblog Importer : plugin d'import de Canalblog vers WordPress
 
 Las de ce mutisme de la part de Canablog, j'ai donc décide de me mettre à l'ouvrage pour offrir une extension WordPress répondant à ces 2 critères :
 
@@ -33,7 +35,7 @@ Las de ce mutisme de la part de Canablog, j'ai donc décide de me mettre à l'ou
 *   en demander le moins possible à l'utilisateur
 Une fois le _plugin_ activé, une nouvelle entrée fait son apparition dans la rubrique d'administration Outils > Importer : [Canalblog Importer](http://wordpress.org/extend/plugins/canalblog-importer/).
 
-### L'import Canalblog en 5 étapes
+## L'import Canalblog en 5 étapes
 
 L'import de son blog Canalblog se déroule par la suite en 5 étapes :
 
@@ -55,7 +57,7 @@ Difficile d'en demander plus à quelqu'un n'ayant aucune notion technique.
 
 [caption id="attachment_1523" align="aligncenter" width="300" caption="Écran de configuration de Canalblog Importer"][![](https://oncletom.io/images/2010/02/screenshot-11-300x123.png "Écran de configuration de Canalblog Importer")](https://oncletom.io/images/2010/02/screenshot-11.png)[/caption]
 
-### Canalblog Importer : les fonctionnalités
+## Canalblog Importer : les fonctionnalités
 
 Les différentes étapes de l'import résument à elles seules les fonctionnalités de cet outil d'import :
 
@@ -74,7 +76,7 @@ J'ai essayé de rendre toutes les **étapes conviviales, explicatives et rassura
 
 [caption id="attachment_1524" align="aligncenter" width="300" caption="Écran d&#39;aide à la fin d&#39;import"][![](https://oncletom.io/images/2010/02/screenshot-2-300x142.png "Écran d")](https://oncletom.io/images/2010/02/screenshot-2.png)[/caption]
 
-### La clé de la réussite : cURL et XPath
+## La clé de la réussite : cURL et XPath
 
 Sous le capot, la dépendance à PHP 5.1+ s'explique par 3 choses :
 
@@ -87,7 +89,7 @@ Associé au [DOM PHP5](http://fr.php.net/manual/en/book.dom.php), c'est un outil
 Donc clairement, cette extension effectue un **travail bête et méchant de _crawl_ des pages d'un blog**, de manière structurée afin de peupler tranquillement un blog WordPress de ce même contenu.
 Je me suis basé au maximum par les outils déjà existants ... y compris la classe d'import WordPress.com ! Je l'ai réutilisé pour l'import des médias vu qu'elle correspondait parfaitement au besoin.
 
-### Le pouvoir aux utilisateurs
+## Le pouvoir aux utilisateurs
 
 Au-delà du simple aspect technique de la réalisation de l'extension (qui a demandé quelques heures de travail tout de même), il faut comprendre une chose : capturer ses utilisateurs pour éviter leur fuite en cas de déclin d'un produit n'empêchera pas les utilisateurs de trouver une solution à leur problème.
 

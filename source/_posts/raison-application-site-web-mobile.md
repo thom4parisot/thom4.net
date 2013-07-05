@@ -1,7 +1,7 @@
 title: "1 seule raison de proposer une application plutôt qu'une version mobile de son site"
 id: 9231
 date: 2010-04-22 14:10:00
-tags: 
+tags:
 - android
 - app store
 - bordeaux
@@ -14,7 +14,7 @@ tags:
 - presse-citron
 - usages
 - webapp
-categories: 
+categories:
 - Développement Web
 - Mobile
 ---
@@ -32,7 +32,7 @@ Rectification.
 
 <!--more-->
 
-### Ces 10 raisons sont du _bullshit_
+## Ces 10 raisons sont du _bullshit_
 
 La grosse dérive de ces articles à base de n-raisons, c'est qu'on se sent obligé d'en pondre pour arrondir le compteur. Forcément, 2 raisons ça fait pas rêver.
 
@@ -65,7 +65,7 @@ C'est fortement lié à la 8ème raison : l'écosystème fait qu'on va chercher 
 iAd n'est qu'une plateforme publicitaire parmi d'autres mais on n'a pas le choix (sur iPhone en tous cas).
 La monétisation est possible en paiement à l'acte sur un site Web mobile, mais clairement pas à l'installation. La manière de monétiser est différente. L'acte d'achat aussi : l'utilisateur sera très certainement plus propice à payer une application qu'un accès à un site Web mobile.
 
-### S'il ne fallait retenir qu'une seule raison
+## S'il ne fallait retenir qu'une seule raison
 
 Quand même, je vais citer LA raison qui me fait utiliser une application plutôt qu'un site Web mobile : la **vitesse**. L'application ayant toute l'interface préchargée, la navigation est fatalement plus rapide.
 
@@ -73,7 +73,7 @@ Je pourrai quand même citer un excellent contre-exemple : le [site Web mobile d
 
 [![Écran de l](https://oncletom.io/images/2010/04/bordeaux-agenda-208x300.jpg "Écran de l")](https://oncletom.io/images/2010/04/bordeaux-agenda.jpg)
 
-### Application ou site mobile ? Les deux mon capitaine !
+## Application ou site mobile ? Les deux mon capitaine !
 
 Il faut quand même comprendre une chose : le choix ne se fait pas entre une application **ou** un site Web mobile.
 
@@ -86,7 +86,7 @@ Le Web a une notion d'universalité que n'ont pas les _stores_. Un _store_, c'es
 
 Ah et dernier point : il n'y a pas que l'iPhone dans la vie. Il y a aussi Android, webOs et Windows Phone. Certes en Europe l'iPhone domine l'Internet mobile et le marché des _smartphones_ mais ce n'est pas une généralité mondiale.
 
-### Conclusion
+## Conclusion
 
 La mobilité et le Web mobile sont des sujets très chauds et en pleine croissance. Ça serait bien d'arrêter de se secouer la nouille pour le bon plaisir des statistiques.
 

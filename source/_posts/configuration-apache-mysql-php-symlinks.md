@@ -29,7 +29,7 @@ C'est pas très compliqué à mettre en œuvre et au final, tout le monde y gagn
 
 <!--more-->
 
-### Organisation du répertoire /home
+## Organisation du répertoire /home
 
 Le titre de l'article le suggère bien, cet article se consacre à la configuration des serveurs et programmes suivants :
 
@@ -57,7 +57,7 @@ Nous écrirons dans ces fichiers uniquement les points de configuration que l'on
 
 Un des _moto_ de Debian c'est la **configuration à base de fichiers**. Vous trouverez régulièrement des répertoires ayant un nom suivant le motif _application.d_. Donc plutôt que d'avoir 1 seul fichier de configuration, on a 1 fichier initial plus des configurations additionnelles dans ces fameux répertoires ".d".
 
-### Configuration d'Apache
+## Configuration d'Apache
 
 ![](https://oncletom.io/images/2008/12/apache-logo.gif "Logo Apache")
 
@@ -96,7 +96,7 @@ sudo service apache2 reload
 
 On se fendra de l'ajout d'un hôte local dans le fichiers _hosts_ pour coller au plus près à l'instance de production. Toutefois je ne connais pas d'autre moyen que de modifier le fichier d'origine :-/ Si vous avez une solution je suis preneur.
 
-### Configuration de MySQL
+## Configuration de MySQL
 
 ![](https://oncletom.io/images/2007/08/powered-by-mysql-167x86.png "Logo MySQL")
 
@@ -156,7 +156,7 @@ Je me suis rendu compte qu'au démarrage de l'OS, **AppArmor ne chargeait pas le
 
 Ensuite à vous de repeupler vos bases de données à partir d'un dump. Si vous procédez à un déplacement des répertoires, n'oubliez pas de tout préserver : propriétaire et permissions ! Ça se passe avec l'option _-a_ de _cp_ par exemple.
 
-### Configuration de PHP
+## Configuration de PHP
 
 ![](https://oncletom.io/images/2008/12/php.gif "Logo PHP")
 
@@ -178,7 +178,7 @@ sudo ln -s ~/conf/php/my-custom.ini /etc/php5/conf.d/my-custom.ini
 
 Et voilà c'est tout pour PHP. Il faut bien entendu recharger votre serveur Web (Apache ou Lighttpd par exemple) pour qu'ils prennent en compte la modification.
 
-### Conclusion
+## Conclusion
 
 J'ai déjà appliqué cette méthode par 2 fois et que dire si ce n'est que tout va plus vite ainsi !
 Vos fichiers de configuration restent accessibles depuis votre gestionnaire de fichiers (pas besoin de passer en _sudo_ pour sauvegarder les changements). Ils sont préservés de toute réinstallation impromptue.

@@ -1,13 +1,13 @@
 title: "X-UA-Compatible : danger ou opportunité ?"
 id: 1174
 date: 2008-10-21 07:00:42
-tags: 
+tags:
 - clever age
 - internet explorer
 - w3c
 - x-ua-compatible
 - xhtml
-categories: 
+categories:
 - Standards du Web
 ---
 
@@ -27,14 +27,14 @@ Solution de facilité ou excellent compromis ?
 
 <!--more-->
 
-### Internet Explorer 6 : retour de boomerang
+## Internet Explorer 6 : retour de boomerang
 
 Si les développeurs de sites Web « pour Internet Explorer 6 » ont pu se réjouir d'un certain laxisme d'interprétation des standards du Web, ils vont payer dès demain le prix d'une catastrophe annoncée.
 Des milliers (des millions ?) de sites Web et des milliers d'applications spécifiques reposent ou ont été conçues uniquement pour Internet Explorer 6\. Ce navigateur n'est désormais plus supporté par Microsoft et ce dernier pousse les utilisateurs à adopter au moins Internet Explorer 7\. Il faudra cependant disposer de Windows XP et son Service Pack 2 pour en "profiter".
 
 Mais alors, que faire de ses sites et applications vouées à une double obsolescence : la leur et celle de leur navigateur compatible ?
 
-### La solution X-UA-Compatible
+## La solution X-UA-Compatible
 
 En adoptant par défaut le support des standards avec Internet Explorer 8, Microsoft ne pouvait pas fermer la porte à sa base de clients et d'utilisateurs.
 Au lieu de les flouer et de les ignorer, une nouvelle balise HTML propriétaire pourra être incluse dans l'entête de toutes les pages HTML : **X-UA-Compatible**.
@@ -49,7 +49,7 @@ Autrement dit, si vous décidiez un jour d'enlever la balise _X-UA-Compatible_, 
 
 [caption id="attachment_1176" align="aligncenter" width="431" caption="Bouton d&#39;émulation Internet Explorer 7 ... équivoque ?"]![Bouton d](https://oncletom.io/images/2008/10/emulateie7.png "Bouton d")[/caption]
 
-### Les options de compatibilité, le casse-tête
+## Les options de compatibilité, le casse-tête
 
 Microsoft propose 3 modes de rendu :
 
@@ -59,7 +59,7 @@ Microsoft propose 3 modes de rendu :
 Si on compte avec ça la possibilité pour l'utilisateur de basculer de lui-même vers un mode de rendu "dégradé", difficile de choisir la moindre balise à appliquer.
 Le navigateur sera cependant strictement compatible par défaut (pas besoin d'ajouter la moindre entête ou balise pour cela).
 
-### Quelle stratégie adopter pour ses sites Web ?
+## Quelle stratégie adopter pour ses sites Web ?
 
 Si la présence de cette balise est en soi une bonne nouvelle, il convient de se poser les _bonnes questions_ : X-UA-Compatible ne doit pas permettre à l'errance Internet Explorer de se reproduire à nouveau. La facilité ne doit pas être le seul facteur à envisager.
 Voici quelques intérêts à utiliser X-UA-Compatible :
@@ -77,7 +77,7 @@ En clair et pour résumer en 2 lignes :
 1.  X-UA-Compatible n'est à utiliser que sur des sites existants, peu conformes aux standards et nécessitant une compatibilité maximale très rapide avec Internet Explorer 8
 2.  les refontes doivent impérativement se concentrer sur les standards et agir comme si X-UA-Compatible n'existait pas
 
-### Conclusion : l'avenir passe par les standards
+## Conclusion : l'avenir passe par les standards
 
 Si ce résumé éveille des craintes au plus profond de vous-même, sachez qu'il n'est pas trop tard. Comme tout choix logiciel ou matériel, il faut anticiper à moyen et long terme en évitant de s'enfermer dans une solution totalement fermée.
 

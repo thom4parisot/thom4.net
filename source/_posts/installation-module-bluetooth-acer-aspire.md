@@ -28,7 +28,7 @@ Pour celles et ceux qui veulent néanmoins bénéficier du Bluetooth sans change
 
 <!--more-->
 
-### Rechercher et installation du module Bluetooth Acer
+## Rechercher et installation du module Bluetooth Acer
 
 J'ai cherché pendant un bon moment un site ou même une enchère faisant état d'un module Bluetooth pour Acer. J'ai finalement réussi à dénicher le nom du composant et à remonter vers un revendeur agréé Acer ... au Canada, [Notebook Solutions](http://www.notebooksolutions.ca). Voici quelques liens utiles :
 
@@ -43,7 +43,7 @@ Ce n'est pas une partie de plaisir surtout qu'en cas de problème, c'est pour no
 
 Après avoir remonté le portable, buvez un coup mais au-dessus du PC ... ça serait dommage de le griller après tant d'efforts ;-)
 
-### L'installation sous Windows
+## L'installation sous Windows
 
 Si comme moi vous avez supprimé la partition de secours Acer et réinstallé proprement Windows en prenant soin de ne pas remettre les applications Acer ... vous vous ferez une frayeur en apprenant que le Bluetooth ne sera pas plus reconnu qu'avant. J'ai échangé plusieurs emails avec le service technique de _Notebook Solutions_ qui ne voyait en dernier recours qu'une réinstallation de Windows depuis la partition de secours Acer. Autant dire que ça m'était impossible.
 
@@ -51,7 +51,7 @@ En revanche ça m'a mis la puce à l'oreille et j'ai installé **Acer Empowering
 
 Le reste se gère assez intuitivement ;-) bravo vous avez réussi.
 
-### L'installation sous Linux
+## L'installation sous Linux
 
 Sauf si vous avez un penchant libre et que vous cherchez également à activer le module Bluetooth Acer sur votre distribution Linux préférée. Grand bien vous en fasse puisque moyennant peu de manipulations c'est tout à fait réalisable.
 Avec Ubuntu je n'avais pas besoin de driver spécifique pour mon ordinateur Acer (certains oui car ils sont obligé d'activer le Wi-Fi via un bouton en façade), mon Wi-Fi étant pris en charge par une puce Intel, supportée nativement par la distribution moyennant un pilote propriétaire (`ipw3945`). Je n'avais pas le choix, l'installation d'`acer-acpi` s'imposait en rajoutant une couche logicielle interfacée directement avec le matériel.
@@ -59,7 +59,7 @@ Avec Ubuntu je n'avais pas besoin de driver spécifique pour mon ordinateur Acer
 Toutefois, ce support s'est grandement amélioré avec le temps.
 Si jamais ces solutions ne s'avèrent plus à jour, merci de me le signaler par commentaire et de jeter un œil à la [documentation francophone Ubuntu sur le _kernel module_ Acer](http://doc.ubuntu-fr.org/acer_acpi).
 
-#### Ubuntu, depuis Intrepid Ibex (8.10)
+### Ubuntu, depuis Intrepid Ibex (8.10)
 
 La distribution inclut le paquet _acer-wmi_ donc il n'y a pas besoin d'installer quoi que ce soit.
 
@@ -71,7 +71,7 @@ Pour automatiser ça à chaque démarrage, il faut que votre fichier `/etc/rc.lo
 sudo echo 1 > /sys/devices/platform/acer-wmi/bluetooth
 ```
 
-#### Ubuntu, Hardy Heron (7.10)
+### Ubuntu, Hardy Heron (7.10)
 
 La distribution inclut le paquet _acer_acpi_ donc il n'y a pas besoin d'installation.
 
@@ -83,7 +83,7 @@ Pour automatiser ça à chaque démarrage, il faut que votre fichier `/etc/rc.lo
 sudo echo 1 > /sys/devices/platform/acer_acpi/bluetooth
 ```
 
-#### Ubuntu, méthode obsolète
+### Ubuntu, méthode obsolète
 
 Par chance il existe un [dépôt acer-acpi pour Ubuntu](http://code.google.com/p/acer-acpi-deb/) complétant ainsi le [projet originel acer-acpi](http://code.google.com/p/aceracpi/). Suivez les instructions pour ajouter le dépôt, procédez à l'installation (via un `sudo aptitude install acer-acpi`) et revenez à vous ... enfin à moi en modifiant un fichier :
 
@@ -99,7 +99,7 @@ fait de passer la directive de 0 à 1 et un redémarrage plus loin, la lumière 
 options acer_acpi wireless=1 bluetooth=1
 ```
 
-### Le mot de la fin
+## Le mot de la fin
 
 **Je regrette qu'Acer ait si mal communiqué vis à vis des fonctionnalités Bluetooth de ses machines** à la vue du nombre de plaintes visibles dans les moteurs de recherche. Un coup de fil et un email à Acer n'ont rien donné de positif. Encore moins un tuyau ou une information pour se procurer le module manquant.
 
