@@ -30,7 +30,7 @@ filename_case: 0
 highlight:
   enable: true
   line_number: true
-  tab_replace: false
+  tab_replace: 2
 
 # Category & Tag
 default_category: uncategorized
