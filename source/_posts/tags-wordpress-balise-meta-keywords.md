@@ -35,7 +35,7 @@ En attendant que j'en fasse un plugin à part entière un peu plus modulable, vo
      * - de générer une erreur le jour où une telle fonction est introduite
      * - d'utiliser des ressources inutiles (dans l'admin, pas besoin de générer de balise keyword)
      */
-    if (!function_exists('get_all_tags_meta') &amp;&amp; !is_admin()) :
+    if (!function_exists('get_all_tags_meta') && !is_admin()) :
 
     /**
      * get_all_tags_meta()

@@ -1,7 +1,7 @@
 title: "Bilan et auto-critique du cours de communication interactive à Sciences-Po Bordeaux"
 id: 5328
 date: 2010-04-08 18:00:34
-tags: 
+tags:
 - étudiants
 - blogs
 - bordeaux
@@ -13,7 +13,7 @@ tags:
 - méthodologie
 - sciences-po
 - université
-categories: 
+categories:
 - Projets
 - Travail 2.0
 ---
@@ -44,7 +44,7 @@ N'ayant « que » 4 séances mais surtout 3 heures à remplir à chaque fois, j'
 
 1.  Internet et le Web : présentation du support et différences avec un modèle de communication dit classique
 2.  Les blogs : mode d'emploi
-3.  Questions &amp; réponses sur l'utilisation du blog + comment mesurer l'impact de sa communication en ligne
+3.  Questions & réponses sur l'utilisation du blog + comment mesurer l'impact de sa communication en ligne
 4.  Utilisation des réseaux, sociaux ou pas, et moyens de diffusion d'un contenu publié
 Il s'agissait en fait d'adapter le contenu de mon livre, [Réussir son blog professionnel](http://reussir-son-blog.pro/), en l'étayant et en le mettant en pratique par un public pas nécessairement au fait.
 
@@ -71,7 +71,7 @@ De ce fait, j'ai noté sur une base de réussite, d'atteinte d'objectifs et non 
 
 J'ai également utilisé la fonctionnalité de formulaire de Google Docs pour relever les copies (numériques). J'ai demandé aux étudiants de renseigner ces différents champs :
 
-*   Prénom &amp; Nom
+*   Prénom & Nom
 *   Adresse email
 *   Adresse du blog
 *   Thématiques abordées

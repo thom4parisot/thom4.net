@@ -1,7 +1,7 @@
 title: "iPhone : beauté et frustration au bout des doigts"
 id: 939
 date: 2008-07-10 07:00:37
-tags: 
+tags:
 - 3g
 - apple
 - drm
@@ -10,7 +10,7 @@ tags:
 - mobilité
 - pda
 - téléphone
-categories: 
+categories:
 - Mobile
 ---
 
@@ -32,12 +32,12 @@ J'ai au début été séduit ... puis déçu dès qu'il s'agissait de pousser le
 
 1.  un **bel objet** il faut bien le reconnaître ;
 2.  une **interface utilisateur globalement simple et intuitive** (quoique, sur du tactile on ne pense pas nécessairement au double-tap) ;
-3.  une **connectivité maximale avec un Mac** (courrier, contacts &amp; cie) ;
+3.  une **connectivité maximale avec un Mac** (courrier, contacts & cie) ;
 4.  ENFIN un clavier déconnecté du matériel : les claviers s'adaptent aux contextes (langues, saisies d'URL etc.) et non l'inverse ;
 5.  la possibilité de **synchroniser ses calendriers** Google Calendar avec le petit programme qui va bien (_NemusSync_, bientôt avec _Funambol_)
 Au final, on peut se retrouver avec un produit totalement autonome, permettant de téléphoner sans abonnement téléphonique ... mais en allant à l'encontre de la politique d'Apple.
 
-![iPhone &amp; iPod Touch Jailbreak](https://oncletom.io/images/2008/07/ipod-touch-iphone-jailbreak.jpg "iPhone &amp; iPod Touch Jailbreak")
+![iPhone & iPod Touch Jailbreak](https://oncletom.io/images/2008/07/ipod-touch-iphone-jailbreak.jpg "iPhone & iPod Touch Jailbreak")
 
 ### Les raisons de ne pas acheter un iPhone
 

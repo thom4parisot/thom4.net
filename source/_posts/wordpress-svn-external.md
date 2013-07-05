@@ -90,7 +90,7 @@ Ce fichier est très inspiré de la [configuration SVN proposée sur le Codex Wo
 *   wp-trackback.php
 *   xmlrpc.php
 
-Je vous fais grâce des contrôleurs de flux (Atom, RSS &amp; cie) et des appels en directs à _index.php_ effectués par certains plugins.
+Je vous fais grâce des contrôleurs de flux (Atom, RSS & cie) et des appels en directs à _index.php_ effectués par certains plugins.
 
 Donc non on ne peut pas vraiment se passer de ces fichiers. D'où ces 2 règles :
 

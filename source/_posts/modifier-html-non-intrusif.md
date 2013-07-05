@@ -92,7 +92,7 @@ Dans la pratique, le code va se charger dès que possible (c'est à dire dès qu
 ////////////////////////////////////////*/
 function oncletom_text_grabber()
 {
-  var parametres = arguments.length == 1 &amp;&amp; typeof arguments[0] == 'object' ? arguments[0] : {};
+  var parametres = arguments.length == 1 && typeof arguments[0] == 'object' ? arguments[0] : {};
 
   //Paramétrage de la fonction
   //# permet un lancement de la classe avec un paramétrage par défaut

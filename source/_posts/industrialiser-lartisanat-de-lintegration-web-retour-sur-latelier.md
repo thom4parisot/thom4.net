@@ -1,7 +1,7 @@
 title: "Industrialiser l'artisanat de l'intégration Web, retour sur l'atelier"
 id: 17740
 date: 2010-11-18 17:35:19
-tags: 
+tags:
 - atelier
 - bonnes pratiques
 - css
@@ -12,7 +12,7 @@ tags:
 - opquast
 - parisweb
 - temesis
-categories: 
+categories:
 - Évènements
 - Standards du Web
 ---
@@ -43,7 +43,7 @@ L'atelier consistait à passer en revue 3 des étapes du développement _fronten
 *   Tests
 Pour chacun de ces composants, toute personne dans la salle pouvait suggérer une **bonne pratique**, une **mauvaise pratique** ou un **outil**. Cela s'est matérialisé avec un tableau blanc découpé en 4 zones, dans lesquelles on collait des post-it.
 
-Pour la petite histoire, n'ayant pas pensé à acheter les post-il avant d'arriver à Paris, je me suis rabattu sur le premier choix venu, en me basant sur la connaissance du terrain de [David Larlet](http://larlet.fr/) : Loisirs &amp; Créations du Bercy Village.
+Pour la petite histoire, n'ayant pas pensé à acheter les post-il avant d'arriver à Paris, je me suis rabattu sur le premier choix venu, en me basant sur la connaissance du terrain de [David Larlet](http://larlet.fr/) : Loisirs & Créations du Bercy Village.
 
 C'est ainsi que je me retrouvais avec 200 post-it en forme de cœur,  de maison ou de fleur.
 

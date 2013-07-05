@@ -68,7 +68,7 @@ _Exemples_ : `class AmazonWidgetsShortcodes`, `class sfUploader`.
 
 Pour ce qui est méthodes de classes, j'utilise lowerCamelCase. Comme ça on sait qu'on reste dans un objet et c'est pas plus mal.
 
-Enfin, pour les fonctions orphelines, _helpers_ &amp; cie, c'est tout en minuscule séparé par des underscore
+Enfin, pour les fonctions orphelines, _helpers_ & cie, c'est tout en minuscule séparé par des underscore
 (un nom particulier à ça ? _lowered_and_underscored_ ? ;-))
 _Exemple_ : `add_filter()`
 

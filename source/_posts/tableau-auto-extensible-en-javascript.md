@@ -195,7 +195,7 @@ function articlesMultiRows(params)
         break;
 
         case 'select':
-          if (input.selectedIndex >= 0 &amp;&amp; input.selectedIndex < input.length)
+          if (input.selectedIndex >= 0 && input.selectedIndex < input.length)
           {
             ++row.completed;
           }
@@ -208,7 +208,7 @@ function articlesMultiRows(params)
      * - autant de champs complétés que de champs existants
      * - aucun élément suivant
      */
-    if (row.inputs === row.completed &amp;&amp; !row.dom.getNext())
+    if (row.inputs === row.completed && !row.dom.getNext())
     {
       rowInsert(row.dom);
     }

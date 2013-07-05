@@ -1,7 +1,7 @@
 title: "Mes prochaines interventions : frameworks PHP, bloguer en entreprise, monétisation des blogs"
 id: 913
 date: 2008-05-19 07:00:00
-tags: 
+tags:
 - bordeaux
 - conférences
 - ez components
@@ -11,7 +11,7 @@ tags:
 - symfony
 - temesis
 - zend framework
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -38,7 +38,7 @@ C'est la journée [bloguer en entreprise](http://www.stelladelarhune.org/2008/04
 1.  12h : Déjeuner-débat "Le blog outil professionnel ? Quelles stratégies de communication"
 2.  15h : Atelier-conférence "**Le blog : quels usages pour l’entreprise ?**"
 3.  18h : Conférence-débat "L’impacts du web 2.0 sur notre société"
-4.  21h : Dîner "Pourquoi bloguer, manger &amp; boire ?"
+4.  21h : Dîner "Pourquoi bloguer, manger & boire ?"
 J'animerai la conférence de 15h avec la casquette [BlogCamp](http://blogcamp.fr/) aux côtés de [Lesly Garreau](http://leslyg.com) ainsi que 2 experts canadiens : [Philippe Martin](http://nayezpaspeur.ca/blog/) et [Claude Malaison](http://emergenceweb.com/blog/).
 
 Il y aura également d'autres invités de prestige comme _Isabelle Juppé_ ([la femme digitale](http://www.lafemmedigitale.fr/)) et _Olivier Andrieu_ ([Abondance](http://www.abondance.com/)).

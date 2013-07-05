@@ -1,7 +1,7 @@
 title: "Rentrée en vrac : widget VCUB, livres et Internet"
 id: 17469
 date: 2010-09-09 11:00:39
-tags: 
+tags:
 - 37signals
 - apanum
 - couchdb
@@ -12,7 +12,7 @@ tags:
 - rmll
 - uwa
 - VCUB
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -81,7 +81,7 @@ Bref, j'y participe et j'ai hâte de voir cette agence tous risques à l'œuvre 
 
 J'animerai un atelier technique pour la troisième année consécutive. Rendez-vous à l'atelier provoc' [Industrialiser l'artisanat de l'intégration HTML](http://www.paris-web.fr/2010/programme/industrialiser-lartisanat-de-lintegration-html.php) le samedi matin, à 10h50\. Ça se passe dans les locaux de Télécom Paris, donc beaucoup plus proche du centre de la capitale que lors des précédentes éditions.
 
-**Pourquoi industrialiser un artisanat** ? Parce que j'ai toujours eu la sensation que tenter d'apporter un semblant d'organisation (grilles, frameworks &amp; cie) dérangeaient les habitudes, parce qu'on n'a pas besoin de davantage, parce que les CSS doivent rester simple etc.
+**Pourquoi industrialiser un artisanat** ? Parce que j'ai toujours eu la sensation que tenter d'apporter un semblant d'organisation (grilles, frameworks & cie) dérangeaient les habitudes, parce qu'on n'a pas besoin de davantage, parce que les CSS doivent rester simple etc.
 
 Bref, cet atelier s'orientera sur mes retours d'expériences, dans mon coin et au quotidien, dans divers contextes. J'ai envie de confronter les problématiques habituelles entre personnes de l'assemblée.
 

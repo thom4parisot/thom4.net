@@ -1,7 +1,7 @@
 title: "Rencontres Mondiales du Logiciel Libre : appel à conférences"
 id: 1492
 date: 2010-01-12 08:00:10
-tags: 
+tags:
 - apache
 - call for paper
 - conférences
@@ -14,7 +14,7 @@ tags:
 - nginx
 - rmll
 - xmpp
-categories: 
+categories:
 - Développement Web
 - Projets
 ---
@@ -49,7 +49,7 @@ Allez, quelques pistes :
 *   WordPress
 *   eZ Publish
 *   Drupal
-*   Apache, Nginx, Lighttpd &amp; cie
+*   Apache, Nginx, Lighttpd & cie
 *   Zend Framework, Symfony, CodeIgniter
 *   Jabber/XMPP/PubSubHubbub
 *   OpenStreetMap

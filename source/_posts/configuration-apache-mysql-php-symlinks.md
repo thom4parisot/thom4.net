@@ -148,7 +148,7 @@ par l'ancien chemin + le nouvel emplacement des données MySQL
 ```
 
 ```bash
-sudo service apparmor reload &amp;&amp; sudo service mysql reload
+sudo service apparmor reload && sudo service mysql reload
 ```
 
 Si vous avez bien suivi toutes mes explications, vous vous demanderez pourquoi j'ai modifié le profil existant de MySQL dans AppArmor au lieu de lier un nouveau profil ?

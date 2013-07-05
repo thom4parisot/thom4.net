@@ -1,13 +1,13 @@
 title: "Aquinum hacke la Cantine"
 id: 17901
 date: 2011-01-09 11:51:12
-tags: 
+tags:
 - aquinum
 - aquitaine
 - la cantine
 - paris
 - rendez-vous
-categories: 
+categories:
 - Projets
 ---
 
@@ -28,7 +28,7 @@ Présentation rapide du programme et bien sûr, invitation à venir sur place, l
 *   Détection d'informations en temps réel par [Langma](http://www.langma.info/) (et ça vaut le détour)
 Ça ne représente que la partie émergée de l'_iceberg_ ;-)
 
-### Les conférences : qualité &amp; services publics
+### Les conférences : qualité & services publics
 
 [Temesis l'a annoncé sur son blog](http://blog.temesis.com/post/2011/01/07/Villes-Internet-et-La-cantine) : elle présentera le [baromètre qualité](http://qualite-web.aquitaine.fr/) mis en œuvre au sein de la [région Aquitaine](http://aquitaine.fr/), en partenariat avec une autre agence régionale, [AEC](http://aecom.org/).
 Cet outil recensera à terme les quelques 480 sites dépendants de la région, et en présentera des indicateurs clés. Une manière de mieux savoir comment l'argent est dépensé, à la fois pour l'institution et ses administrés.

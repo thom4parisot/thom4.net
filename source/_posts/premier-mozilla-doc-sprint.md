@@ -63,7 +63,7 @@ Une bonne heure de passée juste pour naviguer, lire et rajouter … un lien hyp
 
 Je voulais en savoir plus à propos du comportement de ces deux évènements, leurs différences, quel était l'état du document et ce qu'on pouvait en faire. [L'algorithme à implémenter est disponible dans la spécification HTML5](http://www.whatwg.org/specs/web-apps/current-work/multipage/history.html#unloading-documents). L'occasion de découvrir que le navigateur dispose aussi d'une [EventLoop](http://www.whatwg.org/specs/web-apps/current-work/multipage/webappapis.html#event-loops). De me demander ce qu'est l<span style="line-height: 13px;">e </span>[_salvageable state_](http://www.whatwg.org/specs/web-apps/current-work/#concept-document-salvageable)<span style="line-height: 13px;"> d'un Document.</span>
 
-Mais aussi de devoir [écrire du code](http://jsbin.com/ijikic/6) pour comprendre et m'assurer du workflow dans la vraie vie (merci [JSBin](http://jsbin.com) &amp; cie !).
+Mais aussi de devoir [écrire du code](http://jsbin.com/ijikic/6) pour comprendre et m'assurer du workflow dans la vraie vie (merci [JSBin](http://jsbin.com) & cie !).
 
 Au final, une après-midi aura été nécessaire pour compléter 4 pages dans MDN :
 

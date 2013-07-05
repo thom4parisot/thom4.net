@@ -1,11 +1,11 @@
 title: "Changement d'adresse"
 id: 163
 date: 2006-08-16 19:20:13
-tags: 
+tags:
 - dotclear
 - migration
 - seo
-categories: 
+categories:
 - Personnel
 ---
 
@@ -17,4 +17,4 @@ J'en profite également pour planquer quelques billets et réorienter, si on peu
 
 Il y a quelques billets à problème, au niveau de l'encodage des caractères mais ça sera résolu progressivement, le temps me manquant énormément en ce moment.
 
-PS : pensez à mettre à jour vos aggrégateurs (Thunderbird, Firefox &amp; cie) si vous utilisiez les fils RSS et Atom ;-)
+PS : pensez à mettre à jour vos aggrégateurs (Thunderbird, Firefox & cie) si vous utilisiez les fils RSS et Atom ;-)

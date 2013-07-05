@@ -124,12 +124,12 @@ J'ai donc adapté le [proxy du Yahoo! Developer Network](http://developer.yahoo.
     $session = curl_init($_GET['url']);
 
     // If it's a POST, put the POST data in the body
-    if (isset($_POST) &amp;&amp; !empty($_POST))
+    if (isset($_POST) && !empty($_POST))
     {
       $postvars = '';
       while ($element = current($_POST))
       {
-        $postvars .= key($_POST).'='.$element.'&amp;';
+        $postvars .= key($_POST).'='.$element.'&';
         next($_POST);
       }
       curl_setopt ($session, CURLOPT_POST, true);
@@ -143,7 +143,7 @@ J'ai donc adapté le [proxy du Yahoo! Developer Network](http://developer.yahoo.
     /*
      * Read cache
      */
-    if (file_exists($md5file) &amp;&amp; filemtime($md5file)+CACHE_TTL > time())
+    if (file_exists($md5file) && filemtime($md5file)+CACHE_TTL > time())
     {
       curl_close($session);
       send_headers_content_type($_GET['type']);
