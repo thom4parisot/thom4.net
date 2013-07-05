@@ -24,7 +24,7 @@ Ce fût à mes yeux une **excellente année** et si 2010 continue sur cette lanc
 
 C'est l'occasion de dresser un **rapide bilan de l'année** et de parler de [6 Changes](http://6changes.com/), une méthode sympathique qui m'a plu et assez facile à mettre en œuvre.
 
-[![Bordeaux Fireworks](http://farm4.static.flickr.com/3493/3728205591_48db6692ac.jpg)](http://www.flickr.com/photos/the-jedi/3728205591/ "Bordeaux Fireworks de Oncle Tom, sur Flickr")
+[![Bordeaux Fireworks](//farm4.static.flickr.com/3493/3728205591_48db6692ac.jpg)](http://www.flickr.com/photos/the-jedi/3728205591/ "Bordeaux Fireworks de Oncle Tom, sur Flickr")
 
 <!--more-->
 
@@ -44,7 +44,7 @@ En 2009, j'ai repris goût au voyage. Ou plutôt, le virus m'est revenu. Ce fût
 10.  **octobre** : [Paris-Web 2009](http://paris-web.fr/2009/) ! Excellente cuvée dont je n'ai pas parlé − est-il trop temps d'en parler ? − [séjour à New York](http://www.flickr.com/photos/the-jedi/sets/72157623046665232/)
 11.  **novembre** : 2 ans chez [Clever Age](http://www.clever-age.com/) ; le temps passe vite, chaque année est différente avec de nouveaux défis
 12.  **décembre** : retouche graphique du blog, décompression, réveillon − plein de bons moments avec des gens que j'aime
-[![Benches. Alone. Fall.](http://farm3.static.flickr.com/2629/4103189447_b906e33a31.jpg)](http://www.flickr.com/photos/the-jedi/4103189447/ "Benches. Alone. Fall.")
+[![Benches. Alone. Fall.](//farm3.static.flickr.com/2629/4103189447_b906e33a31.jpg)](http://www.flickr.com/photos/the-jedi/4103189447/ "Benches. Alone. Fall.")
 
 ## 6 changements
 

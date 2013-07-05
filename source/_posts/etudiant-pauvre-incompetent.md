@@ -21,7 +21,7 @@ Où comment la recherche d’une personne de bonne volonté m’a ramené au fai
 
 Pour les âmes sensibles, **oui** le titre est provocateur et reflète l’inverse de mes pensées (et de mes propos).
 
-[![](http://farm6.static.flickr.com/5212/5385820844_758b8d0c23.jpg)](http://www.flickr.com/photos/the-jedi/5385820844/)
+[![](//farm6.static.flickr.com/5212/5385820844_758b8d0c23.jpg)](http://www.flickr.com/photos/the-jedi/5385820844/)
 
 <!--more-->
 

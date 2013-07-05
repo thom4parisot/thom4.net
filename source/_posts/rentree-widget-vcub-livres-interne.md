@@ -24,7 +24,7 @@ Le remplissage des salles était vraiment aléatoire, avec semblerait-il une lé
 Toujours est-il qu'il est temps de revenir à la réalité. J'aurais pu écrire plusieurs articles.
 Par manque de temps (ou plutôt parce que je préfère le consacrer à d'autres choses), je mutualise tout ça dans cet article.
 
-[![Homeless](http://farm5.static.flickr.com/4135/4931830643_00fd97c26b.jpg)](http://www.flickr.com/photos/the-jedi/4931830643/ "Homeless")
+[![Homeless](//farm5.static.flickr.com/4135/4931830643_00fd97c26b.jpg)](http://www.flickr.com/photos/the-jedi/4931830643/ "Homeless")
 
 <!--more-->
 
@@ -77,7 +77,7 @@ Et éviter une rivalité inutile entre CUB et Mairie de Bordeaux.
 
 Bref, j'y participe et j'ai hâte de voir cette agence tous risques à l'œuvre ;-)
 
-[![How I Met a Good Moment − Again](http://farm5.static.flickr.com/4102/4871868747_448ba41195.jpg)](http://www.flickr.com/photos/the-jedi/4871868747/ "How I Met a Good Moment − Again")
+[![How I Met a Good Moment − Again](//farm5.static.flickr.com/4102/4871868747_448ba41195.jpg)](http://www.flickr.com/photos/the-jedi/4871868747/ "How I Met a Good Moment − Again")
 
 ## Paris-Web 2010
 

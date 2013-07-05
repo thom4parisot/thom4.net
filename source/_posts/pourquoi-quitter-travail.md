@@ -26,7 +26,7 @@ Pourtant, certaines personnes s'interrogeaient sur ma volonté de _partir_. J'in
 
 Peut-être. Dans tous les cas, je vous livre mon point de vue et ce qui me motive à me lancer dans l'aventure et à prendre des risques.
 
-[![about:robots](http://farm6.static.flickr.com/5041/5226018642_972d32f7e3_m.jpg "about:robots")](http://www.flickr.com/photos/the-jedi/5226018642/)
+[![about:robots](//farm6.static.flickr.com/5041/5226018642_972d32f7e3_m.jpg "about:robots")](http://www.flickr.com/photos/the-jedi/5226018642/)
 
 <!--more-->
 
@@ -61,7 +61,7 @@ Combien parmi vous se sont déjà sentis sous-exploités, car vous savez en fair
 
 J'ai été définitivement convaincu de ça le jour où je n'ai pas été défendu face au client, et que le seul **argument du client payeur** cautionnait le fait qu'il s'essuie les pieds sur moi. Ce jour là, le divorce était consommé : je n'étais plus consultant, _j'étais une ressource_.
 
-[![](http://farm5.static.flickr.com/4151/5155103053_876a5b8df6_m.jpg "We are not clowns")](http://www.flickr.com/photos/the-jedi/5155103053/)
+[![](//farm5.static.flickr.com/4151/5155103053_876a5b8df6_m.jpg "We are not clowns")](http://www.flickr.com/photos/the-jedi/5155103053/)
 
 ## Parce que je me suis senti prêt
 
@@ -95,7 +95,7 @@ C'est sur ces fondements que reposera mon activité : un travail de qualité, so
 Je suis convaincu que l'implication est le facteur premier de la réussite.
 La frustration a ça de bénéfique : elle pousse à la liberté.
 
-[![](http://farm6.static.flickr.com/5005/5210196928_a7ffcd5266_m.jpg "End of Line")](http://www.flickr.com/photos/the-jedi/5210196928/)
+[![](//farm6.static.flickr.com/5005/5210196928_a7ffcd5266_m.jpg "End of Line")](http://www.flickr.com/photos/the-jedi/5210196928/)
 
 ## Et la suite ?
 

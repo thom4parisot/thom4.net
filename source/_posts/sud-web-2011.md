@@ -44,7 +44,7 @@ Plusieurs conférences ont marqué cette tendance. [Éric Daspet a parlé du We
 
 Enfin, la conclusion était là : [la conférence dont vous êtes le héros](http://www.paris-web.fr/2010/programme/la-conference-dont-vous-etes-le-heros.php). Toute cette conférence a été tournée vers ce sujet, celui du **métier et des valeurs**. Certains trouvaient qu'être une _rockstar SEO_ ou un directeur artistique junior avait sa place dans le paysage, d'autres se posaient la question de facturer aux compétences plutôt qu'à la prestation, ou encore de l'intérêt de certifier des compétences.
 
-[![](http://farm5.static.flickr.com/4138/4800705487_1529a661ab_m.jpg "Reeds & Summer")](http://www.flickr.com/photos/the-jedi/4800705487/)
+[![](//farm5.static.flickr.com/4138/4800705487_1529a661ab_m.jpg "Reeds & Summer")](http://www.flickr.com/photos/the-jedi/4800705487/)
 
 ## Développement, métier, valeurs et méthodologie
 

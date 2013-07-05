@@ -81,7 +81,7 @@ Leur [présentation de l'accessibilité dans une chaine de production Web](http:
 
 Le liant entre ces phases étant la gestion de projet, menée de concert entre la maîtrise d'oeuvre et la maîtrise d'ouvrage. Une personne a même très justement souligné qu'il faudrait ajouter une nouvelle dernière étape, la livraison/maintenance. Pour s'assurer notamment qu'à l'usage, lors de la contribution ou des évolutions de l'application, l'accessibilité soit maintenue à niveau.
 
-[![](http://farm2.static.flickr.com/1328/5107972863_754420e883.jpg "Paris Web Marketing Fail")](http://www.flickr.com/photos/nicolas-hoizey/5107972863/)
+[![](//farm2.static.flickr.com/1328/5107972863_754420e883.jpg "Paris Web Marketing Fail")](http://www.flickr.com/photos/nicolas-hoizey/5107972863/)
 
 ## Innover de 9 à 5
 
@@ -112,7 +112,7 @@ L'exemple le plus parlant est celui du curseur : tirer d'un côté enlève du po
 
 Notre conversation en _off_ m'a confirmé mon intuition : sa présentation représente des mois de réfléxion, au fil de l'eau. Tiens, ce n'est pas justement le concept de l'innovation ? ;-)
 
-[![](http://farm2.static.flickr.com/1139/5107657136_4c4de67512.jpg "Amphithéâtre IBM à Paris Web")](http://www.flickr.com/photos/mauriz/5107657136/)
+[![](//farm2.static.flickr.com/1139/5107657136_4c4de67512.jpg "Amphithéâtre IBM à Paris Web")](http://www.flickr.com/photos/mauriz/5107657136/)
 
 ## La typographie comme outil de design
 
@@ -142,7 +142,7 @@ Un **regard rafraîchissant** de plus sur la manière de concevoir et d'archite
 
 **Conseil lecture** : [amazon-product text="Grid Systems in Graphic Design" type="text"]3721201450/[/amazon-product]de Josef Muller-Brockmann.
 
-[![La crois au rouge français](http://farm2.static.flickr.com/1153/5108562588_7a9d7e59d8.jpg "La croix au rouge français")](http://www.flickr.com/photos/nicolas-hoizey/5108562588/)
+[![La crois au rouge français](//farm2.static.flickr.com/1153/5108562588_7a9d7e59d8.jpg "La croix au rouge français")](http://www.flickr.com/photos/nicolas-hoizey/5108562588/)
 
 ## Conclusion
 

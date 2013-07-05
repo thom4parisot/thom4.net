@@ -17,7 +17,7 @@ categories:
 - Personnel
 ---
 
-[![Jean-François Ruiz](http://farm4.static.flickr.com/3242/2934622938_d83079a14c.jpg)](http://www.flickr.com/photos/the-jedi/2934622938/ "Jean-François Ruiz")
+[![Jean-François Ruiz](//farm4.static.flickr.com/3242/2934622938_d83079a14c.jpg)](http://www.flickr.com/photos/the-jedi/2934622938/ "Jean-François Ruiz")
 
 J'ai été faire un tour à Paris samedi 11 octobre pour le Webdeux.connect. [Je vous en avais d'ailleurs parlé il y a 2 semaines](https://oncletom.io/2008/10/03/rendez-vous-octobre-novembre-web2-paris-web/). J'y allais pour réseauter et rencontrer des camarades de la Toile et je n'ai pas été déçu !
 
@@ -36,7 +36,7 @@ Paradoxalement, l'intervention de [Jean-François Ruiz](http://webdeux.info) sur
 
 Bref, c'était bien mais perfectible. Rendez-vous est pris pour l'an prochain ;-)
 
-[![Sébastien Rousset](http://farm4.static.flickr.com/3295/2934620836_dbdb029df0_m.jpg)](http://www.flickr.com/photos/the-jedi/2934620836/ "Sébastien Rousset")
+[![Sébastien Rousset](//farm4.static.flickr.com/3295/2934620836_dbdb029df0_m.jpg)](http://www.flickr.com/photos/the-jedi/2934620836/ "Sébastien Rousset")
 
 ## Les connexions que j'attendais
 
@@ -53,7 +53,7 @@ On se link régulièrement via nos blogs respectifs, on échangeait via Twitter 
 *   [Kévin Brustis](http://kjame.com)
 Et quelle surprise d'apprendre son âge ! En première année d'IUT, déjà patron de sa société. Ça me fera bizarre de l'avoir en cours l'an prochain !
 
-[![Oxygène parfumé](http://farm4.static.flickr.com/3019/2938383121_56d7a726cb.jpg)](http://www.flickr.com/photos/the-jedi/2938383121/ "Oxygène parfumé")
+[![Oxygène parfumé](//farm4.static.flickr.com/3019/2938383121_56d7a726cb.jpg)](http://www.flickr.com/photos/the-jedi/2938383121/ "Oxygène parfumé")
 
 ## Les petites surprises
 
@@ -78,7 +78,7 @@ Juriste chez VanksenGroup, notamment chez BuzzParadise. Une parole appréciée e
 *   [Chloé le Dref](http://www.whosegame.com/)
 La toute timide mais charmante _business developper_ chez Whosegame, la plateforme de jeux Flash réalisés par des indépendants.
 
-[![Webdeux.connect à l](http://farm4.static.flickr.com/3015/2933767005_e02ae4338e_m.jpg)](http://www.flickr.com/photos/the-jedi/2933767005/ "Webdeux.connect à l")
+[![Webdeux.connect à l](//farm4.static.flickr.com/3015/2933767005_e02ae4338e_m.jpg)](http://www.flickr.com/photos/the-jedi/2933767005/ "Webdeux.connect à l")
 
 ## Conclusion
 
@@ -89,6 +89,6 @@ J'aurais quand même bien aimé parler avec [Éric Dupin](http://presse-citron.f
 
 J'invite d'ailleurs les participants à alimenter le [groupe Webdeux.connect sur Flickr](http://www.flickr.com/groups/webdeux-connect/).
 
-[![Éric Dupin](http://farm4.static.flickr.com/3025/2939245570_f24f4d4e7b_m.jpg)](http://www.flickr.com/photos/the-jedi/2939245570/ "Éric Dupin")
+[![Éric Dupin](//farm4.static.flickr.com/3025/2939245570_f24f4d4e7b_m.jpg)](http://www.flickr.com/photos/the-jedi/2939245570/ "Éric Dupin")
 
 PS : d'autres [avis de _networkeurs_ sur Wikio avec le tag _webdeux.connect_](http://www.wikio.fr/blogs/search/webdeux.connect).

@@ -24,7 +24,7 @@ Cette année, je la commence avec le regard embrumé après un chouette moment, 
 
 Un instant à cheval sur 2 calendriers, et qui conclut ma _quête_ de 2010, effleurée en 2009 : celle du **lien humain**.
 
-[![](http://farm3.static.flickr.com/2716/4511931016_6c63e42f5f_m.jpg)](http://www.flickr.com/photos/the-jedi/4511931016/)
+[![](//farm3.static.flickr.com/2716/4511931016_6c63e42f5f_m.jpg)](http://www.flickr.com/photos/the-jedi/4511931016/)
 <!--more-->
 
 ## 2010 : l'effet Big Bang
@@ -38,7 +38,7 @@ Une page Web seule, sans lien hypertexte, entrant et sortant est une impasse et 
 
 En clair, on passe notre temps à tisser, du lien, avec cette faculté si particulière d'y ajouter une **dimension émotionnelle**.
 
-[![](http://farm5.static.flickr.com/4116/4801391690_e32266c23b_m.jpg)](http://www.flickr.com/photos/the-jedi/4801391690/)
+[![](//farm5.static.flickr.com/4116/4801391690_e32266c23b_m.jpg)](http://www.flickr.com/photos/the-jedi/4801391690/)
 
 ## 6 changements réussis
 
@@ -60,7 +60,7 @@ L'émulation des concours photos entre collègues y est pour beaucoup.
 L'emploi du temps bien chargé m'a fait moins fréquenter les salles obscures, un peu à regret. J'ai fréquenté davantage les musées (mais pas beaucoup plus non plus) mais surtout, j'ai davantage embrassé les évènements culturels proposés par la ville et la Communauté urbaine de Bordeaux.
 Dans la catégorie imprévus imprévisibles mais appréciables, je citerais la découverte de la corrida. C'est beau et noble quand c'est bien pratiqué − et quand on ne cherche pas à la transformer en produit de consommation formaté.
 
-[![](http://farm5.static.flickr.com/4102/4871868747_448ba41195_m.jpg)](http://www.flickr.com/photos/the-jedi/4871868747/)
+[![](//farm5.static.flickr.com/4102/4871868747_448ba41195_m.jpg)](http://www.flickr.com/photos/the-jedi/4871868747/)
 
 ## Juste 1 seul changement pour 2011 ?
 
@@ -72,7 +72,7 @@ Parce que je crois que la liberté passe par son expression, j'ai pris à cœur 
 
 La liberté au travers du code et des moyens de le créer.
 
-[![](http://farm5.static.flickr.com/4077/4742740093_a48def93e0_m.jpg)](http://www.flickr.com/photos/the-jedi/4742740093/)
+[![](//farm5.static.flickr.com/4077/4742740093_a48def93e0_m.jpg)](http://www.flickr.com/photos/the-jedi/4742740093/)
 
 Cette liberté, je la chercherai également au travers du **voyage** et de l'escapade. Sous le signe de la découverte, je souhaite me confronter à des cultures, des modes de vie et de pensée différents. Pour ce faire, j'ai choisi de passer 3 semaines en itinérance, en _errance_, au **Japon**, d'Hiroshima à Tokyo. Avec un sac à dos et mon appareil photo.
 J'en profiterai également pour retourner en **Turquie**, explorer la côte de la mer Égée. Observer la belle Europe de l'autre côté d'une étendue d'eau.

@@ -59,7 +59,7 @@ Pensez-y **avant le 2 mai**, date de fermeture des ventes des tickets :-)
 
 [Programme Sud Web](http://sudweb.fr/category/Programme), [inscriptions Sud Web](http://sudweb.fr/pages/Inscription).
 
-[![](http://farm6.static.flickr.com/5309/5611576044_fa51c24c93.jpg "Startup Weekend")](http://www.flickr.com/photos/startupweekend/5611576044/in/photostream/)
+[![](//farm6.static.flickr.com/5309/5611576044_fa51c24c93.jpg "Startup Weekend")](http://www.flickr.com/photos/startupweekend/5611576044/in/photostream/)
 
 ## Mais aussi
 

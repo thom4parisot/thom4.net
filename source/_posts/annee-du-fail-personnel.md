@@ -21,7 +21,7 @@ Après un éclat de rire, détendu, je lâche à un ami "on s'est bien vautré c
 
 Et de continuer à savourer de plus belle les discussions et autres flacons présents sur la table de banquet.
 
-[![Dongxinlianzi Hutong](http://farm7.staticflickr.com/6154/6186924596_1b82668227.jpg)](http://www.flickr.com/photos/the-jedi/6186924596/ "Dongxinlianzi Hutong by Oncle Tom, on Flickr")
+[![Dongxinlianzi Hutong](//farm7.staticflickr.com/6154/6186924596_1b82668227.jpg)](http://www.flickr.com/photos/the-jedi/6186924596/ "Dongxinlianzi Hutong by Oncle Tom, on Flickr")
 
 <!--more-->
 
@@ -80,7 +80,7 @@ D'un autre côté, tout ceci a eu pour effet de renforcer le **désir de singula
 
 **Pour rendre un développeur heureux, il faudrait finalement passer plus de temps avec lui**, à parler, qu'à choisir l'architecture de code la plus abstraite car la plus évolutive possible.
 
-[![Peer to Peer](http://farm8.staticflickr.com/7025/6393687987_7762280d60.jpg)](http://www.flickr.com/photos/the-jedi/6393687987/ "Peer to Peer by Oncle Tom, on Flickr")
+[![Peer to Peer](//farm8.staticflickr.com/7025/6393687987_7762280d60.jpg)](http://www.flickr.com/photos/the-jedi/6393687987/ "Peer to Peer by Oncle Tom, on Flickr")
 
 ## L'aventure humaine
 
@@ -92,7 +92,7 @@ Ces gens qui te rencontrent et 1 an plus tard, tels des **mousquetaires**, signe
 
 Et c'est là où je me dis que travailler chez soi, c'est du gâchis social.
 
-[![The Conflict](http://farm7.staticflickr.com/6238/6314643648_e2f57e248b.jpg)](http://www.flickr.com/photos/the-jedi/6314643648/ "The Conflict by Oncle Tom, on Flickr")
+[![The Conflict](//farm7.staticflickr.com/6238/6314643648_e2f57e248b.jpg)](http://www.flickr.com/photos/the-jedi/6314643648/ "The Conflict by Oncle Tom, on Flickr")
 
 ## Conclusion
 

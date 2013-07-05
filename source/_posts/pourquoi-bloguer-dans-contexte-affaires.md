@@ -18,7 +18,7 @@ categories:
 - Personnel
 ---
 
-[![Isabelle Juppé et Philippe Martin](http://farm4.static.flickr.com/3017/2600356326_7ff3c48384.jpg "Isabelle Juppé et Philippe Martin")](http://flickr.com/photos/the-jedi/2600356326/)
+[![Isabelle Juppé et Philippe Martin](//farm4.static.flickr.com/3017/2600356326_7ff3c48384.jpg "Isabelle Juppé et Philippe Martin")](http://flickr.com/photos/the-jedi/2600356326/)
 
 2 mois plus tard, il n'est jamais trop tard.
 
@@ -61,7 +61,7 @@ Le livre est richement fourni en témoignages et en liens hypertextes. Une bonne
 
 ## Pourquoi bloguer, journée conférence à Bordeaux
 
-[![Philippe Martin et Claude Malaison](http://farm4.static.flickr.com/3035/2577755472_26055597ca.jpg "Claude Malaison et Philippe Martin")](http://flickr.com/photos/nayezpaspeur/2577755472/in/set-72157605466714829)
+[![Philippe Martin et Claude Malaison](//farm4.static.flickr.com/3035/2577755472_26055597ca.jpg "Claude Malaison et Philippe Martin")](http://flickr.com/photos/nayezpaspeur/2577755472/in/set-72157605466714829)
 
 [Claude Malaison](http://emergenceweb.com) et [Philippe Martin](http://www.nayezpaspeur.ca/blog/) se sont donnés corps et âme (surtout âme je vous rassure ;-)) pour animer cette journée dans 4 lieux différents :
 

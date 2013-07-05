@@ -1,16 +1,16 @@
 title: "Faire-part de naissance"
 id: 1324
 date: 2009-02-24 07:00:00
-tags: 
+tags:
 - accès libre
 - eyrolles
 - livre
-categories: 
+categories:
 - Personnel
 - Projets
 ---
 
-[![Faire-part de naissance Eyrolles](http://farm4.static.flickr.com/3098/3303892997_e5f52a6e84.jpg)](http://www.flickr.com/photos/the-jedi/3303892997/ "Faire-part de naissance Eyrolles")
+[![Faire-part de naissance Eyrolles](//farm4.static.flickr.com/3098/3303892997_e5f52a6e84.jpg)](http://www.flickr.com/photos/the-jedi/3303892997/ "Faire-part de naissance Eyrolles")
 
 <!--more-->
 

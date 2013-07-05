@@ -18,7 +18,7 @@ categories:
 - Personnel
 ---
 
-[![Dell Studio 17 Red](http://farm4.static.flickr.com/3121/3148614252_7980e00e12_m.jpg)](http://www.flickr.com/photos/the-jedi/3148614252/ "Dell Studio 17 Red")
+[![Dell Studio 17 Red](//farm4.static.flickr.com/3121/3148614252_7980e00e12_m.jpg)](http://www.flickr.com/photos/the-jedi/3148614252/ "Dell Studio 17 Red")
 
 L'utilisation intensive d'[OpenOffice](http://fr.openoffice.org) et le Go de RAM de mon ancien ordinateur portable ACER aidant, je me suis rapidement motivé un dimanche après-midi à changer de machine. J'ai un instant hésité à sombrer du côté obscur de la Force en optant pour un [MacBook](http://www.apple.com/fr/macbook/) avec clavier rétro-éclairé mais non, la raison m'a rattrapé.
 
@@ -28,7 +28,7 @@ J'ai **finalement opté pour un [Dell Studio 17](http://www1.euro.dell.com/conte
 
 ## Pourquoi pas de MacBook ?
 
-[![Clavier rétro-éclairé du Dell Studio 17](http://farm4.static.flickr.com/3224/3148616128_4487b7536a_m.jpg)](http://www.flickr.com/photos/the-jedi/3148616128/ "Clavier rétro-éclairé du Dell Studio 17")
+[![Clavier rétro-éclairé du Dell Studio 17](//farm4.static.flickr.com/3224/3148616128_4487b7536a_m.jpg)](http://www.flickr.com/photos/the-jedi/3148616128/ "Clavier rétro-éclairé du Dell Studio 17")
 
 Le MacBook m'a tenté pour plusieurs raisons :
 

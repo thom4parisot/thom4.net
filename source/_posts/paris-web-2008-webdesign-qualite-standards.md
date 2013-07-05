@@ -37,7 +37,7 @@ Les [conférences de Paris-Web 2008](http://www.paris-web.fr/2008/-programme-) �
 *   IE8 et les standards du Web
 *   **Performances côté client**
 
-[![Stéphane Deschamps](http://farm4.static.flickr.com/3237/3034676683_5eedcfdbb4.jpg)](http://www.flickr.com/photos/the-jedi/3034676683/ "Stéphane Deschamps")
+[![Stéphane Deschamps](//farm4.static.flickr.com/3237/3034676683_5eedcfdbb4.jpg)](http://www.flickr.com/photos/the-jedi/3034676683/ "Stéphane Deschamps")
 
 Ce qu'il faut retenir c'est que désormais, nous sommes dans une époque où nombre d'outils sont à notre disposition. Il faut **maximiser l'utilisation d'outils déjà existants** et s'en servir pour bâtir nos applications, interfaces et présentations.
 
@@ -50,7 +50,7 @@ Mieux vaut beaucoup de sites accessibles à 60% qu'une infime proportion de site
 Bon nombre de conseils sur l'optimisation des sites Web étaient déjà cités dans l'excellentissime [livre High Performances Websites](https://oncletom.io/2008/07/15/high-performance-web-sites/). L'équipe _Exceptional Performance_ de Yahoo! s'est toutefois penchée à fond sur l'optimisation des images.
 J'y reviendrai d'ailleurs car j'ai découvert _pngnq_ et _pngcrush_. Ces 2 programmes sont d'une utilité redoutable pour compresser et optimiser vos PNG, notamment pour faciliter la transparence IE6 sans douleur.
 
-[![Chris Wilson](http://farm4.static.flickr.com/3135/3043455147_016c2baa1d.jpg)](http://www.flickr.com/photos/the-jedi/3043455147/ "Chris Wilson")
+[![Chris Wilson](//farm4.static.flickr.com/3135/3043455147_016c2baa1d.jpg)](http://www.flickr.com/photos/the-jedi/3043455147/ "Chris Wilson")
 
 On terminera également avec une perspective du futur.
 Daniel Glazman a fait un show exceptionnel sur les **nouveautés de CSS3** avec tout plein de bonnes choses. J'ai vraiment hâte qu'on puisse jouer avec ... peut-être dans pas si longtemps que ça vu que les navigateurs intègrent ces nouveautés par anticipation.
@@ -83,7 +83,7 @@ J'étais en revanche étonné qu'ils soient si peu connus. J'ai par contre été
 
 Rien à redire sur **RDFa vs. Microformats** même si on aurait pu éjecter les microformats rapidements et plonger encore plus loin dans la pratique de RDFa. Ça sera prétexte à une suite plus technique l'an prochain ;-)
 
-[![Amélie Boucher](http://farm4.static.flickr.com/3175/3035518848_5670eddbfa.jpg)](http://www.flickr.com/photos/the-jedi/3035518848/ "Amélie Boucher")
+[![Amélie Boucher](//farm4.static.flickr.com/3175/3035518848_5670eddbfa.jpg)](http://www.flickr.com/photos/the-jedi/3035518848/ "Amélie Boucher")
 
 ## Sans oublier les gens !
 
@@ -98,7 +98,7 @@ Et Dieu sait s'il y avait tout un tas de pointures du Web à notre disposition d
 *   Sans oublier pêle-mêle [Than](http://www.sutekidane.net/), [Sébastien Delorme](http://www.tentatives-accessibles.eu), [Monique](http://blog.webatou.info/), [La Lène](http://www.jeuxdemaux.com/), [Amélie Boucher](http://www.ergolab.net), [Hellgy](http://redisdead.net), [Raphaël Goetter](http://goetter.fr), [Fabrice Bonny](http://openweb.eu.org/), [François Hodierne](http://www.netvibes.com/znarf), [Xavier Borderie](http://xavier.borderie.net/blog/) ... et en oubliant très certainement plein d'autres :'(
 *   Et d'excellentes découvertes : [Anthony Ricaud](http://hanblog.info/blog/), [Mathieu Pillard](http://blog.virgule.info/) et toute l'**équipe Paris-Web** !
 
-[![Table ronde du jeudi](http://farm4.static.flickr.com/3270/3034679191_d551c06a85.jpg)](http://www.flickr.com/photos/the-jedi/3034679191/ "Table ronde du jeudi")
+[![Table ronde du jeudi](//farm4.static.flickr.com/3270/3034679191_d551c06a85.jpg)](http://www.flickr.com/photos/the-jedi/3034679191/ "Table ronde du jeudi")
 
 ## Conclusion
 
@@ -111,4 +111,4 @@ Les tables rondes étaient également exceptionnelles ... désolé ça frise le 
 
 C'est l'**effet Paris-Web**. Rendez-vous est pris.
 
-[![François Yergeau nous parle d](http://farm4.static.flickr.com/3020/3039040472_65bfdecfbd.jpg)](http://www.flickr.com/photos/the-jedi/3039040472/ "François Yergeau nous parle d")
+[![François Yergeau nous parle d](//farm4.static.flickr.com/3020/3039040472_65bfdecfbd.jpg)](http://www.flickr.com/photos/the-jedi/3039040472/ "François Yergeau nous parle d")
