@@ -1,7 +1,7 @@
 title: "Conventions de programmation : la nécessaire maturité"
 id: 1014
 date: 2008-07-23 07:00:04
-tags: 
+tags:
 - bonnes pratiques
 - code
 - coding standards
@@ -14,7 +14,7 @@ tags:
 - php
 - phpdoc
 - symfony
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -92,15 +92,15 @@ Tout d'abord les structures dans le code à proprement parler :
 *   opérateur ternaire quand ça reste simple, pas trop long et plus lisible
 Côté templating en revanche j'utilise la [syntaxe alternative de PHP](http://fr.php.net/manual/fr/control-structures.alternative-syntax.php) à raison d'un opérateur par ligne :
 
-    &lt;ol class="posts"&gt;
-    &lt;?php foreach($posts as $post): ?&gt;
-      &lt;li id="post-&lt;?php echo $post-&gt;getId() ?&gt;"&gt;
-        &lt;a href="&lt;?php $post-&gt;getPermalink() ?&gt;"&gt;
-          &lt;?php echo $post-&gt;getTitle() ?&gt;
-        &lt;/a&gt;
-      &lt;/li&gt;
-    &lt;?php endforeach ?&gt;
-    &lt;/ol&gt;`</pre>
+    <ol class="posts">
+    <?php foreach($posts as $post): ?>
+      <li id="post-<?php echo $post->getId() ?>">
+        <a href="<?php $post->getPermalink() ?>">
+          <?php echo $post->getTitle() ?>
+        </a>
+      </li>
+    <?php endforeach ?>
+    </ol>`</pre>
 
     #### Syntaxe de la documentation
 

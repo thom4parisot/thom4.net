@@ -1,7 +1,7 @@
 title: "Canalblog Importer : migrer de Canalblog vers WordPress en 5 clics"
 id: 1519
 date: 2010-02-12 10:00:46
-tags: 
+tags:
 - canalblog
 - curl
 - dom
@@ -12,7 +12,7 @@ tags:
 - plugin
 - WordPress
 - xpath
-categories: 
+categories:
 - WordPress
 ---
 
@@ -31,7 +31,7 @@ Las de ce mutisme de la part de Canablog, j'ai donc décide de me mettre à l'ou
 
 *   importer un maximum d'éléments
 *   en demander le moins possible à l'utilisateur
-Une fois le _plugin_ activé, une nouvelle entrée fait son apparition dans la rubrique d'administration Outils &gt; Importer : [Canalblog Importer](http://wordpress.org/extend/plugins/canalblog-importer/).
+Une fois le _plugin_ activé, une nouvelle entrée fait son apparition dans la rubrique d'administration Outils > Importer : [Canalblog Importer](http://wordpress.org/extend/plugins/canalblog-importer/).
 
 ### L'import Canalblog en 5 étapes
 

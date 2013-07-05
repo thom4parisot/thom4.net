@@ -1,7 +1,7 @@
 title: "1 seul changement pour 2011 : liberté"
 id: 17874
 date: 2011-01-01 13:08:36
-tags: 
+tags:
 - 6changes
 - bilan
 - changement
@@ -13,7 +13,7 @@ tags:
 - turquie
 - valeurs
 - voyage
-categories: 
+categories:
 - Personnel
 - Travail 2.0
 ---
@@ -59,6 +59,7 @@ L'émulation des concours photos entre collègues y est pour beaucoup.
 6.  **diversifier mes sorties **
 L'emploi du temps bien chargé m'a fait moins fréquenter les salles obscures, un peu à regret. J'ai fréquenté davantage les musées (mais pas beaucoup plus non plus) mais surtout, j'ai davantage embrassé les évènements culturels proposés par la ville et la Communauté urbaine de Bordeaux.
 Dans la catégorie imprévus imprévisibles mais appréciables, je citerais la découverte de la corrida. C'est beau et noble quand c'est bien pratiqué − et quand on ne cherche pas à la transformer en produit de consommation formaté.
+
 [![](http://farm5.static.flickr.com/4102/4871868747_448ba41195_m.jpg)](http://www.flickr.com/photos/the-jedi/4871868747/)
 
 ### Juste 1 seul changement pour 2011 ?

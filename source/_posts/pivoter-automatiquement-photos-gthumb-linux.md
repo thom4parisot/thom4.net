@@ -1,14 +1,14 @@
 title: "Pivoter automatiquement des photos avec gThumb"
 id: 663
 date: 2007-06-09 13:00:36
-tags: 
+tags:
 - astuce
 - gthumb
 - linux
 - logiciel libre
 - logiciels libres
 - Photographie
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -35,7 +35,7 @@ Comme l'illustre la capture d'écran ci-dessus, l'assistant d'import d'images de
 ### Rotation automatique sur une sélection d'images
 
 Pas de chance pour vous, mémé vous a refilé un CD entier d'images qui n'ont pas été pivotées. Vous souffrez d'avance rien qu'à l'idée de pivoter les images une par une mais par chance, gThumb est encore là grâce à un outil utilisable à tout moment.
-Lorsque gThumb est lancé et que vous parcourez un répertoire rempli de photos à pivoter, sélectionnez-les toutes (<kbd>Control + A</kbd> pour faire vite) et activez le menu `Outils &gt; Pivoter les images`. En cochant ensuite les cases <cite>Appliquer à toutes les images</cite> et <cite>Appliquer les transformations physiques</cite>, _gThumb_ passera au crible toutes les photos sélectionnées et les pivotera automatiquement dans le bon sens, peu importe l'orientation d'origine.
+Lorsque gThumb est lancé et que vous parcourez un répertoire rempli de photos à pivoter, sélectionnez-les toutes (<kbd>Control + A</kbd> pour faire vite) et activez le menu `Outils > Pivoter les images`. En cochant ensuite les cases <cite>Appliquer à toutes les images</cite> et <cite>Appliquer les transformations physiques</cite>, _gThumb_ passera au crible toutes les photos sélectionnées et les pivotera automatiquement dans le bon sens, peu importe l'orientation d'origine.
 
 ![Pivoter des images avec gThumb lors d’une sélection](https://oncletom.io/images/2007/06/gthumb-pivoter-images-selection.png)
 

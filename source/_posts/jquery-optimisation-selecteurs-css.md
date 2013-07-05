@@ -1,7 +1,7 @@
 title: "jQuery : optimiser l'utilisation des sélecteurs CSS"
 id: 832
 date: 2007-12-18 08:00:02
-tags: 
+tags:
 - bonnes pratiques
 - css
 - css 3
@@ -9,7 +9,7 @@ tags:
 - jquery
 - optimisation
 - performances
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -48,7 +48,7 @@ Maintenant que vous avez le document en main, nous allons jouer avec jQuery pour
     $('body :last');
 
     // Compter le nombre de pays
-    $('.pays &gt; li').length;
+    $('.pays > li').length;
     `</pre>
     Magique non ?
 
@@ -100,7 +100,7 @@ Maintenant que vous avez le document en main, nous allons jouer avec jQuery pour
     Comme dans le premier cas, le `document.getElementsByTagName()` charge tout le DOM pour le filtrer, ne récupérer que le premier élément et, seule opération non coûteuse, utiliser son dernier enfant.
     Ce n'est pas la pire des exemples mais là encore on peut optimiser les choses.
     <pre>`// Compter le nombre de pays
-    $('.pays &gt; li').length;
+    $('.pays > li').length;
     // équivaut à
     var pays = 0;
     var el = document.getElementsByTagName('*');
@@ -117,14 +117,14 @@ Maintenant que vous avez le document en main, nous allons jouer avec jQuery pour
       }
     }`</pre>
     Un sélecteur par classe ne devrait être qu'un cas extrême, quand on ne peut se fier à une balise donnée. Car de manière générale, le `getElementsByTagName('*')` est à bannir. Charger tout le DOM est une folie furieuse.
-    La bonne idée ici est l'utilisation du symbole `&gt;`. Cela se traduit par `.childNodes` et nous verrons plus bas pourquoi c'est mieux.
+    La bonne idée ici est l'utilisation du symbole `>`. Cela se traduit par `.childNodes` et nous verrons plus bas pourquoi c'est mieux.
 
     ### Et maintenant, optimisons
 
     S'il fallait **résumer l'optimisation en 3 points**, voici ce que je donnerai :
 
 1.  jamais de sélecteur vague
-2.  toujours un ID (#&lt;ID&gt;) en tête de sélecteur
+2.  toujours un ID (#<ID>) en tête de sélecteur
 3.  utiliser au maximum les objets natifs (`firstChild`, `childNodes` etc.) : ils évitent d'interroger tout le DOM
     **L'ennemi des sélecteurs CSS ce sont les boucles**. Plus elles ont à brasser d'éléments, plus elles sont longues. `getElementsByTagName()` cache une boucle : JavaScript scanne tout le DOM pour trouver un nœud ayant un `tagName` correspondant.
     **S'il faut l'utiliser, c'est en aval d'un sélecteur ayant déjà trié une bonne partie du document.**
@@ -138,7 +138,7 @@ Maintenant que vous avez le document en main, nous allons jouer avec jQuery pour
     <pre>`// Récupération du premier paragraphe
     $('body p:first-child');
     // version optimisée
-    $('#sandbox &gt; p:first');
+    $('#sandbox > p:first');
 
     // Récupération du nœud des continents
     $('ul.continents');
@@ -148,7 +148,7 @@ Maintenant que vous avez le document en main, nous allons jouer avec jQuery pour
     // Récupération de la liste des capitales
     $('.capitale');
     // version optimisée (mais fortement liée à la structure du document)
-    $('#geoliste &gt; li &gt; ul ul &gt; li.capitale');
+    $('#geoliste > li > ul ul > li.capitale');
 
     // Récupération du dernier élément du body
     $('body :last');
@@ -156,9 +156,9 @@ Maintenant que vous avez le document en main, nous allons jouer avec jQuery pour
     $('#sandbox :last');
 
     // Compter le nombre de pays
-    $('.pays &gt; li').length;
+    $('.pays > li').length;
     // version optimisée (mais liée à la structure du document)
-    $('#geoliste &gt; li &gt; ul &gt; li').length;
+    $('#geoliste > li > ul > li').length;
     `</pre>
 
     ### Évitons les doublons : chaînons !
@@ -167,7 +167,7 @@ Maintenant que vous avez le document en main, nous allons jouer avec jQuery pour
 
     Voici un extrait de code largement optimisable :
     <pre>`$('#intro').addClass('jevaisdisparaitre');
-    $('#intro').append(' &lt;strong&gt;Je vais disparaître&lt;/strong&gt;.');
+    $('#intro').append(' <strong>Je vais disparaître</strong>.');
     $('#intro code').html('Goodbye World');
     $('#intro').css('cursor', 'pointer');
     $('#intro').one('click', function(){ alert("Bye bye"); $(this).remove(); });
@@ -175,7 +175,7 @@ Maintenant que vous avez le document en main, nous allons jouer avec jQuery pour
     Tout est correct sauf qu'on répète plusieurs fois le même sélecteur au lieu d'utiliser la chaîne disponible. jQuery optimise la sélection d'un élément déjà sélectionné au préalable mais n'empêche, au lieu d'interroger 5 fois `#intro`, nous n'allons plus le faire qu'une seule fois :
     <pre>`$('#intro')
       .addClass('jevaisdisparaitre')
-      .append(' &lt;strong&gt;Je vais disparaître&lt;/strong&gt;.')
+      .append(' <strong>Je vais disparaître</strong>.')
       .one('click', function(){
         alert("Bye bye");
         $(this).remove();

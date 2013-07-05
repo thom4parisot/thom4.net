@@ -1,7 +1,7 @@
 title: "Microformats : republier et donner du sens aux contenus"
 id: 861
 date: 2008-01-29 07:00:06
-tags: 
+tags:
 - bonnes pratiques
 - css
 - hatom
@@ -12,7 +12,7 @@ tags:
 - semantique
 - seo
 - technorati
-categories: 
+categories:
 - Développement Web
 - Standards du Web
 ---
@@ -58,17 +58,17 @@ Les microformats se basent sur deux attributs [[1](#nb1 "[1] Il en existe en ré
 *   `class` : pour décrire le sens de contenu.
 Les balises (X)HTML indiquent la nature de leur contenu :
 
-*   `&lt;p&gt;` pour un paragraphe de texte ;
-*   `&lt;h1&gt;` pour un titre important ;
-*   `&lt;strong&gt;` pour une forte emphase ;
-*   `&lt;img&gt;` pour une image ;
-*   `&lt;li&gt;` pour un élément de liste ;
-*   `&lt;a&gt;` pour lier une autre ressource via son URI.
+*   `<p>` pour un paragraphe de texte ;
+*   `<h1>` pour un titre important ;
+*   `<strong>` pour une forte emphase ;
+*   `<img>` pour une image ;
+*   `<li>` pour un élément de liste ;
+*   `<a>` pour lier une autre ressource via son URI.
 Les microformats s'ajoutent par le biais des attributs cités ci-dessus (rel et class) pour affiner leur sens :
 
-*   `&lt;a rel="nofollow"&gt;` indique aux robots d'indexation des moteurs de recherche de ne pas suivre ce lien ;
-*   `&lt;span class="tel"&gt;` indique que cette balise neutre contient un numéro de téléphone ;
-*   `&lt;div class="entry"&gt;` indique que cette balise neutre contient un article (billet de blog par exemple).
+*   `<a rel="nofollow">` indique aux robots d'indexation des moteurs de recherche de ne pas suivre ce lien ;
+*   `<span class="tel">` indique que cette balise neutre contient un numéro de téléphone ;
+*   `<div class="entry">` indique que cette balise neutre contient un article (billet de blog par exemple).
 Rassurez-vous, le choix des classes n'est pas arbitraire et le [wiki officiel](http://microformats.org/wiki/) est un bon guide. Il reprend les spécifications des formats cités précédemment tout en les agrémentant d'exemples.
 Enfin, et pour achever d'attiser votre curiosité, voici un résumé des microformats en 7 points :
 
@@ -92,22 +92,22 @@ mais bel et bien à du texte présent sur une page Web.
 Si ce code était placé sur une page Web accessible au public, n'importe quel outil gérant les microformats serait capable d'en extraire les données et pourquoi pas, de lancer une recherche sur
 Google Maps pour obtenir les coordonnées GPS de l'adresse.
 
-    &lt;div class="vcard"&gt;
-      &lt;a class="fn org url" href="http://www.clever-age.com/"&gt;Clever Age&lt;/a&gt;
-      &lt;div class="adr"&gt;
-        &lt;div class="street-address"&gt;37, boulevard des Capucines&lt;/div&gt;
-        &lt;span class="postal-code"&gt;75002&lt;/span&gt;
-        &lt;span class="locality"&gt;Paris&lt;/span&gt;
-        &lt;div class="country-name"&gt;France&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class="tel"&gt;
-       &lt;span class="type"&gt;Téléphone&lt;/span&gt; +33 1 53 34 66 10
-      &lt;/div&gt;
-      &lt;div class="tel"&gt;
-        &lt;span class="type"&gt;Fax&lt;/span&gt; +33 1 53 34 65 20
-      &lt;/div&gt;
-      &lt;div&gt;Email: &lt;span class="email"&gt;commercial@clever-age.com&lt;/span&gt;&lt;/div&gt;
-    &lt;/div&gt;
+    <div class="vcard">
+      <a class="fn org url" href="http://www.clever-age.com/">Clever Age</a>
+      <div class="adr">
+        <div class="street-address">37, boulevard des Capucines</div>
+        <span class="postal-code">75002</span>
+        <span class="locality">Paris</span>
+        <div class="country-name">France</div>
+      </div>
+      <div class="tel">
+       <span class="type">Téléphone</span> +33 1 53 34 66 10
+      </div>
+      <div class="tel">
+        <span class="type">Fax</span> +33 1 53 34 65 20
+      </div>
+      <div>Email: <span class="email">commercial@clever-age.com</span></div>
+    </div>
 
 ### Outils proposant des microformats
 

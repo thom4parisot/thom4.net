@@ -1,7 +1,7 @@
 title: "Installation du module Bluetooth sur un portable Acer"
 id: 801
 date: 2007-11-07 13:00:51
-tags: 
+tags:
 - 9410
 - acer
 - acer-acpi
@@ -11,7 +11,7 @@ tags:
 - modprobe
 - ubuntu
 - windows
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -64,7 +64,7 @@ Pour que le Bluetooth soit activé, il faut remplacer 0 par 1 dans le fichier :
 
     /sys/devices/platform/acer-wmi/bluetooth`</pre>
     Pour automatiser ça à chaque démarrage, il faut que votre fichier `/etc/rc.local` ressemble à ceci :
-    <pre>`sudo echo 1 &gt; /sys/devices/platform/acer-wmi/bluetooth
+    <pre>`sudo echo 1 > /sys/devices/platform/acer-wmi/bluetooth
     exit 0`</pre>
 
     #### Ubuntu, Hardy Heron (7.10)
@@ -74,7 +74,7 @@ Pour que le Bluetooth soit activé, il faut remplacer 0 par 1 dans le fichier :
     Pour que le Bluetooth soit activé, il faut remplacer 0 par 1 dans le fichier :
     <pre>`/sys/devices/platform/acer_acpi/bluetooth`</pre>
     Pour automatiser ça à chaque démarrage, il faut que votre fichier `/etc/rc.local` ressemble à ceci :
-    <pre>`sudo echo 1 &gt; /sys/devices/platform/acer_acpi/bluetooth
+    <pre>`sudo echo 1 > /sys/devices/platform/acer_acpi/bluetooth
     exit 0`</pre>
 
     #### Ubuntu, méthode obsolète

@@ -1,12 +1,12 @@
 title: "Ajouter les tags Wordpress dans une balise META"
 id: 780
 date: 2007-10-02 13:00:38
-tags: 
+tags:
 - logiciels libres
 - plugin
 - seo
 - tags
-categories: 
+categories:
 - Développement Web
 - WordPress
 ---
@@ -59,13 +59,13 @@ En attendant que j'en fasse un plugin à part entière un peu plus modulable, vo
       }
 
       //On boucle sur chaque post disponible pour en extraire les tags
-      for ($posts_length = count($posts), $i = 0; $i &lt; $posts_length; $i++)
+      for ($posts_length = count($posts), $i = 0; $i < $posts_length; $i++)
       {
         //Comme il peut y avoir un ou plusieurs tag par post, là encore on boucle
         //Les tags ne sont pas directement stockés dans $posts, il faut passer par l'API de taxinomie (wp_includes/taxonomy.php)
-        foreach (get_object_term_cache( $posts[$i]-&gt;ID, 'post_tag' ) as $tag)
+        foreach (get_object_term_cache( $posts[$i]->ID, 'post_tag' ) as $tag)
         {
-          $tags[] = $tag-&gt;name;
+          $tags[] = $tag->name;
         }
       }
 
@@ -75,7 +75,7 @@ En attendant que j'en fasse un plugin à part entière un peu plus modulable, vo
       //On n'affiche l'entête que si elle n'est pas vide, voilà tout
       if (!empty($tags))
       {
-        printf('&lt;meta name="%s" content="%s" /&gt;', 'keywords', implode(', ', $tags));
+        printf('<meta name="%s" content="%s" />', 'keywords', implode(', ', $tags));
       }
     }
 

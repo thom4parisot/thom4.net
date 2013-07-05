@@ -1,14 +1,14 @@
 title: "WordPress, mises à jour automatiques et FTP : la solution"
 id: 17698
 date: 2010-11-22 17:33:14
-tags: 
+tags:
 - astuce
 - code
 - configuration
 - logiciels libres
 - upgrade
 - WordPress
-categories: 
+categories:
 - WordPress
 ---
 
@@ -31,14 +31,20 @@ L'astuce consiste à forcer WordPress en mode _direct_ (système de fichier) et 
 
 Forcer le mode direct est très simple. Il suffit d'éditer le fichier _wp-config.php_, celui-là même qui contient les identifiants de connexion à la base de données et autres joyeusetés. Et d'y rajouter cette ligne, avant la première directive par exemple :
 
-    define('FS_METHOD', 'direct');`</pre>
-    Enregistrez, et c'est plié.
+```php
+define('FS_METHOD', 'direct');
+```
 
-    ### Réglage des permissions
+Enregistrez, et c'est plié.
 
-    Côté permissions, ça peut également se régler en 2 coups de terminal. Partons du principe que le **groupe propriétaire** de votre serveur HTTP est _www-data_, à la base de votre installation WordPress, il suffit de faire ceci :
-    <pre>`chgrp -R www-data wp-content/upgrade wp-content/themes wp-content/plugins wp-content/uploads
-    chmod g+wx wp-content/upgrade wp-content/themes wp-content/plugins wp-content/uploads
+### Réglage des permissions
+
+Côté permissions, ça peut également se régler en 2 coups de terminal. Partons du principe que le **groupe propriétaire** de votre serveur HTTP est _www-data_, à la base de votre installation WordPress, il suffit de faire ceci :
+
+```bash
+chgrp -R www-data wp-content/upgrade wp-content/themes wp-content/plugins wp-content/uploads
+chmod g+wx wp-content/upgrade wp-content/themes wp-content/plugins wp-content/uploads
+```
 
 Cette manipulation attribue _www-data_ comme propriétaire des répertoires que vous souhaitez rendre accessibles en écriture et ce, de manière récursive. Dans un second temps, elle attribute les droits d'écriture et d'exécution au groupe propriétaire (peu importe le nom du groupe).
 Si vous êtes perdu(e) avec la commande [`chmod`, un peu de lecture pour apprendre à le manipuler](http://www.siteduzero.com/tutoriel-3-36115-les-chmod.html) (ça sauve la vie).

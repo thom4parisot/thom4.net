@@ -1,7 +1,7 @@
 title: "Paris-Web 2008 : au nom du webdesign, de la qualité et des standards"
 id: 1203
 date: 2008-11-20 07:00:13
-tags: 
+tags:
 - bonnes pratiques
 - ergonomie
 - logiciels libres
@@ -10,7 +10,7 @@ tags:
 - performances
 - pw2008
 - qualité
-categories: 
+categories:
 - Accessibilité
 - Évènements
 - Standards du Web
@@ -32,7 +32,7 @@ Les [conférences de Paris-Web 2008](http://www.paris-web.fr/2008/-programme-) �
 *   [Travailler dans le présent](http://www.slideshare.net/cheilmann/working-in-the-now-presentation)
 *   **Accessibilité, des volontaires ?**
 *   Internationalisation
-*   **La mode se démode, le &lt;style&gt; jamais**
+*   **La mode se démode, le <style> jamais**
 *   Identité 2.0 et Web sémantique
 *   IE8 et les standards du Web
 *   **Performances côté client**

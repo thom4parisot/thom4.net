@@ -1,7 +1,7 @@
 title: "Ménage de printemps"
 id: 1345
 date: 2009-04-15 20:06:59
-tags: 
+tags:
 - blueprint
 - css
 - css2
@@ -12,7 +12,7 @@ tags:
 - png
 - webdesign
 - yslow
-categories: 
+categories:
 - Développement Web
 - Personnel
 - WordPress
@@ -72,7 +72,7 @@ J'ai également joué avec l'**API de WordPress** pour générer les vignettes d
 Je suis en revanche toujours dubitatif sur l'API de WP Cron : ma tâche a beau être enregistrée et planifiée, j'ai l'impression qu'elle ne s'exécute jamais ... contrairement aux recherches de mises à jour de plugins &amp; cie. <span style="text-decoration: line-through;">Quelqu'un a déjà joué avec et rencontré pareil problème ?</span>
 **Mise à jour** : j'ai résolu le problème et détaillé la marche à suivre dans l'article [affichage personnalisé de ses lecteurs Feedburner](https://oncletom.io/2009/05/14/affichage-personnalise-abonnes-feedburner/). Je planifiais une fonction et non un _hook_. Cela fonctionnait mais ne produisait fatalement pas de résultat ;-)
 
-Au final je n'ai même pas eu à placer la moindre ligne de JavaScript : tout est fait à partir de sélecteurs CSS. Mon seul regret : l'absence de sélecteur adjacent ... "précédent". Pour le menu du haut, je voulais pouvoir styler les éléments de menus ayant comme élément suivant une liste d'élément (`&lt;ul&gt;`).
+Au final je n'ai même pas eu à placer la moindre ligne de JavaScript : tout est fait à partir de sélecteurs CSS. Mon seul regret : l'absence de sélecteur adjacent ... "précédent". Pour le menu du haut, je voulais pouvoir styler les éléments de menus ayant comme élément suivant une liste d'élément (`<ul>`).
 
 ### Au final
 

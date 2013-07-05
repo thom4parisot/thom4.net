@@ -1,7 +1,7 @@
 title: "LESS + CSS + WordPress = WP-LESS"
 id: 1435
 date: 2009-08-18 13:25:52
-tags: 
+tags:
 - css
 - héritage
 - less
@@ -11,7 +11,7 @@ tags:
 - plugin
 - variables
 - WP-LESS
-categories: 
+categories:
 - Développement Web
 - Projets
 - WordPress
@@ -29,28 +29,35 @@ Cet outil me paraît **indispensable** alors j'ai décidé de l'intégrer à Wor
 
 Pour mettre en exergue l'intérêt de LESS, je reprends un exemple officiel :
 
-    #defaults {
-      @width: 960px;
-      @color: black;
-    }
+```less
+#defaults {
+  @width: 960px;
+  @color: black;
+}
 
-    .article { color: #294366; }
+.article { color: #294366; }
 
-    .comment {
-      width: #defaults[@width];
-      color: .article['color'];
-    }`</pre>
-    Le source précédent utilise 3 principes :
+.comment {
+  width: #defaults[@width];
+  color: .article['color'];
+}
+```
+
+Le source précédent utilise 3 principes :
 
 *   les **variables** (dont leur nom est préfixé par un @)
 *   les **namespaces** (ici, #defaults) pour regrouper des propriétés
 *   les **accesseurs** (pour obtenir la couleur de l'article au sein du commentaire)
-    Une fois ce code compilé par LESS, la feuille de style générée se résume à ceci :
-    <pre>`.article { color:#294366; }
-    .comment {
-      width:960px;
-      color:#294366;
-    }
+
+Une fois ce code compilé par LESS, la feuille de style générée se résume à ceci :
+
+```less
+.article { color:#294366; }
+.comment {
+  width:960px;
+  color:#294366;
+}
+```
 
 C'est simple et efficace. Surtout quand on sait que l'on peut effectuer des opérations mathématiques, y compris en utilisant les variables, la conception va se retrouver facilitée.
 
@@ -75,4 +82,5 @@ J'ai déjà en tête d'autres fonctions pour simplifier encore plus la vie :
 *   proposer des _helpers_ pour ne pas avoir à passer par _wp_enqueue_stylesheet_ (même si c'est la meilleure solution)
 *   dissocier les fichiers `.less` des feuilles de style dans l'éditeur de thème avec une validation lors de l'enregistrement
 *   afficher un **tableau de bord** montrant l'état des fichiers de cache tout en pouvant les purger
+
 Vous attendriez d'autres fonctionnalités de la part de ce plugin ?

@@ -1,13 +1,13 @@
 title: "Mise à jour automatique d'une feuille de style CSS dans le navigateur Web"
 id: 632
 date: 2007-05-25 13:00:09
-tags: 
+tags:
 - astuce
 - bonnes pratiques
 - cache
 - code
 - css
-categories: 
+categories:
 - Développement Web
 - Standards du Web
 ---
@@ -22,20 +22,25 @@ Et généralement on se confronte au **problème du cache des navigateurs Web**.
 
 L'inclusion d'une feuille de style au sein même de la page n'est pas une opération qui devrait vous poser trop de problèmes. Elle peut se faire de deux façons, la première étant compatible avec tous les navigateurs, la seconde seulement avec les navigateurs modernes.
 
-    /* inclusion "old school" */
-    &lt;link rel="stylesheet" type="text/css" href="url/style.css" media="screen" /&gt;
+```
+/* inclusion "old school" */
+<link rel="stylesheet" type="text/css" href="url/style.css" media="screen" />
 
-    /* inclusion "moderne" */
-    &lt;style type="text/css"&gt;@import url('url/style.css') screen;&lt;/style&gt;`</pre>
+/* inclusion "moderne" */
+<style type="text/css">@import url('url/style.css') screen;</style>
+```
 
-    ### Inclure une feuille de style avec mise à jour automatique
+### Inclure une feuille de style avec mise à jour automatique
 
-    Vous allez voir, c'est tout bête. _On reprend l'exemple précédent_ ; on veut conserver le même nom de fichier mais il a été mis à jour et on souhaite que le _navigateur le recharge sans que l'utilisateur ait à faire un petit F5_ sur son clavier.
-    <pre>`/* inclusion "old school" */
-    &lt;link rel="stylesheet" type="text/css" href="url/style.css<ins>?v=1234</ins>" media="screen" /&gt;
+Vous allez voir, c'est tout bête. _On reprend l'exemple précédent_ ; on veut conserver le même nom de fichier mais il a été mis à jour et on souhaite que le _navigateur le recharge sans que l'utilisateur ait à faire un petit F5_ sur son clavier.
 
-    /* inclusion "moderne" */
-    &lt;style type="text/css"&gt;@import url('url/style.css<ins>?v=1234</ins>') screen;&lt;/style&gt;
+```
+/* inclusion "old school" */
+<link rel="stylesheet" type="text/css" href="url/style.css<ins>?v=1234</ins>" media="screen" />
+
+/* inclusion "moderne" */
+<style type="text/css">@import url('url/style.css<ins>?v=1234</ins>') screen;</style>
+```
 
 Vous voyez le **v=1234** ? Le fait d'ajouter un paramètre au fichier appelé dupe le navigateur et lui fait croire qu'il s'agit d'un fichier différent de _style.css_. En réalité on peut mettre n'importe quoi en paramètre (le timestamp de mise à jour du fichier par exemple. Par exemple `style.css?1180077252`).
 

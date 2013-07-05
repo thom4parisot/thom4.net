@@ -1,7 +1,7 @@
 title: "Tableau auto-extensible en JavaScript"
 id: 680
 date: 2007-06-26 13:59:32
-tags: 
+tags:
 - ajax
 - bonne pratique
 - code
@@ -9,7 +9,7 @@ tags:
 - html
 - Javascript
 - mootools
-categories: 
+categories:
 - Accessibilité
 - Développement Web
 - Standards du Web
@@ -59,56 +59,56 @@ C'est à dire **exactement ce que l'on souhaitait au départ**.
 
 #### Le tableau HTML
 
-    &lt;table cellspacing="0" id="ajout_multi_articles"&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;Code article&lt;/th&gt;
-          &lt;th&gt;Quantité&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[1][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[1][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[2][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[2][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[3][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[3][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[4][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[4][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[5][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[5][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[6][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[6][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[7][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[7][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[8][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[8][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[9][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[9][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr class="article"&gt;
-          &lt;th&gt;&lt;input type="text" name="article[10][ref]" maxlength="10" /&gt;&lt;/th&gt;
-          &lt;td&gt;&lt;input type="text" name="article[10][qte]" maxlength="5" size="5" /&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;`</pre>
+    <table cellspacing="0" id="ajout_multi_articles">
+      <thead>
+        <tr>
+          <th>Code article</th>
+          <th>Quantité</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="article">
+          <th><input type="text" name="article[1][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[1][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[2][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[2][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[3][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[3][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[4][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[4][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[5][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[5][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[6][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[6][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[7][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[7][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[8][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[8][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[9][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[9][qte]" maxlength="5" size="5" /></td>
+        </tr>
+        <tr class="article">
+          <th><input type="text" name="article[10][ref]" maxlength="10" /></th>
+          <td><input type="text" name="article[10][qte]" maxlength="5" size="5" /></td>
+        </tr>
+      </tbody>
+    </table>`</pre>
 
     #### La fonction JavaScript
 
@@ -162,7 +162,7 @@ C'est à dire **exactement ce que l'on souhaitait au départ**.
          */
         new Element('p',{
               'class' : 'message'
-              }).setHTML("Dès qu'un code article et une quantité sont saisis ci-dessous, &lt;strong&gt;une nouvelle ligne s'ajoute automatiquement&lt;/strong&gt;.&lt;br /&gt;Afin d'accélérer votre saisie, &lt;em&gt;utilisez la touche de tabulation de votre clavier&lt;/em&gt; pour passer d'un champ à l'autre. Vous verrez, c'est facile et surtout efficace !").injectBefore(params.css_id);
+              }).setHTML("Dès qu'un code article et une quantité sont saisis ci-dessous, <strong>une nouvelle ligne s'ajoute automatiquement</strong>.<br />Afin d'accélérer votre saisie, <em>utilisez la touche de tabulation de votre clavier</em> pour passer d'un champ à l'autre. Vous verrez, c'est facile et surtout efficace !").injectBefore(params.css_id);
       };
 
       /**
@@ -187,7 +187,7 @@ C'est à dire **exactement ce que l'on souhaitait au départ**.
             break;
 
             case 'select':
-              if (input.selectedIndex &gt;= 0 &amp;&amp; input.selectedIndex &lt; input.length)
+              if (input.selectedIndex >= 0 &amp;&amp; input.selectedIndex < input.length)
               {
                 ++row.completed;
               }

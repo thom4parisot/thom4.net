@@ -1,7 +1,7 @@
 title: "Transcender CSS : sublimez le design Web !"
 id: 823
 date: 2007-12-11 08:00:59
-tags: 
+tags:
 - andy clarke
 - bonnes pratiques
 - css
@@ -13,7 +13,7 @@ tags:
 - semantique
 - standards
 - xhtml
-categories: 
+categories:
 - Développement Web
 - Standards du Web
 ---
@@ -37,12 +37,12 @@ Ou comment CSS, sémantique, intégration XHTML, microformats, sources d'inspira
 La mise en pratique du balisage XHTML est menée avec pédagogie. Vous apprendrez comment **traduire une image en balises HTML** de manière adaptée. Et un bon balisage c'est déjà la moitié du travail, l'autre restant son habillage. Il faut dissocier le contenu et la mise en page tout en n'oubliant pas un point essentiel : **donner du sens au contenu**.
 Il existe de nombreuses balises XHTML qui ont chacune leur propre signification : il faut les utiliser pour donner du sens. C'est non seulement important pour le référencement mais aussi pour ancrer les feuilles de style de manière propre et efficace. Nos professeurs de français nous ont appris à utiliser des verbes riches au lieu de verbes pauvres (être, avoir, aller, prendre etc.) alors faisons de même avec les balises XHTML :
 
-*   `&lt;h1 à h6&gt;` pour afficher des titres hiérarchiques
-*   `&lt;p&gt;` pour des paragraphes de textes (les images sont du texte)
-*   `&lt;ul/ol/li&gt;` pour des listes de contenus
-*   `&lt;q/cite/blockquote&gt;` pour des citations de textes
-*   `&lt;pre/code/kbd&gt;` pour des saisies de texte au clavier ou des extraits de code
-*   `&lt;span/div&gt;` dans les autres cas ; **ce sont des balises neutres vides de tout sens**
+*   `<h1 à h6>` pour afficher des titres hiérarchiques
+*   `<p>` pour des paragraphes de textes (les images sont du texte)
+*   `<ul/ol/li>` pour des listes de contenus
+*   `<q/cite/blockquote>` pour des citations de textes
+*   `<pre/code/kbd>` pour des saisies de texte au clavier ou des extraits de code
+*   `<span/div>` dans les autres cas ; **ce sont des balises neutres vides de tout sens**
 
 Et d'aborder dans la foulée les [microformats](https://oncletom.io/2007/07/31/semantique-microformats-internet/). Ça a été ma première surprise car je ne m'attendais pas à les retrouver dans ce livre. Un duo de page les aborde et montre (un peu trop succinctement) que microformater du contenu n'a rien d'impossible, surtout quand la structure XHTML est bonne dès le départ.
 
@@ -73,7 +73,7 @@ En français, il s'agit de la règle des tiers. Au lieu de choisir arbitrairemen
 Tout ceci nous amène à parler du [design par grille](http://subtraction.com/). Vous venez de suivre le lien ? Vous aurez probablement remarqué, consciemment ou pas, que la page est découpée en 8 colonnes de largeur identiques. Certains contenus occupent davantage de place mais devinez-quoi ? Cela correspond toujours à un certain nombre de colonnes, pas une largeur hasardeuse.
 Cette lubie n'est pas si excentrique que cela puisqu'elle nous provient directement des ... journaux papiers. Qui aurait cru que le New York Times aurait pu inspirer les meilleurs designers du Web ? Et pourtant, on ne regardera plus les journaux de la même manière en observant leur structure à 6 ou 8 colonnes. Du nombre d'or en veux-tu en voilà.
 
-**Andy Clarke** termine ce chapitre sur les sources d'inspirations. Là non plus il n'y a pas de frein à l'imagination puisque **tout est susceptible de catalyser créativité** : architectures d'immeubles, coupures de presse, publicités de magazines, affiches diverses et variées. Vous l'aurez compris, **tous les supports visuels** facilement agrégeables. 
+**Andy Clarke** termine ce chapitre sur les sources d'inspirations. Là non plus il n'y a pas de frein à l'imagination puisque **tout est susceptible de catalyser créativité** : architectures d'immeubles, coupures de presse, publicités de magazines, affiches diverses et variées. Vous l'aurez compris, **tous les supports visuels** facilement agrégeables.
 
 ![Extrait du chapitre “Transcendance” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-4-transcendance.jpg)
 

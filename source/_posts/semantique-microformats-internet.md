@@ -1,7 +1,7 @@
 title: "Du bon usage de la sémantique : microformats et futur de la recherche sur Internet"
 id: 714
 date: 2007-07-31 17:00:00
-tags: 
+tags:
 - css
 - futur
 - html
@@ -9,7 +9,7 @@ tags:
 - semantique
 - technorati
 - xhtml
-categories: 
+categories:
 - Développement Web
 - Standards du Web
 ---
@@ -39,25 +39,30 @@ Voici deux exemples de code qui contiennent les _mêmes textes_ et qui respecten
 
 **Méthode sémantiquement correcte** :
 
-    &lt;div id=&quot;introduction&quot;&gt;
-    	&lt;h2&gt;Site valide HTML&lt;/h2&gt;
-    	&lt;p&gt;Cette portion de code a un code HTML valide.&lt;/p&gt;
+```html
+<div id="introduction">
+  <h2>Site valide HTML</h2>
+  <p>Cette portion de code a un code HTML valide.</p>
 
-    	&lt;p class=&quot;suite&quot;&gt;&lt;a href=&quot;./edito&quot;&gt;Lire la suite de l'édito&lt;/a&gt;&lt;/p&gt;
-    &lt;div&gt;`</pre>
+  <p class="suite"><a href="./edito">Lire la suite de l'édito</a></p>
+<div>
+```
 
-    **Méthode sémantiquement _in_correcte** :
-    <pre>`&lt;div id=&quot;page_haut&quot;&gt;
-    	&lt;div class=&quot;titre rouge&quot;&gt;Site valide HTML&lt;/div&gt;
-    	&lt;div class=&quot;texte&quot;&gt;Cette portion de code a un code HTML valide.&lt;/div&gt;
+**Méthode sémantiquement _in_correcte** :
 
-    	&lt;div class=&quot;texte petit&quot;&gt;&lt;a href=&quot;./?page=12345&quot;&gt;Lire la suite de l'édito&lt;/a&gt;&lt;/div&gt;
-    &lt;/div&gt;
+```html
+<div id="page_haut">
+  <div class="titre rouge">Site valide HTML</div>
+  <div class="texte">Cette portion de code a un code HTML valide.</div>
+
+  <div class="texte petit"><a href="./?page=12345">Lire la suite de l'édito</a></div>
+</div>
+```
 
 Sans avoir à donner un cours de balisage, voici les principes auxquels se tenir :
 
-*   **utilisez les balises HTML au bon endroit et à bon escient**. Ne mettez pas un `div` (bloc neutre) si un `p` (paragraphe) ou un `h_n_` (titre hiérarchique) peuvent faire l'affaire. De même pour les listes, n'utilisez pas de `div` (bloc neutre) si une `ul`/`ol` (liste désordonnée, liste ordonnée) ou une `dl` (liste de définition) sont mieux adaptées.
-*   **nommez les _classes_ (.classe) et les _id_ (#id) en fonction de ce qu'ils représentent** et non en fonction de l'apparence qu'ils devraient avoir.
+*   **utilisez les balises HTML au bon endroit et à bon escient**. Ne mettez pas un `div` (bloc neutre) si un `p` (paragraphe) ou un `h*` (titre hiérarchique) peuvent faire l'affaire. De même pour les listes, n'utilisez pas de `div` (bloc neutre) si une `ul`/`ol` (liste désordonnée, liste ordonnée) ou une `dl` (liste de définition) sont mieux adaptées.
+*   **nommez les _classes_ (`.class`) et les _id_ (`#id`) en fonction de ce qu'ils représentent** et non en fonction de l'apparence qu'ils devraient avoir.
 
 Et c'est tout ! Cette **petite touche de rigueur assurera une pérennité certaine** dans vos développements. Sans compter la _facilité à intégrer_ les microformats par la suite.
 

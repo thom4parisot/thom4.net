@@ -1,14 +1,14 @@
 title: "Configurer Apache pour de multiples dépôts Subversion"
 id: 635
 date: 2007-05-24 20:40:41
-tags: 
+tags:
 - apache
 - configuration
 - httpd
 - Subversion
 - svn
 - trac
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -25,11 +25,11 @@ Après avoir lu des billets intéressants sur l'[installation de Subversion sur 
 J'ai tenté de contourner le problème en utilisant la [directive DirectoryMatch d'Apache](http://httpd.apache.org/docs/2.0/mod/core.html#directorymatch) mais impossible de récupérer le résultat du masque.
 Si vous comptiez faire ceci, oubliez de suite, ce n'est pas possible :
 
-    &lt;directorymatch "/chemin/vers/racine/svn/([a-z0-9-]*)&gt;
+    <directorymatch "/chemin/vers/racine/svn/([a-z0-9-]*)>
      DAV svn
      SVNPath /chemin/vers/racine/svn/$1
      ...
-    &lt;/directorymatch&gt;
+    </directorymatch>
 
     `</pre>
     En effet, `DIrectoryMatch` ne fait que vérifier l'existence d'un chemin par rapport à un masque ; il n'en récupère pas le contenu pour une exploitation ultérieure. C'est bien dommage.
@@ -41,7 +41,7 @@ Si vous comptiez faire ceci, oubliez de suite, ce n'est pas possible :
     Exactement ce qu'il me fallait.
 
     Au final, après avoir cherché à [configurer Subversion pour Windows](http://svn.nuxeo.org/trac/pub/wiki/TracOnWindows), voici ce que j'ai rajouté dans ma config Apache :
-    <pre>`&lt;Location /svn&gt;
+    <pre>`<Location /svn>
       DAV svn
       # any /svn/foo URL will map to a repository D:/svn/foo
       SVNParentPath D:/svn
@@ -50,6 +50,6 @@ Si vous comptiez faire ceci, oubliez de suite, ce n'est pas possible :
       #AuthName "Subversion repository"
       #AuthUserFile d:/svn/.<span class="searchword0">htaccess</span>
       #Require valid-user
-    &lt;/Location&gt;
+    </Location>
 
 _Je ferai très probablement d'autres billets sur Subversion_. Depuis le temps que je voulais m'y mettre, apprendre ses rouages et sa rigueur ne sont pas forcément faciles.

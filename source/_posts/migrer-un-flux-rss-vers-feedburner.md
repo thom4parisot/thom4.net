@@ -1,14 +1,14 @@
 title: "Migrer un flux RSS vers Feedburner"
 id: 511
 date: 2007-03-17 13:00:31
-tags: 
+tags:
 - apache
 - atom
 - bonnes pratiques
 - feedburner
 - rss
 - xml
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -27,7 +27,7 @@ Avant de faire quoi que ce soit, il convient de créer son flux Feedburner à pa
 
 ### Modifier les liens vers les flux
 
-Une fois le flux créé, pensez à mettre à jour **tous vos liens** pointant vers ce fichier (balises &lt;link /&gt;, liens hypertextes, boutons personnalisés etc.). Ceci a pour but d'unifier toute les adresses et éviter qu'il y aient plusieurs adresses visibles pour accéder à la même information.
+Une fois le flux créé, pensez à mettre à jour **tous vos liens** pointant vers ce fichier (balises <link />, liens hypertextes, boutons personnalisés etc.). Ceci a pour but d'unifier toute les adresses et éviter qu'il y aient plusieurs adresses visibles pour accéder à la même information.
 
 ### Rediriger les flux existants
 
@@ -63,6 +63,6 @@ Le plus simple consiste à créer un fichier `.htaccess` (ou d'éditer directeme
     RewriteCond %{HTTP_USER_AGENT} !FeedBurner
     RewriteRule ^veda\.xml$ http://feeds.feedburner.com/emunovaVedaTests [R=301,L]
     RewriteCond %{HTTP_USER_AGENT} !FeedBurner
-    RewriteRule ^veda_commentaires\.xml$ http://feeds.feedburner.com/emunovaVedaCommentaires [R=301,L] 
+    RewriteRule ^veda_commentaires\.xml$ http://feeds.feedburner.com/emunovaVedaCommentaires [R=301,L]
 
 Pas difficile et tellement pratique ;-)

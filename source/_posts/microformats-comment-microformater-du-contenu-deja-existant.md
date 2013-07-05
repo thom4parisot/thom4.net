@@ -1,7 +1,7 @@
 title: "Microformats : comment microformater du contenu déjà existant ?"
 id: 896
 date: 2008-04-03 22:07:42
-tags: 
+tags:
 - adr
 - atom
 - clever age
@@ -20,7 +20,7 @@ tags:
 - xhtml
 - xoxo
 - yahoo
-categories: 
+categories:
 - Développement Web
 - Standards du Web
 ---
@@ -121,38 +121,38 @@ Voici le code de départ, repris tel quel :
 
     Clever Age - Siège social : 01.53.34.66.10`</pre>
     Comme nous avons pu le voir, la gestion d'identités passe par le [microformat hCard](http://microformats.org/wiki/hcard) :
-    <pre>`&lt;span class="vcard"&gt;
-    &lt;span class="fn org"&gt;Clever Age&lt;/span&gt; - Siège social : &lt;span class="tel"&gt;&lt;span class="value"&gt;01.53.34.66.10&lt;/span&gt;&lt;/span&gt;
-    &lt;/span&gt;`</pre>
+    <pre>`<span class="vcard">
+    <span class="fn org">Clever Age</span> - Siège social : <span class="tel"><span class="value">01.53.34.66.10</span></span>
+    </span>`</pre>
     La balise _span_ est une balise en-ligne neutre au sens où ... n'en a pas justement. _div_ est son pendant de type bloc.
 
     **Microformater des ressources syndiquées**
     Voici le code de départ (simplifié par rapport à l'exemple afin de réduire le code à lire) :
-    <pre>`&lt;dl&gt;
-    &lt;dt&gt;&lt;a href="/rss/blog.xml"&gt;derniers billets du blog&lt;/a&gt;&lt;/dt&gt;
-    &lt;dd&gt;...&lt;/dd&gt;
+    <pre>`<dl>
+    <dt><a href="/rss/blog.xml">derniers billets du blog</a></dt>
+    <dd>...</dd>
 
-    &lt;dt&gt;&lt;a href="/rss/publications.xml"&gt;dernières publications&lt;/a&gt;&lt;/dt&gt;
+    <dt><a href="/rss/publications.xml">dernières publications</a></dt>
 
-    &lt;dd&gt;...&lt;/dd&gt;
+    <dd>...</dd>
 
-    &lt;dt&gt;&lt;a href="/rss/cleverlink.xml"&gt;derniers Clever Links&lt;/a&gt;&lt;/dt&gt;
-    &lt;dd&gt;...&lt;/dd&gt;
-    &lt;/dl&gt;`</pre>
+    <dt><a href="/rss/cleverlink.xml">derniers Clever Links</a></dt>
+    <dd>...</dd>
+    </dl>`</pre>
     Le [microformat XOXO](http://microformats.org/wiki/xoxo) nous permet de définir une liste d'éléments en fonction des [modules XHTML](http://microformats.org/wiki/xoxo#The_XOXO_Document_Type) :
-    <pre>`&lt;dl class="xoxo"&gt;
-    &lt;dt&gt;&lt;a href="/rss/blog.xml" rel="feed" type="text/xml"&gt;derniers billets du blog&lt;/a&gt;&lt;/dt&gt;
+    <pre>`<dl class="xoxo">
+    <dt><a href="/rss/blog.xml" rel="feed" type="text/xml">derniers billets du blog</a></dt>
 
-    &lt;dd&gt;...&lt;/dd&gt;
+    <dd>...</dd>
 
-    &lt;dt&gt;&lt;a href="/rss/publications.xml" rel="feed" type="text/xml"&gt;dernières publications&lt;/a&gt;&lt;/dt&gt;
+    <dt><a href="/rss/publications.xml" rel="feed" type="text/xml">dernières publications</a></dt>
 
-    &lt;dd&gt;...&lt;/dd&gt;
+    <dd>...</dd>
 
-    &lt;dt&gt;&lt;a href="/rss/cleverlink.xml" rel="feed" type="text/xml"&gt;derniers Clever Links&lt;/a&gt;&lt;/dt&gt;
+    <dt><a href="/rss/cleverlink.xml" rel="feed" type="text/xml">derniers Clever Links</a></dt>
 
-    &lt;dd&gt;...&lt;/dd&gt;
-    &lt;/dl&gt;
+    <dd>...</dd>
+    </dl>
 
 Le microformatage a été rendu possible uniquement en utilisant de manière standardisée des attributs définis par XHTML.
 Malgré cet aspect de simplicité, il faut s'investir dans la compréhension des spécifications XHTML. Ce n'est un problème que pour les personnes produisant du code XHTML non-conforme.

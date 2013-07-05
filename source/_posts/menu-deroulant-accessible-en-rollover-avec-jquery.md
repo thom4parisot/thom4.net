@@ -1,7 +1,7 @@
 title: "Menu déroulant en rollover semi-accessible avec jQuery"
 id: 919
 date: 2008-06-10 07:00:50
-tags: 
+tags:
 - bonne pratique
 - css
 - ergonomie
@@ -9,7 +9,7 @@ tags:
 - logiciels libres
 - rollover
 - xhtml
-categories: 
+categories:
 - Accessibilité
 - Standards du Web
 ---
@@ -50,34 +50,34 @@ C'est l'étape essentielle. De sa structure dépend le reste de l'application. O
 
 Cette structure est représentée ainsi en HTML :
 
-    &lt;div id="contenu-secondaire"&gt;
-      &lt;ul id="navigation"&gt;
-        &lt;li class="first column span-6"&gt;
-          &lt;h2&gt;Actualités&lt;/h2&gt;
-          &lt;ul&gt;
-            &lt;li&gt;&lt;a href="..."&gt;Actualités&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="..."&gt;Newsletter&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="..."&gt;Flux RSS&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="..."&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="..."&gt;Réactions à chaud&lt;/a&gt;&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li class="column span-6"&gt;
-          &lt;h2&gt;Émulation&lt;/h2&gt;
-          &lt;ul&gt;
-            &lt;li&gt;&lt;a href="..."&gt;Émulation&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="..."&gt;Tutoriaux&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href="..."&gt;Foire aux Questions&lt;/a&gt;&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/div&gt;`</pre>
+    <div id="contenu-secondaire">
+      <ul id="navigation">
+        <li class="first column span-6">
+          <h2>Actualités</h2>
+          <ul>
+            <li><a href="...">Actualités</a></li>
+            <li><a href="...">Newsletter</a></li>
+            <li><a href="...">Flux RSS</a></li>
+            <li><a href="...">Twitter</a></li>
+            <li><a href="...">Réactions à chaud</a></li>
+          </ul>
+        </li>
+        <li class="column span-6">
+          <h2>Émulation</h2>
+          <ul>
+            <li><a href="...">Émulation</a></li>
+            <li><a href="...">Tutoriaux</a></li>
+            <li><a href="...">Foire aux Questions</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>`</pre>
     Cette version est volontairement tronquée pour faciliter sa lecture.
     L'idée générale de tout ça c'est de transporter directement la liste `#navigation` en dehors de son conteneur, `#extra-content`. C'est en effet plus rapide et plus performant de transporter une partie du DOM dans un autre endroit que de la recréer séquentiellement.
 
     Ça aura également l'avantage de limiter au maximum le travail à effectuer en JavaScript par derrière. On notera que jusqu'à présent, on n'a pas encore touché à jQuery.
 
-    Avec cette structure, on peut dores et déjà deviner que les &lt;ul&gt; de second niveau seront masqués et affichés à la demande.
+    Avec cette structure, on peut dores et déjà deviner que les <ul> de second niveau seront masqués et affichés à la demande.
 
     ### Étape 2 : préparer le menu HTML
 
@@ -93,7 +93,7 @@ Cette structure est représentée ainsi en HTML :
         /*
          * Étape 2 : préparation du menu
          */
-        $('#navigation &gt; li &gt; ul').hide();
+        $('#navigation > li > ul').hide();
         $('#navigation').appendTo('#welcome-bar');
       });
     })(jQuery);`</pre>
@@ -125,18 +125,18 @@ Cette structure est représentée ainsi en HTML :
         /*
          * Étape 3 : assignation des évènements et transformation
          */
-        $('#navigation &gt; li')
+        $('#navigation > li')
           .each(function(){
             var title = $('h2:first', this);
             var href = $('a:first', this).clone();
-            href.text(title.text()).wrapInner('&lt;span&gt;&lt;/span&gt;');
+            href.text(title.text()).wrapInner('<span></span>');
             title.html(href);
            })
-          .find('h2 &gt; a').bind('mouseenter', function(){
-            $(this).parents('li.column').find('&gt; ul').slideDown('fast');
+          .find('h2 > a').bind('mouseenter', function(){
+            $(this).parents('li.column').find('> ul').slideDown('fast');
           }).end()
           .bind('mouseleave', function(){
-            $('&gt; ul', this).slideUp();
+            $('> ul', this).slideUp();
           });
       });
     })(jQuery);

@@ -1,7 +1,7 @@
 title: "Wordpress en tant que dépendance SVN"
 id: 1237
 date: 2008-12-23 07:00:59
-tags: 
+tags:
 - bonne pratique
 - code
 - codex
@@ -13,7 +13,7 @@ tags:
 - plugins
 - svn
 - wordpress mu
-categories: 
+categories:
 - WordPress
 ---
 
@@ -66,7 +66,7 @@ Sur le répertoire racine, j'ai appliqué ces propriétés pour Wordpress 2.7 :
     #### Le .htaccess
 
     Voici ma configuration. Elle peut être aisément déportée dans votre déclaration de _Virtual Host_ pour des raisons de performance. Sur un serveur mutualisé vous n'avez en général pas accès à ce dernier type de configuration.
-    <pre>`&lt;IfModule mod_rewrite.c&gt;
+    <pre>`<IfModule mod_rewrite.c>
     Options -Multiviews -Indexes +FollowSymlinks
     RewriteEngine On
     RewriteBase /
@@ -78,7 +78,7 @@ Sur le répertoire racine, j'ai appliqué ces propriétés pour Wordpress 2.7 :
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule . wordpress/index.php [L]
-    &lt;/IfModule&gt;
+    </IfModule>
 
     # BEGIN WordPress
     # END WordPress`</pre>

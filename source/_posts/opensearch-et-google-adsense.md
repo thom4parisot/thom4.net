@@ -1,12 +1,12 @@
 title: "OpenSearch et Google AdSense"
 id: 459
 date: 2007-02-23 13:00:42
-tags: 
+tags:
 - google
 - google adsense
 - opensearch
 - seo
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -40,58 +40,61 @@ A noter qu'en farfouillant dans le module de [Netvibes](http://www.netvibes.com)
 
 Le résultat final est là :
 
-    &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
-    &lt;OpenSearchDescription xmlns=&quot;http://a9.com/-/spec/opensearch/1.1/&quot; 
-    xmlns:moz=&quot;http://www.mozilla.org/2006/browser/search/&quot;&gt;
-    	&lt;ShortName&gt;Emu Nova&lt;/ShortName&gt;
-    	&lt;Description&gt;&lt;![CDATA[Jeux vid&amp;eacute;o, &amp;eacute;mulation et retrogaming.]]&gt;&lt;/Description&gt;
+```xml
+<?xml version=&quot;1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Emu Nova</ShortName>
+  <Description><![CDATA[Jeux vid&amp;eacute;o, &amp;eacute;mulation et retrogaming.]]></Description>
 
-    	&lt;Url type=&quot;text/html&quot; method=&quot;GET&quot; template=&quot;http://www.google.com/?q={searchTerms}&quot; /&gt;
-    	&lt;InputEncoding&gt;ISO-8859-1&lt;/InputEncoding&gt;
+  <Url type="text/html" method="GET" template="http://www.google.com/?q={searchTerms}" />
+  <InputEncoding>ISO-8859-1</InputEncoding>
 
-    	&lt;Image width=&quot;16&quot; height=&quot;16&quot;&gt;http://www.emunova.net/favicon.ico&lt;/Image&gt;
-    	&lt;Tags&gt;emulation retrogaming video games nintendo sony microsoft sega arcade consoles computers&lt;/Tags&gt;
-    	&lt;SyndicationRight&gt;open&lt;/SyndicationRight&gt;
-    	&lt;Language&gt;fr-fr&lt;/Language&gt;
+  <Image width="16" height="16">http://www.emunova.net/favicon.ico</Image>
+  <Tags>emulation retrogaming video games nintendo sony microsoft sega arcade consoles computers</Tags>
+  <SyndicationRight>open</SyndicationRight>
+  <Language>fr-fr</Language>
 
-    	&lt;UpdateUrl&gt;http://www.emunova.net/go/opensearch.xml&lt;/UpdateUrl&gt;
-    	&lt;IconUpdateUrl&gt;http://www.emunova.net/favicon.ico&lt;/IconUpdateUrl&gt;
-    	&lt;UpdateInterval&gt;3&lt;/UpdateInterval&gt;
-    &lt;/OpenSearchDescription&gt;
-    `</pre>
+  <UpdateUrl>http://www.emunova.net/go/opensearch.xml</UpdateUrl>
+  <IconUpdateUrl>http://www.emunova.net/favicon.ico</IconUpdateUrl>
+  <UpdateInterval>3</UpdateInterval>
+</OpenSearchDescription>
+```
 
-    J'ai pris le soin d'aérer la présentation pour mieux situer les parties distinctes. Je n'aborderai pas la question du Doctype. Je fais appel à 2 déclarations différentes afin d'utiliser des balises spécifiques (celles liées à la mise à jour automatique en l'occurrence).
+J'ai pris le soin d'aérer la présentation pour mieux situer les parties distinctes. Je n'aborderai pas la question du Doctype. Je fais appel à 2 déclarations différentes afin d'utiliser des balises spécifiques (celles liées à la mise à jour automatique en l'occurrence).
 
-    #### Informations de base
+#### Informations de base
 
 1.  **ShortName** : nom du moteur qui figurera dans les navigateurs (souvent équivalent au nom du site)
 2.  **Description** : description du service fourni par le moteur (actualité, fiches etc.)
 
-    #### Moteur de recherche
+#### Moteur de recherche
 
 1.  **Url** : URL du moteur appelé. Le texte <kbd>{searchTerms}</kbd> est remplacé dans l'URL par les mots saisis dans la boite de recherche
 2.  **InputEncoding** : encodage utilisé par le moteur de recherche _en entrée_
 
-    #### Informations complémentaires
+#### Informations complémentaires
 
 1.  **Image** : icône à afficher. Il y a également possibilité de la fournir directement en base64 pour éviter de faire appel à un fichier d'image supplémentaire ([encoder une image en base64](http://software.hixie.ch/utilities/cgi/data/data))
 2.  **Tags** : quelques mots-clés pour qualifier le moteur
 3.  **SyndicationRight** : accorde ou pas la possibilité de syndiquer les résultats dans un aggrégateur
 4.  **Language** : langue employée par le moteur (norme _ISO-chaipasquoi_)
 
-    #### Mise à jour automatique
+#### Mise à jour automatique
 
 1.  **UpdateUrl** : fichier servant de comparaison (en général le même)
 2.  **IconUpdate** : icône à afficher lorsqu'une mise à jour est présente
 3.  **UpdateInterval** : intervalle de temps entre chaque vérification de mise à jour
 
-    A noter que je n'ai **vraiment pas** abordé toutes les options existantes ni même évoqué la possibilité de suggestion de résultats. Le but était de _créer rapidement et simplement un module_ adapté à la plupart des besoins. Le reste est dans la doc.
+A noter que je n'ai **vraiment pas** abordé toutes les options existantes ni même évoqué la possibilité de suggestion de résultats. Le but était de _créer rapidement et simplement un module_ adapté à la plupart des besoins. Le reste est dans la doc.
 
-    ### Intégrer son module OpenSearch à un site Web
+### Intégrer son module OpenSearch à un site Web
 
-    Créer un fichier de recherche c'est bien beau mais reste ensuite à l'intégrer sur son site. Le plus simple reste la promotion par le biais du mécanisme de détection automatique. Une simple balise d'entête (se situant entre `&lt;head&gt;` et `&lt;head&gt;`) fait l'affaire. La seule difficulté consiste à renseigner le bon chemin d'accès ... dur, dur.
+Créer un fichier de recherche c'est bien beau mais reste ensuite à l'intégrer sur son site. Le plus simple reste la promotion par le biais du mécanisme de détection automatique. Une simple balise d'entête (se situant entre `<head>` et `<head>`) fait l'affaire. La seule difficulté consiste à renseigner le bon chemin d'accès ... dur, dur.
 
-    <pre>`&lt;link title=&quot;Emu Nova&quot; type=&quot;application/opensearchdescription+xml&quot; rel=&quot;search&quot; href=&quot;mon_fichier_opensearch.xml&quot;&gt;
+```html
+<link title="Emu Nova" type="application/opensearchdescription+xml" rel="search" href="mon_fichier_opensearch.xml">
+```
 
 ### Intégrer Google AdSense pour la recherche à un module OpenSearch
 

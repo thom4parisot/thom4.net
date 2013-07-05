@@ -1,7 +1,7 @@
 title: "Gérer son blog au quotidien, chapitre gratuit"
 id: 1473
 date: 2009-11-17 08:00:56
-tags: 
+tags:
 - eyrolles
 - gestion
 - gratuit
@@ -15,7 +15,7 @@ tags:
 - presse
 - ps2pdf
 - psselect
-categories: 
+categories:
 - Projets
 ---
 
@@ -67,7 +67,9 @@ Vous ne souhaitez en citer qu'une partie ? On retombe sur le droit d'auteur donc
 
 Pour les besoins de ce partage, j'ai eu à extraire certaines pages du PDF du livre − celui correspondant à la version papier de «Réussir son blog professionel». 3 programmes sont certes nécessaires mais ça s'effectue en 2 coups de cuillère à pot :
 
-    pdftops reussir-son-blog-pro.pdf - | psselect -p128-183 | ps2pdf - reussir-son-blog-pro-chap5.pdf
+```bash
+pdftops reussir-son-blog-pro.pdf - | psselect -p128-183 | ps2pdf - reussir-son-blog-pro-chap5.pdf
+```
 
 Cet enchaînement permet dans l'ordre de :
 

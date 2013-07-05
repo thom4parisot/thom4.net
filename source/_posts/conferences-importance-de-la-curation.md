@@ -1,14 +1,14 @@
 title: "Conférences Web : signification et importance de la curation"
 id: 18564
 date: 2012-12-06 15:00:07
-tags: 
+tags:
 - analyse
 - conférence
 - curation
 - dotjs
 - Javascript
 - qualité
-categories: 
+categories:
 - Évènements
 - JavaScript
 ---
@@ -73,7 +73,7 @@ Cette liste n’est pas exhaustive. Mais ce sont **différents niveaux de lectur
 Alors clairement, il me parait important qu’une personne partage ce que JavaScript _a changé_ pour elle. Parce qu’elle ne savait pas ce qu’était l’Open Source impliquant des centaines de _Pull Request_, des nuits entières de travail et la gestion des susceptibilités de chacun.
 Il me paraît plus important qu’une personne explique en quoi _être le boss_ ne sert à rien dans des structures demandant à fonctionner davantage dans le respect mutuel des individus et de la philsophie projet que dans le respect d’un organigramme _corporate_.
 
-Ces personnes auraient pu nous mettre des claques à coup de _NodeJS_, de _Bootstrap_ ou de `&lt;script&gt;bullshitBingo.generate()&lt;/script&gt;` mais **elles ont décidé de nous offrir un regard** sur les coulisses de ce que l’on admire. Elles auraient pu, oui.
+Ces personnes auraient pu nous mettre des claques à coup de _NodeJS_, de _Bootstrap_ ou de `<script>bullshitBingo.generate()</script>` mais **elles ont décidé de nous offrir un regard** sur les coulisses de ce que l’on admire. Elles auraient pu, oui.
 
 Mais ces personnes ont décidé qu’une approche différente pouvait être bénéfique pour une majorité d’entre nous (pas pour tous, ça ne sera jamais possible à moins d’imposer la lobotomie à l’entrée des conférences).
 

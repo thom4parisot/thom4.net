@@ -1,11 +1,11 @@
 title: "Migration vers Wordpress 2.3 réussie"
 id: 776
 date: 2007-09-28 13:00:28
-tags: 
+tags:
 - logiciels libres
 - seo title tag
 - simpletagging
-categories: 
+categories:
 - Développement Web
 - WordPress
 ---
@@ -22,9 +22,9 @@ Pourquoi ? Parce que si la mise à jour ne se fait pas, on peut revenir en arri�
 
 Le plus souple pour sauvegarder/restaurer est de passer par des instructions en ligne de commande. **phpMyAdmin** c'est bien mais bien souvent limité à des restaurations de 2Mo (sauf les dernières versions qui se débrouillent pour reprendre au dernier point d'arrêt) :
 
-    mysqldump -h _votre hôte MySQL_ -u _utilisateur_ -p _votre base de données_ &gt; _sauvegarde.sql_`</pre>
+    mysqldump -h _votre hôte MySQL_ -u _utilisateur_ -p _votre base de données_ > _sauvegarde.sql_`</pre>
     La restauration se fait en un clin d'œil par cette autre commande :
-    <pre>`<ins>mysql</ins> -h _votre hôte MySQL_ -u _utilisateur_ -p _votre base de données_ <ins>&lt;</ins> _sauvegarde.sql_`</pre>
+    <pre>`<ins>mysql</ins> -h _votre hôte MySQL_ -u _utilisateur_ -p _votre base de données_ <ins><</ins> _sauvegarde.sql_`</pre>
     La sauvegarde de vos fichiers peut également se faire rapidement en vous plaçant à la racine du répertoire Wordpress (vous devez voir le répertoire `wp-admin` sous vos yeux) :
     <pre>`tar -czf _sauvegarde.tar.gz_ *`</pre>
     **Remarque** : mieux vaut ne supprimer ces sauvegardes que lorsqu'on est sûr que tout fonctionne après la mise à jour. De même, il faut faire attention à ce que ces **sauvegardes ne soient pas accessibles au public** sinon un simple téléchargement dévoile le mot de passe de la base de données. Prudence donc.

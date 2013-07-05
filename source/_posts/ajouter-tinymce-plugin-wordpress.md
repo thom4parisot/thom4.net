@@ -1,7 +1,7 @@
 title: "Ajouter TinyMCE dans un plugin WordPress"
 id: 1297
 date: 2009-02-03 07:00:39
-tags: 
+tags:
 - api
 - code
 - firebug
@@ -9,7 +9,7 @@ tags:
 - logiciels libres
 - plugin
 - tinymce
-categories: 
+categories:
 - Développement Web
 - WordPress
 ---
@@ -34,19 +34,21 @@ Après avoir trouvé ma solution, je suis cependant tombé sur un [article expli
 
 ### La solution
 
-    &lt;?php
-    add_action('admin_menu', 'include_tinymce');
+```php
+<?php
+add_action('admin_menu', 'include_tinymce');
 
-    function include_tinycme()
-    {
-      add_action('admin_head', 'wp_tiny_mce');
-      wp_enqueue_script('jquery-ui-core');
-      wp_enqueue_script('jquery-ui-tabs');
-      wp_enqueue_script('editor');
-      wp_enqueue_script('media-upload');
-      add_thickbox();
-    }`</pre>
-    Plusieurs remarques par rapport à ce code :
+function include_tinycme()
+{
+  add_action('admin_head', 'wp_tiny_mce');
+  wp_enqueue_script('jquery-ui-core');
+  wp_enqueue_script('jquery-ui-tabs');
+  wp_enqueue_script('editor');
+  wp_enqueue_script('media-upload');
+  add_thickbox();
+}
+```
+Plusieurs remarques par rapport à ce code :
 
 *   **Le choix de l'action**
     Le mien s'est porté sur _admin_menu_. Vous pourriez en choisir une autre, du moment qu'elle s'exécute _avant_ admin_head. J'ai choisi celle-là parce que c'est là que j'y construis les menus de l'administration : WordPress est initialisé et n'a pas encore été affiché.
@@ -57,42 +59,48 @@ Après avoir trouvé ma solution, je suis cependant tombé sur un [article expli
     Pour afficher l'éditeur, il suffira d'appeler la fonction `the_editor()` en lieu et place de son `textarea`. Vous noterez toutefois que vous serez obligé(e)s de nommer l'éditeur _content_ sous peine de devoir ajouter quelques filtres supplémentaires.
     Après à vous de vous débrouiller avec l'architecture de votre plugin. Personnellement j'ai tout basculé dans des classes depuis un bon moment pour éviter tout conflit de nom.
 
-    ### La solution optimisée
+### La solution optimisée
 
-    Cependant ne crions pas victoire si vite : avec ce qu'on a fait, nous avons juste réussi à inclure TinyMCE sur _toutes_ les pages de l'admin WordPress. Ce n'est pas ce que je recommanderai pour deux raisons :
+Cependant ne crions pas victoire si vite : avec ce qu'on a fait, nous avons juste réussi à inclure TinyMCE sur _toutes_ les pages de l'admin WordPress. Ce n'est pas ce que je recommanderai pour deux raisons :
 
 1.  le respect des performances utilisateurs : charger 150Ko de JavaScript pour rien sur une page sans TinyMCE, c'est du gâchis
 2.  on ne fait pas une généralité pour une exception
-    Heureusement pour nous WordPress est _bien fichu_ car il nous fournit 2 variables globales (*hm*) d'exception :
+
+Heureusement pour nous WordPress est _bien fichu_ car il nous fournit 2 variables globales (*hm*) d'exception :
 
 *   **$plugin_page**
     Cette variable contient le nom de la page renseignée par les méthodes `add_management_page()` et `add_options_page()`. On aurait pu passer directement par [admin_print_script*](http://codex.wordpress.org/Plugin_API/Action_Reference) mais il faisait flemme d'ajouter une fonction de plus.
     Exemple :
-    <pre>`&lt;?php
-    add_management_page('Titre', 'Label', 8, 'test_management_page', 'mon_callback');
-    //$plugin_page vaudra 'test_management_page'`</pre>
+```php
+<?php
+add_management_page('Titre', 'Label', 8, 'test_management_page', 'mon_callback');
+//$plugin_page vaudra 'test_management_page'
+```
 *   **$pagenow**
     Cette variable contient le nom du fichier actuellement exécuté.
     Si vous vous trouvez sur <kbd>wp-admin/tools.php?page=test_management_page</kbd>, `$pagenow` vaudra `tools.php`
     Avec ces deux variables, on est capable de charger ce qu'on veut, où on veut et quand on veut.
 
-    Au final, ça nous donnerait ceci :
-    <pre>`&lt;?php
-    add_action('admin_menu', 'include_tinymce');
+Au final, ça nous donnerait ceci :
 
-    function include_tinycme()
-    {
-      global $plugin_page;
-      if ($plugin_page === 'test_management_page')
-      {``
-        add_action('admin_head', 'wp_tiny_mce');
-        wp_enqueue_script('jquery-ui-core');
-        wp_enqueue_script('jquery-ui-tabs');
-        wp_enqueue_script('editor');
-        wp_enqueue_script('media-upload');
-        add_thickbox();`
-    `  }
-    }
+```php
+<?php
+add_action('admin_menu', 'include_tinymce');
+
+function include_tinycme()
+{
+  global $plugin_page;
+  if ($plugin_page === 'test_management_page')
+  {
+    add_action('admin_head', 'wp_tiny_mce');
+    wp_enqueue_script('jquery-ui-core');
+    wp_enqueue_script('jquery-ui-tabs');
+    wp_enqueue_script('editor');
+    wp_enqueue_script('media-upload');
+    add_thickbox();`
+  }
+}
+```
 
 Là on a bien terminé le travail.
 

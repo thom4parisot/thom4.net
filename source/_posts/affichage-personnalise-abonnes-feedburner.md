@@ -1,18 +1,18 @@
 title: "Affichage personnalisé de ses abonnés Feedburner"
 id: 1359
 date: 2009-05-14 07:00:23
-tags: 
+tags:
 - api
 - awareness
 - feedburner
 - wp-cron
 - xml
-categories: 
+categories:
 - Développement Web
 - WordPress
 ---
 
-![Compteur d](https://oncletom.io/images/2009/05/compteur-abonnes-feedburner-texte-138x76.png "Compteur d")
+![Compteur d'abonnés](https://oncletom.io/images/2009/05/compteur-abonnes-feedburner-texte-138x76.png "Compteur d'abonnés")
 
 Qu'on se le dise : le compteur de lecteurs Feedburner par défaut est sympa mais **s'intègre mal dans n'importe quel design de site Web**. [Lors de la refonte du thème graphique de ce blog](https://oncletom.io/2009/04/15/menage-printemps/), j'ai eu envie de remettre mon compteur d'abonnés Feedburner mais sous forme de texte. Même si le chiffre indiqué peut se révéler inexact, j'estime que c'est un **indicateur intéressant** sur la consultation d'un flux. Je suis également convaincu qu'à partir d'un certain nombre de lecteurs, ça facilite la conversion : si le nombre est élevé, c'est que le site est bien  ... donc je m'abonne.
 
@@ -44,80 +44,90 @@ Dans un premier temps, on va **récupérer le nombre de lecteurs pour son flux**
 
 Le principe est simple : on appelle une URI avec son identifiant de flux Feedburner (exemple dans mon cas : http://feeds.feedburner.com/LaCaseDeLoncTom). On lui spécifie 2 dates : la veille et l'avant-veille. Pourquoi ? Car les données de la veille ne sont pas toujours existantes : les compteurs sont actualisés à 11h heure française. L'idée est de pouvoir se mettre un nombre de lecteurs sous la dent.
 
-    define('FEEDBURNER_URI', 'LaCaseDeLoncTom');
-    function oncletom_update_feed_readers()
+```php
+define('FEEDBURNER_URI', 'LaCaseDeLoncTom');
+function oncletom_update_feed_readers()
+{
+  $uri = sprintf('https://feedburner.google.com/api/awareness/1.0/GetFeedData?uri=%s&amp;dates=%s,%s',
+    FEEDBURNER_URI,
+    date('Y-m-d', strtotime('-2 day')),
+    date('Y-m-d', strtotime('-1 day'))
+  );
+
+  $http = new WP_Http();
+  $readers = (int)get_option('feed_readers');
+  $response = $http->get($uri);
+  $xml = new SimpleXMLElement(WP_Http::chunkTransferDecode($response['body']));
+  $feed = (array)$xml->feed;
+
+  foreach (array_reverse($feed['entry']) as $entry)
+  {
+    if ((int)$entry['circulation'])
     {
-      $uri = sprintf('https://feedburner.google.com/api/awareness/1.0/GetFeedData?uri=%s&amp;dates=%s,%s',
-        FEEDBURNER_URI,
-        date('Y-m-d', strtotime('-2 day')),
-        date('Y-m-d', strtotime('-1 day'))
-      );
+      $readers = (int)$entry['circulation'];
+      update_option('feed_readers', $readers);
+      break;
+    }
+  }
 
-      $http = new WP_Http();
-      $readers = (int)get_option('feed_readers');
-      $response = $http-&gt;get($uri);
-      $xml = new SimpleXMLElement(WP_Http::chunkTransferDecode($response['body']));
-      $feed = (array)$xml-&gt;feed;
+  return $readers;
+}
+```
 
-      foreach (array_reverse($feed['entry']) as $entry)
-      {
-        if ((int)$entry['circulation'])
-        {
-          $readers = (int)$entry['circulation'];
-          update_option('feed_readers', $readers);
-          break;
-        }
-      }
-
-      return $readers;
-    }`</pre>
-    Quelques remarques :
+Quelques remarques :
 
 *   j'ai utilisé la classe  `WP_http` qui fournit une abstraction d'appel à des ressources distantes. C'est le plus propre pour fonctionner sur la majorité des installations ;
 *   j'inverse le tableau des résultats car ils sont triés par ordre chronologique _croissant_ par défaut  ; nous voulons l'information la plus fraîche d'abord ;
 *   on aurait pu utiliser un paramètre de fonction pour fournir l'URI du flux _mais_ dans l'étape d'après, il se trouve qu'on ne pourra lui en passer ... dommage ;
 *   on aurait également pu remplacer la constante par un appel à un `get_option()` et pourquoi pas, récupérer l'ID depuis un réglage du plugin Feedburner FeedSmith.
 
-    ### Programmation d'une tâche planifiée avec WP-Cron
+### Programmation d'une tâche planifiée avec WP-Cron
 
-    On en arrive à la partie sympa : programmer cette récupération du nombre d'abonnés pour qu'on n'ait pas de travail manuel à faire. L'idéal est de placer ceci dans un plugin. Personnellement je l'ai inséré dans le _hook_ `switch_theme()` de mon thème pour économiser un fichier/plugin.
-    <pre>`//dans un fichier wp-content/plugins/oncletom-awareness-cron.php
-    /*
-    Plugin Name: Simple Feedburner Awareness
-    Description: Asynchroneous feed readers collector scheduled twice a day.
-    Author: Oncle Tom
-    Version: 1.0
-    Author URI: https://oncletom.io/
-    Plugin URI: 
+On en arrive à la partie sympa : programmer cette récupération du nombre d'abonnés pour qu'on n'ait pas de travail manuel à faire. L'idéal est de placer ceci dans un plugin. Personnellement je l'ai inséré dans le _hook_ `switch_theme()` de mon thème pour économiser un fichier/plugin.
 
-      This plugin is released under version 3 of the GPL:
-      http://www.opensource.org/licenses/gpl-3.0.html
-    */
+```php
+//dans un fichier wp-content/plugins/oncletom-awareness-cron.php
+/*
+Plugin Name: Simple Feedburner Awareness
+Description: Asynchroneous feed readers collector scheduled twice a day.
+Author: Oncle Tom
+Version: 1.0
+Author URI: https://oncletom.io/
+Plugin URI:
 
-    register_activation_hook(__FILE__, 'oncletom_awareness_cron_activate');
-    register_deactivation_hook(__FILE__, 'oncletom_awareness_cron_deactivate');
-    add_action('oncletom_cron_twicedaily_hook', 'oncletom_update_feed_readers');
+  This plugin is released under version 3 of the GPL:
+  http://www.opensource.org/licenses/gpl-3.0.html
+*/
 
-    function oncletom_awareness_cron_activate()
-    {
-      add_option('feed_readers', 0, '', 'yes');
-      wp_schedule_event(time(), 'twicedaily', 'oncletom_cron_twicedaily_hook');
-    }
+register_activation_hook(__FILE__, 'oncletom_awareness_cron_activate');
+register_deactivation_hook(__FILE__, 'oncletom_awareness_cron_deactivate');
+add_action('oncletom_cron_twicedaily_hook', 'oncletom_update_feed_readers');
 
-    function oncletom_awareness_cron_deactivate()
-    {
-      delete_option('feed_readers');
-      wp_clear_scheduled_hook('oncletom_cron_twicedaily_hook');
-    }`</pre>
-    Vous vous souvenez encore de notre fonction `oncletom_update_feed_readers()` ? Et bien on pourrait la rajouter dans ce plugin pour tout avoir au même endroit. L'organisation de votre code vous appartient ;-)
+function oncletom_awareness_cron_activate()
+{
+  add_option('feed_readers', 0, '', 'yes');
+  wp_schedule_event(time(), 'twicedaily', 'oncletom_cron_twicedaily_hook');
+}
 
-    Quoiqu'il en soit, une fois le plugin activé, **tout est prê**t : il ne reste qu'à intégrer le compteur d'abonnés dans le thème. C'est notre prochaine étape.
-    Juste une remarque : la fonction `wp_schedule_event()` prend comme dernier argument un nom de _hook_ et non un nom de fonction.
+function oncletom_awareness_cron_deactivate()
+{
+  delete_option('feed_readers');
+  wp_clear_scheduled_hook('oncletom_cron_twicedaily_hook');
+}
+```
 
-    ### Intégration dans le thème
+Vous vous souvenez encore de notre fonction `oncletom_update_feed_readers()` ? Et bien on pourrait la rajouter dans ce plugin pour tout avoir au même endroit. L'organisation de votre code vous appartient ;-)
 
-    C'est la partie la plus simple et pour cause, un simple appel à `get_option('feed_readers')` nous retourne le nombre d'abonnés. On ne pouvait pas faire plus rapide ;-)
-    <pre>`&lt;p&gt;J'ai &lt;?php echo get_option('feed_readers') ?&gt; abonnés&lt;/p&gt;
+Quoiqu'il en soit, une fois le plugin activé, **tout est prê**t : il ne reste qu'à intégrer le compteur d'abonnés dans le thème. C'est notre prochaine étape.
+Juste une remarque : la fonction `wp_schedule_event()` prend comme dernier argument un nom de _hook_ et non un nom de fonction.
+
+### Intégration dans le thème
+
+C'est la partie la plus simple et pour cause, un simple appel à `get_option('feed_readers')` nous retourne le nombre d'abonnés. On ne pouvait pas faire plus rapide ;-)
+
+```html
+<p>J'ai <?php echo get_option('feed_readers') ?> abonnés</p>
+```
 
 ### Conclusion
 

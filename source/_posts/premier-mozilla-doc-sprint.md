@@ -1,11 +1,11 @@
 title: "Premier Mozilla Doc Sprint"
 id: 18921
 date: 2013-02-12 11:00:21
-tags: 
+tags:
 - doc sprint
 - html5
 - mozilla
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -21,7 +21,7 @@ Je me suis laissé embarquer dans un [Mozilla Doc Sprint](https://wiki.mozilla.o
 
 Je ne sais pas encore si c'est lié à notre époque (consommer est plus facile que créer — _crafter_) ou à notre espèce (j'imagine le mec qui a inventé la roue — et le premier _homo sapiens_ qui aurait marketé cette révolution au sein de l'espèce, le premier à vouloir transmettre le savoir et le premier à vouloir améliorer collectivement cet outil — j'ai l'impression que c'est ça qu'on est en train de faire en modifiant une page de wiki sur MDN).
 
-Pour l'instant dire "on fait un apéro et on parle de &lt;insérer ici un nom de langage de programmation&gt;" réunit plus de monde que "on documente &lt;insérer ici un langage de programmation&gt;". Peut-être est-ce le même fossé entre "développer" et "écrire des tests et développer". Le gain se situe _après_. Après avoir _fait l'effort de_. Y'a des ponts à construire, et de la communication à trouver et effectuer pour inciter les gens à passer d'une rive à l'autre.
+Pour l'instant dire "on fait un apéro et on parle de <insérer ici un nom de langage de programmation>" réunit plus de monde que "on documente <insérer ici un langage de programmation>". Peut-être est-ce le même fossé entre "développer" et "écrire des tests et développer". Le gain se situe _après_. Après avoir _fait l'effort de_. Y'a des ponts à construire, et de la communication à trouver et effectuer pour inciter les gens à passer d'une rive à l'autre.
 
 Bref, revenons à nos moutons.
 
@@ -53,7 +53,7 @@ Par ricochet, je commence à chercher l'origine de la [compatibilité avec `href
 
 [L'histoire remonte à … 2001](https://bugzilla.mozilla.org/show_bug.cgi?id=93077), pour une sombre histoire de compatibilité avec … Internet Explorer **4**. Bug réouvert en 2011 après avoir été rencontré dans Firefox Mobile. Époque à laquelle le "Remonter en haut de page" revient à la mode puisque pratique sur mobile.
 
-Puis de constater que ce comportement a été [standardisé dans HTML5](http://www.whatwg.org/specs/web-apps/current-work/multipage/history.html#scroll-to-fragid) (voir le point 6). Ça me fait penser à l'[histoire de &lt;main&gt;](http://www.whatwg.org/specs/web-apps/current-work/multipage/grouping-content.html#the-main-element), implémenté après une observation des usages (et peut-être à cause de la [faible popularité d'ARIA](http://www.sitepoint.com/whos-using-aria/) ?).
+Puis de constater que ce comportement a été [standardisé dans HTML5](http://www.whatwg.org/specs/web-apps/current-work/multipage/history.html#scroll-to-fragid) (voir le point 6). Ça me fait penser à l'[histoire de <main>](http://www.whatwg.org/specs/web-apps/current-work/multipage/grouping-content.html#the-main-element), implémenté après une observation des usages (et peut-être à cause de la [faible popularité d'ARIA](http://www.sitepoint.com/whos-using-aria/) ?).
 
 Une bonne heure de passée juste pour naviguer, lire et rajouter … un lien hypertexte dans [MDN](https://developer.mozilla.org/).
 

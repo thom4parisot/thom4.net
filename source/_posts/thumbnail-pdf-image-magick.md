@@ -1,14 +1,14 @@
 title: "Créer une vignette d'un PDF avec Image Magick"
 id: 1374
 date: 2009-06-03 07:00:24
-tags: 
+tags:
 - image
 - image magick
 - imagick
 - logiciels libres
 - pdf
 - php
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -26,32 +26,46 @@ Vous me direz : oui mais Image Magick c'est fait pour manipuler des images. Cert
 
 Partons d'un cas simple : votre PDF ne contient qu'une page. Le code est d'une grande simplicité :
 
-    &lt;?php
-    $im = new Imagick('/chemin/vers/pdf-mono-page.pdf');
-    $im-&gt;writeImage('/chemin/vers/couverture.png');`</pre>
-    2 lignes ont suffit à créer notre prévisualisation. Cette manipulation enregistre une image au format PNG sans aucune compression. Nous pourrions l'activer et régler le taux de compression avec 2 lignes supplémentaires :
-    <pre>`$im-&gt;setCompression(Imagick::COMPRESSION_LZW);
-    $im-&gt;setCompressionQuality(90);`</pre>
-    LZW est un algorithme de compression sans perte utilisé entre autre par PNG et GIF. On aurait pu choisir du JPEG sans perte ou une autre [constante de compression d'Image Magick](http://fr.php.net/manual/en/imagick.constants.php).
+```php
+<?php
+$im = new Imagick('/chemin/vers/pdf-mono-page.pdf');
+$im->writeImage('/chemin/vers/couverture.png');
+```
 
-    ### Convertir un PDF multi-pages
+2 lignes ont suffit à créer notre prévisualisation. Cette manipulation enregistre une image au format PNG sans aucune compression. Nous pourrions l'activer et régler le taux de compression avec 2 lignes supplémentaires :
 
-    Que se passerait-il si notre code précédent était utilisé sur un PDF contenant plus d'une page ? Et bien seule la dernière page du document serait enregistrée. En fait, toutes les pages seraient enregistrées jusqu'à la dernière (pas terrible côté performances donc).
-    L'API d'Image Magick nous permet toutefois de connaître le nombre d'images impliquées et d'en définir l'index. Depuis PHP5, Imagick fournit des méthodes propres aux interfaces Iterator et Traversable.
+```php
+$im->setCompression(Imagick::COMPRESSION_LZW);
+$im->setCompressionQuality(90);
+```
 
-    Notre code bouge ... mais pas tant que ça. Disons que nous souhaitons prévisualiser la 6ème page du document (donc l'index 5) :
-    <pre>`$im = new Imagick('/chemin/vers/pdf-multi-pages.pdf');
-    $im-&gt;setIteratorIndex(5);
-    $im-&gt;setCompression(Imagick::COMPRESSION_LZW);
-    $im-&gt;setCompressionQuality(90);
-    $im-&gt;writeImage('/chemin/vers/couverture.png');`</pre>
-    Une petite ligne de plus fait l'affaire. Pour compter le nombre d'images contenues dans le document ouvert, un appel à la méthode getNumberImages fera l'affaire.
+LZW est un algorithme de compression sans perte utilisé entre autre par PNG et GIF. On aurait pu choisir du JPEG sans perte ou une autre [constante de compression d'Image Magick](http://fr.php.net/manual/en/imagick.constants.php).
 
-    ### Convertir directement avec Image Magick : convert
+### Convertir un PDF multi-pages
 
-    Pour les amateurs du shell ou les détracteurs de PHP, on peut arriver aux mêmes résultats en 1 ligne de commande. L'outil de conversion est fourni par [convert](http://www.imagemagick.org/script/convert.php). Sa documentation et ses options sont particulièrement riches. On peut tout faire ... ou presque !
-    <pre>`convert /chemin/vers/pdf-mono-page.pdf /chemin/vers/couverture.png
-    convert /chemin/vers/pdf-multi-pages.pdf[5] /chemin/vers/couverture.png
+Que se passerait-il si notre code précédent était utilisé sur un PDF contenant plus d'une page ? Et bien seule la dernière page du document serait enregistrée. En fait, toutes les pages seraient enregistrées jusqu'à la dernière (pas terrible côté performances donc).
+L'API d'Image Magick nous permet toutefois de connaître le nombre d'images impliquées et d'en définir l'index. Depuis PHP5, Imagick fournit des méthodes propres aux interfaces Iterator et Traversable.
+
+Notre code bouge ... mais pas tant que ça. Disons que nous souhaitons prévisualiser la 6ème page du document (donc l'index 5) :
+
+```php
+$im = new Imagick('/chemin/vers/pdf-multi-pages.pdf');
+$im->setIteratorIndex(5);
+$im->setCompression(Imagick::COMPRESSION_LZW);
+$im->setCompressionQuality(90);
+$im->writeImage('/chemin/vers/couverture.png');
+```
+
+Une petite ligne de plus fait l'affaire. Pour compter le nombre d'images contenues dans le document ouvert, un appel à la méthode getNumberImages fera l'affaire.
+
+### Convertir directement avec Image Magick : convert
+
+Pour les amateurs du shell ou les détracteurs de PHP, on peut arriver aux mêmes résultats en 1 ligne de commande. L'outil de conversion est fourni par [convert](http://www.imagemagick.org/script/convert.php). Sa documentation et ses options sont particulièrement riches. On peut tout faire ... ou presque !
+
+```bash
+convert /chemin/vers/pdf-mono-page.pdf /chemin/vers/couverture.png
+convert /chemin/vers/pdf-multi-pages.pdf[5] /chemin/vers/couverture.png
+```
 
 La seule différence réside dans les crochets suivant le nom du fichier d'entrée. Vous avez bien sûr deviné qu'il s'agit de l'index du document PDF que l'on convertit. Si on ne précise rien, **convert** convertira toutes les pages du document mais cette fois, en les exportant dans des fichiers uniques (pas de réécriture qui tienne).
 

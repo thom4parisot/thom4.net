@@ -1,7 +1,7 @@
 title: "Widget Jaiku pour Netvibes : présentation et bilan du développement"
 id: 1070
 date: 2008-08-20 07:00:37
-tags: 
+tags:
 - css
 - dashboard
 - iphone
@@ -14,7 +14,7 @@ tags:
 - proxy
 - widget
 - xhtml
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -117,7 +117,7 @@ J'ai donc adapté le [proxy du Yahoo! Developer Network](http://developer.yahoo.
 *   **transmission des données POST** ; c'est ce qu'il manquait le plus à la version fournie par Netvibes
 *   **compatible texte/JSON/XML** ; le proxy renvoie les bonnes entêtes en fonction de la demande
 
-    &lt;?php
+    <?php
     define('CACHE_TTL', is_int($_GET['cache']) ? $_GET['cache'] : 3600);
     define('CACHE_FOLDER', dirname(__FILE__).'/cache');
     //
@@ -143,7 +143,7 @@ J'ai donc adapté le [proxy du Yahoo! Developer Network](http://developer.yahoo.
     /*
      * Read cache
      */
-    if (file_exists($md5file) &amp;&amp; filemtime($md5file)+CACHE_TTL &gt; time())
+    if (file_exists($md5file) &amp;&amp; filemtime($md5file)+CACHE_TTL > time())
     {
       curl_close($session);
       send_headers_content_type($_GET['type']);
@@ -187,7 +187,7 @@ J'ai donc adapté le [proxy du Yahoo! Developer Network](http://developer.yahoo.
         break;
       }
     }
-    ?&gt;
+    ?>
 
 En revanche, je serais vous, **j'éviterais de m'en servir publiquement** car il n'y a aucune vérification de sécurité donc à moins que vous ayiez envie de servir de relais à spam, le mieux est de n'utiliser ce proxy que sur une instance locale ou bien de davantage le blinder.
 

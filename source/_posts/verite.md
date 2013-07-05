@@ -1,7 +1,7 @@
 title: "2013 sera Vérité"
 id: 18901
 date: 2013-01-02 11:25:36
-tags: 
+tags:
 - dijiwan
 - expérience
 - freelance
@@ -9,7 +9,7 @@ tags:
 - photo
 - stratégie
 - voeux
-categories: 
+categories:
 - Entrepreneuriat
 - Personnel
 - Photographie
@@ -20,6 +20,8 @@ L’année débute tout juste. La fatigue du réveillon n’éclipse pas l’env
 Il se sera passé beaucoup de choses en 2012\. Beaucoup de joie. Beaucoup d’énergie. Beaucoup de souffrance aussi, les dernières semaines.
 
 2013 sera vérité : la révolution extérieure, la consolidation et le collectif.
+
+<!--more-->
 
 ### La désillusion Dijiwan
 
@@ -107,7 +109,8 @@ Je ressens aussi le besoin de rompre l’isolement. [J’ai rejoins un collectif
 ### Conclusion
 
 En 2008, une carte de vœux me signifiait ceci :
-> Cher Thomas,> 
+> Cher Thomas,
+>
 > Je te souhaite une excellente année 2008\. Je crois que tu es lancé, et que tu iras loin.
 Ça y'est, c'est fait, je suis lancé et je ne me le cache plus à moi-même.
 

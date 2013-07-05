@@ -1,14 +1,14 @@
 title: "Gérer sa blogroll sur une page à part avec Wordpress et les modèles de page"
 id: 909
 date: 2008-05-13 07:00:03
-tags: 
+tags:
 - astuce
 - blog
 - blogroll
 - cms
 - logiciels libres
 - template
-categories: 
+categories:
 - Développement Web
 - WordPress
 ---
@@ -37,13 +37,13 @@ Les pages possèdent également un autre atout : **on peut leur appliquer un mod
 
 La notion des [templates de pages](http://codex.wordpress.org/Pages#Page_Templates) est bien expliquée dans le [Codex Wordpress](http://codex.wordpress.org). Petit rappel synthétique néanmoins.
 
-Un template de page correspond à un fichier créé dans le répertoire du thème de votre choix (celui que vous utilisez de préférence). Autrement dit ça correspond à un fichier comme ceci : `wp-content/themes/&lt;votre thème&gt;/&lt;votre template&gt;.php`.
+Un template de page correspond à un fichier créé dans le répertoire du thème de votre choix (celui que vous utilisez de préférence). Autrement dit ça correspond à un fichier comme ceci : `wp-content/themes/<votre thème>/<votre template>.php`.
 
 Ce fichier de template doit obligatoirement comporter une entête de description. Sans elle, pas de sélection possible depuis la page de rédaction. Cette entête doit correspondre à ceci :
 
-    &lt;?php
+    <?php
     /*
-    Template Name: &lt;Nom du template&gt;
+    Template Name: <Nom du template>
     */`</pre>
     La dernière étape avant son utilisation consiste à tapoter un peu de code PHP pour aboutir à votre souhait. N'hésitez pas à parcourir la [documentation de Wordpress](http://codex.wordpress.org) pour produire un code pérenne et utiliser au maximum les [fonctionnalités proposées par Wordpress](http://codex.wordpress.org/Function_Reference).
 
@@ -56,20 +56,20 @@ Ce fichier de template doit obligatoirement comporter une entête de description
 
     Pour remplir ce fichier, nous allons devoir accéder aux éléments contenus dans la blogroll. Ça tombe bien puisqu'il existe pour ça la fonction [wp_list_bookmarks()](http://codex.wordpress.org/wp_list_bookmarks).
     À ce stade, notre template devrait ressembler à ça :
-    <pre>`&lt;?php
+    <pre>`<?php
     /*
     Template Name: Liens
     */
 
-    get_header() ?&gt;
-    &lt;h2&gt;&lt;?php the_title() ?&gt;&lt;/h2&gt;
-    &lt;?php the_content() ?&gt;
+    get_header() ?>
+    <h2><?php the_title() ?></h2>
+    <?php the_content() ?>
 
-    &lt;ol id="page-blogroll"&gt;
-      &lt;?php **wp_list_bookmarks()** ?&gt;
-    &lt;/ol&gt;
-    &lt;?php get_sidebar() ?&gt;
-    &lt;?php get_footer() ?&gt;
+    <ol id="page-blogroll">
+      <?php **wp_list_bookmarks()** ?>
+    </ol>
+    <?php get_sidebar() ?>
+    <?php get_footer() ?>
 
 Une fois enregistré, le modèle apparaît dans le sélecteur de modèle (uniquement sur les contenus de type _Page_) :
 

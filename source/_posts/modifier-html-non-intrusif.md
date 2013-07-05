@@ -1,14 +1,14 @@
 title: "Modifier du HTML à la volée de manière non intrusive"
 id: 769
 date: 2007-09-10 13:00:55
-tags: 
+tags:
 - bonnes pratiques
 - css
 - dom
 - html
 - jquery
 - xpath
-categories: 
+categories:
 - Accessibilité
 - Développement Web
 - Standards du Web
@@ -38,34 +38,34 @@ Nous allons donc nous retrouver avec trois grosses parties dans le code :
 *   un **bloc conteneur neutre** destiné à recevoir les textes d'enrichissement de manière visuelle
 Des mots au code, voici ce que donnerait la structure balisée :
 
-    &lt;body&gt;
-    &lt;!-- (...) --&gt;
+    <body>
+    <!-- (...) -->
 
-    	&lt;div id="conteneur_cible"&gt;&lt;/div&gt;
+    	<div id="conteneur_cible"></div>
 
-    	&lt;!-- (...) --&gt;
+    	<!-- (...) -->
 
-    	&lt;ul id="liens_etendus"&gt;
-    		&lt;li&gt;&lt;a href="page1.html" class="page1"&gt;Page 1&lt;/a&gt;&lt;/li&gt;
-    		&lt;li&gt;&lt;a href="page2.html" class="page2"&gt;Page 2&lt;/a&gt;&lt;/li&gt;
-    		&lt;li&gt;&lt;a href="page3.html" class="page3"&gt;Page 3&lt;/a&gt;&lt;/li&gt;
-    	&lt;/ul&gt;
+    	<ul id="liens_etendus">
+    		<li><a href="page1.html" class="page1">Page 1</a></li>
+    		<li><a href="page2.html" class="page2">Page 2</a></li>
+    		<li><a href="page3.html" class="page3">Page 3</a></li>
+    	</ul>
 
-    	&lt;!-- (...) --&gt;
+    	<!-- (...) -->
 
-    	&lt;div id="conteneur_source"&gt;
-    		&lt;h2&gt;Titre&lt;/h2&gt;
-    		&lt;p&gt;Texte explicatif apportant de la cohérence aux utilisateurs dépourvus de JavaScript et d'interprétation des feuilles de style.&lt;/p&gt;
+    	<div id="conteneur_source">
+    		<h2>Titre</h2>
+    		<p>Texte explicatif apportant de la cohérence aux utilisateurs dépourvus de JavaScript et d'interprétation des feuilles de style.</p>
 
-    		&lt;ul&gt;
-    			&lt;li class="page1"&gt;Texte page 1&lt;/li&gt;
-    			&lt;li class="page2"&gt;Texte page 2&lt;/li&gt;
-    			&lt;li class="page3"&gt;Texte page 3&lt;/li&gt;
-    		&lt;/ul&gt;
-    	&lt;/div&gt;
+    		<ul>
+    			<li class="page1">Texte page 1</li>
+    			<li class="page2">Texte page 2</li>
+    			<li class="page3">Texte page 3</li>
+    		</ul>
+    	</div>
 
-    &lt;!-- (...) --&gt;
-    &lt;/body&gt;
+    <!-- (...) -->
+    </body>
     `</pre>
     **L'ordre de la structure importe peu** mais dans tous les cas, leur position dans le flux HTML dépend avant tout de leur importance au sein de celui-ci. De manière générale, **il vaut mieux disposer le contenu principal tout en haut du flux et le faire suivre par le contenu secondaire** tels que les menus de navigation et les textes supplémentaires.
     Je pense que le code parle de lui-même, posez vos questions en commentaires si jamais il y a besoin d'explications plus poussées.
@@ -90,7 +90,7 @@ Des mots au code, voici ce que donnerait la structure balisée :
 
     	//Paramétrage de la fonction
     	//# permet un lancement de la classe avec un paramétrage par défaut
-    	parametres.source = typeof parametres.source == 'undefined' ? '#conteneur_source &gt; ul &gt; li' : parametres.source;
+    	parametres.source = typeof parametres.source == 'undefined' ? '#conteneur_source > ul > li' : parametres.source;
     	parametres.bindto = typeof parametres.bindto == 'undefined' ? '#liens_etendus a' : parametres.bindto;
     	parametres.target = typeof parametres.target == 'undefined' ? '#conteneur_cible' : parametres.target;
 

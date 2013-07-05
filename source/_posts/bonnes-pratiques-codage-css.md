@@ -1,7 +1,7 @@
 title: "Bonnes pratiques de codage CSS"
 id: 878
 date: 2008-02-26 07:00:18
-tags: 
+tags:
 - aptana
 - bonnes pratiques
 - code
@@ -15,7 +15,7 @@ tags:
 - indentation
 - logiciels libres
 - optimisation
-categories: 
+categories:
 - Développement Web
 - Standards du Web
 ---
@@ -50,123 +50,142 @@ Il était donc tout naturel que cette syntaxe de commentaires et d'auto-document
 *   sa syntaxe **facilite la relecture** puisqu'elle est connue et employée dans de nombreux langages, autres que les CSS ;
 *   l'**auto-documentation du code** c'est faciliter la génération d'une documentation externe en automatisant le processus ;
 *   documenter en même temps que l'on écrit c'est **comprendre ce que l'on fait** et gagner du temps en évitant une écriture _a posteriori_ ;
+
 [La syntaxe CSSDoc est documentée](http://cssdoc.net/wiki/CssdocDraft),  aisément reconnaissable et est supportée par les meilleurs éditeurs CSS, dont [Aptana IDE](http://www.aptana.com/) :
 
-    /**
-     * @author Oncle Tom
-     * @lastmodified Fev, 26 2008
-     * @media print, screen
-     * @site http://www.oncle-tom.net/
-     */
+```css
+/**
+ * @author Oncle Tom
+ * @lastmodified Fev, 26 2008
+ * @media print, screen
+ * @site http://www.oncle-tom.net/
+ */
 
-    /**
-     * Redéfinition des balises HTML
-     *
-     * @section html
-     * @todo utiliser un reset.css conforme
-     */
-    html,
-    *{
-      margin: 0;
-      padding: 0;
-    }`</pre>
+/**
+ * Redéfinition des balises HTML
+ *
+ * @section html
+ * @todo utiliser un reset.css conforme
+ */
+html,
+*{
+  margin: 0;
+  padding: 0;
+}
+```
 
-    ### L'organisation hiérarchique
+### L'organisation hiérarchique
 
-    J'ai pour habitude de travailler avec une seule feuille de style par media. Comme je travaille sur des **hiérarchies thématiques**, leur découpage en plusieurs fichiers ne consiste qu'à du copier/coller. On peut ainsi facilement passer d'une mono-feuille à du multi-feuilles. Je ne suis pas un fervent utilisateur de ces dernières car un code bien lisible sur une seule page n'est pas problématique.
-    Je ne l'emploie que pour faciliter la réutilisation des CSS sur plusieurs projets partageant la même base graphique.
+J'ai pour habitude de travailler avec une seule feuille de style par media. Comme je travaille sur des **hiérarchies thématiques**, leur découpage en plusieurs fichiers ne consiste qu'à du copier/coller. On peut ainsi facilement passer d'une mono-feuille à du multi-feuilles. Je ne suis pas un fervent utilisateur de ces dernières car un code bien lisible sur une seule page n'est pas problématique.
+Je ne l'emploie que pour faciliter la réutilisation des CSS sur plusieurs projets partageant la même base graphique.
 
-    Concrètement, je vais d'abord organiser ma feuille pour redéfinir les éléments HTML génériques puis créer autant de sections qu'il n'y en a sur ma page (navigation, contenu, navigation de contenu, contenus annexes etc.).
-    Plus je m'avancerai dans la profondeur du balisage HTML et plus j'indenterai mon code. Cette indentation fait penser à celle utilisée par le [langage Python](http://www.python.org/).
+Concrètement, je vais d'abord organiser ma feuille pour redéfinir les éléments HTML génériques puis créer autant de sections qu'il n'y en a sur ma page (navigation, contenu, navigation de contenu, contenus annexes etc.).
+Plus je m'avancerai dans la profondeur du balisage HTML et plus j'indenterai mon code. Cette indentation fait penser à celle utilisée par le [langage Python](http://www.python.org/).
 
-    On pourrait résumer cette convention à ceci :
+On pourrait résumer cette convention à ceci :
 
 *   **pas de tabulation**, que des espaces pour avoir le même affichage peu importe les éditeurs
 *   2 espaces par tabulation
 *   **attributs classés par ordre alphabétique** (même logique pour tout le monde)
 *   une ligne d'espace entre les définitions ; pas de ligne entre les définitions proches/liées
-    C'est simple et voici un exemple de résultat :
-    <pre>`/**
-     * Redéfinition du HTML
-     */
-    a{
-      text-decoration: underline;
+
+C'est simple et voici un exemple de résultat :
+
+```css
+/**
+ * Redéfinition du HTML
+ */
+a{
+  text-decoration: underline;
+}
+  a img{
+    border: none;
+  }
+
+p{
+  line-height: 1.5em;
+}
+  p img{
+    margin: 1.5em
+  }
+  p img.top{
+    margin-top: 0;
+  }
+
+/**
+ * Contenu
+ */
+#main-content{
+  clear: both;
+  width: 100%;
+}
+
+  /**
+   * Articles
+   */
+  #articles{
+    margin-bottom: 2em;
+  }
+
+    #articles h2{
+      font-size: 1.5em;
+      font-weight: bold;
     }
-      a img{
-        border: none;
-      }
+```
 
-    p{
-      line-height: 1.5em;
-    }
-      p img{
-        margin: 1.5em
-      }
-      p img.top{
-        margin-top: 0;
-      }
+Les mieux organisés d'entre vous ajouteront un **tri par fréquence d'utilisation** afin d'optimiser les va-et-vient : on met en haut ce qu'on est susceptible de modifier le plus souvent, en bas ce à quoi on touchera rarement. Je ne vais pas jusque là mais ça reste envisageable, pertinent et surtout adapté aux plus chevronnés de l'optimisation.
 
-    /**
-     * Contenu
-     */
-    #main-content{
-      clear: both;
-      width: 100%;
-    }
+### Autres conseils et astuces
 
-      /**
-       * Articles
-       */
-      #articles{
-        margin-bottom: 2em;
-      }
+#### Utilisation de raccourcis
 
-        #articles h2{
-          font-size: 1.5em;
-          font-weight: bold;
-        }`</pre>
-    Les mieux organisés d'entre vous ajouteront un **tri par fréquence d'utilisation** afin d'optimiser les va-et-vient : on met en haut ce qu'on est susceptible de modifier le plus souvent, en bas ce à quoi on touchera rarement. Je ne vais pas jusque là mais ça reste envisageable, pertinent et surtout adapté aux plus chevronnés de l'optimisation.
+Les _aficionados_ de l'optimisation et du gain de temps apprécieront cette méthode, s'ils ne l'utilisent pas déjà. J'ai pour habitude de placer des raccourcis dans mes sections pour **faciliter l'utilisation d'une recherche via le raccourci clavier** <kbd>Control+F</kbd>.
+Je préfixe chaque raccourci d'un symbole <kbd>=</kbd> :
 
-    ### Autres conseils et astuces
+```css
+/**
+ * Liens d'évitement
+ * =evitement
+ */
+```
 
-    #### Utilisation de raccourcis
+Je trouve cette méthode très pratique pour atteindre des portions de code. On évite ainsi un appel à la touche <kbd>Alt Gr</kbd> pour appuyer sur le # d'un ID (pour peu que l'on n'ait que des ID en tant que sections). On évite aussi les collisions de nom ou les recherches infructueuses pour cause de changement de nom de classes ou d'ID.
 
-    Les _aficionados_ de l'optimisation et du gain de temps apprécieront cette méthode, s'ils ne l'utilisent pas déjà. J'ai pour habitude de placer des raccourcis dans mes sections pour **faciliter l'utilisation d'une recherche via le raccourci clavier** <kbd>Control+F</kbd>.
-    Je préfixe chaque raccourci d'un symbole <kbd>=</kbd> :
-    <pre>`/**
-     * Liens d'évitement
-     * =evitement
-     */`</pre>
-    Je trouve cette méthode très pratique pour atteindre des portions de code. On évite ainsi un appel à la touche <kbd>Alt Gr</kbd> pour appuyer sur le # d'un ID (pour peu que l'on n'ait que des ID en tant que sections). On évite aussi les collisions de nom ou les recherches infructueuses pour cause de changement de nom de classes ou d'ID.
+#### De la sémantique, que diable !
 
-    #### De la sémantique, que diable !
+Je suis particulièrement attaché à cette bonne pratique d'autant plus qu'elle ne tombe pas forcément sous le sens de tout le monde : **nommez vos ID et classes en fonction de leur _signification_, pas de leur _représentation_**. C'est la suite logique de la séparation fond et forme du HTML et des CSS.
 
-    Je suis particulièrement attaché à cette bonne pratique d'autant plus qu'elle ne tombe pas forcément sous le sens de tout le monde : **nommez vos ID et classes en fonction de leur _signification_, pas de leur _représentation_**. C'est la suite logique de la séparation fond et forme du HTML et des CSS.
+**Mauvaise sémantique** :
 
-    **Mauvaise sémantique** :
-    <pre>`.rouge{
-      color: red;
-    }
+```css
+.rouge{
+  color: red;
+}
 
-    #sidebar{
-      /* ... */
-    }
+#sidebar{
+  /* ... */
+}
 
-    #top-links{
-      /* ... */
-    }`</pre>
-    **Bonne/meilleure sémantique** :
-    <pre>`.important{
-      color: red;
-    }
+#top-links{
+  /* ... */
+}
+```
 
-    #alternate-navigation{
-      /* ... */
-    }
+**Bonne/meilleure sémantique** :
 
-    #main-links{
-      /* ... */
-    }
+```css
+.important{
+  color: red;
+}
+
+#alternate-navigation{
+  /* ... */
+}
+
+#main-links{
+  /* ... */
+}
+```
 
 `#sidebar` pourra être renommé différemment selon son contenu, selon que l'encart contienne des éléments de navigation supplémentaires, des informations utilisateur (`#user-content`) ou encore des widgets (`#widgets`).
 En conservant votre HTML intact et en jouant sur les CSS, la `#sidebar` peut en effet se retrouver tout en bas, à l'horizontale. Aurez-vous toujours envie de l'appeler pareil ? Pas forcément. **Un bon nommage est un nommage qui se conserve peu importe l'aspect de la présentation**.
