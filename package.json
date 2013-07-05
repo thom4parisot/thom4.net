@@ -1,0 +1,13 @@
+{
+  "name": "oncletom.io",
+  "version": "1.2.4",
+  "private": true,
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.3.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "hexo-migrator-wordpress": "0.0.6"
+  }
+}
