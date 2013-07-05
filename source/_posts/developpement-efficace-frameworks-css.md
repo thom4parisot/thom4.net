@@ -55,7 +55,7 @@ Je m'intéresserai plutôt aux réfractaires. Assez paradoxalement, ce n'est pas
 
 Ces arguments sont tout à fait acceptables ... mais ça dépend dans quel contexte.
 
-[caption id="attachment_1215" align="aligncenter" width="500" caption="Exemple de mise en forme en grille"]![Exemple de mise en forme en grille](https://oncletom.io/images/2008/11/blueprint-sample.png "Exemple de mise en forme en grille")[/caption]
+![Exemple de mise en forme en grille](https://oncletom.io/images/2008/11/blueprint-sample.png "Exemple de mise en forme en grille")
 
 Les sites à la recherche de performances exceptionnelles, ceux pour qui un Ko supprimé économise plusieurs Go de bande-passante par jour ... oui ceux-là ont un grand intérêt à réfléchir à l'adoption d'un _framework_, aussi compressé qu'il soit.
 Je ne me fais pas de soucis pour eux : en général ils ont leur propre _framework_, totalement adapté à leur besoin. Cependant ça n'empêche pas d'aller prendre des idées ailleurs et de découvrir de nouveaux concepts. Puis de les intégrer.
@@ -71,7 +71,7 @@ Une remarque intéressante a également émergé de l'atelier : faut-il utiliser
 Je réitère ma réponse : **l'idéal est que tout soit pris en charge le plus tôt possible**. Autrement dit, intégrer les contraintes du _framework_ dès la conception graphique est un gros atout. Le découpage de la maquette n'en sera que facilité et ça évitera tout bricolage.
 Certains outils l'ont d'ailleurs bien compris en proposant des supports pour graphistes au format PSD, Visio, Fireworks etc.
 
-[caption id="attachment_1213" align="aligncenter" width="300" caption="Feuilles de dessin pour 960 Grid System"][![Feuilles de dessin pour 960 Grid System](https://oncletom.io/images/2008/11/960-sketch-sheets-300x232.png "Feuilles de dessin pour 960 Grid System")](https://oncletom.io/images/2008/11/960-sketch-sheets.png)[/caption]
+[![Feuilles de dessin pour 960 Grid System](https://oncletom.io/images/2008/11/960-sketch-sheets-300x232.png "Feuilles de dessin pour 960 Grid System")](https://oncletom.io/images/2008/11/960-sketch-sheets.png)
 
 ## Conclusion
 

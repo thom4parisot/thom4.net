@@ -83,7 +83,7 @@ Ce que j'aimerais, c'est produire 2 livrables :
 
 Ces livrables seront _Open Source_, libres, gratuits et créés collectivement, parce qu'on a tous des terrains d'expertise différents et complémentaires.
 
-[caption id="attachment_17833" align="aligncenter" width="300" caption="Share the love ;-)"]![](/images/2010/11/post-it-delire-300x179.jpg "Délire de post-it")[/caption]
+![Share the love ;-)](/images/2010/11/post-it-delire-300x179.jpg "Délire de post-it")
 
 Je ne manquerai pas de vous tenir informé des avancées de ces projets, qui me tiennent à coeur.
 Je ne saurais que trop remercier les participants, présents lors de l'atelier Paris Web, ceux qui apporteront leur pierre à l 'édifice (même si ça ne concerne qu'un changement de virgule dans une phrase) et ceux qui apporteront leur soutien, [Elie Sloïm](http://temesis.com/) en tête. Il propose en effet de mettre à disposition la plate-forme Opquast en tant qu'outil de contribution.

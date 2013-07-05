@@ -72,7 +72,7 @@ Des tas de choses qu'on ne pourrait pas faire en simple PHP4 (message subliminal
 
 WP-LESS agit en toute **transparence et simplicité**.
 
-[caption id="attachment_1438" align="aligncenter" width="300" caption="Arborescence du plugin WP-LESS"][![Arborescence du plugin WP-LESS](https://oncletom.io/images/2009/08/wp-less-repository-300x125.png "Arborescence du plugin WP-LESS")](https://oncletom.io/images/2009/08/wp-less-repository.png)[/caption]
+[![Arborescence du plugin WP-LESS](https://oncletom.io/images/2009/08/wp-less-repository-300x125.png "Arborescence du plugin WP-LESS")](https://oncletom.io/images/2009/08/wp-less-repository.png)
 
 ## Quel avenir pour WP-LESS ?
 

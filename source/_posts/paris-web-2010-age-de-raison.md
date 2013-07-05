@@ -142,7 +142,7 @@ Un **regard rafraîchissant** de plus sur la manière de concevoir et d'archite
 
 **Conseil lecture** : [amazon-product text="Grid Systems in Graphic Design" type="text"]3721201450/[/amazon-product]de Josef Muller-Brockmann.
 
-[caption id="" align="aligncenter" width="500" caption="La crois au rouge français"][![](http://farm2.static.flickr.com/1153/5108562588_7a9d7e59d8.jpg "La croix au rouge français")](http://www.flickr.com/photos/nicolas-hoizey/5108562588/)[/caption]
+[![La crois au rouge français](http://farm2.static.flickr.com/1153/5108562588_7a9d7e59d8.jpg "La croix au rouge français")](http://www.flickr.com/photos/nicolas-hoizey/5108562588/)
 
 ## Conclusion
 

@@ -101,4 +101,4 @@ C'est le reflet d'une mauvaise conception ou d'un vice assumé.
 
 Je n'aurais qu'une chose à dire, le slogan d'Ooshop, il est parfait !
 
-[caption id="attachment_1161" align="aligncenter" width="500" caption="Je te le fais pas dire ..."]![Je te le fais pas dire](https://oncletom.io/images/2008/10/ooshop-vie-optimise.png "Ooshop, la vie optimisée")[/caption]
+![Je te le fais pas dire](https://oncletom.io/images/2008/10/ooshop-vie-optimise.png "Ooshop, la vie optimisée")

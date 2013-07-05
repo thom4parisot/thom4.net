@@ -40,7 +40,7 @@ Il faut savoir qu'il existe plusieurs variations de cette anomalie de perception
 À cela s'ajoutent également des combinaisons possibles entre ces différentes variantes. Pour plus d'informations, je vous invite à consulter l'[article sur le daltonisme sur Wikipédia](http://fr.wikipedia.org/wiki/Daltonisme).
 Et pour votre gouverne, **être daltonien ne signifie pas être handicapé**. Les personnes atteintes de cette anomalie (environ 8% des hommes en France, même pas 1% de femmes) ne peuvent donc pas être reconnues comme telles.
 
-[caption id="" align="aligncenter" width="200" caption="Chiffre 37, invisible pour les personnes atteintes de protanopie"]![Chiffre 37, invisible pour les personnes atteintes de protanopie](http://upload.wikimedia.org/wikipedia/commons/5/55/Colorblind3.png "Chiffre 37, invisible pour les personnes atteintes de protanopie")[/caption]
+![Chiffre 37, invisible pour les personnes atteintes de protanopie](http://upload.wikimedia.org/wikipedia/commons/5/55/Colorblind3.png "Chiffre 37, invisible pour les personnes atteintes de protanopie")
 
 Pour savoir savoir si on est daltonien, il suffit de regarder les images des [planches du test d'Ishihara](http://daltonien.free.fr/daltonien/article.php3?id_article=6). Peut-être la "mauvaise" nouvelle du jour ?
 
@@ -61,17 +61,17 @@ En clair je résumerais comme suit :
 *   vous êtes sous Linux et plus particulièrement dans un bureau à base de GTK ? Utilisez _colorblind-applet_
 *   dans les autres cas, utilisez _Color Oracle_ (compatible Linux, MacOS X et Windows)
 
-[caption id="attachment_1055" align="aligncenter" width="498" caption="Colorblind-applet : contrôles"]![Colorblind-applet : contrôles](https://oncletom.io/images/2008/08/colorblind-applet-controls.png "Colorblind-applet : contrôles")[/caption]
+![Colorblind-applet : contrôles](https://oncletom.io/images/2008/08/colorblind-applet-controls.png "Colorblind-applet : contrôles")
 
 ## colorblind-applet en action
 
 Puisqu'une image vaut davantage qu'un long discours (trop tard me direz-vous ;-)), voici une série d'images présentant mon bureau de travail ainsi qu'un navigateur Web ouvert sur la page de [Planète Accessibilité](http://planete-accessibilite.com/).
 
-[caption id="attachment_1058" align="aligncenter" width="300" caption="Capture d&#39;écran d&#39;origine"][![Capture d](https://oncletom.io/images/2008/08/original-300x187.jpg "Capture d")](https://oncletom.io/images/2008/08/original.jpg)[/caption]
+[![Capture d&#39;écran d&#39;origine](https://oncletom.io/images/2008/08/original-300x187.jpg "Capture d")](https://oncletom.io/images/2008/08/original.jpg)
 
-[caption id="attachment_1059" align="aligncenter" width="300" caption="Filtre réglé sur &quot;Selective Green Desaturation&quot;"][![Filtre réglé sur &quot;Selective Green Desaturation&quot;](https://oncletom.io/images/2008/08/selective-green-desaturation-300x187.jpg "Filtre réglé sur &quot;Selective Green Desaturation&quot;")](https://oncletom.io/images/2008/08/selective-green-desaturation.jpg)[/caption]
+[![Filtre réglé sur &quot;Selective Green Desaturation&quot;](https://oncletom.io/images/2008/08/selective-green-desaturation-300x187.jpg "Filtre réglé sur &quot;Selective Green Desaturation&quot;")](https://oncletom.io/images/2008/08/selective-green-desaturation.jpg)
 
-[caption id="attachment_1057" align="aligncenter" width="300" caption="Filtre réglé sur &quot;Negative Hue Shift&quot;"][![Filtre réglé sur &quot;Negative Hue Shift&quot;](https://oncletom.io/images/2008/08/negative-hue-shift-300x187.jpg "Filtre réglé sur &quot;Negative Hue Shift&quot;")](https://oncletom.io/images/2008/08/negative-hue-shift.jpg)[/caption]
+[![Filtre réglé sur &quot;Negative Hue Shift&quot;](https://oncletom.io/images/2008/08/negative-hue-shift-300x187.jpg "Filtre réglé sur &quot;Negative Hue Shift&quot;")](https://oncletom.io/images/2008/08/negative-hue-shift.jpg)
 
 ** Plusieurs choses à noter** :
 

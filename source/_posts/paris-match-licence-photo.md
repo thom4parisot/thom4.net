@@ -40,7 +40,7 @@ Les trois critères sont _entièrement_ baffoués :
 3.  quid de l'utilisation commerciale ? L'article apparaît gratuitement sur le site Web de Paris Match. Ça pourrait presque être bon sur ce point si cet article n'avait pas été repris sur la **version papier de Paris Match**, et partagé au format PDF sur le site de la journaliste associée, [Julie Andrieu](http://www.julieandrieu.com/).
 Bref, autant d'arguments qui donneraient envie de tirer à vue sur Paris Match, ou tout du moins la ou les personnes ayant tranquillement utilisé cette photo sans se soucier de sa licence d'utilisation. Après tout c'est la crise, autant réduire le respect autant que les coûts.
 
-[caption id="" align="aligncenter" width="161" caption="Photo originelle"][![Éric Sampietro aux commandes](http://farm4.static.flickr.com/3258/3111920922_4331a3f05f_m.jpg "Photo originelle")](http://www.flickr.com/photos/the-jedi/3111920922/ "Éric Sampietro aux commandes")[/caption]
+[![Éric Sampietro aux commandes](http://farm4.static.flickr.com/3258/3111920922_4331a3f05f_m.jpg "Photo originelle")](http://www.flickr.com/photos/the-jedi/3111920922/ "Éric Sampietro aux commandes")
 
 ## Prise de contact avec Paris Match
 

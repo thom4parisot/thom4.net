@@ -30,7 +30,7 @@ La réalisation de ce widget était pour moi l'occasion de réaliser mon premier
 
 Avant de rentrer dans les détails techniques, faisons ensemble un petit tour de ce qu'est capable de faire le widget Jaiku. Rien de bien méchant puisqu'il fait ce qu'on veut : lire et envoyer les messages. Faut savoir rester simple ;-)
 
-[caption id="attachment_1082" align="aligncenter" width="280" caption="Widget Jaiku pour Netvibes"]![Jaiku pour Netvibes](https://oncletom.io/images/2008/08/jaiku-netvibes.png "Jaiku pour Netvibes")[/caption]
+![Jaiku pour Netvibes](https://oncletom.io/images/2008/08/jaiku-netvibes.png "Jaiku pour Netvibes")
 
 Je ne me cacherai pas que je me suis largement inspiré du widget Twitter pour Netvibes au niveau de la présentation tout en ajoutant ma touche personnelle.
 

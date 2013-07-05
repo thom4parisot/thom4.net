@@ -42,7 +42,7 @@ Je suis pénible donc je n'ai pas spécialement envie de modifier un fichier _co
 
 La seconde explication m'a toutefois posé légèrement problème puisqu'un peu brutale et posant soucis chez OVH.
 
-[caption id="attachment_1254" align="aligncenter" width="329" caption="Arborescence fichier avec Wordpress SVN"]![Arborescence fichier avec Wordpress SVN](https://oncletom.io/images/2008/12/wordpress-svn-basic-filetree.png "Arborescence fichier avec Wordpress SVN")[/caption]
+![Arborescence fichier avec Wordpress SVN](https://oncletom.io/images/2008/12/wordpress-svn-basic-filetree.png "Arborescence fichier avec Wordpress SVN")
 
 Celles et ceux qui voient la capture d'écran ci-dessus peuvent constater que _tout Wordpress_ a été déplacé dans un sous-répertoire _wordpress_ au même niveau que wp-content.
 On ne garde à la racine que le fichier _.htaccess_ et _wp-config.php_.
@@ -104,7 +104,7 @@ Enfin, pourquoi avoir poussé les commentaires Wordpress vers le bas ? Tout simp
 
 Dans le fichier _wp-config.php_, nous n'allons rien modifier. Nous allons juste ajouter forcer 2 paramètres. Ils indiqueront à Wordpress où se trouve le véritable répertoire _wp-content_ (renommable mais je ne jouerai pas avec).
 
-[caption id="attachment_1262" align="aligncenter" width="600" caption="wp-config.php modifié pour Wordpress SVN"]![wp-config.php modifié pour Wordpress SVN](https://oncletom.io/images/2008/12/wordpress-svn-wpconfig.png "wp-config.php modifié pour Wordpress SVN")[/caption]
+![wp-config.php modifié pour Wordpress SVN](https://oncletom.io/images/2008/12/wordpress-svn-wpconfig.png "wp-config.php modifié pour Wordpress SVN")
 
 ### Le blog
 
@@ -112,7 +112,7 @@ Bon j'ai menti un peu toute à l'heure en indiquant qu'on ne toucherait qu'à _w
 
 En effet si on ne touche pas à l'emplacement des fichiers envoyés, Wordpress considère qu'ils sont uploadés dans wordpress/wp-content/uploads. C'est fort gênant mais heureusement, en préfixant le chemin par ../ ou en tapant un chemin absolu tout rentrera dans l'ordre.
 
-[caption id="attachment_1261" align="aligncenter" width="600" caption="Correction de chemin pour Wordpress SVN"]![Correction de chemin pour Wordpress SVN](https://oncletom.io/images/2008/12/wordpress-svn-file-uploads-fix.png "Correction de chemin pour Wordpress SVN")[/caption]
+![Correction de chemin pour Wordpress SVN](https://oncletom.io/images/2008/12/wordpress-svn-file-uploads-fix.png "Correction de chemin pour Wordpress SVN")
 
 À noter qu'il s'agit du **seul paramétrage hors d'un fichier**. Si j'avais pu m'en passer je l'aurais fait.
 
@@ -121,7 +121,7 @@ En effet si on ne touche pas à l'emplacement des fichiers envoyés, Wordpress c
 C'est en tombant sur un autre [article traitant de svn:externals pour Wordpress](http://sunfox.org/blog/2007/05/28/installation-svn-de-wordpress-et-de-ses-plugins/) que j'ai été interpelé sur la prise en charge des langues via SVN également.
 Le système n'est pas parfait puisqu'on ne peut gérer qu'une seule langue par ce biais là. Ça ne conviendra donc pas aux blogs multilingues.
 
-[caption id="attachment_1260" align="aligncenter" width="550" caption="Dépendance SVN pour les traductions Wordpress"]![Dépendance SVN pour les traductions Wordpress](https://oncletom.io/images/2008/12/wordpress-i18n-svn-external.png "Dépendance SVN pour les traductions Wordpress")[/caption]
+![Dépendance SVN pour les traductions Wordpress](https://oncletom.io/images/2008/12/wordpress-i18n-svn-external.png "Dépendance SVN pour les traductions Wordpress")
 
 La technique consiste à transformer `wp-content/languages` en <kbd>svn:externals</kbd>.
 Ça donnerait ceci pour la version française de Wordpress 2.7, au niveau du <kbd>svn:externals</kbd> du répertoire `wp-content` :

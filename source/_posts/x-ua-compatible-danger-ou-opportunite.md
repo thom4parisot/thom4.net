@@ -48,7 +48,7 @@ Si Internet Explorer 8 ne rencontre pas cette balise, il utilisera son moteur de
 Il faut toutefois avoir en tête que cette bascule n'affecte pas que l'interprétation d'HTML mais aussi celles des CSS et de JavaScript.
 Autrement dit, si vous décidiez un jour d'enlever la balise _X-UA-Compatible_, il y a de très fortes chances que vous souscriviez à une grosse couche de recettage fonctionnel, tant du côté CSS que JavaScript.
 
-[caption id="attachment_1176" align="aligncenter" width="431" caption="Bouton d&#39;émulation Internet Explorer 7 ... équivoque ?"]![Bouton d](https://oncletom.io/images/2008/10/emulateie7.png "Bouton d")[/caption]
+![Bouton d&#39;émulation Internet Explorer 7 ... équivoque ?](https://oncletom.io/images/2008/10/emulateie7.png "Bouton d")
 
 ## Les options de compatibilité, le casse-tête
 

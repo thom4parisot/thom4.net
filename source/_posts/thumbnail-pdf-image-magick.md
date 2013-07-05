@@ -14,7 +14,7 @@ categories:
 
 Les PDF c'est chouette pour transmettre des documents non-modifiables. Mais parfois, c'est aussi pratique de pouvoir en suggérer leur contenu. C'est d'autant plus pertinent si vous en proposez à télécharger et que la couverture alléchante dispose d'un fort pouvoir de conviction.
 
-[caption id="attachment_1376" align="aligncenter" width="281" caption="Exemple de couverture PDF"]![Exemple de couverture PDF](https://oncletom.io/images/2009/06/pdf-sample-cover.png "Exemple de couverture PDF")[/caption]
+![Exemple de couverture PDF](https://oncletom.io/images/2009/06/pdf-sample-cover.png "Exemple de couverture PDF")
 
 Par chance, nous n'avons pas besoin de faire le sale travail à la main. Du genre prendre une capture d'écran de la première page du PDF ou je ne sais quelle autre astuce impliquant travail et effort. **Image Magick** est là pour nous aider et à plus forte raison, **Imagick**. Il s'agit d'une librairie native à PHP se basant sur l'API d'Image Magick.
 

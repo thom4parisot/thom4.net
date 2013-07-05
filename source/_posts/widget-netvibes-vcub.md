@@ -32,7 +32,7 @@ Mon seul ennui, c'était la facilité d'accès à l'information principale : **l
 Étant toujours utilisateur du service Netvibes, je me suis dis <q>pourquoi ne pas en faire un widget ?</q>.
 Quelques jours après, le [widget VCUB](https://oncletom.io/code/netvibes/) était né. Vous pouvez [ajouter le widget VCUB sur votre page Netvibes en 2 clics](http://eco.netvibes.com/subscribe/378209).
 
-[caption id="attachment_7986" align="aligncenter" width="200" caption="Aperçu du widget VCUB"][![](https://oncletom.io/images/2010/04/uwa-vcub-200x300.png "Aperçu du widget VCUB")](https://oncletom.io/images/2010/04/uwa-vcub.png)[/caption]
+[![Aperçu du widget VCUB](https://oncletom.io/images/2010/04/uwa-vcub-200x300.png "Aperçu du widget VCUB")](https://oncletom.io/images/2010/04/uwa-vcub.png)
 
 En terme de fonctionnalités, ça reste simple : il y a la liste des stations ainsi que vos stations favorites. Ces dernières permettent d'accéder rapidement aux stations que vous utilisez le plus fréquemment, afin de ne pas avoir à les chercher sans arrêt parmi la centaine de bornes existantes.
 

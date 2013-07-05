@@ -49,7 +49,7 @@ Le chapitre 4 explique avec plein de sous-entendus qu'Internet Explorer 6 et 7 .
 
 Le chapitre 5, _The Road Ahead_, propose une présentation maintes fois vue et revue de l'avenir avec CSS3\. Ça fait office de piqûre de rappel concernant le module _templates_ et  _grille_ notamment.
 
-[caption id="attachment_1289" align="aligncenter" width="449" caption="Texte 2 colonnes avec display: table-cell"][![Texte 2 colonnes avec display: table-cell](https://oncletom.io/images/2009/01/txt-2cols.png "Texte 2 colonnes avec display: table-cell")](http://css.alsacreations.com/xmedia/exemples/display/txt-2cols.png)[/caption]
+[![Texte 2 colonnes avec display: table-cell](https://oncletom.io/images/2009/01/txt-2cols.png "Texte 2 colonnes avec display: table-cell")](http://css.alsacreations.com/xmedia/exemples/display/txt-2cols.png)
 
 ## Pourquoi je ne vous recommande pas son achat ?
 

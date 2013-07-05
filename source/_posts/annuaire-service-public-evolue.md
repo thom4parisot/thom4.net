@@ -22,7 +22,7 @@ Ou comment un message partant d'**un bon sentiment peut ruiner une navigation**.
 
 Voici la disposition de l'alerte une fois sur la fiche de l'organisation recherchée :
 
-[caption id="attachment_1193" align="aligncenter" width="500" caption="Message d&#39;alerte de Service-public.fr"]![Message d](https://oncletom.io/images/2008/10/cpam-gironde-service-public.png "Message d")[/caption]
+![Message d](https://oncletom.io/images/2008/10/cpam-gironde-service-public.png "Message d'alerte de Service-public.fr")
 
 On est sur du simple et direct : message puis information recherchée.
 
@@ -61,7 +61,7 @@ Enfer et damnation, je dois retrouver la CPAM dans une liste à 5 niveaux de dé
 
 Et comme si je n'avais pas assez cherché, je me retrouve confronté à un choix difficile : choisir parmi 8 liens hypertexte au même libellé. Jugez-en par vous-même :
 
-[caption id="attachment_1194" align="aligncenter" width="500" caption="Quel lien choisir ?"]![Quel lien choisir ?](https://oncletom.io/images/2008/10/liste-cpam-gironde.png "Quel lien choisir ?")[/caption]
+![Quel lien choisir ?](https://oncletom.io/images/2008/10/liste-cpam-gironde.png "Quel lien choisir ?")
 
 Le pifomètre m'a fait cliquer sur le premier des 8 liens et coup de bol ... c'est bon.
 

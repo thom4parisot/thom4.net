@@ -48,7 +48,7 @@ Les widgets se créent en ligne et au final, leur code HTML nous est gentiement 
 
 Enfin, côté maintenance c'est pas gagné : si Amazon change le code HTML des éléments sans assurer de rétrocompatibilité (ce que je ne leur souhaite pas), les widgets déjà insérés seraient rendus inopérants.
 
-[caption id="attachment_1144" align="aligncenter" width="345" caption="Arborescence du code d&#39;Amazon Widgets Shortcodes"]![Arborescence du code d](https://oncletom.io/images/2008/09/awshortcode-workspace.png "Arborescence du code d")[/caption]
+![Arborescence du code d&#39;Amazon Widgets Shortcodes](https://oncletom.io/images/2008/09/awshortcode-workspace.png "Arborescence du code d")
 
 ## Les objectifs fixés et avoués du plugin Amazon Widgets Shortcodes
 
@@ -79,7 +79,7 @@ Maintenant que j'avais les idées, il fallait les mettre en place. Voici comment
 
 Cette progression permet de créer petit à petit l'application, de la rendre modulaire et extensible. L'ajout et le support de nouveaux widgets ne doit pas remettre en cause l'architecture du plugin.
 
-[caption id="attachment_1143" align="aligncenter" width="500" caption="Code JavaScript d&#39;Amazon Widgets Shortcodes"]![Code JavaScript d](https://oncletom.io/images/2008/09/awshortcode-javascript-abstraction.png "Code JavaScript d")[/caption]
+![Code JavaScript d&#39;Amazon Widgets Shortcodes](https://oncletom.io/images/2008/09/awshortcode-javascript-abstraction.png "Code JavaScript d")
 
 ## Ce à quoi il faut penser en développant un plugin
 

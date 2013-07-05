@@ -69,7 +69,7 @@ Mais il y'avait Windows Vista.
 
 ## La parenthèse remboursement de Windows Vista
 
-[caption id="attachment_1269" align="aligncenter" width="300" caption="CLUF Windows Vista / Dell"][![CLUF Windows Vista / Dell](https://oncletom.io/images/2008/12/windows-vista-cluf-300x200.jpg "CLUF Windows Vista / Dell")](https://oncletom.io/images/2008/12/windows-vista-cluf.jpg)[/caption]
+[![CLUF Windows Vista / Dell](https://oncletom.io/images/2008/12/windows-vista-cluf-300x200.jpg "CLUF Windows Vista / Dell")](https://oncletom.io/images/2008/12/windows-vista-cluf.jpg)
 
 Pour la forme, j'ai tenté de titiller le service client afin de me faire **rembourser Windows Vista** parce que :
 
@@ -99,7 +99,7 @@ En clair, on a le droit de ne pas avoir d'ordinateur sans qu'on nous force la ma
 
 ## Ubuntu «Intrepid Ibex» 64 bits
 
-[caption id="attachment_1268" align="aligncenter" width="300" caption="Clavier rétro-éclairé"][![Clavier rétro-éclairé](https://oncletom.io/images/2008/12/dell-studio-17-keyboard-300x200.jpg "Clavier rétro-éclairé")](https://oncletom.io/images/2008/12/dell-studio-17-keyboard.jpg)[/caption]
+[![Clavier rétro-éclairé](https://oncletom.io/images/2008/12/dell-studio-17-keyboard-300x200.jpg "Clavier rétro-éclairé")](https://oncletom.io/images/2008/12/dell-studio-17-keyboard.jpg)
 
 Ce nouveau PC était l'occasion de passer dans le monde des systèmes d'exploitation 64 bits. J'ai installé Ubuntu 8.10 dit _Intrepid Ibex_ depuis le Live CD 64 bits et en toute honnêteté,** je n'ai eu de problème à aucun moment**. Tout a été très fluide ... comme en version 32 bits.
 Vu l'augmentation de matériel, forcément tout répondait plus vite donc difficile de dire s'il y a des gains notables. J'imagine qu'oui et même si c'est pas le cas ... je m'en fiche ?

@@ -35,7 +35,7 @@ La première chose à faire est d'**activer l'API Awareness pour votre flux**. C
 
 C'est vraiment simple à utiliser, la [documentation Feedburner Awareness](http://code.google.com/intl/fr/apis/feedburner/awareness_api.html) est complète dans son genre.
 
-[caption id="attachment_1361" align="aligncenter" width="300" caption="Activation du service Feedburner Awareness"][![Activation du service Feedburner Awareness](https://oncletom.io/images/2009/05/feedburner-awareness-activation-300x166.png "Activation du service Feedburner Awareness")](https://oncletom.io/images/2009/05/feedburner-awareness-activation.png)[/caption]
+![Activation du service Feedburner Awareness](https://oncletom.io/images/2009/05/feedburner-awareness-activation-300x166.png "Activation du service Feedburner Awareness")
 
 **Remarque** : cette API s'active par flux Feedburner de manière individuelle et est désactivée par défaut.
 

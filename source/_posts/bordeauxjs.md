@@ -23,7 +23,7 @@ Je réalise qu'il n'est **pas si compliqué que ça d'organiser** des évènemen
 
 On m'a souvent demandé "mais quand est-ce tu en organises un autre ?". J'explique pourtant que je n'ai pas fait grand chose à part tweeter qu'on se retrouvait à telle heure, dans tel lieu pour lever le coude en buvant un coup … la gestion minimaliste est encore _trop_ pour inciter à _faire_ ;-)
 
-[caption id="" align="aligncenter" width="500"][![](http://farm9.staticflickr.com/8448/8000078497_21a8fc9ed0.jpg "Vue du Node à Bordeaux")](http://www.flickr.com/photos/node-bordeaux/8000078497/) Vue du Node, espace de coworking à Bordeaux.[/caption]
+[![Vue du Node, espace de coworking à Bordeaux.](http://farm9.staticflickr.com/8448/8000078497_21a8fc9ed0.jpg "Vue du Node à Bordeaux")](http://www.flickr.com/photos/node-bordeaux/8000078497/)
 
 ## Envie et réflexion
 

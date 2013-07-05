@@ -18,7 +18,7 @@ categories:
 - Personnel
 ---
 
-[caption id="" align="aligncenter" width="500" caption="Isabelle Juppé et Philippe Martin"][![http://farm4.static.flickr.com/3017/2600356326_7ff3c48384.jpg](http://farm4.static.flickr.com/3017/2600356326_7ff3c48384.jpg "Isabelle Juppé et Philippe Martin")](http://flickr.com/photos/the-jedi/2600356326/)[/caption]
+[![Isabelle Juppé et Philippe Martin](http://farm4.static.flickr.com/3017/2600356326_7ff3c48384.jpg "Isabelle Juppé et Philippe Martin")](http://flickr.com/photos/the-jedi/2600356326/)
 
 2 mois plus tard, il n'est jamais trop tard.
 
@@ -61,7 +61,7 @@ Le livre est richement fourni en témoignages et en liens hypertextes. Une bonne
 
 ## Pourquoi bloguer, journée conférence à Bordeaux
 
-[caption id="" align="aligncenter" width="500" caption="Claude Malaison et Philippe Martin"][![Philippe Martin et Claude Malaison](http://farm4.static.flickr.com/3035/2577755472_26055597ca.jpg "Claude Malaison et Philippe Martin")](http://flickr.com/photos/nayezpaspeur/2577755472/in/set-72157605466714829)[/caption]
+[![Philippe Martin et Claude Malaison](http://farm4.static.flickr.com/3035/2577755472_26055597ca.jpg "Claude Malaison et Philippe Martin")](http://flickr.com/photos/nayezpaspeur/2577755472/in/set-72157605466714829)
 
 [Claude Malaison](http://emergenceweb.com) et [Philippe Martin](http://www.nayezpaspeur.ca/blog/) se sont donnés corps et âme (surtout âme je vous rassure ;-)) pour animer cette journée dans 4 lieux différents :
 
@@ -69,6 +69,7 @@ Le livre est richement fourni en témoignages et en liens hypertextes. Une bonne
 2.  le goûter à la Chambre de Commerce devant des entreprises
 3.  l'encas chez _Mollat_ devant des littéraires
 4.  le [dîner _chez Jean_](http://www.chezjeanbordeaux.com) devant des acteurs du Web et des blogueurs
+
 L'idée était de montrer à des publics pas forcément enclins à utiliser les nouvelles technologies que ces derniers servaient pourtant en leur faveur.
 
 Mais leur discours le plus intéressant concernait le **changement de mode opératoire des générations**.
@@ -81,8 +82,12 @@ Une journée magique comme j'en aimerais tant d'autres. D'autres personnes ont d
 ## Bloguer en entreprise : vérités et contre-vérités
 
 Cette journée, c'était aussi l'occasion d'intervenir avec la casquette [BlogCamp France](http://blogcamp.fr) et de démystifier les blogs devant une assemblée intéressée et aux réactions intéressantes.
-<div style="text-align:center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcampbloguerenentreprisemythescontreveriteslight-1213943930186908-9&amp;stripped_title=blogcamp-bloguer-en-entreprises-vrits-et-contrevrits" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcampbloguerenentreprisemythescontreveriteslight-1213943930186908-9&amp;stripped_title=blogcamp-bloguer-en-entreprises-vrits-et-contrevrits" allowscriptaccess="always" allowfullscreen="true"></embed></object>[](http://www.slideshare.net/oncletom/blogcamp-bloguer-en-entreprises-vrits-et-contrevrits)</div>
-<div style="text-align:center">[Les blogs : vérités et contre-vérités, impacts financiers et organisationnels](http://www.slideshare.net/oncletom/blogcamp-bloguer-en-entreprises-vrits-et-contrevrits)</div>
+
+<div style="text-align:center">
+  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcampbloguerenentreprisemythescontreveriteslight-1213943930186908-9&amp;stripped_title=blogcamp-bloguer-en-entreprises-vrits-et-contrevrits" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcampbloguerenentreprisemythescontreveriteslight-1213943930186908-9&amp;stripped_title=blogcamp-bloguer-en-entreprises-vrits-et-contrevrits" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+[Les blogs : vérités et contre-vérités, impacts financiers et organisationnels](http://www.slideshare.net/oncletom/blogcamp-bloguer-en-entreprises-vrits-et-contrevrits)
+</div>
+
 Cette présentation relativement courte avait pour but d'expliquer en 15 minutes les **intérêts des blogs dans le milieu de l'entreprise**. Nous avons souhaité utiliser des exemples concrets basés sur notre vécu personnel pour montrer qu'on pouvait recruter par le biais d'un blog, utiliser les blogs pour faciliter ses recrutements (il n'y a pas meilleur complément à une lettre de motivation).
 
 À en croire les retours par mail, nous avons réussi à nous 4 à rassurer et convaincre un bon paquet d'entreprises ;-)

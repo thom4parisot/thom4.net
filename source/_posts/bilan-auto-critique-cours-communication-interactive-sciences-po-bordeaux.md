@@ -90,7 +90,7 @@ Le point de contrôle #5 était donc lié à la mise en pratique des thématique
 Cette grille n'est pas à mon avis parfaite. Je pense notamment à ce point #5, un peu trop facile et redondant avec le #4.
 Vous auriez peut-être complété avec d'autres choses ?
 
-[caption id="attachment_6673" align="aligncenter" width="345" caption="Répartition des réponses à la question « Continuriez-vous le blog après cette expérience ? »"][![](https://oncletom.io/images/2010/04/blog-continuer.png)](https://oncletom.io/images/2010/04/blog-continuer.png)[/caption]
+![Répartition des réponses à la question « Continuriez-vous le blog après cette expérience ? »](https://oncletom.io/images/2010/04/blog-continuer.png )
 
 Avant d'expliquer le graphique ci-dessus, petit rappel des faits. Lorsque j'ai débuté ce cours, de mémoire, il n'y avait qu'1 ou 2 élèves qui géraient un blog de manière active. Une poignée d'autres élèves avaient déjà eu l'occasion d'en utiliser mais visiblement, pas de manière approfondie ou intensive.
 

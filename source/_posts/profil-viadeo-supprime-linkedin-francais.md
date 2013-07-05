@@ -33,7 +33,7 @@ Si l'on ne dispose pas d'un blog ou d'une page personnelle exprimant nos idées,
 Mettre à jour un statut ça paraît bête mais vous _poussez_ cette information à tout votre réseau. Ce même réseau le réceptionnera et sera capable de rebondir dessus, surtout s'il s'agit de recrutement. C'est du _statut à oreille_ au lieu du classique bouche à oreille.
 [Twitter est excellent](https://oncletom.io/2007/06/01/twitter-gtwitter/) de ce point de vue là, en plus d'être un excellent relais d'information.
 
-[caption id="attachment_1233" align="aligncenter" width="500" caption="Connaissances, partagées ou non"]![Connaissances, partagées ou non](https://oncletom.io/images/2008/12/linkedin-shared-connections.png "Connaissances, partagées ou non")[/caption]
+![Connaissances, partagées ou non](https://oncletom.io/images/2008/12/linkedin-shared-connections.png "Connaissances, partagées ou non")
 
 ## Les raisons d'une suppression
 
@@ -53,7 +53,7 @@ Alors si intrusion il y a, tant qu'à faire, autant ne pas y perdre plus qu'un c
 
 Je passe ensuite sur les 2 autres points puisque c'est purement subjectif. Toutefois quand on me force trop la main, pour peu que je n'y vois pas l'intérêt, j'inverse les vapeurs. Je m'en vais.
 
-[caption id="attachment_1232" align="aligncenter" width="500" caption="Statistiques géographiques de LinkedIn"]![Statistiques géographiques de LinkedIn](https://oncletom.io/images/2008/12/linkedin-geostats.png "Statistiques géographiques de LinkedIn")[/caption]
+![Statistiques géographiques de LinkedIn](https://oncletom.io/images/2008/12/linkedin-geostats.png "Statistiques géographiques de LinkedIn")
 
 ## La solution LinkedIn
 
@@ -72,4 +72,4 @@ Les groupes sont moins fouillis, moins sujets à spam et plus faciles à navigue
 
 Je vais être dur mais je ne plus ce qui retient les gens sur Viadeo. Ça fera peut-être un effet Twitter : les gens restent malgré les pannes et le manque de fonctionnalité car c'est là où sont tous leurs contacts mais j'en doute fortement.
 
-[caption id="attachment_1234" align="aligncenter" width="474" caption="Groupe d&#39;utilisateurs sur LinkedIn"]![Groupe d](https://oncletom.io/images/2008/12/linkedin-group.png "Groupe d")[/caption]
+![Groupe d&#39;utilisateurs sur LinkedIn](https://oncletom.io/images/2008/12/linkedin-group.png "Groupe d")

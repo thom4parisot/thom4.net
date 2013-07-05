@@ -54,7 +54,7 @@ Une fois le bouton d'import cliqué, il faudra réitérer le clic au début de c
 Techniquement, sur un blog possédant plusieurs milliers d'articles sur 5 ans, il m'aura fallu à peine** 20 minutes de patience et 5 clics**.
 Difficile d'en demander plus à quelqu'un n'ayant aucune notion technique.
 
-[caption id="attachment_1523" align="aligncenter" width="300" caption="Écran de configuration de Canalblog Importer"][![](https://oncletom.io/images/2010/02/screenshot-11-300x123.png "Écran de configuration de Canalblog Importer")](https://oncletom.io/images/2010/02/screenshot-11.png)[/caption]
+[![Écran de configuration de Canalblog Importer](https://oncletom.io/images/2010/02/screenshot-11-300x123.png "Écran de configuration de Canalblog Importer")](https://oncletom.io/images/2010/02/screenshot-11.png)
 
 ## Canalblog Importer : les fonctionnalités
 
@@ -74,7 +74,7 @@ En gros, ce que cette extension ne fait pas, c'est le café, la récupération d
 
 J'ai essayé de rendre toutes les **étapes conviviales, explicatives et rassurantes** sur le processus en cours et restant. C'est encore plus simple que de rédiger un article de blog. Enfin, je trouve ;-)
 
-[caption id="attachment_1524" align="aligncenter" width="300" caption="Écran d&#39;aide à la fin d&#39;import"][![](https://oncletom.io/images/2010/02/screenshot-2-300x142.png "Écran d")](https://oncletom.io/images/2010/02/screenshot-2.png)[/caption]
+[![Écran d&#39;aide à la fin d&#39;import](https://oncletom.io/images/2010/02/screenshot-2-300x142.png)](https://oncletom.io/images/2010/02/screenshot-2.png)
 
 ## La clé de la réussite : cURL et XPath
 
