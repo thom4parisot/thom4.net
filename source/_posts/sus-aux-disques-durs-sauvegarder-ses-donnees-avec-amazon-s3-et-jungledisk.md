@@ -42,6 +42,7 @@ La première chose qui m'a frappé sur Amazon S3 ce sont les prix :
 *   0,15$ le Go stocké
 *   0,10$ par Go sauvegardé
 *   0,17$ par Go téléchargé, au maximum (dégressif jusqu'à 0,10$ au delà de 150To, autant dire beaucoup)
+
 J'ai fait mon calcul pour 20Go à sauvegarder et j'ai vite compris que j'y gagnais :
 
 *   **sécurité des données** (je suis parano à ce niveau)
@@ -78,6 +79,7 @@ JungleDisk propose également un service supplémentaire payant (_JungleDisk Plu
 *   **reprise du transfert des données**
 *   accès à une interface Web de visualisation des données sauvegardées
 *   meilleure gestion des gros volumes de données
+
 Je sauvegarde 3 choses en ligne : mes sites Web, mes documents personnels et surtout, mes photos. Avec 8 années d'archives numériques, je n'ai pas du tout envie de les perdre.
 
 J'ai paramétré une sauvegarde quotidienne et depuis cette version 2 et son option de reprise de sauvegarde, tous les jours où je connecte mon ordinateur au Web mes données sont sauvegardées.
@@ -96,6 +98,7 @@ Pour aller un peu plus loin dans l'affaire, je serais une entreprise avec de bes
 *   [Amazon SimpleDB](http://aws.amazon.com/simpledb) : requêtage SQL en temps réel et très utile pour des sites à forte charge (pas une raison pour pas optimiser)
 *   [Amazon Elastic Compute Cloud](http://aws.amazon.com/ec2) : créations de serveurs sur mesure adaptables à tout instant (que ça soit en terme de CPU et de RAM)
 *   [Amazon MTurk](http://www.amazon.com/gp/browse.html?node=15879911) : service d'**intelligence artificielle distribuée**
+
 Ce dernier service est à proprement parler le plus innovant puisqu'il permet de traiter des processus logiques qu'on lui apprend avec des données qu'on lui transmet.
 Des exemples ? Dédoublonnage de catalogues, mise en relation de données par principes de sémantique, analyses d'images (avec détection d'humains par exemple).
 

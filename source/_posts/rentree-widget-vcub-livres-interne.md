@@ -37,6 +37,7 @@ J'ai peaufiné le [widget VCUB pour Netvibes annoncé en avril dernier](https://
 *   affichage d'une carte réduite de station (avec stations à proximité)
 *   choix de la langue d'affichage (en français par défaut)
 *   correction du **bug d'ajout de station en favori** (merci à [Sébastien Dugué](http://www.ibordeaux.fr/) pour m'avoir mis sur la piste)
+
 En parallèle, je me suis lancé dans un petit projet utilisant les données de VCUB avec [Node.js](http://nodejs.org/) et [CouchDB](http://couchdb.apache.org/). J'espère aboutir à des résultats en 2011.
 D'ici là, je dois accumuler des données, à la fois pour secouer les performances de la base NoSQL mais aussi pour arriver au résultat qui m'intéresse.
 
@@ -62,6 +63,7 @@ Se sont entassés sur le canapé, pour cause de bibliothèque remplie :
 *   Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers
 *   Tribes: We Need You to Lead Us
 *   Les Mots sont importants
+
 Bref, il me faudra un petit bout de temps pour voir la lumière au bout du tunnel de la lecture.
 Peut-être devenir fonctionnaire pour avoir davantage de temps ? ;-)
 

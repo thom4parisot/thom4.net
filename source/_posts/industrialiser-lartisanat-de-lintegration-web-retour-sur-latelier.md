@@ -41,6 +41,7 @@ L'atelier consistait à passer en revue 3 des étapes du développement _fronten
 *   Organisation / équipe
 *   Documentation
 *   Tests
+
 Pour chacun de ces composants, toute personne dans la salle pouvait suggérer une **bonne pratique**, une **mauvaise pratique** ou un **outil**. Cela s'est matérialisé avec un tableau blanc découpé en 4 zones, dans lesquelles on collait des post-it.
 
 Pour la petite histoire, n'ayant pas pensé à acheter les post-il avant d'arriver à Paris, je me suis rabattu sur le premier choix venu, en me basant sur la connaissance du terrain de [David Larlet](http://larlet.fr/) : Loisirs & Créations du Bercy Village.
@@ -64,6 +65,7 @@ Quant au contenu en lui-même, plusieurs remarques s'imposent :
 *   la très grande majorité des contributions concernaient la **production** (c'était flagrant, face au tableau)
 *   par extension, il y a peu d'éléments de documentation et de tests et dans une moindre mesure, peu de travail en équipe/organisationnel (à part les classiques _versionning_)
 *   en production de CSS et de JavaScript, le** nombre de mauvaises pratique équivaut ou dépasse les bonnes pratiques**
+
 En une phrase et une seule : le développement frontend, en tous cas représentatif de la population présente dans la salle, **travaille dans son coin**, avec ses méthodes, peu adaptables à d'autres cadres.
 
 ## Et la suite ?
@@ -78,6 +80,7 @@ Ce que j'aimerais, c'est produire 2 livrables :
 
 *   une _**checklist**_** de bonnes pratiques** de développement _frontend_
 *   un **livre blanc du développement _frontend_**, comprenant en plus le processus de dialogue entre acteurs, pendant les phases projet
+
 Ces livrables seront _Open Source_, libres, gratuits et créés collectivement, parce qu'on a tous des terrains d'expertise différents et complémentaires.
 
 [caption id="attachment_17833" align="aligncenter" width="300" caption="Share the love ;-)"]![](http://media.oncle-tom.net/images/2010/11/post-it-delire-300x179.jpg "Délire de post-it")[/caption]

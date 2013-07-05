@@ -37,6 +37,7 @@ Au passage, je découvre 3 choses :
 *   <span style="line-height: 13px;">tout caniuse.com se base sur des [fichiers JSON hébergés sur Github](https://github.com/Fyrd/caniuse/tree/master/features-json) (CasperJS devient moins pertinent) ;</span>
 *   `href="#top"` (voir plus bas) ;
 *   des conditions de compatibilité affichées ne viennent pas forcément de caniuse.com.
+
 Le plus gênant est ce dernier point. Il faudrait que le générateur de table de compatibilité _ne soit pas un référentiel_ de données et soit capable de :
 
 *   <span style="line-height: 13px;">prendre en compte si une table existe ou non pour une fonctionnalité documentée ;</span>
@@ -45,6 +46,7 @@ Le plus gênant est ce dernier point. Il faudrait que le générateur de table d
 *   combiner les deux derniers points pour avoir quelque chose de vraiment pratique ;
 *   dans un premier temps se contenter de générer du HTML à copier/coller à la main ;
 *   dans un deuxième temps passer par l'[API PUT de MDN](https://developer.mozilla.org/en-US/docs/User:lmorchard/PUT-API) pour automatiser l'écriture des tables de compatibilité.
+
 Le constat est qu'il faudrait bien plus que la journée pour faire quelque chose d'efficace et vraiment fonctionnel. La bonne idée tombe un peu à l'eau ; j'aurais aimé avoir quelque chose d'utile/utilisable dans l'après-midi.
 
 ## href=#top
@@ -71,6 +73,7 @@ Au final, une après-midi aura été nécessaire pour compléter 4 pages dans MD
 *   [onbeforeunload](https://developer.mozilla.org/en-US/docs/DOM/window.onbeforeunload)
 *   [unload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/unload)
 *   [beforeunload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/beforeunload)
+
 [![6843235730_1cdac9f950_z](https://oncletom.io/images/2013/02/6843235730_1cdac9f950_z-600x399.jpg)](http://www.flickr.com/photos/the-jedi/6843235730/)
 
 ## Conclusion

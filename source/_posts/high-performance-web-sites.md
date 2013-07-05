@@ -65,6 +65,7 @@ High Performance Web Sites axe son discours sur 14 points :
 12.  [Supprimer les doublons de scripts](http://developer.yahoo.net/blog/archives/2007/07/high_performanc_10.html)
 13.  [Configurer ETags](http://developer.yahoo.net/blog/archives/2007/07/high_performanc_11.html)
 14.  [Permettre la mise en cache des appels Ajax](http://developer.yahoo.com/performance/rules.html#cacheajax)
+
 Il prend cependant le soin de bien expliquer les **mécanismes d'HTTP** et les intérêts à améliorer les performances _frontend_.
 
 Le livre termine sur un comparatif des 14 points sur 10 sites, notation YSLow comprise, dont Amazon, Google, CNN, eBay, Wikipédia et Yahoo!.

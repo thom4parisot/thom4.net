@@ -1,12 +1,12 @@
 title: "L'entretien d'embauche : le barratineur"
 id: 446
 date: 2007-02-11 13:00:58
-tags: 
+tags:
 - conseils
 - cv
 - embauche
 - motivation
-categories: 
+categories:
 - Travail 2.0
 ---
 
@@ -21,6 +21,7 @@ Le clou fût certainement quand je lui ai demandé ce qu'il connaissait en réf�
 *   c'est renseigner les balises META pour les moteurs de recherche (pratique utilisée il y a 10 ans, tout juste prise en compte à l'heure actuelle)
 *   s'inscrire dans beaucoup d'annuaires (erreur fatale, possibilité de [fermes de liens](http://www.dicodunet.com/definitions/referencement/ferme-de-liens.htm) et d'activité anormalement suspecte)
 *   acheter des liens sponsorisés (ça s'appelle du marketing, pas du référencement)
+
 Bref, un beau rétamage en beauté : il a préféré risquer de dire des *onneries monumentales en espérant qu'on ne s'y connaisse pas plutôt que de répondre un simple <cite>je connais ça, ça et ça ... mais pas ce dont vous me parlez</cite>.
 
 Dommage parce qu'il comptait en faire son métier. _Difficile de paraître compétent dans ce cas de figure_ ...

@@ -36,6 +36,7 @@ Revenons-en au contexte. La blogueuse dispose déjà d’un blog et se fait aide
 *   la blogueuse est un particulier ;
 *   le budget est inférieur à 1000€ ;
 *   le souhait est donné à travailler avec une personne proche géographiquement parlant.
+
 Le boulot n’est pas forcément énorme mais pour un indépendant, surtout s’il a conscience de la valeur de son travail, le salaire est maigre, surtout après abattement des charges. C’est toujours mieux que rien, on est d’accord.
 
 La seule alternative que je voyais était de payer un étudiant :
@@ -51,6 +52,7 @@ Quelques réactions m’ont par la suite interpelé :
 *   "Pourquoi un étudiant, on	 peut espérer moins cher ?"
 *   "Parce que l’étudiant n’aurait pas les mêmes frais que le freelance ? Et il serait forcément aussi compétent ?"
 *   "Qu’est-ce qui justifie de payer moins cher un étudiant qu’un freelance ?"
+
 À la première question, à part un bénévole, je ne vois pas comment espérer moins cher. Et vous ?
 
 Les deux questions suivantes se basent sur des postulats qui n’avaient jamais été évoqués ou sous-entendu par le tweet initial, ou partent du principe que c’est devenu une base de réalité quand on écrit le mot «étudiant» :
@@ -59,6 +61,7 @@ Les deux questions suivantes se basent sur des postulats qui n’avaient jamais 
 *   la tarification dépend de la tâche/temps travaillé, et non de son statut ;
 *   l’étudiant est aussi compétent que l’indépendant, mais toujours payé moins cher ;
 *   quand on veut exploiter quelqu’un, c’est soit le stagiaire, soit l’étudiant – points bonus si on lui dit ouvertement.
+
 Sans vouloir tomber dans la réponse de Normand ou en éluder sa formulation, il n’y a pas de solution unique et dépend de plusieurs critères :
 
 *   un étudiant payé en direct n’a pas de charges à payer, juste un chèque à encaisser ;

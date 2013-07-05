@@ -39,6 +39,7 @@ La liste des widgets et des fonctionnalités est assez importante :
 *   liens aperçu produit
 *   liens contextuels
 *   etc.
+
 Les widgets se créent en ligne et au final, leur code HTML nous est gentiement proposé.
 
 **Premier constat** : le code fourni par Amazon a beau être fonctionnel, c'est quand même un sacré bazar. Pour peu que l'on bascule de l'éditeur Visuel à l'éditeur HTML de Wordpress, le code est nettoyé par endroit le rendant quasi inutilisable.
@@ -75,6 +76,7 @@ Maintenant que j'avais les idées, il fallait les mettre en place. Voici comment
 8.  améliorations pratiques et ergonomiques
 9.  utilisation en tant que widgets dans les thèmes Wordpress
 10.  gestion intégrée des widgets (Amazon ne fournissant aucune API à ce niveau)
+
 Cette progression permet de créer petit à petit l'application, de la rendre modulaire et extensible. L'ajout et le support de nouveaux widgets ne doit pas remettre en cause l'architecture du plugin.
 
 [caption id="attachment_1143" align="aligncenter" width="500" caption="Code JavaScript d&#39;Amazon Widgets Shortcodes"]![Code JavaScript d](https://oncletom.io/images/2008/09/awshortcode-javascript-abstraction.png "Code JavaScript d")[/caption]

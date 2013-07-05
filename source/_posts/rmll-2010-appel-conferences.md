@@ -38,6 +38,7 @@ Les logiciels libres sont un vaste domaine, couvrant de multiples aspects de not
 *   Sciences, Éducation, Éducation populaire
 *   Entreprises et Logiciel Libre
 *   Collectivités, administrations, politiques publiques
+
 Chacune de ces thématiques comporte ensuite des sessions. Ces sessions agissent comme des sous-thèmes, afin d'affiner et guider le visiteur au sein de la centaine de conférences réparties sur 5 jours.
 
 ## La session Internet
@@ -54,6 +55,7 @@ Allez, quelques pistes :
 *   Jabber/XMPP/PubSubHubbub
 *   OpenStreetMap
 *   Licences − CreativeCommons etc.
+
 Soyez créatifs, proposez des sujets ;-)
 
 ## Internet != Web
@@ -70,5 +72,4 @@ Le site Web de l'édition 2010 des RMLL est en ligne à l'adresse permanente [ht
 Si vous avez « juste » peur d'être timide, établissez au moins le contact pour obtenir des informations.
 Nous sommes également passés par là donc on pourra vraisemblablement vous assister.
 
-Un email vers <span class="gI">[internet@listes2010.rmll.info](mailto:internet@listes2010.rmll.info) fera l'affaire. On vous guidera le reste du processus.</span>
-<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">http://2010.rmll.info/Appel-a-conferences.html</div>
+Un email vers [internet@listes2010.rmll.info](mailto:internet@listes2010.rmll.info) fera l'affaire. On vous guidera le reste du processus.

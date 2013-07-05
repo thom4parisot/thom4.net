@@ -60,6 +60,7 @@ Faut pas s'inquiéter :
 *   si les blogs qui ont affirmé ça ont pensé qu'ils étaient intéressants au point d'intéresser des avocats, ça se saurait
 *   la responsabilité éditoriale qui a été engagée n'a rien à voir avec le fonctionnement d'un blog
 *   et puis je le répète, ce n'est pas le procès de Presse-citron (les mononeuraux ont la tête dure)
+
 Et c'est finalement très bien que cette affaire ait été médiatisée puisqu'il a permis de mettre le doigt là où ça fait mal : **la modération du contenu généré par les utilisateurs**. Fuzz a été épinglé pour ça et pour rien d'autre, l'atteinte à la vie privée n'est qu'une conséquence de cette incapacité à réguler le flux éditorial.
 
 Internet n'est pas un État de non-droit, rien n'est virtuel, tout est réel. On ne peut pas dire ce qu'on veut, écrire ce que l'on veut. La liberté d'expression ce n'est pas dire tout ce qui nous passe par la tête. C'est pouvoir exprimer une opinion sans crainte de répression.

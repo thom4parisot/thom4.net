@@ -1,19 +1,21 @@
 title: "Prenez des raccourcis"
 id: 467
 date: 2007-02-22 13:00:42
-tags: 
+tags:
 - astuce
 - bonnes pratiques
 - clavier
 - optimisation
-categories: 
+categories:
 - Développement Web
 ---
 
 Quand on utilise régulièrement les mêmes logiciels, on aime à pouvoir gagner du temps tout en se _simplifiant la vie_. Les seuls pré-requis sont 2 doigts et un peu de mémoire. Autant dire que tout le monde (ou presque) est concerné.
 
 Voyons ensemble 10 combinaisons de touches avec <kbd>Control</kbd>, facilement mémorisables. Ces combinaisons se retrouvent sur la plupart des logiciels Windows, Linux et Mac OS X à la différence près que pour ce dernier, c'est la touche <kbd>Pomme</kbd> qui interagit.
+
 <!--more-->
+
 Sur la première rangée de votre clavier :
 
 *   <kbd>Control + A</kbd> (**A**ll, tous) : sélectionner tout le contenu d'une zone active (document, zone de texte etc.) ;

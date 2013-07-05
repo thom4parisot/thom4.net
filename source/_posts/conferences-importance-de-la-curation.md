@@ -34,6 +34,7 @@ Leur philosophie a été la suivante :
 *   thématique dédiée exclusivement à JavaScript (et tout ce qui y a trait) ;
 *   des orateurs de qualité ;
 *   une grille horaire connue ; un programme inconnu.
+
 En clair on connaissait la durée des conférences mais on ne savait pas du tout de quoi allaient parler chaque orateur.
 
 C’était le contrat proposé.
@@ -51,6 +52,7 @@ Il faut réaliser à quel point chaque élément a été calculé :
 *   la **qualité** et l’intérêt du sujet ;
 *   l'**horaire** de passage ;
 *   la **durée** de l'intervention.
+
 Si des organisateurs de conférence passent à côté de ça, la sensation rendue auprès du public en deviendra hasardeuse. La catastrophe n’est jamais très loin et sera _difficilement_ pardonnée.
 
 La curation de la conférence impacte très largement sur la perception du prix. À 50€ et peu de temps de transport, on oubliera plus facilement sur les aléas. À 250€ et beaucoup de temps de transport, la pilule passera plus difficilement.
@@ -64,6 +66,7 @@ Du point de vue des participants, la lecture factuelle d’un programme de conf�
 *   la _thématique_ ne justifie pas le degré de _technicité_ ;
 *   le nom de _l’orateur_ ne justifie pas le degré de _technicité_ ;
 *   le degré de _technicité_ de _l’assemblée_ ne justifie pas celui de la conférence.
+
 **Nous avons tous envie de ressortir grandi d’une conférence**. On peut en ressortir grandi parce qu’on aura _appris_ une nouvelle interface d’API. On peut en ressortir grandi parce qu’on aura remis en _perspective_ notre manière de penser. On peut ressortir grandi parce qu’on aura eu _confirmation_ d’une intuition. On peut en ressortir grandi parce qu’une _rencontre_ entrainera une _discussion_, des échanges, une amitié ou des contrats.
 
 Cette liste n’est pas exhaustive. Mais ce sont **différents niveaux de lecture** de la curation du point de vue du participant.

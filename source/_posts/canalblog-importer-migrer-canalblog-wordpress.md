@@ -33,6 +33,7 @@ Las de ce mutisme de la part de Canablog, j'ai donc décide de me mettre à l'ou
 
 *   importer un maximum d'éléments
 *   en demander le moins possible à l'utilisateur
+
 Une fois le _plugin_ activé, une nouvelle entrée fait son apparition dans la rubrique d'administration Outils > Importer : [Canalblog Importer](http://wordpress.org/extend/plugins/canalblog-importer/).
 
 ## L'import Canalblog en 5 étapes
@@ -43,11 +44,9 @@ L'import de son blog Canalblog se déroule par la suite en 5 étapes :
 2.  Import des mots-clefs
 3.  Import des catégories
 4.  Import des articles
-
-    *   Import des articles
-    *   Import des commentaires
-    *   Import des médias
-
+  *   Import des articles
+  *   Import des commentaires
+  *   Import des médias
 5.  Nettoyage
 La configuration de l'import est le moment requérant toutes vos capacités pour taper l'**adresse de votre blog**. Oui c'est tout. S'ensuit alors une suite de recommandations, entre autre pour s'assurer du bon déroulement de l'import. Ça concerne la configuration des permaliens et le format de dates sur Canalblog.
 
@@ -70,6 +69,7 @@ Les différentes étapes de l'import résument à elles seules les fonctionnalit
 *   correction des liens inter-articles
 *   intégration des médias dans le gestionnaire de médias de WordPress − avec génération de vignettes à la clé et utilisation de celles-ci au sein des articles
 *   reprise de l'intégration et tolérance à l'erreur : l'import peut être relancé indéfiniment, les contenus ne seront pas réimportés en double
+
 En gros, ce que cette extension ne fait pas, c'est le café, la récupération de la _blogroll_ et la migration du référencement vers votre nouveau blog − faute au manque de nom de domaine et à l'impossibilité de dire aux moteurs de recherche les nouvelles adresses des articles hébergés sur Canalblog.
 
 J'ai essayé de rendre toutes les **étapes conviviales, explicatives et rassurantes** sur le processus en cours et restant. C'est encore plus simple que de rédiger un article de blog. Enfin, je trouve ;-)
@@ -86,6 +86,7 @@ J'en ai un peu marre de faire des require à tour de bras donc je fais fi des re
 C'est vraiment la boîte à outil de la manipulation HTTP. Elle est abstraite dans la classe WP_Http. Son utilité ? Récupérer du contenu distant. Pratique pour rapatrier le contenu de pages HTML, entre autre.
 *   [DOMXPath](http://fr.php.net/manual/en/class.domxpath.php)
 Associé au [DOM PHP5](http://fr.php.net/manual/en/book.dom.php), c'est un outil formidable pour requêter au sein d'un document HTML ... disons, récupéré à distance ? La structure des thèmes Canalblog étant identique (pour peu qu'ils n'aient pas été retouchés en mode avancé), le travail de constitution des sélecteurs XPath n'en était que plus facilitée.
+
 Donc clairement, cette extension effectue un **travail bête et méchant de _crawl_ des pages d'un blog**, de manière structurée afin de peupler tranquillement un blog WordPress de ce même contenu.
 Je me suis basé au maximum par les outils déjà existants ... y compris la classe d'import WordPress.com ! Je l'ai réutilisé pour l'import des médias vu qu'elle correspondait parfaitement au besoin.
 

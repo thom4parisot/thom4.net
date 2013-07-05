@@ -81,6 +81,7 @@ Après moult discussions, réflexions et interruptions de sommeil, j'ai réalis�
 *   je cherche à améliorer ma qualité de vie
 *   j'ai envie de défi(s)
 *   ma famille, mes amis, mes relations professionnelles et ma tendre compagne me soutiennent et m'encouragent
+
 En clair, il est temps, ni trop tard, ni trop tôt. Juste le moment, dans ma vie, où je veux me lancer. J'ai envie de me dire que je réussirai et s'il s'avérait que ce n'était pas le cas, tant pis, j'aurais essayé.
 
 ## Liberté
@@ -101,6 +102,7 @@ La frustration a ça de bénéfique : elle pousse à la liberté.
 Je suis en train de préparer mon avenir, administrativement et stratégiquement parlant. J'aurai l'occasion d'expliquer dans un prochain billet pourquoi j'ai souhaité choisir la formule _freelance_ / indépendant.
 
 Rien ne démarrera avant 2011, je me laisse encore le temps d'y réfléchir et de profiter des fêtes de fin d'année dans le sud de la France.
+
 > **Nota bene** : pour éviter toute confusion, je n'ai aucun regret à avoir passé 3 ans de ma vie chez Clever Age. Sans cette étape, sans les gens que j'y ai cotoyé et sans ce que j'y ai appris, je n'aurais peut-être pas franchi le pas. Ce n'est pas un règlement de compte, ou un tir à boulet rouge. C'est un constat.
 >
 >

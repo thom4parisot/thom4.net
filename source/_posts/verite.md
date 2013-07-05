@@ -75,6 +75,7 @@ Des heures de **discussion** avec des personnes brillantes, d’une patience inf
 *   accepter ce que je suis : un _trouveur de solution_ ;
 *   accepter ce que j’aime : _javascript_ et les _technologies Web_ ;
 *   assumer mes points forts : idées, pragmatisme, catalyseur de forces humaines, pensée orientée utilisateur, capacité d’apprentissage, compréhension transversale des problèmes et de leurs implications.
+
 Pour afficher cette cohérence, l’identité du blog a été refondue pour s’intégrer naturellement avec mes prestations professionnelles : **expertise**, **formations** et **conférences**.
 
 ![](https://oncletom.io/images/2013/01/oncletom_-on-Instagram-600x291.png "Same Place, Every Day")
@@ -86,6 +87,7 @@ Cohérence toujours, 2012 aura été celle des réussites dans l’accomplisseme
 *   **j’ai vendu ma voiture** et ne me déplace plus qu’en transports en commun, à pied, à vélo, en covoiturage ou en train ;
 *   j’ai déménagé près de mon (ancien) lieu de travail, **réduisant mon temps de trajet** tout en étant dans un emplacement stratégique pour mon activité d’indépendant ;
 *   mon alimentation repose quasi-exclusivement sur un **circuit court**, du producteur au consommateur — raisonné et issu de l’agriculture biologique de surcroît.
+
 J’ai envie d’étendre le « local » au non-alimentaire, d’utiliser une énergie à faible <del>coût</del> empreinte écologique (bois et électricité 0% nucléaire entre autre) et de continuer à offrir des sourires dans la rue, parce que ça me fait plaisir.
 
 ## Pratique photographique accrue
@@ -100,6 +102,7 @@ Une **révélation** : [Edward Hopper au Grand Palais](http://www.grandpalais.fr
 *   [Hitchhicking in Iceland](http://www.flickr.com/photos/the-jedi/sets/72157631666463641/) — 22 photographies numériques sur le voyage en Islande en auto-stop (on devrait importer leur gentillesse, leur simplicité et leur [prévenance](https://larlet.fr/david/thoughts/#caring)) ;
 *   _Living Animals_ — instantanés numériques sur des animaux morts ;
 *   [Same Place, Every Day](http://instagram.com/oncletom_) — instantanés numériques d’un même lieu, chaque jour de l’année (25ème cliché en ce 2 janvier).
+
 **Plusieurs publications** aussi : une affiche d’évènement, quelques illustrations de livres et ma première exposition. Je constitue mes propres cartes postales quand cela s’y prête ; signe d’auto-satisfaction … d’acceptation ?
 
 Je ressens aussi le besoin de rompre l’isolement. [J’ai rejoins un collectif fort sympathique](https://www.facebook.com/OpusBoheme) et ça me fait déjà le plus grand bien ; entre autre parce que sont des gens biens, **stimulants** et _sains_.
@@ -109,9 +112,11 @@ Je ressens aussi le besoin de rompre l’isolement. [J’ai rejoins un collectif
 ## Conclusion
 
 En 2008, une carte de vœux me signifiait ceci :
+
 > Cher Thomas,
 >
 > Je te souhaite une excellente année 2008\. Je crois que tu es lancé, et que tu iras loin.
+
 Ça y'est, c'est fait, je suis lancé et je ne me le cache plus à moi-même.
 
 En 2013, on va continuer à apprendre, découvrir, discuter, voyager, s’émerveiller, partager, tisser, nouer, défaire, refaire, rejoindre. Plus que jamais, **la force du groupe soudé par des valeurs communes et un respect mutuel aura toute son importance**.

@@ -51,12 +51,14 @@ En clair :
 
 *   _j'ai perdu l'information_ dont j'étais en possession
 *   _je dois à nouveau la retrouver_ dans une disposition différente de l'origine
+
 La bonne chose à faire serait de taper à nouveau ma recherche (_CPAM gironde_) dans le champ de saisie mais préférant la facilité, j'use de la carte de France et clique sur la région Aquitaine.
 
 Enfer et damnation, je dois retrouver la CPAM dans une liste à 5 niveaux de défilement. 2 solutions :
 
 *   cliquer sur un département : l'affichage de la longue liste se retrouve filtré au département en question. À nouveau recherche de l'information.
 *   scanner la page pour y trouver ce que je veux. Heureusement que l'occurence CPAM est affichée, ce qui m'évite d'avoir à tout lire.
+
 Et comme si je n'avais pas assez cherché, je me retrouve confronté à un choix difficile : choisir parmi 8 liens hypertexte au même libellé. Jugez-en par vous-même :
 
 [caption id="attachment_1194" align="aligncenter" width="500" caption="Quel lien choisir ?"]![Quel lien choisir ?](https://oncletom.io/images/2008/10/liste-cpam-gironde.png "Quel lien choisir ?")[/caption]
@@ -72,6 +74,7 @@ Trop de manipulations c'est certain. Résumons les erreurs principales :
 *   présentation d'un message peu clair
 *   renvoi vers une page détruisant l'information en notre possession
 *   obligation de rechercher à nouveau l'information en notre possession
+
 Cela aurait pu être évité par l'un de ces 2 moyens :
 
 *   **redirection automatique permanente.**

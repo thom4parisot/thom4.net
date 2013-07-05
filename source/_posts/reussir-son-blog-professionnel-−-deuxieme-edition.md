@@ -26,6 +26,7 @@ Une deuxième édition après seulement 9 mois de mise en rayon, ce n'est pas tr
 
 *   partir sur un nouveau tirage, plus important, à contenu identique
 *   partir sur une nouvelle édition, et justifier son titre par des ajouts ainsi qu'une actualisation du contenu
+
 La deuxième option n'aurait pas été drôle si je n'avais pas jusqu'au 1<sup>er</sup> avril pour fournir le nouveau manuscrit. C'est pourtant la solution retenue, notamment parce qu'un nouveau tirage aurait repoussé à 2011 toute actualisation.
 
 L'actualité des réseaux sociaux ayant été chargée depuis septembre 2009, **je souhaitais limiter l'obsolescence du contenu**.
@@ -40,6 +41,7 @@ Cette deuxième édition gonfle de **11 pages**, avec ces nouveaux contenus :
 1.  inclusion du documentaire vidéo [Le phénomène des blogs](http://www.dailymotion.com/video/x8hpg0_documentaire-le-phenomene-des-blogs_news) en clôture de premier chapitre
 2.  sous-chapitre « fédérer une communauté » expliquant en quoi fournir une plateforme de blogs facilite l'expression de vos suiveurs, de les canaliser et d'en faire ressortir des leaders d'opinion
 3.  sous-chapitre « cartographier les flux sortants », pour ne plus jamais s'emmêler les pinceaux en publiant 2 fois la même information sur autre canal de communication (Facebook, Twitter et consors)
+
 Et du côté des changements, de manière _synthétique_ :
 
 1.  maîtrise de son identité − ajout de Google Alertes
@@ -49,6 +51,7 @@ Et du côté des changements, de manière _synthétique_ :
 5.  mise à jour des données de FeedBurner − fonctionnalité Socialize
 6.  mise à jour des données de Facebook − synchronisation avec Twitter
 7.  mise à jour des données de Yammer − recherche améliorée, hashtags etc.
+
 J'ai déjà des idées pour la troisième édition, mais si vous avez des requêtes, corrections ou d'autres idées à faire passer, **n'hésitez pas** :-)
 
 ## Le phénomène des blogs

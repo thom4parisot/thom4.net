@@ -74,6 +74,7 @@ Voici ce que j'aurais aimé voir sur Jaiku pour migrer définitivement dessus :
 *   **import de contacts** depuis Facebook, Twitter et pourquoi pas, son carnet d'adresse Gmail ([par l'API](http://code.google.com/apis/contacts/ "Google Contacts API") bien sûr)
 *   **forte intégration dans Google** (Google News, Google Alerts, Gmail, Google Calendar, Google Talk/Jabber, iGoogle et widgets etc.)
 *   **utilisation de l'infrastructure Google** (on parle d'[App Engine](http://code.google.com/appengine/) entre autre)
+
 Après, ma seule crainte ce sont les [habituels travers de Google, abandon de service, manque de suivi et opacité de service](https://oncletom.io/2008/03/11/google-ange-demon-vie-numerique/).
 
 Je garde bon espoir pour Jaiku. À tel point que je suis même en train de produire un [widget Netvibes](https://oncletom.io/code/netvibes/ "widget Netvibes pour Jaiku") pour _Jaikuter_ depuis n'importe où ;-)

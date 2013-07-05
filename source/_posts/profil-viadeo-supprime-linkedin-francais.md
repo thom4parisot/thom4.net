@@ -29,6 +29,7 @@ Si l'on ne dispose pas d'un blog ou d'une page personnelle exprimant nos idées,
 *   une vision élargie et une proximité de votre réseau
 *   un accès aux "amis de vos amis" (excellente source de recrutement)
 *   un potentiel d'affaires supplémentaire
+
 Mettre à jour un statut ça paraît bête mais vous _poussez_ cette information à tout votre réseau. Ce même réseau le réceptionnera et sera capable de rebondir dessus, surtout s'il s'agit de recrutement. C'est du _statut à oreille_ au lieu du classique bouche à oreille.
 [Twitter est excellent](https://oncletom.io/2007/06/01/twitter-gtwitter/) de ce point de vue là, en plus d'être un excellent relais d'information.
 
@@ -41,6 +42,7 @@ Malgré toutes les qualités que pouvait avoir Viadeo, j'ai supprimé mon profil
 *   le **stockage des mots de passe en clair** (merci à [Nico](http://prendreuncafe.com) pour l'info d'ailleurs)
 *   l'**omniprésence des publicités** incitant à devenir membre _premium_
 *   cette sensation de grand bazar et d'interface rigide
+
 L'envoi du mot de passe existant dans sa boîte mail n'est pas rassurant. Cela signifie qu'il n'est pas ou peu protégé : soit il est stocké en clair, soit il est chiffré mais quelque part se trouve la clé permettant d'inverser le processus. Un bien bel artifice.
 
 Le problème ? Une fuite de données ou une intrusion chez Viadeo et ce sont des millions de mot de passe qui sont récupérés.
@@ -60,6 +62,7 @@ Je dispose d'un [profil LinkedIn](http://www.linkedin.com/in/thomasparisot) depu
 *   interface très propre
 *   le côté _premium_ pas envahissant pour 2 sous
 *   ça respire la qualité
+
 Forcément ça fait plus "pro". Ceci dit, je trouvais qu'il manquait une interface en français pour attirer des professionnels français ... en dehors des éternels _early adopters_.
 J'ai décalé la sortie de ce billet d'une semaine et coïncidence, [LinkedIn annonce une version française](http://blog.linkedin.com/2008/11/25/linkedin-en-francais-is-now-a-fait-accompli/). Comme quoi ...
 

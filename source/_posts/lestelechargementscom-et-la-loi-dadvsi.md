@@ -40,8 +40,8 @@ La loi DADVSI est composée de 270 amendements. Elle est donc assez vaste et pas
 *   règle d'épuisement du droit (autorisation de distribution d'une oeuvre issue de la propriété intellectuelle);
 *   mesures techniques de protection (DRM);
 *   informations et identification électronique (identification des oeuvres et de ses possesseurs)
-*   protection juridique des mesures techniques
- (légaliser les systèmes de protection)*   l'interopérabilité (permettre l'utilisation d'un fichier protégé sans restriction de système d'utilisation)
+*   protection juridique des mesures techniques (légaliser les systèmes de protection)
+*   l'interopérabilité (permettre l'utilisation d'un fichier protégé sans restriction de système d'utilisation)
 
 ## Ne pas faire confiance à la "confiance numérique"
 

@@ -36,6 +36,7 @@ Il faut savoir qu'il existe plusieurs variations de cette anomalie de perception
 *   pas de perception du vert
 *   mauvaise perception du bleu
 *   pas de perception du bleu
+
 À cela s'ajoutent également des combinaisons possibles entre ces différentes variantes. Pour plus d'informations, je vous invite à consulter l'[article sur le daltonisme sur Wikipédia](http://fr.wikipedia.org/wiki/Daltonisme).
 Et pour votre gouverne, **être daltonien ne signifie pas être handicapé**. Les personnes atteintes de cette anomalie (environ 8% des hommes en France, même pas 1% de femmes) ne peuvent donc pas être reconnues comme telles.
 
@@ -54,10 +55,12 @@ _colorblind-applet_ me convient toutefois davantage pour les raisons suivantes :
 *   il peut se piloter entièrement via des **raccourcis clavier** (activation, désactivation, navigation entre les filtres)
 *   son **utilisation est persistante** : il reste actif tant qu'on ne le désactive pas (Color Oracle enlève le filtre au moindre clic de mémoire)
 *   il demande **peu de ressources machine**, intégration directe dans Gnome oblige (Color Oracle est en Java)
+
 En clair je résumerais comme suit :
 
 *   vous êtes sous Linux et plus particulièrement dans un bureau à base de GTK ? Utilisez _colorblind-applet_
 *   dans les autres cas, utilisez _Color Oracle_ (compatible Linux, MacOS X et Windows)
+
 [caption id="attachment_1055" align="aligncenter" width="498" caption="Colorblind-applet : contrôles"]![Colorblind-applet : contrôles](https://oncletom.io/images/2008/08/colorblind-applet-controls.png "Colorblind-applet : contrôles")[/caption]
 
 ## colorblind-applet en action
@@ -77,4 +80,5 @@ Puisqu'une image vaut davantage qu'un long discours (trop tard me direz-vous ;-)
 *   jouer sur les couleurs n'est pas suffisant pour faire passer un message aux utilisateurs
 *   ça ne doit pas être évident de parcourir le Web et ses multiples couleurs tous les jours : la désaturation de vert pique particulièrement les yeux
 *   et par extension, il me paraît très difficile de produire une charte graphique convenant à tous les types de daltonisme
+
 Je serais curieux d'avoir des retours de personnes ayant déjà eu à travailler avec cette déficience, les bonnes pratiques de conception et tout autre conseil avisé.

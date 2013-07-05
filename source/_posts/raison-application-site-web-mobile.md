@@ -25,6 +25,7 @@ Non, ce qui m'a vraiment frappé c'est que sur les 10 raisons évoquées, à pei
 
 *   utilisation du push
 *   l'écosystème de l'App Store
+
 Mais surtout, les véritables raisons ne sont même pas évoquées.
 Rectification.
 
@@ -63,6 +64,7 @@ Encore que, avec des technos Web on peut réaliser une application mobile grâce
 10.  **l'écosystème de l'App Store, iAd et la possibilité de monétiser une application**
 C'est fortement lié à la 8ème raison : l'écosystème fait qu'on va chercher en premier dans le _store_ plutôt que depuis son navigateur mobile. D'ailleurs, pour un service existant, les utilisateurs n'attendent même pas que la communication soit faite sur l'application : les possesseurs de _smartphones_ cherchent dans le _store_. Point final.
 iAd n'est qu'une plateforme publicitaire parmi d'autres mais on n'a pas le choix (sur iPhone en tous cas).
+
 La monétisation est possible en paiement à l'acte sur un site Web mobile, mais clairement pas à l'installation. La manière de monétiser est différente. L'acte d'achat aussi : l'utilisateur sera très certainement plus propice à payer une application qu'un accès à un site Web mobile.
 
 ## S'il ne fallait retenir qu'une seule raison

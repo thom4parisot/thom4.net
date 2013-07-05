@@ -53,6 +53,7 @@ Tout est critiquable mais je suis joueur.
 
 *   ceux qui ont la bonne résolution n'en auront que faire (et je les comprends)
 *   ceux qui n'ont pas la bonne ... et bien ils s'en apercevront et surtout, que peuvent-ils faire ?
+
 Combien de personnes ont diminué leur résolution pour cause de problème de vision ? Vont-ils augmenter la résolution uniquement parce que ça a été voulu sur ce site Web ? C'est un peu comme si en allant au supermarché on regardait la taille de votre coffre de voiture en refoulant tous les possesseurs de Smart.
 **Personne ne le fera, faut arrêter de rêver**. Et surtout si les personnes ne savent pas régler leur résolution (tant et si bien que ça leur parle).
 
@@ -60,6 +61,7 @@ Plusieurs cas de figure :
 
 *   si on a vraiment besoin de ces 1024, on s'arrange pour placer au moins la navigation principale dans la partie qui sera toujours visible sans avoir à scroller horizontalement
 *   ou alors on opte pour un [site à largeur variable, fluide ou élastique](http://css.alsacreations.com/Tutoriels-et-articles-divers/Faire-un-site-pour-toutes-les-resolutions)
+
 Et pour le navigateur ? J'ai un PC mais je ne comprends pas, je ne peux pas avoir Internet Explorer 6 dessus. Ah je suis sous Linux ? Je comprends pas pourquoi je ne me sens pas concerné.
 Hé les gars : faut faire la différence entre Windows (système verrouillé par conception) et [PC](http://fr.wikipedia.org/wiki/Compatible_PC) (architecture basée sur x86, dont les Mac feraient même partie aujourd'hui si on reste large).
 
@@ -77,10 +79,12 @@ La configuration des cookies est tellement bien expliquée, à tel point qu'on t
 *   que ça ne permet pas de lire des informations sur le disque dur (à moitié vrai, les cookies c'est pas sur le disque ?)
 *   mais qu'à côté de ça, ça permet de créer une base de données sur les visiteurs (c'est beau la transparence ceci dit)
 *   et surtout le plus fun, que les **cookies sont gérés automatiquement** par les sites de commerce électronique
+
 Alors 2 possibilités :
 
 *   Ooshop n'est pas un site de commerce électronique, ce qui explique la procédure de configuration des cookies expliquées juste en-dessous
 *   Ooshop se fiche éperdument de la tête de ses visiteurs et compte sur leur aptitude à ne pas lire cette même pas (et là ils ont raison, personne ne la lit/lira/a lu)
+
 Mon conseil : **vérifier que les cookies sont activés sur le navigateur**. C'est pas comme si on pouvait le faire de manière automatique mais presque ... En cas d'erreur, lui présenter en image les manipulations à effectuer sur son navigateur.
 À quoi bon parler de la configuration d'Internet Explorer si on utilise Konqueror ...
 

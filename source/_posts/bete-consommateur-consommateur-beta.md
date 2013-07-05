@@ -11,6 +11,7 @@ categories:
 ---
 
 Je vous parlais il y'a peu de la [suppression des DRM des plates-formes de téléchargement légal](https://oncletom.io/2007/01/24/un-drm-peut-en-cacher-un-autre/). Je proposais donc 5 choix tous plus "farfelus" les uns que les autres. Farfelus au premier abord, seulement au premier abord. Malheureusement, tout ce qui va suivre n'est que la triste vérité, il va falloir commencer à sérieusement prendre conscience du danger.
+
 <!--more-->
 
 ## C’est pas bien de vouloir contrôler entièrement la chaîne musicale (du studio jusqu’aux oreilles des consommateurs)
@@ -33,6 +34,7 @@ Pour nous convaincre du bien-pensé des DRM, les majors ont pris 2 courbes :
 
 *   courbe des ventes de CD : en baisse
 *   courbe d'utilisation des réseaux P2P : en hausse
+
 Les DRM étaient là : ils freineront le P2P et donc fatalement, les ventes de CD repartiront à la hausse. _Le jeu de l'autruche_.
 En quoi les DRM freineraient le P2P étant donné que les fichiers sur les réseaux P2P sont _déjà sans DRM_ ? Ils ne pouvaient gêner que ceux achetant des fichiers protégés. Il n'y a que les non-acheteurs qui ne sont pas lésés dans l'histoire.
 
@@ -47,8 +49,6 @@ Sans DRM, seuls les formats (WMA, MP3, AAC et j'en passe) compteront et c'est d�
 ## [Faire ch**r Pascal Nègre](http://www.zdnet.fr/actualites/internet/0,39020774,39366196,00.htm)
 
 Humour. Ceci dit, il y a pas mal de [raisons de ne pas aimer le président d'Universal Music](http://standblog.org/blog/post/2007/01/28/Cest-la-St-Pascal-Negre).
-
-* * *
 
 Voilà pour les explications. Il y aurait de quoi en écrire des bouquins sur les DRM mais on va passer à un constat plus général. Si celui des DRM faisait déjà peur, celui-ci est encore meilleur.
 

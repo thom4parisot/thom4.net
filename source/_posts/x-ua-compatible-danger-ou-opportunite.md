@@ -20,6 +20,7 @@ La firme de Redmond est confrontée à ce fâcheux dilemne :
 
 *   considérer ses clients existants
 *   réagir aux pressions exercées par la concurrence, Firefox en tête
+
 On peut à ce titre saluer le choix de Microsoft d'enfin embrasser les standards du Web. La huitième version de son navigateur Web adoptera ainsi par défaut une interprétation respectant ces standards (HTML, XHTML, CSS 2, partiellement CSS 3).
 Ce choix a notamment été facilité par la proposition d'une nouvelle balise propriétaire : **X-UA-Compatible**.
 
@@ -53,9 +54,10 @@ Autrement dit, si vous décidiez un jour d'enlever la balise _X-UA-Compatible_, 
 
 Microsoft propose 3 modes de rendu :
 
-1.  _IE=7_ pour forcer tout type de rendu en _respect des standards_ à la sauce IE7 (respect approximatif donc) ;
-2.  _IE=EmulateIE7_ pour respecter les standards sauf quand la page est moisie (le fameux _mode Quirks_). Autrement dit, un Internet Explorer 8 déguisé en IE7 ;
-3.  _IE=EmulateIE8_ pour respecter les standards (mais vraiment) sauf quand la page est moisie. Autrement dit un Internet Explorer 8 avec quelques laxismes.
+1.  `IE=7` pour forcer tout type de rendu en _respect des standards_ à la sauce IE7 (respect approximatif donc) ;
+2.  `IE=EmulateIE7` pour respecter les standards sauf quand la page est moisie (le fameux _mode Quirks_). Autrement dit, un Internet Explorer 8 déguisé en IE7 ;
+3.  `IE=EmulateIE8` pour respecter les standards (mais vraiment) sauf quand la page est moisie. Autrement dit un Internet Explorer 8 avec quelques laxismes.
+
 Si on compte avec ça la possibilité pour l'utilisateur de basculer de lui-même vers un mode de rendu "dégradé", difficile de choisir la moindre balise à appliquer.
 Le navigateur sera cependant strictement compatible par défaut (pas besoin d'ajouter la moindre entête ou balise pour cela).
 
@@ -69,6 +71,7 @@ Voici quelques intérêts à utiliser X-UA-Compatible :
 *   parc d'applications non-maîtrisé ou doté d'une politique de mise à niveau stricte
 *   pas de budget pour redévelopper le site/application Web
 *   la refonte du site/application aboutira plus tard que le déploiement d'Internet Explorer 8
+
 Vous remarquerez que je n'aborde en aucun cas la question des nouveaux sites et applications et/ou leur refonte. Ceci pour la simple et bonne raison suivante : X-UA-Compatible est un palliatif à court-terme pour conserver un maximum d'applications fonctionnelles en attendant leur adoption des standards.
 
 Il y a de très fortes chances que cette balise ne soit plus prise en compte dans la version 9 du navigateur ; tout du moins, je l'espère fortement.

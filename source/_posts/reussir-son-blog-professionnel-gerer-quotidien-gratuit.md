@@ -50,6 +50,7 @@ La partie «**obligations légales**» rappelle les fondamentaux, explique les l
 *   Plagiat
 *   **Citation des sources**
 *   **Licences d'utilisation**
+
 J'ai grassé les parties relatives à ce qui a été contrarié par l'[utilisation frauduleuse de ma photo par Paris Match](https://oncletom.io/2009/11/08/paris-match-licence-photo/) (malgré toute la bonne volonté possible dont ils aient pu user). **Tous ces conseils s'appliquent en réalité à tout contenu partageable sur la Toile**, que ce soit photo, vidéo, audio ou texte.
 
 [download url="http://u.oncle-tom.net/telecharger-chapitre-5"]Réussir son blog professionnel : gérer son blog au quotidien[/download]
@@ -76,4 +77,5 @@ Cet enchaînement permet dans l'ordre de :
 1.  convertir le PDF en PostScript (en l'envoyant en sortie)
 2.  extraire les pages 128 à 183 du flux PostScript
 3.  capturer l'entrée en la convertissant en un PDF
+
 Seul inconvénient de la méthode : l'indexation du PDF saute, de même que son titre. Je n'ai pas trop cherché, j'avoue, mais je suis preneur de toute astuce :-)

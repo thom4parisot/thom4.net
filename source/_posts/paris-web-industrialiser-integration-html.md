@@ -42,6 +42,7 @@ En préparant l'appel à propositions de Paris-Web, j'avais convenu que cet atel
 *   dresser un état de l'art de l'intégration HTML
 *   offrir une large tribune à l'audience, notamment en partageant ses  propres retours d'expérience
 *   déterminer ce dont on dispose et ce dont on manque en terme  d'outillage
+
 Par extension, je souhaitais répondre (au moins) à ces questions :
 
 *   comment bâtir des CSS indépendantes et réutilisables ?
@@ -49,6 +50,7 @@ Par extension, je souhaitais répondre (au moins) à ces questions :
 *   comment dialoguer avec le graphiste ?
 *   comment dialoguer avec le développeur ?
 *   comment détecter les régressions et assurer une qualité de code en  CSS ?
+
 J'ai également repris l'historique des précédents Paris-Web pour voir que de précédents ateliers s'étaient déjà penchés sur la question de la chaine d'intégration. D'où mon souhait de ne pas forcément réinventer la roue.
 
 Pour autant, les objectifs tout comme les questions ne sont pas figées dans le marbre. Cet article est également là pour **capter vos avis et vos remarques**, pour ajuster cela avant le jour de l'atelier.

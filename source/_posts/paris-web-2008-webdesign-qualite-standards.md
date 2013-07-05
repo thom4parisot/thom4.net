@@ -36,6 +36,7 @@ Les [conférences de Paris-Web 2008](http://www.paris-web.fr/2008/-programme-) �
 *   Identité 2.0 et Web sémantique
 *   IE8 et les standards du Web
 *   **Performances côté client**
+
 [caption id="" align="aligncenter" width="334" caption="Stéphane Deschamps"][![Stéphane Deschamps](http://farm4.static.flickr.com/3237/3034676683_5eedcfdbb4.jpg)](http://www.flickr.com/photos/the-jedi/3034676683/ "Stéphane Deschamps")[/caption]
 
 Ce qu'il faut retenir c'est que désormais, nous sommes dans une époque où nombre d'outils sont à notre disposition. Il faut **maximiser l'utilisation d'outils déjà existants** et s'en servir pour bâtir nos applications, interfaces et présentations.
@@ -70,6 +71,7 @@ J'ai pour ma part assisté à :
 *   [Validation avancée des formulaires](http://www.paris-web.fr/2008/-samedi-15-novembre-technique-#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-validation_formulaires)
 *   [Développement efficace avec les <span lang="en">frameworks <acronym title="Cascading Style Sheet">CSS</acronym></span>](http://www.paris-web.fr/2008/-samedi-15-novembre-technique-#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-frameworks_CSS)
 *   [<acronym title="Resource Description Framework" lang="en">RDF</acronym>a <abbr class="discret" title="versus" lang="en">vs</abbr> Microformats](http://www.paris-web.fr/2008/-samedi-15-novembre-technique-#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-rdf_vs_microformats)
+
 La **rédaction Web était intéressante** même si je n'ai pas appris grand chose et j'en profitais pour terminer mes _slides_. Vous retrouverez tout le contenu de cette présentation dans le livre [l'écrit Web](https://oncletom.io/2008/01/08/ecrit-web-traitement-information-sur-internet/).
 
 La **validation avancée des formulaires partait d'un bon principe** mais s'enfonçait inutilement dans certaines parties. À mon avis, expliquer chaque fonction (y compris celles du DOM) était une perte de temps.
@@ -95,6 +97,7 @@ Et Dieu sait s'il y avait tout un tas de pointures du Web à notre disposition d
 *   [Daniel Glazman](http://glazman.org), du CSS Working Group ; franc, direct et j'aime ça
 *   Sans oublier pêle-mêle [Than](http://www.sutekidane.net/), [Sébastien Delorme](http://www.tentatives-accessibles.eu), [Monique](http://blog.webatou.info/), [La Lène](http://www.jeuxdemaux.com/), [Amélie Boucher](http://www.ergolab.net), [Hellgy](http://redisdead.net), [Raphaël Goetter](http://goetter.fr), [Fabrice Bonny](http://openweb.eu.org/), [François Hodierne](http://www.netvibes.com/znarf), [Xavier Borderie](http://xavier.borderie.net/blog/) ... et en oubliant très certainement plein d'autres :'(
 *   Et d'excellentes découvertes : [Anthony Ricaud](http://hanblog.info/blog/), [Mathieu Pillard](http://blog.virgule.info/) et toute l'**équipe Paris-Web** !
+
 [caption id="" align="aligncenter" width="500" caption="La brochette des meilleurs !"][![Table ronde du jeudi](http://farm4.static.flickr.com/3270/3034679191_d551c06a85.jpg)](http://www.flickr.com/photos/the-jedi/3034679191/ "Table ronde du jeudi")[/caption]
 
 ## Conclusion

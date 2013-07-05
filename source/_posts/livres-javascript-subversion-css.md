@@ -20,12 +20,15 @@ Je vous l'annonce, depuis janvier 2007 _je suis boulimique_. Boulimique mais d'i
 *   [Ppk on Javascript](http://www.quirksmode.org/book/) (_New Riders Publishing_, en anglais)
 *   [CSS Mastery](http://www.cssmastery.com/) (_Friends of ED_, en anglais)
 *   [Subversion : Pratique des projets collaboratifs avec SVN](http://www.editions-eyrolles.com/Livre/9782212119190/subversion) (_Eyrolles_, en français)
+
 <!--more-->
+
 Au début de l'année j'avais jeté mon dévolu sur trois autres références pour voir où j'en étais, ce que j'avais encore à apprendre (beaucoup) et ce qui pouvait me faciliter la vie :
 
 *   **PHP 5 avancé** (_Eyrolles_) que j'avais trouvé moyen car davantage débutant qu'avancé
 *   **Maîtriser MySQL 5** (_O'Reilly_) que je n'ai pas encore terminé mais intéressant bien que pas assez complet à mon goût au niveau des fonctions utiles
 *   **Gestion de projets avec Subversion** (_O'Reilly_) que je n'ai pas non plus terminé, très technique et instructif mais il me manquait les bases pour bien comprendre _comment bien utiliser Subversion_
+
 D'ailleurs peut-être que ça en intéresse certains d'avoir une critique de plus sur ces ouvrages. Faites signe (ou canard) ;-)
 
 C'est finalement en relisant un article fort intéressant concernant [l'installation d'un dépôt Subversion sous Ubuntu](http://www.biologeek.com/journal/index.php/installer-un-depot-subversion-sous-ubuntu) que j'ai décidé de passer à l'acte.

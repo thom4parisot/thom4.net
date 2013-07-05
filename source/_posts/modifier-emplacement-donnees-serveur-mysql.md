@@ -23,6 +23,7 @@ L'intérêt de choisir soi-même l'emplacement de ce répertoire, le _datadir_, 
 
 *   **regrouper les données en un endroit connu** (facilite les sauvegardes)
 *   utiliser le partitionnement du disque pour **ne pas avoir à craindre une perte de données** en cas de réinstallation du système (facilite la maintenance)
+
 Nous allons voir comment procéder à ce changement tout en adaptant les sécurités des systèmes tels que [SELinux](http://fedoraproject.org/wiki/SELinux) et [AppArmor](http://www.novell.com/linux/security/apparmor/). Ces derniers empêcheront en effet le serveur de démarrer.
 
 <!--more-->

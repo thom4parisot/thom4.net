@@ -28,12 +28,13 @@ L'envoi par lettre recommandée est expéditif puisque le préavis commencera d�
 
 Pour terminer, je synthétise quelques remarques issues de mon expérience personnelle et de mon ressenti. En toute honnêteté, mieux vaut ne pas jouer avec le feu, y compris si vous êtes en facheux désaccord ou en situation de conflit. On ne sait jamais de quoi l'avenir est fait et si vous recroisez le chemin de votre ex-patron, il s'en souviendra et tâchera de vous le rappeler.
 
-**Ce qui est mal vu** :
+### Ce qui est mal vu
 
 *   l'arrogance, l'impertinence et l'agressivité
 *   les menaces ou autres phrases assimilables à du chantage
 *   le manque de respect de manière générale
-**Ce qui est bien vu** :
+
+### Ce qui est bien vu
 
 *   _remercier son patron_ : vous avez beau partir, travailler avec lui vous aura quand même apporté (financièrement ou autre)
 *   _bien présenter sa lettre_ : lire un torchon ce n'est pas franchement agréable

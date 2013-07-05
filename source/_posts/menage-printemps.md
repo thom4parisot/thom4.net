@@ -29,29 +29,23 @@ Je me décide à passer un coup de peinture sur ce blog quasiment 2 ans après l
 Mon besoin était le suivant :
 
 *   **Thème graphique**
-
-    *   durable et peu lassant
-    *   usage de transparence
-    *   toujours sur des tons marrons
-    *   inspire la modernité tout comme le côté rustique et soucieux de la nature
-    *   structure en grille pour intégrer avec [Blueprint](http://blueprintcss.org/)
-
+  *   durable et peu lassant
+  *   usage de transparence
+  *   toujours sur des tons marrons
+  *   inspire la modernité tout comme le côté rustique et soucieux de la nature
+  *   structure en grille pour intégrer avec [Blueprint](http://blueprintcss.org/)
 *   **Fonctionnalités**
-
-    *   intégration d'un _lifestream_ (intégré entre temps)
-    *   intégration de [Feedburner](http://feedburner.com/) via son [API Awareness](http://code.google.com/intl/fr/apis/feedburner/awareness_api.html)
-    *   intégration d'un bandeau [Flickr](http://flickr.com/) qui s'étend sur toute la largeur de l'écran, peu importe la résolution employée
-    *   utilisation du blog comme vitrine : suppression de ma dernière page HTML manuelle (autrefois accessible sur [oncle-tom.net](http://oncle-tom.net/))
-
+  *   intégration d'un _lifestream_ (intégré entre temps)
+  *   intégration de [Feedburner](http://feedburner.com/) via son [API Awareness](http://code.google.com/intl/fr/apis/feedburner/awareness_api.html)
+  *   intégration d'un bandeau [Flickr](http://flickr.com/) qui s'étend sur toute la largeur de l'écran, peu importe la résolution employée
+  *   utilisation du blog comme vitrine : suppression de ma dernière page HTML manuelle (autrefois accessible sur [oncle-tom.net](http://oncle-tom.net/))
 *   **Compatibilité**
-
-    *   navigateurs modernes ... c'est à dire rien en dessous d'Internet Explorer 8
-    *   intégration avec HTML 5
-    *   pas d'utilisation de GIF mais de PNG 6 et PNG 24
-
+  *   navigateurs modernes ... c'est à dire rien en dessous d'Internet Explorer 8
+  *   intégration avec HTML 5
+  *   pas d'utilisation de GIF mais de PNG 6 et PNG 24
 *   **Autre**
+  *   soucis de performance (peu d'éléments graphiques, utilisation des _sprites_)
 
-    *   soucis de performance (peu d'éléments graphiques, utilisation des _sprites_)
 Finalement c'est [Lesly](http://leslyg.com/) qui s'est chargé de la création graphique. Vous pouvez d'ailleurs consulter la [maquette graphique originale sur son portfolio](http://leslyg.com/work/blog-de-thomas-parisot-oncle-tom/). Quant à moi, j'ai réalisé toute l'intégration CSS/HTML dans WordPress.
 
 ## L'intégration
@@ -63,6 +57,7 @@ Tout d'abord, qu'est ce qui a changé par rapport à la maquette ?
 *   **abandon temporaire du _featured content_** : les solutions actuelles étaient trop lourdes et j'étais trop impatient pour passer quelques heures de plus ... donc c'est temporaire ;-)
 *   l'**ajout des pages en lieu et place du fil d'ariane** : j'en avais besoin pour présenter différents contenus statiques ;
 *   **le pied de page** : peu de widgets WordPress offrent un degré de personnalisation suffisant pour arriver à ce résultat. C'est donc temporisé là aussi en attendant de trouver chaussure à mon pied ;-)
+
 [caption id="attachment_1346" align="aligncenter" width="150" caption="Aperçu pleine page"][![Aperçu pleine page](https://oncletom.io/images/2009/04/caseoncle-tomnet-oncletom-wood-150x300.png "caseoncle-tomnet-oncletom-wood")](/images/2009/04/caseoncle-tomnet-oncletom-wood.png)[/caption]
 
 Pour le reste je me suis fait plaisir avec notamment l'utilisation de coins arrondis (_border-radius_) basés sur les implémentations de Gecko et Webkit. Désolé pour les utilisateurs d'autres navigateurs car j'en ai usé et abusé afin d'éviter l'utilisation d'images.

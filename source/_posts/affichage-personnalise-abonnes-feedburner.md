@@ -26,6 +26,7 @@ La plupart des exemples que l'on trouve sur le Web attaquent directement l'API F
 
 *   récupérer 1 à 2 fois par jour la valeur courante du nombre de lecteurs ;
 *   accéder à cette valeur simplement depuis mes templates (avec un appel à get_option() par exemple).
+
 **On y gagne sur tous les fronts** : on ne ralentit pas l'affichage côté utilisateur, l'information est récupérée en arrière-plan, nos templates graphiques restent simples.
 
 ## Activation du service Feedburner Awareness

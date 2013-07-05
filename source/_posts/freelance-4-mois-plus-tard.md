@@ -55,6 +55,7 @@ Dès le courant du mois de janvier, je me suis lancé dans la recherche d'un exp
 
 *   la compta c'est pas mon truc (mais alors pas du tout) : **ça me coûtera moins cher de bien déléguer le travail** que de le faire moi-même (et le foirer) ;
 *   en SARL, il faut publier les comptes annuels ; et tout ce bazar, il va s'en occuper ;-) ;
+
 La troisième raison, c'est aussi parce que j'ai besoin d'une **attestation mensuelle pour pôle emploi**, afin de continuer à bénéficier de 100% du montant de mes indemnités. Ça fera l'objet d'un autre billet, les modalités ayant changé en cours de route.
 Toujours est-il, pour en trouver un bien, j'ai demandé autour de moi, afin de sonder les personnes satisfaites de leur comptable. Gain de temps, puisque ça s'est fait du premier coup.
 Et cerise sur le gâteau, j'ai compris en 2 heures de rendez-vous ce que je n'ai jamais compris en 3 ans de cours de compta ;-)
@@ -70,6 +71,7 @@ Entre les installations et les rendez-vous administratifs à droite et à gauche
 *   conditions générales de vente
 *   modèle de document
 *   base de proposition commerciale
+
 L'idéal est d'en avoir un maximum avant d'avoir le premier client. Surtout pour les premiers clients. Vu que quasiment tout est à faire, autant en laisser un minimum pour le dernier moment, histoire de se concentrer sur l'essentiel : la réponse adressée au client. Ce n'est d'ailleurs pas à ce moment là qu'il faudra vous soucier de votre charte graphique – un peu tard pour ça.
 
 À terme je compte passer par la case juriste pour tout ce qui est document légal ou contrat – sur de sages conseils. Ça se fera par la suite, après avoir signé quelques contrats et sécurisé ma trésorerie.
@@ -112,6 +114,7 @@ Outre le tarif unique, je propose 3 modes opératoires :
 *   la facturation de **crédit temps** à l'avance (et consommé au fil de l'eau) – pratique pour budgétiser des interventions ponctuelles ;
 *   la **facturation à l'heure** – mode agile, que ça soit au forfait ou au consommé (rassure beaucoup les petites structures) ;
 *   la **facturation à la journée** – classique.
+
 Ce mode opératoire, accompagnée d'une transparence totale sur le temps passé suffit à rassurer mes clients, notamment car je suis proactif sur le temps passé. Ils savent ainsi si le projet prend plus de temps que prévu ; j'apporte mon ressenti et des solutions. Ils choisissent en connaissance de cause, selon leur budget et/ou leurs priorités.
 
 Ils n'ont ainsi (jusqu'à présent) jamais eu l'impression de payer autre chose que de la qualité et de la tranquillité, dans le déroulement et la communication.

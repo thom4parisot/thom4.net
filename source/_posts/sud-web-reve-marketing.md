@@ -43,6 +43,7 @@ Je dirais que rien que **le nom correspond à nos valeurs**, et celles de ceux q
 *   **W3Café** : Conférence courte sur les technos W3C (information sur le contenu) ;
 *   **Augmented Reality DevCamp** : BarCamp orienté développement sur la réalité augmentée ;
 *   etc.
+
 Les noms sont ainsi car au final, **ils permettent de s'y retrouver plus facilement**.
 
 ## Le boom des conférences Web
@@ -61,6 +62,7 @@ La tendance est aux **conférences produits**, le marché se segmente. Si je rep
 *   2009 : 499 conférences
 *   **2010 : 2799 conférences**
 *   2011 : 2701 conférences (et l'année n'est pas terminée ...)
+
 Les chiffres sont très certainement inexacts pour les conférences avant 2010 mais je les pense représentatifs de la **tendance**. Jusqu'à 2007, travailler dans le Web passait encore pour quelque chose de fou, en marge du monde du travail voire de l'informatique. Depuis 2007, c'est de plus en communément accepté, voire même tendance.
 
 En 2012, il faudra travailler dans le Web sinon on aura raté sa vie. Je soupçonne même [Valérie Pécresse d'avoir en réalité fait un appel du pied afin de devenir RP pour Facebook en France](http://www.leparisien.fr/politique/buzz-pour-valerie-pecresse-facebook-existe-seulement-depuis-un-an-20-01-2011-1236244.php).

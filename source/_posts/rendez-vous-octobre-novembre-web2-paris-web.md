@@ -25,6 +25,7 @@ Les mois d'octobre et de novembre seront assurément chargés cette année puisq
 *   [Le Diagnostic de l'Aquitaine Numérique](http://www.aecom.org/blog/rdv/2008/09/un-nouvel-outil-de-gouvernance-des-tic.html)
 *   [Webdeux.Connect](http://fr.amiando.com/webdeux-connect.html)
 *   [Paris-Web 2008](http://www.paris-web.fr/2008/)
+
 Bref, 2 évènements à Paris, 1 à Bordeaux et beaucoup de contacts en perspective :-)<!--more-->
 
 ## Diagnostique de l'Aquitaine Numérique
@@ -34,6 +35,7 @@ Chaque année depuis 7 ans, l'[AEC](http://www.aecom.org) publie son Diagnostiqu
 *   l'évolution de l'équipement numérique des **entreprises**
 *   l'évolution de l'équipement numérique et des **comportements des ménages**
 *   l'évolution de l'**infrastructure et des organismes** liés au développement du numérique en Aquitaine
+
 Ce sera une première pour moi mais j'imagine que ça sera à la hauteur de mes espérances : c'est à dire bien. Les buffets de [Monsieur Gilliard](http://www.dailymotion.com/video/x6n1yl_mesure-de-laquitaine-numerique_tech) sont toujours un succès ;-)
 
 C'est **lundi 6 octobre à 17h00** à Cap Sciences à Bordeaux.
@@ -53,6 +55,7 @@ Je suis cependant très content de pouvoir aller y réseauter et rencontrer en c
 *   [Francis Chouquet](http://www.fran6art.com/)
 *   [Laure Dessaux](http://www.blogsnco.fr/) (depuis l'temps !)
 *   et tant d'autres
+
 Et grosse surprise de voir [Samir Ramjan](http://www.flickr.com/) m'ajouter ce matin dans ses contacts Facebook ! Si je gagne pas un autocollant Flickr avec tout ça ;-) Un de mes sites modèles !
 
 Si jamais certains d'entre vous y vont, n'**hésitez pas à vous signaler** :-) Histoire qu'on se croise dans la foule.
@@ -79,6 +82,7 @@ Parmi les conférences que je vise :
 *   **Identité Web 2.0 et Web sémantique**
 *   IE8 et les standards du Web
 *   Table ronde : navigateurs
+
 OK, autrement dit 90% m'intéressent ... pour la partie technique. Sauf à me dédoubler pour les [conférences décideurs](http://www.paris-web.fr/2008/-vendredi-14-novembre-decideurs- "conférences décideurs de Paris-Web 2008").
 
 C'est également sans compter avec les [ateliers techniques du samedi](http://www.paris-web.fr/2008/-samedi-15-novembre-technique- "ateliers techniques de Paris-Web 2008") qui s'avèreront passionnants à n'en pas douter.

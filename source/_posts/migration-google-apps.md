@@ -15,7 +15,9 @@ categories:
 En constatant que nombre d'entreprises optaient pour des solutions de travail collaboratives en ligne, je me suis dis <q>pourquoi pas moi ?</q> [Emu Nova](http://www.emunova.net) est presque une petite <acronym title="Petite et Moyenne Entreprise">PME</acronym> avec sa quinzaine de collaborateurs dont un noyau dur de 8 personnes. Je souhaitais **faciliter la communication interne**, le **partage de documents**, leur **sécurité** et gagner la tranquilité d'un **antispam performant**.
 
 La migration de tous les comptes mails vers _Google Apps_ se solde par un sans-faute et la mise à disposition d'outils appréciés et efficaces.
+
 <!--more-->
+
 Ce qu'il faut savoir avant toute chose c'est que _Google Apps_ est disponible en plusieurs version, trois à l'heure où j'écris :
 
 *   _Google Apps_ édition Standard (gratuite)
@@ -43,12 +45,14 @@ La configuration est bien passée, Google a activé le service mail. OK mais il 
 
 En effet, si vous expédiez des emails depuis la machine au nom de votre nom de domaine, il y a de très fortes chances qu'ils ne soient pas expédiés au bon endroit. La raison est que votre logiciel d'acheminement de mails (Qmail dans mon cas) **considère le domaine comme étant local** donc ne passe pas par Internet : il dépose le mail _directement_ dans la boîte mail (l'ancienne, celle avec la migration). L'astuce consiste à sortir le domaine de la liste des domaines locaux et fort heureusement, c'est facile et rapide à faire ... quand on le sait.
 
-**Via Webmin** :
+### Via Webmin
+
 Dans _Virtual Mappings_ et _Accepted Domains_, il suffit juste de supprimer le nom de domaine concerné.
 
 ![Qmail : suppression du localdomain](https://oncletom.io/images/2007/10/webmin-qmail-outgoing.png)
 
-**Via le shell** :
+### Via le shell
+
 A l'aide d'un éditeur de texte (nano, vi, emacs etc.), il faut procéder de la même manière (supprimer le nom de domaine) dans les fichiers `/var/qmail/control/virtualdomains` et `/var/qmail/control/rcpthosts`.
 
 ## Import des emails _via_ IMAP

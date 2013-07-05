@@ -57,7 +57,8 @@ Plusieurs remarques par rapport à ce code :
     J'ai choisi de ne pas créer de conflit : `wp_enqueue_script` ne chargera qu'1 fois et 1 seule le script nommé. Pas de chichi.
 *   **L'inclusion de l'éditeur**
     Pour afficher l'éditeur, il suffira d'appeler la fonction `the_editor()` en lieu et place de son `textarea`. Vous noterez toutefois que vous serez obligé(e)s de nommer l'éditeur _content_ sous peine de devoir ajouter quelques filtres supplémentaires.
-    Après à vous de vous débrouiller avec l'architecture de votre plugin. Personnellement j'ai tout basculé dans des classes depuis un bon moment pour éviter tout conflit de nom.
+
+Après à vous de vous débrouiller avec l'architecture de votre plugin. Personnellement j'ai tout basculé dans des classes depuis un bon moment pour éviter tout conflit de nom.
 
 ## La solution optimisée
 
@@ -70,12 +71,15 @@ Heureusement pour nous WordPress est _bien fichu_ car il nous fournit 2 variable
 
 *   **$plugin_page**
     Cette variable contient le nom de la page renseignée par les méthodes `add_management_page()` et `add_options_page()`. On aurait pu passer directement par [admin_print_script*](http://codex.wordpress.org/Plugin_API/Action_Reference) mais il faisait flemme d'ajouter une fonction de plus.
-    Exemple :
+
+Exemple :
+
 ```php
 <?php
 add_management_page('Titre', 'Label', 8, 'test_management_page', 'mon_callback');
 //$plugin_page vaudra 'test_management_page'
 ```
+
 *   **$pagenow**
     Cette variable contient le nom du fichier actuellement exécuté.
     Si vous vous trouvez sur <kbd>wp-admin/tools.php?page=test_management_page</kbd>, `$pagenow` vaudra `tools.php`
@@ -112,4 +116,5 @@ On peut cependant regretter le manque de flexibilité de cette manipulation :
 
 *   j'ai definé la liste des fichiers en cherchant les noms de fonctions JavaScript manquantes (merci Firebug et l'affichage des exceptions en console)
 *   la liste des dépendances de `wp_enqueue_script` n'est absolument pas complète : _editor_ devrait appeler _wp_tiny_mce_ et _media-upload_ (voire _jquery-ui-*_)
+
 Un jour WordPress nettoiera son code pour faciliter la maintenance ...

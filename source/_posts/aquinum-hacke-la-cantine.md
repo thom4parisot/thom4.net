@@ -26,6 +26,7 @@ Présentation rapide du programme et bien sûr, invitation à venir sur place, l
 *   Enjeux du monitoring de projets humanitaires par [Wopata](http://wopata.com/)
 *   Modèles d'organisation et de changement par [Ayeba](http://ayeba.fr/) (y'a de l'agilité dans l'air ;-))
 *   Détection d'informations en temps réel par [Langma](http://www.langma.info/) (et ça vaut le détour)
+
 Ça ne représente que la partie émergée de l'_iceberg_ ;-)
 
 ## Les conférences : qualité & services publics

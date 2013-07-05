@@ -64,11 +64,13 @@ Les balises (X)HTML indiquent la nature de leur contenu :
 *   `<img>` pour une image ;
 *   `<li>` pour un élément de liste ;
 *   `<a>` pour lier une autre ressource via son URI.
+
 Les microformats s'ajoutent par le biais des attributs cités ci-dessus (rel et class) pour affiner leur sens :
 
 *   `<a rel="nofollow">` indique aux robots d'indexation des moteurs de recherche de ne pas suivre ce lien ;
 *   `<span class="tel">` indique que cette balise neutre contient un numéro de téléphone ;
 *   `<div class="entry">` indique que cette balise neutre contient un article (billet de blog par exemple).
+
 Rassurez-vous, le choix des classes n'est pas arbitraire et le [wiki officiel](http://microformats.org/wiki/) est un bon guide. Il reprend les spécifications des formats cités précédemment tout en les agrémentant d'exemples.
 Enfin, et pour achever d'attiser votre curiosité, voici un résumé des microformats en 7 points :
 
@@ -159,4 +161,4 @@ de remarquer que **sémantique, respect des standards et accessibilité génère
 *   [En route vers le Web sémantique](http://www.readwriteweb.com/archives/semantic_web_road.php) ;
 *   [Les 10 prochaines tendances du Web](http://www.readwriteweb.com/archives/10_future_web_trends.php).
 
-1.  [[1](#nh1)] Il en existe en réalité 3 mais l'attribut `rev` n'est employé qu'une fois. Difficile d'en déduire une généralité.
+[[1](#nh1)] Il en existe en réalité 3 mais l'attribut `rev` n'est employé qu'une fois. Difficile d'en déduire une généralité.

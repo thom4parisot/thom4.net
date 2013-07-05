@@ -30,7 +30,9 @@ Si je trouve l'installation de base de cette plateforme de rédaction plus qu'ab
 *   **Subscribe to Comments**
 *   WP-PostViews
 *   Wordpress.com Stats
+
 Ca en fait n'est-ce pas ? Tous ne vous seront pas indispensables (notamment si vous ne jouez pas avec [Flickr](http://www.flickr.com) ni [Google Analytics](http://www.google.com/analytics/)) mais peut-être que la lecture de ce billet vous en apprendra davantage et créer des envies ;-)
+
 <!--more-->
 
 ## [Akismet](http://wordpress.org/extend/plugins/akismet/)

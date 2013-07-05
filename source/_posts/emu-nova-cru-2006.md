@@ -24,14 +24,11 @@ Où comment le site redresse la pente grâce à une communauté fidèle et activ
 
 Ces statistiques sont incomplètes dans la mesure où elles ne représentent qu'une moitié de l'année, de la mi-juillet 2006 au 31 décembre 2006\. Il faut également prendre en compte que dans la troisième semaine du mois de juillet, le **site a été piraté**, _perdant ses roms_ (3 millions de pages vues par mois) et donc de nombreuses pages consultables. Ceci dit, ça n'aurait que peu affectué la courbe des visites puisqu'elle était en _progression constante_.
 
-![Emu Nova 2006 : origines visites](https://oncletom.io/images/2007/01/emunova-2006-referer.png)
-_Origine des visiteurs_
+![Emu Nova 2006 : origines visites](https://oncletom.io/images/2007/01/emunova-2006-referer.png "Origine des visiteurs")
 
-![Emu Nova 2006 : horaires](https://oncletom.io/images/2007/01/emunova-2006-horaires.png)
-_Horaires de consultation_
+![Emu Nova 2006 : horaires](https://oncletom.io/images/2007/01/emunova-2006-horaires.png "Horaires de consultation")
 
-![Emu Nova 2006 : visites](https://oncletom.io/images/2007/01/emunova-2006-visites.png)
-_Evolution des visites_
+![Emu Nova 2006 : visites](https://oncletom.io/images/2007/01/emunova-2006-visites.png "Evolution des visites")
 
 Comme on peut le constater (y'a pas de trucage), le mois de décembre 2006 est à peu près au même niveau de visites que le mois d'août à la différence près qu'en décembre, **il n'y avait plus une seule rom sur le site** ni aucune mention de leur part dans les moteurs de recherches. En clair, les visiteurs de décembre **venaient sur le site pour son contenu** et non plus ses roms. Quand on constate le nombre de sites qui ont préféré mettre la clé sous la porte une fois les roms supprimées, on peut considérer que c'est une _réussite_.
 

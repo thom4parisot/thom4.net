@@ -25,6 +25,7 @@ J'ai déjà expliqué comment [modifier l'emplacement des données d'un serveur 
 *   on ne va pas toucher aux fichiers de configuration par défaut
 *   on va pouvoir conserver toute notre configuration sur une partition séparée
 *   on va être tranquille pour les éventuelles futures réinstallations
+
 C'est pas très compliqué à mettre en œuvre et au final, tout le monde y gagne !
 
 <!--more-->
@@ -187,6 +188,7 @@ Vos fichiers de configuration restent accessibles depuis votre gestionnaire de f
 
 *   /etc/hosts pour ajouter un nom d'hôte (utile seulement si vous ne souhaitez pas utiliser _localhost_)
 *   /etc/apparmor.d/usr.bin.mysql pour la raison évoquée plus haut ... sinon on s'en serait passé
+
 J'ai cherché à faire pareil avec _phpmyadmin_ mais il ne semble pas y avoir de mécanisme de ce type. Dommage.
 
 J'imagine qu'il doit y avoir des moyens similaires avec d'autres serveurs et d'autres langages. Vous procédez à un reparamétrage systématique ou bien vous utilisez une technique de ce genre ?

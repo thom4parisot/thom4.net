@@ -42,6 +42,7 @@ Plusieurs objectifs ont émergé en griffonnant au fur et à mesure l'interface 
 *   offrir une **interface lisible** dont les contenus sont aisément identifiables sans effort cognitif
 *   offrir du **contenu annexe en pied de page** : je suis désormais intimement convaincu que le pied de page est le meilleur moyen de fidéliser un vagabond curieux qui n'a pas tiré satisfaction de la première lecture
 *   proposer un site conforme au **standard XHTML 1 Strict** en bannissant les mises en forme en tableau, entre autre
+
 On le voit, les objectifs de surface sont résolument tournés vers l'interface utilisateur. Derrière il y avait également des objectifs de simplification et de mutualisation du code avec l'interface d'administration.
 
 ## Choix technologiques

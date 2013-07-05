@@ -36,6 +36,7 @@ Le MacBook m'a tenté pour plusieurs raisons :
 *   superbe écran LED
 *   clavier rétro-éclairé
 *   et soyons _honnête_, c'est joli
+
 Seulement voilà, payer 1500€ pour le rétro-éclairage du clavier, ne pas utiliser MacOS X et cautionner la [politique d'enfermement d'Apple](http://linuxfr.org/2008/12/28/24828.html) ... non je ne pouvais pas.
 
 Les Mac sont devenus un phénomène de mode voire de foire : quand je regarde ma classe d'étudiants, 80% des ordinateurs sont des Mac. C'est bien mais aujourd'hui je pense qu'Apple est plus nocif envers ses usagers que Microsoft. On s'en rend compte le jour où on veut en sortir.
@@ -51,6 +52,7 @@ Après plus années passées sur des PC en tour construits à la main avec le pl
 *   tromperie sur le Bluetooth : y'a un bouton Bluetooth mais pas la puce intégrée. J'ai eu beau [installer le Bluetooth sur mon Acer](https://oncletom.io/2007/11/07/installation-module-bluetooth-acer-aspire/), c'était trop gros
 *   je n'ai jamais été satisfait de leur SAV
 *   pas de support d'installation physique fourni : la partition constructeur de 5Go j'en veux pas !
+
 Bref, Dell était tout désigné pour me fournir mon prochain PC dans la mesure où là, j'ai toujours obtenu **satisfaction et performance à prix tout à fait correct**. Je travaille au quotidien avec Latitude D800 mais pour la maison, je ne souhaitais pas y mettre autant d'argent sans pour autant rogner sur les performances. La gamme des Studio me collait parfaitement :
 
 *   écran 17 pouces LED
@@ -60,6 +62,7 @@ Bref, Dell était tout désigné pour me fournir mon prochain PC dans la mesure 
 *   chais-plus-combien de disque dur (mais assez pour ne pas en tenir compte, au moins 300Go)
 *   carte graphique ATI chais-pas-quoi HD (j'en retiens surtout la mémoire vidéo dédiée)
 *   coque personnalisable
+
 En clair, je voulais de la RAM (merci Eclipse ;-)), de la puissance et un beau look. J'ai eu tout ça pour un prix qui reste à 3 chiffres.
 
 Mais il y'avait Windows Vista.
@@ -74,6 +77,7 @@ Pour la forme, j'ai tenté de titiller le service client afin de me faire **remb
 *   [je n'utilise plus qu'un système d'exploitation sans numéro de série](https://oncletom.io/2007/02/13/choix-liberte-windows-linux/)
 *   je n'ai pas eu le choix de l'OS lors de la procédure d'achat : une case "rien" ou "Ubuntu" m'aurait bien convenu !
 *   [Dell fait la vente liée](http://www.racketiciel.info/) voire forcée/déguisée
+
 Vous voyez la "capture" d'écran ci-dessus ? Si je n'accepte pas les conditions, je dois appeler le service client. J'étais dans les 7 jours d'achat, j'ai réceptionné l'ordinateur donc je me suis armé du numéro de téléphone du service client Dell.
 
 **Service client Dell (acte 1)** : j'explique que je veux me faire rembourser Windows Vista. On me demande la raison de manière très protocolaire. J'explique que j'utilise Linux et que je n'ai pas eu le choix du système d'exploitation lors de l'achat. On me donne le numéro de téléphone du service commercial.
@@ -106,6 +110,7 @@ J'ai cependant rencontré 2-3 problèmes [à l'instar d'un autre utilisateur](ht
 *   [Gears](http://gears.google.com/) n'est pas supporté sous Linux en 64 bits (y'a bien un patch qui marche mais je considère que c'est toujours un problème)
 *   sur batterie seulement, quand on joue avec la luminosité de l'écran, je ne peux plus saisir de caractères (mais les raccourcis clavier fonctionnent, eux)
 *   avec les effets graphiques _compiz_ activés, ça clignote de partout quand je regarde une vidéo avec VLC ou Totem ; faut désactiver les effets temporairement
+
 Rien de bien méchant d'autant plus que ça sera sûrement corrigé dans un futur plus ou moins proche.
 
 ## Conclusion

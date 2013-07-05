@@ -32,6 +32,7 @@ Ce cours a été un défi pour moi, pour plusieurs raisons :
 *   c'était la première fois sur un sujet lié à la communication
 *   c'était surtout à un niveau élevé, Master 2
 *   enfin, j'ai à peu près 3 wagons de retard sur la communication politique où, Internet mis à part, j'ai assez peu de bagage théorique et pratique
+
 Ma problématique est assez simple à expliquer : il me fallait pouvoir précéder leur pensée, apporter un contenu que les élèves ne connaissaient pas, ou superficiellement, et si possible, d'une manière différente.
 
 Pourquoi différente ? Car **je ne suis pas enseignant**, je n'ai pas reçu cette formation et je n'ai pas vocation à l'être. Les meilleurs expériences que j'ai vécu en tant qu'élève étaient celles où on ne voyait plus le professeur en tant que tel, mais comme une source inépuisable de savoir, un être faillible, humain, capable de nous enseigner tout comme nous interroger, sur le cours ou ce que nous sommes.
@@ -46,6 +47,7 @@ N'ayant « que » 4 séances mais surtout 3 heures à remplir à chaque fois, j'
 2.  Les blogs : mode d'emploi
 3.  Questions & réponses sur l'utilisation du blog + comment mesurer l'impact de sa communication en ligne
 4.  Utilisation des réseaux, sociaux ou pas, et moyens de diffusion d'un contenu publié
+
 Il s'agissait en fait d'adapter le contenu de mon livre, [Réussir son blog professionnel](http://reussir-son-blog.pro/), en l'étayant et en le mettant en pratique par un public pas nécessairement au fait.
 
 ## L'évaluation
@@ -67,6 +69,7 @@ De ce fait, j'ai noté sur une base de réussite, d'atteinte d'objectifs et non 
 8.  Bonne utilisation des liens internes/externes
 9.  Ce blog est-il réellement présentable/utilisable dans un contexte réel
 10.  Impression générale
+
 **Chaque point pouvait être noté entre 0 et 1, par palier de 0,25 point**. Je n'aime pas l'idée que ça soit réussi ou raté donc j'ai voulu pouvoir nuancer la réussite.
 
 J'ai également utilisé la fonctionnalité de formulaire de Google Docs pour relever les copies (numériques). J'ai demandé aux étudiants de renseigner ces différents champs :
@@ -81,6 +84,7 @@ J'ai également utilisé la fonctionnalité de formulaire de Google Docs pour re
 *   <div id="_mcePaste">Continuriez-vous le blog après cette expérience ?</div>
 *   Vos critiques, positives ou négatives, à propos du cours
 *   Quel(s) sujet(s) auriez-vous aimé voir traité,  et qui n'a pas été abordé ?
+
 Le point de contrôle #5 était donc lié à la mise en pratique des thématiques abordées, ainsi que les idées et motivations. Bon, tout le monde était cohérent avec son idée de départ. Plutôt rassurant pour des étudiants en 5ème année ;-)
 
 Cette grille n'est pas à mon avis parfaite. Je pense notamment à ce point #5, un peu trop facile et redondant avec le #4.
@@ -102,6 +106,7 @@ Globalement, les erreurs que j'ai rencontré :
 *   manque de mise en forme du texte (utilisation de listes à puce en lieu et place des listes manuelles à base de tirets, emphases)
 *   absence quasi-systématique de moyens de contact (adresse email, formulaire)
 *   rareté de liens sortants, _blogroll_ mise à part
+
 C'est d'ailleurs assez étonnant ce dernier point, surtout de la part de communiquants. Peut-être encore la tradition de la communication à sens unique ? Ou la peur de perdre l'internaute ?
 Toujours est-il que ce n'est pas une fatalité et j'espère bien qu'ils comprendront que le maillage de l'information est un vecteur de fidélisation. L'internaute ne reviendra pas que s'il trouvait le blog peu intéressant.
 

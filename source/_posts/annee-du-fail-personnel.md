@@ -75,6 +75,7 @@ Cette crise a envahi plusieurs pans de ma vie, telle une contagion invisible, et
 *   **avancer vers l'inconnu fait partie de notre quotidien** : on peut tout perdre du jour au lendemain, et on n'a pas le choix que de jongler avec les faits ;
 *   si l'inconnu est omniprésent, **suivre un chemin que l'on a choisi est indispensable** ;
 *   **renoncer à un idéal n'est pas renoncer à soi**, à une partie de soi : il y a tout le reste, tout ce qu'on connaît, ce qu'on ne connaît pas encore et ce qu'on ne connaîtra jamais.
+
 D'un autre côté, tout ceci a eu pour effet de renforcer le **désir de singularité** : si l'homme est un animal social (Aristote ne connaissait pas Facebook), il reste la pierre fondatrice de sa socialité. Autrement dit, il doit **disposer de ses propres raisons d'exister**, individuellement.
 
 **Pour rendre un développeur heureux, il faudrait finalement passer plus de temps avec lui**, à parler, qu'à choisir l'architecture de code la plus abstraite car la plus évolutive possible.

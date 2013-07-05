@@ -47,6 +47,7 @@ J'ai ensuite agrémenté de plusieurs fonctionnalités que j'apprécie à l'usag
 *   icône signalant l'**origine des messages** affichés (flux RSS, Twitter, Last.fm etc.)
 *   **filtrage de ses propres messages** : vos messages n'apparaîtront pas dans la ligne de temps des contacts (ce qui en soit n'est pas plus mal)
 *   **formattage des messages** avec une meilleure reconnaissance de URL que le widget Twitter et surtout, une reconnaissance des noms d'utilisateurs (@utilisateur) et des noms de canaux (#canal) ... vous permettant de leur répondre en cliquant sur leur nom
+
 Il resterait encore pas mal de choses à faire mais on arrive malheureusement assez rapidement aux limites des 2 services.
 
 ## L'API Jaiku
@@ -62,6 +63,7 @@ Il ne manque pas grand chose pour qu'on puisse tout faire :
 *   préciser à quel message on adresse une réponse (pour éviter de casser les discussions)
 *   une gestion de _messages privés_ (et les flux qui vont bien)
 *   une API qui ne souffre pas d'autant de délai ... parfois il faut attendre 3 heures avant d'avoir un flux actualisé. Pas pratique pour de la messagerie en temps quasi-réel
+
 Ces demandes ont été faites mais bon, il faudra attendre la [relance de Jaiku avec Google App Engine](http://www.jaiku.com/blog/2008/08/18/from-the-dev-corner-an-under-the-hood-preview-of-our-new-engine/) ... très bientôt visiblement.
 
 ## Et du côté de Netvibes ?
@@ -88,6 +90,7 @@ Et quand je dis _mal couvert_, ça inclut :
 *   pas de documentation du tout
 *   une documentation partielle et pas suffisamment verbeuse (genre pour les onglets et la pagination)
 *   une documentation obsolète et pas recommandée de leur propre aveu (le stockage des mots de passe)
+
 **L'adoption d'un service et sa qualité se jugent à mon avis par sa documentation**. Certes des efforts sont faits mais leur API deviendra crédible et fiable le jour où elle sera à jour et complète.
 
 En plus de ça, certaines fonctionnalités sont elles aussi incomplètes.
@@ -117,77 +120,78 @@ J'ai donc adapté le [proxy du Yahoo! Developer Network](http://developer.yahoo.
 *   **transmission des données POST** ; c'est ce qu'il manquait le plus à la version fournie par Netvibes
 *   **compatible texte/JSON/XML** ; le proxy renvoie les bonnes entêtes en fonction de la demande
 
-    <?php
-    define('CACHE_TTL', is_int($_GET['cache']) ? $_GET['cache'] : 3600);
-    define('CACHE_FOLDER', dirname(__FILE__).'/cache');
-    //
-    $session = curl_init($_GET['url']);
+```php
+<?php
+define('CACHE_TTL', is_int($_GET['cache']) ? $_GET['cache'] : 3600);
+define('CACHE_FOLDER', dirname(__FILE__).'/cache');
+//
+$session = curl_init($_GET['url']);
 
-    // If it's a POST, put the POST data in the body
-    if (isset($_POST) && !empty($_POST))
-    {
-      $postvars = '';
-      while ($element = current($_POST))
-      {
-        $postvars .= key($_POST).'='.$element.'&';
-        next($_POST);
-      }
-      curl_setopt ($session, CURLOPT_POST, true);
-      curl_setopt ($session, CURLOPT_POSTFIELDS, $postvars);
-    }
+// If it's a POST, put the POST data in the body
+if (isset($_POST) && !empty($_POST))
+{
+  $postvars = '';
+  while ($element = current($_POST))
+  {
+    $postvars .= key($_POST).'='.$element.'&';
+    next($_POST);
+  }
+  curl_setopt ($session, CURLOPT_POST, true);
+  curl_setopt ($session, CURLOPT_POSTFIELDS, $postvars);
+}
 
-    // Play with some cache
-    $md5sign = md5($_GET['url'].$postvars);
-    $md5file = CACHE_FOLDER.'/'.$md5sign;
+// Play with some cache
+$md5sign = md5($_GET['url'].$postvars);
+$md5file = CACHE_FOLDER.'/'.$md5sign;
 
-    /*
-     * Read cache
-     */
-    if (file_exists($md5file) && filemtime($md5file)+CACHE_TTL > time())
-    {
-      curl_close($session);
-      send_headers_content_type($_GET['type']);
-      readfile($md5file);
-      exit();
-    }
+/*
+ * Read cache
+ */
+if (file_exists($md5file) && filemtime($md5file)+CACHE_TTL > time())
+{
+  curl_close($session);
+  send_headers_content_type($_GET['type']);
+  readfile($md5file);
+  exit();
+}
 
-    // Don't return HTTP headers. Do return the contents of the call
-    curl_setopt($session, CURLOPT_HEADER, false);
-    curl_setopt($session, CURLOPT_RETURNTRANSFER, true);
+// Don't return HTTP headers. Do return the contents of the call
+curl_setopt($session, CURLOPT_HEADER, false);
+curl_setopt($session, CURLOPT_RETURNTRANSFER, true);
 
-    // Make the call
-    $output = curl_exec($session);
-    $fp = fopen($md5file, "wb+");
-    fwrite($fp, $output);
-    fclose($fp);
+// Make the call
+$output = curl_exec($session);
+$fp = fopen($md5file, "wb+");
+fwrite($fp, $output);
+fclose($fp);
 
-    send_headers_content_type($_GET['type']);
-    echo $output;
-    curl_close($session);
+send_headers_content_type($_GET['type']);
+echo $output;
+curl_close($session);
 
-    /*
-     * Functions
-     */
-    function send_headers_content_type($type)
-    {
-      // Set the Content-Type appropriately
-      switch ($type)
-      {
-        case 'text':
-        default:
-          header("Content-Type: text/plain");
-        break;
+/*
+ * Functions
+ */
+function send_headers_content_type($type)
+{
+  // Set the Content-Type appropriately
+  switch ($type)
+  {
+    case 'text':
+    default:
+      header("Content-Type: text/plain");
+    break;
 
-        case 'xml':
-          header("Content-Type: text/xml");
-        break;
+    case 'xml':
+      header("Content-Type: text/xml");
+    break;
 
-        case 'json':
-          header('Content-Type: text/x-json');
-        break;
-      }
-    }
-    ?>
+    case 'json':
+      header('Content-Type: text/x-json');
+    break;
+  }
+}
+```
 
 En revanche, je serais vous, **j'éviterais de m'en servir publiquement** car il n'y a aucune vérification de sécurité donc à moins que vous ayiez envie de servir de relais à spam, le mieux est de n'utiliser ce proxy que sur une instance locale ou bien de davantage le blinder.
 

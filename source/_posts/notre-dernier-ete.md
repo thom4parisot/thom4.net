@@ -57,6 +57,7 @@ En endossant le rôle de directeur technique chez [Dijiwan](http://dijiwan.com) 
 *   définir les pistes techniques et technologiques ;
 *   insuffler, maintenir et accroître l'envie au quotidien, la mienne, mais aussi celles des développeurs, voire des individus partageant le même lieux de travail ;
 *   ne pas tomber dans les travers tyranniques ou d'une exigence ne tenant pas compte des réalités.
+
 J'ai arrêté avec l'irréalisme (idéalisme ?) : **faire avec ce qu'on aimerait avoir**. Les conditions idéales.
 Au lieu de cela, j'ai préféré tirer parti des qualités _mais aussi_ des défauts de chacun.
 
@@ -73,6 +74,7 @@ Je ne dirige pas le maintien de la peur, l'acharnement à faire faillir ces pers
 
 Offert par [David Larlet](https://larlet.fr/david/) avant son départ au Japon, j'ai débuté et achevé la lecture de [Et si l'aventure humaine devait échouer](http://www.senscritique.com/livre/Et_si_l_aventure_humaine_devait_echouer/critique/10540168) de Théodore Monot en janvier.
 > On ne peut plus croire à la stabilité définitive de toute chose.
+
 Cette lecture m'a décidé à effectuer deux autres choix : me rapprocher de mes activités (travail, sorties, culture etc.) en déménageant. Le déménagement est une des choses qui me fait le plus horreur. Tout ranger. Tout déballer. Reconstruire. Dois-je préciser que j'ai débusqué mon futur lieu de vie via Facebook ?
 
 Coïncidence, j'ai déménagé 2 jours après son retour. David imaginait-il l'impact de son geste ? ;-)

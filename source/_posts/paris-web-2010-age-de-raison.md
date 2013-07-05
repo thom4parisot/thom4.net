@@ -78,6 +78,7 @@ Leur [présentation de l'accessibilité dans une chaine de production Web](http:
 *   Rédaction
 *   Développement
 *   Contrôle qualité
+
 Le liant entre ces phases étant la gestion de projet, menée de concert entre la maîtrise d'oeuvre et la maîtrise d'ouvrage. Une personne a même très justement souligné qu'il faudrait ajouter une nouvelle dernière étape, la livraison/maintenance. Pour s'assurer notamment qu'à l'usage, lors de la contribution ou des évolutions de l'application, l'accessibilité soit maintenue à niveau.
 
 [![](http://farm2.static.flickr.com/1328/5107972863_754420e883.jpg "Paris Web Marketing Fail")](http://www.flickr.com/photos/nicolas-hoizey/5107972863/)
@@ -160,6 +161,7 @@ Je terminerai malgré tout par quelques critiques, car on peut toujours progress
 *   HTML5 c'est sympa, il faut aller vers du concret, au-delà des balises section, header etc. La démo de Paul Rouget cassait la baraque car elle **apportait ce qu'il manquait** jusque là : la concrétisation au-delà du _slide_ ;
 *   le **mobile **a quasiment disparu de la programmation alors que l'an dernier, on sentait que c'était le sujet de toutes les interrogations
 *   les conférences sur le **contenu**, leur rédaction me font trop souvent penser à des cours de référencement naturel de bas étage (je suis dur, j'assume)
+
 Encore une fois, rendez-vous de pris pour l'année prochaine, à savoir en 2011 ... à moins qu'un **Sud Web** se glisse entre temps dans le calendrier ? ;-)
 
 **Remarque** : j'oublie plein de choses, plein de personnes (Ryan, toute la _famille_ avec Frank, N1k0 etc.) ... dur dur de tout caser en 1 billet ;-(

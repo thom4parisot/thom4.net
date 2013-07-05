@@ -47,6 +47,7 @@ J'essaierai de faire court en énumérant une liste de quelques points à faire 
 *   **génération automatique** d'interfaces (_admin generator_), de base de données (_ORM_), de modules/applications (_scaffolding_) etc.
 *   **vecteur d'apprentissage** individuel et collectif
 *   bénéfices de tout le travail d'une communauté ... et de celui que vous réinjecterez
+
 _A contrario_, on pourra critiquer les frameworks pour leur plus forte consommation en ressources qu'un développement maison.
 Ce n'est évidemment pas une raison valable pour passer à côté d'autant plus qu'il existe de nombreuses solutions pour palier/réduire ce problème avec les gestionnaires de cache et les accélérateurs de code.
 
@@ -74,6 +75,7 @@ Toutefois on peut retenir ces noms de frameworks PHP :
 *   [PEAR](http://pear.php.net/)
 *   [symfony](http://www.symfony-project.org/)
 *   [Zend Framework](http://framework.zend.com/)
+
 On pourrait classer ces frameworks en 2 catégories :
 
 *   les **briques logicielles** : ils se présentent comme des briques indépendantes qu'on peut utiliser à souhait dans n'importe quel projet, y compris d'autres frameworks. C'est notamment le cas de _PEAR_, _EZ Components_ et _Zend Framework_ ;

@@ -36,6 +36,7 @@ Je n'hésiterai pas une seconde à dire que je déconseille fortement cette écr
 *   si on souhaite gagner de la place, il y a des compresseurs (je recommande [YUI Compressor](http://developer.yahoo.com/yui/compressor/)): pas la peine de réaliser ce travail nous-même ;
 *   l'ajout de commentaires n'en est que plus compliqué : on a tous besoin de commenter certains passages cruciaux, notamment les _hacks_ et autres _fix_ ;
 *   c'est tout bonnement illisible dès qu'on s'y replonge quelques semaines plus tard : imaginez pour quelqu'un qui n'a pas écrit le code !
+
 Les arguments avancés pour cette technique ne tiennent pas la route : **on recherche avant tout la qualité et la facilité de relecture**. Les quelques kilo-octets à perdre se feront par le biais de programmes. Ça ne doit certainement pas entraver le développement.
 
 ## L'auto-documentation avec la syntaxe CSSDoc

@@ -18,6 +18,7 @@ categories:
 **La Case de l'Onc' Tom** n'avait presque pas changé de visage depuis son lancement en février 2005\. L'été s'installe enfin dans notre vert pays et j'en profite donc pour donner un gros coup de balais. _Exit_ donc le fond sombre, le jaune et le blanc, _bienvenue_ au marron et au blanc cassé. Vous noterez également le _léger changement de nom_ (il n'était presque pas respecté faut dire). On parlera désormais de **La Case de l'Oncle Tom**. Ne vous prenez pas la tête, c'est comme le livre (mais ça n'a rien à voir on est d'accord).
 
 C'est en lisant un article sur l'[intégration et la promotion des Microformats](http://www.alexandrebalmes.fr/webdesign/microformats/microformats-promotion-par-lintegration-et-laudit/) que j'ai réalisé à quel point cela pouvait bien s'intégrer dans un blog. J'avais déjà microformaté mon CV (hCalendar, hCard, hResume) mais pour d'autres raisons que je développerai, j'ai finalement cédé aux sirènes de la tentation.
+
 <!--more-->
 
 ## Le thème
@@ -49,4 +50,5 @@ Et pour les nostalgiques qui débarqueront en ne sachant pas à quoi je fais ré
 
 *   [La Case de l’Oncle Tom : avant le 27 juillet 2007](https://oncletom.io/images/2007/07/caseoncle-tomnet-jediweb.png "La Case de l’Oncle Tom : avant le 27 juillet 2007")
 *   [La Case de l'Oncle Tom : à partir du 27 juillet 2007](https://oncletom.io/images/2007/07/caseoncle-tomnet-oncletom.png "La Case de l")
+
 Voilà ;-) ce sont quelques heures de travail qui s'offrent à vous.

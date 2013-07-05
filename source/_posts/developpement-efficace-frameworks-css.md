@@ -52,6 +52,7 @@ Je m'intéresserai plutôt aux réfractaires. Assez paradoxalement, ce n'est pas
 *   ça rajoute des kilo-octets superflus
 *   on perd le contrôle de notre code
 *   j'utilise déjà le mini-framework d'un collègue ou qui existait dans mon entreprise avant que j'arrive
+
 Ces arguments sont tout à fait acceptables ... mais ça dépend dans quel contexte.
 
 [caption id="attachment_1215" align="aligncenter" width="500" caption="Exemple de mise en forme en grille"]![Exemple de mise en forme en grille](https://oncletom.io/images/2008/11/blueprint-sample.png "Exemple de mise en forme en grille")[/caption]

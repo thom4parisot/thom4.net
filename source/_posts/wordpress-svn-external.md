@@ -35,8 +35,7 @@ L'avantage évident ici est de pouvoir déployer son blog n'importe où en un ri
 
 Installer Wordpress en tant que dépendance SVN revient à mélanger 2 techniques :
 
-*   [Installer Wordpress dans son propre répertoire
-](http://codex.wordpress.org/Giving_WordPress_Its_Own_Directory)
+*   [Installer Wordpress dans son propre répertoire](http://codex.wordpress.org/Giving_WordPress_Its_Own_Directory)
 *   [Installer Wordpress proprement depuis SVN](http://codex.wordpress.org/Installing_WordPress_With_Clean_Subversion_Repositories)
 
 Je suis pénible donc je n'ai pas spécialement envie de modifier un fichier _core_ ou autre chose que _wp-config.php_. Tout le contraire de ce qu'indique la première méthode.

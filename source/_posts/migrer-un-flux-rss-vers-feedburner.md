@@ -72,6 +72,6 @@ RewriteCond %{HTTP_USER_AGENT} !FeedBurner
 RewriteRule ^veda\.xml$ http://feeds.feedburner.com/emunovaVedaTests [R=301,L]
 RewriteCond %{HTTP_USER_AGENT} !FeedBurner
 RewriteRule ^veda_commentaires\.xml$ http://feeds.feedburner.com/emunovaVedaCommentaires [R=301,L]
-``
+```
 
 Pas difficile et tellement pratique ;-)

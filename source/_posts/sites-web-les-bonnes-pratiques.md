@@ -1,7 +1,7 @@
 title: "Sites Web : les bonnes pratiques"
 id: 476
 date: 2007-02-26 20:37:35
-tags: 
+tags:
 - bonnes pratiques
 - css
 - html
@@ -9,7 +9,7 @@ tags:
 - opquast
 - pro
 - temesis
-categories: 
+categories:
 - Accessibilité
 - Développement Web
 - Standards du Web
@@ -29,11 +29,13 @@ Exemples de bonnes pratiques simples que n'importe qui peut mettre en oeuvre :
 *   <cite>Le nom du site et/ou le nom de l'auteur sont indiqués sur chaque page</cite> ;
 *   <cite>Le soulignement est réservé aux hyperliens</cite> ;
 *   <cite>Le site propose au moins un moyen de contacter l'auteur et/ou le webmestre</cite>.
+
 D'autres sont plus tordues au premier abord mais totalement justifiée, certaines abordant le délicat sujet de l'[accessibilité](http://css.alsacreations.com/Accessibilite-du-Web/) :
 
 *   <cite>Les hyperliens sont visuellement différenciés du reste du contenu</cite> ;
 *   <cite>L'emplacement du menu principal de navigation est identique sur toutes les pages</cite> ;
 *   <cite>La navigation reste possible sur l'ensemble du site en utilisant exclusivement le clavier</cite>.
+
 Comme vous pouvez le constater, ça n'a rien de bien sorcier. C'est un peu comme dire <cite>bonjour</cite> en se présentant à un inconnu : c'est le minimum à fournir pour établir une conversation. Lorsqu'on crée un site Web, c'est une conversation avec le monde que l'on établit ;-)
 
 [amazon-product]2212121016[/amazon-product]

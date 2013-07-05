@@ -1,11 +1,11 @@
 title: "Interprétations, tensions, conflits"
 id: 421
 date: 2007-01-26 21:49:43
-tags: 
+tags:
 - Au travail
 - équipe
 - psychologie
-categories: 
+categories:
 - Travail 2.0
 ---
 
@@ -21,7 +21,9 @@ S'il y a bien une chose dont je me doutais mais pour laquelle je n'avais jamais 
 *   celui qui travaille bien mais qui ne cherche jamais de réponse par lui-même à ses questions
 *   celui qui pense que les autres n'ont rien à faire, donc devraient être disponibles immédiatement
 *   celui qui vient bosser, qui râle contre son boulot mais qui ne fera jamais rien pour l'améliorer
+
 <!--more-->
+
 Mais le pire à mon sens, c'est le mélange de ce rapport travailleur / travail avec d'autres travailleurs. En effet, tout métier demande un minimum de communication avec ses collègues, ces derniers ayant régulièrement besoin d'aide ou pouvant régulièrement en fournir.
 
 En commençant à travailler, je considérais comme normal de répondre aux attentes des autres mais j'étais loin de m'imaginer que c'était un [terrain miné](http://fr.wikipedia.org/wiki/Mine_terrestre) comme un champ de blé en Angola.
@@ -34,4 +36,4 @@ Seulement si on s'habitue vite au son du "Oui", le "Non" en revanche est à form
 Et j'en passe et des meilleures. Souvent on refuse ou on remet à plus tard car il y a bien entendu d'autres priorités, d'autres choses à faire ou parce qu'on était déjà en train d'aider quelqu'un d'autre. Et c'est là que les interprétations farfelues rentrent en jeu alors que ce n'est pas une question de **volonté** mais bel et bien de **possibilité**.
 Des personnes qui se préoccupent qu'on les aide, il y en a. Mais des personnes qui se préoccupent qu'on a aussi un boulot à faire et que personne ne nous aidera à réaliser, il y en a déjà beaucoup moins. Si ces derniers comprennent amplement un refus, malheureusement vous devinez donc qui est susceptible de prendre la mouche à la moindre esquisse de négation.
 
-Bienvenue dans la vie de ceux qui ne se soucient que de leur gueule. 
+Bienvenue dans la vie de ceux qui ne se soucient que de leur gueule.

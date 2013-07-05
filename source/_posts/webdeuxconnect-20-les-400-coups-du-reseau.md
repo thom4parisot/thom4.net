@@ -52,6 +52,7 @@ Tranches de vie saupoudrée de networking. J'ai bien accroché et ça confirme m
 On se link régulièrement via nos blogs respectifs, on échangeait via Twitter et maintenant on s'est enfin serré la patte ;-)
 *   [Kévin Brustis](http://kjame.com)
 Et quelle surprise d'apprendre son âge ! En première année d'IUT, déjà patron de sa société. Ça me fera bizarre de l'avoir en cours l'an prochain !
+
 [![Oxygène parfumé](http://farm4.static.flickr.com/3019/2938383121_56d7a726cb.jpg)](http://www.flickr.com/photos/the-jedi/2938383121/ "Oxygène parfumé")
 
 ## Les petites surprises
@@ -76,6 +77,7 @@ Serial-designeur de talent, très actif sur _Wordpress_. Il devrait signer la pr
 Juriste chez VanksenGroup, notamment chez BuzzParadise. Une parole appréciée et je retiens surtout le "le statut des blogueurs est encore dans le flou". Y'a le temps avant que ça bouge en somme côté législation.
 *   [Chloé le Dref](http://www.whosegame.com/)
 La toute timide mais charmante _business developper_ chez Whosegame, la plateforme de jeux Flash réalisés par des indépendants.
+
 [![Webdeux.connect à l](http://farm4.static.flickr.com/3015/2933767005_e02ae4338e_m.jpg)](http://www.flickr.com/photos/the-jedi/2933767005/ "Webdeux.connect à l")
 
 ## Conclusion

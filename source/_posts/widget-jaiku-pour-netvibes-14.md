@@ -1,13 +1,13 @@
 title: "Widget Jaiku pour Netvibes 1.4"
 id: 1147
 date: 2008-09-25 07:00:16
-tags: 
+tags:
 - jaiku
 - Javascript
 - netvibes
 - release
 - widget
-categories: 
+categories:
 - Développement Web
 - Projets
 ---
@@ -27,9 +27,9 @@ C'est juste pour faire plaisir à [remouk](http://shiii.org/) mais y'a un thème
 *   **Distinction commentaires/présences**
 Les lignes alternées reprennent les couleurs de Jaiku : bleu pour les présences, jaune pour les commentaires.
 *   **Diverses corrections de bugs**
+  *   Quand vous cliquiez 2 fois sur le bouton _reply_, ça partait en sucette. Plus maintenant.
+  *   Quand vous cliquiez sur plusieurs onglets sans leur laisser le temps de se charger, leur contenu n'était pas forcément chargé au bon endroit. Plus maintenant.
 
-    *   Quand vous cliquiez 2 fois sur le bouton _reply_, ça partait en sucette. Plus maintenant.
-    *   Quand vous cliquiez sur plusieurs onglets sans leur laisser le temps de se charger, leur contenu n'était pas forcément chargé au bon endroit. Plus maintenant.
 C'est tout pour cette fois.
 Ah et aussi, n'oubliez pas d'[installer le widget Jaiku pour Netvibes](http://eco.netvibes.com/subscribe/241591) ou cherchez _Jaiku_ dans l'ajout de widgets sur Netvibes.
 

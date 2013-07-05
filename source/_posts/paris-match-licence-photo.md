@@ -32,6 +32,7 @@ Toutes mes photos publiées sur Flickr sont sous licence [Creative Commons BY-NC
 *   citation de parternité (avec une référence vers l'œuvre d'origine) ;
 *   pas d'utilisation commerciale ;
 *   pas de modification.
+
 Les trois critères sont _entièrement_ baffoués :
 
 1.  le crédit photo marqué est "Photo DR" ; autrement dit, "Droits Réservés" − **on ne cite pas l'auteur** (qui n'est peut-être pas connu − maintenant c'est le cas ;-)) ;
@@ -44,6 +45,7 @@ Bref, autant d'arguments qui donneraient envie de tirer à vue sur Paris Match, 
 ## Prise de contact avec Paris Match
 
 On est dimanche après-midi, je contacte donc Paris Match en suivant le lien judicieusement intitulé <q>Signaler du contenu illicite</q>. Il est 13h30 et j'y tiens ces propos :
+
 > Adresse de la page : [http://www.parismatch.com/Conso-Match/Gastronomie/Actu/Eric-Sampietro-la-cuisine-du-mousquetaire-141329/](http://www.parismatch.com/Conso-Match/Gastronomie/Actu/Eric-Sampietro-la-cuisine-du-mousquetaire-141329/)
 >
 > Votre message :
@@ -66,6 +68,7 @@ On est dimanche après-midi, je contacte donc Paris Match en suivant le lien jud
 > La balle est dans votre camp maintenant.
 >
 > Merci d'avance
+
 À 14h30, l'image est retirée de l'article sur le Web et je reçois une réponse cordiale du rédacteur en chef s'excusant et me faisant part du retrait. C'est d'autant plus appréciable que je n'attendais franchement pas de réponse un dimanche après-midi, surtout de la part d'une personne se présentant comme encore en vacances (et donc pas forcément au courant de subtilités concernant tel ou tel article).
 
 J'apprends toutefois que le site Web de Paris Match, tout du moins cet article, ne fait que reprendre des articles de la version papier en retravaillant la mise en forme. Autrement dit, à leur niveau, la vérification des conditions d'utilisation d'une image sont censés être déjà aboutis. Je comprends donc qu'ils ne refassent pas le travail de vérification.
@@ -74,6 +77,7 @@ On pourrait imaginer que je n'ai plus à faire valoir mes droits sur la photo vu
 
 *   [la photo se trouve toujours physiquement sur leur serveur](http://photo.parismatch.com/media/photos2/4.-photos-conso/gastronomie/eric-sampietro/1070657-1-fre-FR/4-photos-conso-gastronomie-Eric-Sampietro-Eric-Sampietro_articlephoto.jpg) (merci à mon cache pour en avoir gardé une trace − je m'attends toutefois à ce qu'elle soit supprimée après qu'une personne de Paris Match l'apprenne, disons par ce présent article)
 *   la photo se trouve toujours sur le [PDF de l'article](http://www.julieandrieu.com/images/ilsontdit/210.pdf) ... ainsi que dans la version papier
+
 [![Extrait de l](https://oncletom.io/images/2009/11/parismatch-sampietro-extrait-papier-300x263.jpg "Extrait de l")](https://oncletom.io/images/2009/11/parismatch-sampietro-extrait-papier.jpg)
 
 ## Un cheminement compliqué
@@ -107,6 +111,7 @@ J'en profite pour partager quelques liens sur la photographie et les contraintes
 *   [Le droit à l'image des biens et des personnes](http://www.virusphoto.com/32963-le-droit-a-limage-des-biens-et-des-personnes.html) (adieu les photos de la Tour Eiffel de nuit ;-))
 *   [La photographie et le droit (droit à l'image)](http://www.virusphoto.com/1528-la-photographie-et-la-loi-droit-a-limage.html)
 *   [5 modèles-types d'autorisation](http://www.virusphoto.com/10575-5-modeles-types-dautorisations-a-faire-signer-a-vos-modeles.html)
+
 Quant à moi, j'ai un sacré retard en terme de billets mais ça me fera une bonne transition pour parler la prochaine fois de [Réussir son blog professionnel](http://reussir-son-blog.pro/), 2 mois après son lancement ;-)
 
 ## Mise à jour
