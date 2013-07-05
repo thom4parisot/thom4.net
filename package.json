@@ -6,8 +6,13 @@
     "node": ">= 0.10.0",
     "npm": ">= 1.3.0"
   },
+  "scripts": {
+    "start": "hexo server"
+  },
   "dependencies": {},
   "devDependencies": {
-    "hexo-migrator-wordpress": "0.0.6"
+    "grunt-shell": "~0.3.0",
+    "grunt": "~0.4.1",
+    "hexo": "~1.2.4"
   }
 }
