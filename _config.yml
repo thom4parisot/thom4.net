@@ -35,6 +35,17 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  - Accessibilité: a11y
+  - Développement Web: web
+  - Entrepreneuriat: entrepreunariat
+  - JavaScript: javascript
+  - Mobile: mobile
+  - Personnel: personnel
+  - Photographie: photographie
+  - Projets: projets
+  - Travail 2.0: travail
+  - WordPress: wordpress
+  - Évènements: evenements
 tag_map:
 
 # Archives
