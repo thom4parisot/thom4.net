@@ -77,7 +77,7 @@ J'ai la possibilité de choisir pour chacune des 2 personas mon avatar, ma date 
 Maintenant voilà, l'URL du fournisseur n'est pas forcément la plus esthétique ni la plus facile à retenir qui soit. Mieux encore, vous souhaitez avoir une adresse OpenID mais pouvoir changer de fournisseur sans avoir à vous rappeler quel est votre fournisseur actuel.
 C'est tout à fait possible avec la [délégation OpenID](http://wiki.openid.net/Delegation).
 
-**Ce système permet d'utiliser n'importe quel nom de domaine** sur lequel vous avez la main. Personnellement j'utilise une délégation pour utiliser [http://oncle-tom.net](http://oncle-tom.net/) comme identifiant OpenID. C'est possible par la simple adjonction de quelques lignes de code HTML au sein de la page. La documentation citée précédemment explique très simplement le mécanisme.
+**Ce système permet d'utiliser n'importe quel nom de domaine** sur lequel vous avez la main. Personnellement j'utilise une délégation pour utiliser [https://oncletom.io](/) comme identifiant OpenID. C'est possible par la simple adjonction de quelques lignes de code HTML au sein de la page. La documentation citée précédemment explique très simplement le mécanisme.
 
 Puisqu'on se souvient plus facilement de l'adresse de son propre site Web, autant l'utiliser. Après tout, **votre site fait partie de votre identité numérique**.
 

@@ -38,7 +38,7 @@ Mon besoin était le suivant :
   *   intégration d'un _lifestream_ (intégré entre temps)
   *   intégration de [Feedburner](http://feedburner.com/) via son [API Awareness](http://code.google.com/intl/fr/apis/feedburner/awareness_api.html)
   *   intégration d'un bandeau [Flickr](http://flickr.com/) qui s'étend sur toute la largeur de l'écran, peu importe la résolution employée
-  *   utilisation du blog comme vitrine : suppression de ma dernière page HTML manuelle (autrefois accessible sur [oncle-tom.net](http://oncle-tom.net/))
+  *   utilisation du blog comme vitrine : suppression de ma dernière page HTML manuelle (autrefois accessible sur [oncle-tom.net](/))
 *   **Compatibilité**
   *   navigateurs modernes ... c'est à dire rien en dessous d'Internet Explorer 8
   *   intégration avec HTML 5
