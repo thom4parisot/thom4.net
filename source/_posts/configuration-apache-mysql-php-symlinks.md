@@ -73,25 +73,25 @@ La seule étape par rapport à d'habitude c'est qu'on ne crée par les _Virtual 
 Admettons que je souhaite créer un _Virtual Host_ pour une instance locale de mon blog. Je vais procéder ainsi :
 
 ```bash
-gedit ~/conf/apache2/sites-available/local.case.oncle-tom.net
+gedit ~/conf/apache2/sites-available/oncletom.io
 ```
 
 J'y ai placé une configuration somme toute minimaliste :
 
 ```
 <VirtualHost *:80>
-ServerName local.case.oncle-tom.net
-DocumentRoot /home/oncletom/workspace/case.oncle-tom.net
-ErrorLog /var/log/apache2/error.case.oncle-tom.net.log
-LogLevel warn
-CustomLog /var/log/apache2/access.case.oncle-tom.net.log combined
-ServerSignature On
+  ServerName local.oncletom.io
+  DocumentRoot /home/oncletom/workspace/oncletom.io
+  ErrorLog /var/log/apache2/error.oncletom.io.log
+  LogLevel warn
+  CustomLog /var/log/apache2/access.oncletom.io.log combined
+  ServerSignature On
 </VirtualHost>
 ```
 
 ```bash
-sudo ln -s ~/conf/apache2/sites-available/local.case.oncle-tom.net /etc/apache2/sites-available/local.case.oncle-tom.net
-sudo a2ensite local.case.oncle-tom.net
+sudo ln -s ~/conf/apache2/sites-available/oncletom.io /etc/apache2/sites-available/oncletom.io
+sudo a2ensite oncletom.io
 sudo service apache2 reload
 ```
 
