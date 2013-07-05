@@ -21,7 +21,7 @@ L'appel à conférences de [Sud Web](http://sudweb.fr/) est lancé depuis le dé
 En 2011, nous avons décidé de mettre en avant ces thèmes de conférences : développement, métier, valeurs et méthodologie. 4 thèmes, c'est beaucoup ... et bien peu face au nombre de sujets à traiter.
 Retour sur la constitution de Sud Web, et ce qui nous a amené à choisir ces thèmes, chers à nos cœurs ... et nos professions.
 
-![](http://media.oncle-tom.net/images/2011/01/logo-sudweb.png "Sud Web 2011")
+![](/images/2011/01/logo-sudweb.png "Sud Web 2011")
 
 <!--more-->
 

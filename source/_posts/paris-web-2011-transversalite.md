@@ -24,7 +24,7 @@ Une année s'est déjà écoulée depuis [Paris Web](http://paris-web.fr) 2010\.
 
 Pour ma part, c'est la **quatrième année consécutive** où je m'y rends … et où on accepte de me voir déblatérer des sujets de plus en plus bizarre. Qu'y ai-je vu cette année ?
 
-[![Legalize Table](http://media.oncle-tom.net/images/2011/10/shot_1318684180740-300x300.jpg "Legalize Table")](http://media.oncle-tom.net/images/2011/10/shot_1318684180740.jpg)
+[![Legalize Table](/images/2011/10/shot_1318684180740-300x300.jpg "Legalize Table")](/images/2011/10/shot_1318684180740.jpg)
 
 <!--more-->
 

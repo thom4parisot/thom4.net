@@ -19,7 +19,7 @@ Pour être précis, ce sont 12 personnes qui ont fait le déplacement jusqu'aux 
 
 S'il y avait un pareil engouement pour se rendre aux urnes en avril 2012, j'en serais ravi.
 
-![](http://media.oncle-tom.net/images/2011/01/logo-sudweb.png "Sud Web")
+![](/images/2011/01/logo-sudweb.png "Sud Web")
 
 <!--more-->
 

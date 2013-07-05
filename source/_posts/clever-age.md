@@ -18,7 +18,7 @@ categories:
 
 Après deux semaines de travail, j'en tire déjà quelques conclusions, par rapport au travail, aux gens avec qui je compose et à ma nouvelle vie. Certains livres et méthodes oscillent entre 30 et 90 jours pour convaincre. Tout ce que je peux dire c'est que 90 c'est beaucoup trop : **en 20 ou 30 jours tout est cuit**.
 
-![](http://media.oncle-tom.net/images/2007/11/clever_age.png "Clever Age") <!--more-->
+![](/images/2007/11/clever_age.png "Clever Age") <!--more-->
 
 ## Changement de collègues
 

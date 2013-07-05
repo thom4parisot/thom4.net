@@ -22,7 +22,7 @@ Le printemps est posé, le travail afflue, le soleil brille dans un ciel dégag�
 
 Alsacréations a publié hier son [calendrier des conférences 2011](http://www.alsacreations.com/actu/lire/1202-conferences-web-2011-a-vos-agendas.html). J'en profite pour étayer quelque peu, et ajouter d'autres sujets tout aussi intéressants.
 
-![](http://media.oncle-tom.net/images/2011/01/logo-sudweb.png "Sud Web")
+![](/images/2011/01/logo-sudweb.png "Sud Web")
 
 <!--more-->
 

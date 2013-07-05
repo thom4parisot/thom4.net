@@ -48,7 +48,7 @@ Pour la petite histoire, n'ayant pas pensé à acheter les post-il avant d'arriv
 
 C'est ainsi que je me retrouvais avec 200 post-it en forme de cœur,  de maison ou de fleur.
 
-![](http://media.oncle-tom.net/images/2010/11/post-it-paris-web-300x179.jpg "Post-it")
+![](/images/2010/11/post-it-paris-web-300x179.jpg "Post-it")
 
 Un peu de gaieté pour un atelier sérieux et créatif.
 D'ailleurs, parce qu'on n'a pas bossé pour rien, et que Paris Web c'est aussi la création en plus de _share the love_, voici la carte mentale de notre heure de travail :
@@ -83,7 +83,7 @@ Ce que j'aimerais, c'est produire 2 livrables :
 
 Ces livrables seront _Open Source_, libres, gratuits et créés collectivement, parce qu'on a tous des terrains d'expertise différents et complémentaires.
 
-[caption id="attachment_17833" align="aligncenter" width="300" caption="Share the love ;-)"]![](http://media.oncle-tom.net/images/2010/11/post-it-delire-300x179.jpg "Délire de post-it")[/caption]
+[caption id="attachment_17833" align="aligncenter" width="300" caption="Share the love ;-)"]![](/images/2010/11/post-it-delire-300x179.jpg "Délire de post-it")[/caption]
 
 Je ne manquerai pas de vous tenir informé des avancées de ces projets, qui me tiennent à coeur.
 Je ne saurais que trop remercier les participants, présents lors de l'atelier Paris Web, ceux qui apporteront leur pierre à l 'édifice (même si ça ne concerne qu'un changement de virgule dans une phrase) et ceux qui apporteront leur soutien, [Elie Sloïm](http://temesis.com/) en tête. Il propose en effet de mettre à disposition la plate-forme Opquast en tant qu'outil de contribution.

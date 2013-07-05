@@ -18,7 +18,7 @@ Je suis officiellement gérant de la SARL [CyneticMonkey](http://cyneticmonkey.c
 
 Je vous fais part de mes impressions, de mes actions mais aussi de mes craintes. J'en profite aussi pour vous communiquer un pré-requis indispensable : **motivation**. En étant seul à bord, on n'a pas d'autre choix que de maintenir le cap, et d'aller au-delà de son propre ressenti.
 
-![](http://media.oncle-tom.net/images/2011/03/logo_cyneticmonkey_standard-300x207.png "CyneticMonkey")
+![](/images/2011/03/logo_cyneticmonkey_standard-300x207.png "CyneticMonkey")
 
 <!--more-->
 

@@ -15,7 +15,7 @@ categories:
 
 Présentation rapide du programme et bien sûr, invitation à venir sur place, le **jeudi 13 janvier 2011**. Le cocktail est offert ... ainsi que le reste de la soirée ;-)
 
-![](http://media.oncle-tom.net/images/2011/01/logo-aquinum-300x142.png "Logo Aquinum")
+![](/images/2011/01/logo-aquinum-300x142.png "Logo Aquinum")
 
 <!--more-->
 

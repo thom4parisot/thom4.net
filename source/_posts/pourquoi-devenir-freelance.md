@@ -19,7 +19,7 @@ Devenir indépendant est-il un passage obligé ou une [tentative désespérée d
 
 Dans mon cas, puisque je ne peux parler que de mon expérience avec la création de [CyneticMonkey](http://cyneticmonkey.com). **Les réponses se trouvent dans le passé**, mon caractère et mes objectifs, tant professionnels que personnels.
 
-[![](http://media.oncle-tom.net/images/2011/03/logo_cyneticmonkey_standard-300x207.png "CyneticMonkey")](http://cyneticmonkey.com)
+[![](/images/2011/03/logo_cyneticmonkey_standard-300x207.png "CyneticMonkey")](http://cyneticmonkey.com)
 
 <!--more-->
 
