@@ -32,6 +32,7 @@ categories:
 Nous avions dressé un panorama des microformats dans un précédent article intitulé « [microformats : republier et donner du sens aux contenus](https://oncletom.io/2008/01/29/microformats-republier-donner-sens-aux-contenus/) ». Nous avions notamment conclu que leur** intégration était rapide, peu coûteuse et surtout bénéfique** tant pour le visiteur que pour la visibilité du contenu.
 
 Nous nous intéresserons cette fois-ci à une partie plus pratique des microformats : leur **intégration**. Toutefois ce rapide apprentissage sera didactique puisque nous apprendrons à identifier visuellement quels contenus d’une page peuvent être microformatés mais aussi comment microformater du code HTML déjà existant.
+
 <!--more-->
 
 ### Des sites déjà microformatés
@@ -49,6 +50,7 @@ Contrairement à ce que l'on aurait pu penser, Google n'a pas intégré le [micr
 
 *   [microformat hCard](http://microformats.org/wiki/hcard) (correspond à la réunion des encadrés bleu et vert)
 *   [microformat adr](http://microformats.org/wiki/adr) (correspond à l'encadré vert uniquement)
+
 Cette combinaison facilite l'extraction des adresse postales et des entités (individus ou entreprises).
 
 **[Exemple avec Yahoo ! Upcoming](http://upcoming.yahoo.com/search/?loc=paris)** :
@@ -65,6 +67,7 @@ Le microformat par excellence à adopter était bien évidemment le [microformat
 *   description de l'évènement
 *   le lieu de l'évènement (sous forme d'adresse complète ou pas)
 *   une URL menant à un descriptif plus approfondi de l'évènement
+
 Ce microformatage permet d'aller au-delà d'une lecture classique puisque de manière simple, elle permet au visiteur de récupérer les évènements qui l'intéresse pour les ajouter à son gestionnaire de temps favoris, qu'il soit logiciel ou en ligne.
 
 ### Identifier visuellement les microformats à intégrer
@@ -73,6 +76,7 @@ Identifier des microformats déjà implémenté est assez simple avec les outils
 
 *   la documentation des microformats pour savoir **quoi implémenter**
 *   un peu de jugeotte pour savoir **comment implémenter** ;-)
+
 Avec un peu de pratique et de connaissance des différents microformats, il ne faut pas plus de 5 à 10 minutes pour identifier les contenus microformatables. La difficulté d'intégration dépendra uniquement de la structure technique affichant les données : plus elle sera complexe, plus le microformatage pourra être long ... au même titre que toute autre modification basique.
 
 **[Exemple avec Wikia Search](http://re.search.wikia.com/search#clever%20age)** :
@@ -85,11 +89,10 @@ Il est d'ailleurs étonnant de voir qu'aucun microformat ne soit présent malgr�
 
 1.  le lien sur logo aurait pu se voir agrémenter d'un [rel-home](http://microformats.org/wiki/rel-home) pour signifier un retour vers la page d'accueil ;
 2.  les résultats auraient pu quant à eux embarquer :
-
-    *   le [microformat hAtom](http://microformats.org/wiki/hatom) pour faciliter la syndication de contenu et l'extraction des résultats.
-    *   le [microformat hReview](http://microformats.org/wiki/hreview) ou [VoteLinks](http://microformats.org/wiki/vote-links) sur les encadrés orangés identifiant les zones de votes.
-
+  *   le [microformat hAtom](http://microformats.org/wiki/hatom) pour faciliter la syndication de contenu et l'extraction des résultats.
+  *   le [microformat hReview](http://microformats.org/wiki/hreview) ou [VoteLinks](http://microformats.org/wiki/vote-links) sur les encadrés orangés identifiant les zones de votes.
 3.  enfin le [microformat hCard](http://microformats.org/wiki/hcard) aurait été le bienvenu sur la liste des résultats correspond à des personnes.
+
 On peut constater que plus il y a d'emplacement représentant des contenus différents sur une page, plus on a de chances qu'un microformat corresponde.
 
 **[Exemple avec Clever Age](http://www.clever-age.com/)** :
@@ -103,10 +106,10 @@ J'ai dénombré pas moins de 5 zones pouvant accueillir des microformats :
 3.  ajouter facilement Clever Age dans votre carnet de contacts et de prestataires serait également facilité si le [microformat hCard](http://microformats.org/wiki/hcard) redistribuait le nom et les moyens de contact de la société ;
 4.  en complément au moyen de contact, l'emplacement géographique des agences serait à portée de clic avec le [microformat geo](http://microformats.org/wiki/geo). Après tout, Google Maps proposera peut-être un jour d'importer des URL microformatée en plus des fichiers KMZ (Google Earth) ;-) ;
 5.  enfin, le microformatage de la dernière partie dépend de ce qu'on aimerait redistribuer :
+  *   le [microformat hAtom](http://microformats.org/wiki/hatom) pour offrir 3 flux de syndication mais le peu d'éléments (2 à chaque fois) tende à infirmer la pertinence de ce microformat dans le cas présent ;
+  *   le [microformat XOXO](http://microformats.org/wiki/xoxo) est adapté à décrire des types de contenus embarqués dans une page ; ici des flux RSS. Il serait à placer sur chaque lien pointant vers les flux RSS ;
+  *   le [microformat Xfolk](http://microformats.org/wiki/xfolk) est adapté aux collections d'URL plus communément appelés « favoris » ou « marque-pages »
 
-    *   le [microformat hAtom](http://microformats.org/wiki/hatom) pour offrir 3 flux de syndication mais le peu d'éléments (2 à chaque fois) tende à infirmer la pertinence de ce microformat dans le cas présent ;
-    *   le [microformat XOXO](http://microformats.org/wiki/xoxo) est adapté à décrire des types de contenus embarqués dans une page ; ici des flux RSS. Il serait à placer sur chaque lien pointant vers les flux RSS ;
-    *   le [microformat Xfolk](http://microformats.org/wiki/xfolk) est adapté aux collections d'URL plus communément appelés « favoris » ou « marque-pages »
 Avec ce dernier exemple, nous venons de voir que le microformatage était facilement adaptable à un site Web de société. Dans ce cas précis, il y a énormément de contenu republiable mais pas systématiquement de manière pertinente.
 
 ### Intégrer les microformats dans du (X)HTML
@@ -119,40 +122,56 @@ La difficulté de l'exercice est d'ajouter du balisage sans altérer la présent
 
 Voici le code de départ, repris tel quel :
 
-    Clever Age - Siège social : 01.53.34.66.10`</pre>
-    Comme nous avons pu le voir, la gestion d'identités passe par le [microformat hCard](http://microformats.org/wiki/hcard) :
-    <pre>`<span class="vcard">
-    <span class="fn org">Clever Age</span> - Siège social : <span class="tel"><span class="value">01.53.34.66.10</span></span>
-    </span>`</pre>
-    La balise _span_ est une balise en-ligne neutre au sens où ... n'en a pas justement. _div_ est son pendant de type bloc.
+```html
+Clever Age - Siège social : 01.53.34.66.10
+```
 
-    **Microformater des ressources syndiquées**
-    Voici le code de départ (simplifié par rapport à l'exemple afin de réduire le code à lire) :
-    <pre>`<dl>
-    <dt><a href="/rss/blog.xml">derniers billets du blog</a></dt>
-    <dd>...</dd>
+Comme nous avons pu le voir, la gestion d'identités passe par le [microformat hCard](http://microformats.org/wiki/hcard) :
 
-    <dt><a href="/rss/publications.xml">dernières publications</a></dt>
+```html
+<span class="vcard">
+  <span class="fn org">Clever Age</span> - Siège social : <span class="tel"><span class="value">01.53.34.66.10</span></span>
+</span>
+```
 
-    <dd>...</dd>
+La balise `span est une balise en-ligne neutre au sens où ... n'en a pas justement.
+`div` est son pendant de type bloc.
 
-    <dt><a href="/rss/cleverlink.xml">derniers Clever Links</a></dt>
-    <dd>...</dd>
-    </dl>`</pre>
-    Le [microformat XOXO](http://microformats.org/wiki/xoxo) nous permet de définir une liste d'éléments en fonction des [modules XHTML](http://microformats.org/wiki/xoxo#The_XOXO_Document_Type) :
-    <pre>`<dl class="xoxo">
-    <dt><a href="/rss/blog.xml" rel="feed" type="text/xml">derniers billets du blog</a></dt>
+**Microformater des ressources syndiquées**
 
-    <dd>...</dd>
+Voici le code de départ (simplifié par rapport à l'exemple afin de réduire le code à lire) :
 
-    <dt><a href="/rss/publications.xml" rel="feed" type="text/xml">dernières publications</a></dt>
+```html
+<dl>
+  <dt><a href="/rss/blog.xml">derniers billets du blog</a></dt>
+  <dd>...</dd>
 
-    <dd>...</dd>
+  <dt><a href="/rss/publications.xml">dernières publications</a></dt>
 
-    <dt><a href="/rss/cleverlink.xml" rel="feed" type="text/xml">derniers Clever Links</a></dt>
+  <dd>...</dd>
 
-    <dd>...</dd>
-    </dl>
+  <dt><a href="/rss/cleverlink.xml">derniers Clever Links</a></dt>
+  <dd>...</dd>
+</dl>
+```
+
+Le [microformat XOXO](http://microformats.org/wiki/xoxo) nous permet de définir une liste d'éléments en fonction des [modules XHTML](http://microformats.org/wiki/xoxo#The_XOXO_Document_Type) :
+
+```html
+<dl class="xoxo">
+  <dt><a href="/rss/blog.xml" rel="feed" type="text/xml">derniers billets du blog</a></dt>
+
+  <dd>...</dd>
+
+  <dt><a href="/rss/publications.xml" rel="feed" type="text/xml">dernières publications</a></dt>
+
+  <dd>...</dd>
+
+  <dt><a href="/rss/cleverlink.xml" rel="feed" type="text/xml">derniers Clever Links</a></dt>
+
+  <dd>...</dd>
+</dl>
+```
 
 Le microformatage a été rendu possible uniquement en utilisant de manière standardisée des attributs définis par XHTML.
 Malgré cet aspect de simplicité, il faut s'investir dans la compréhension des spécifications XHTML. Ce n'est un problème que pour les personnes produisant du code XHTML non-conforme.
@@ -174,4 +193,5 @@ De manière générale **l'intégration des microformats est relativement aisée
 *   difficultés liées à la **plate-forme technique** d'intégration ;
 *   difficultés liées à un **manque de données**. Certaines spécifications exigent la présence de données particulières que l'on n'a pas ou que l'on ne peut afficher, rendant invalide le contenu ;
 *   difficultés liées à un **code HTML désorganisé**. L'abus de _div_ et le non-respect de hiérarchie est une source de problèmes et si elle rend pénible l'intégration des microformats, elle pose problème à la maintenance du code et des CSS.
+
 Intégrer les microformats c'est finalement mener une **réflexion sur la qualité du code produit**. Un bon code, respectueux des standards et sémantique sera pérenne dans le temps, facilitera le microformatage et aura davantage de chances d'être accessible.

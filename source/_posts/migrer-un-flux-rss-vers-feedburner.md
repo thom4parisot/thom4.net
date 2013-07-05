@@ -17,6 +17,7 @@ categories:
 Pour mesurer l'utilisation des [flux RSS d'Emu Nova](http://www.emunova.net/infos/outils/), j'ai décidé d'utiliser [Feedburner](http://www.feedburner.com/) dans sa version gratuite. Je l'utilise déjà pour ce blog et j'en suis très satisfait, que ce soit pour les _données fournies_, les _personnalisations possibles_ ou encore la _qualité du service_.
 
 _La problématique du jour_ : **comment utiliser Feedburner sur des flux RSS déjà existants** ? Le changement doit être transparent pour les utilisateurs.
+
 <!--more-->
 
 ### Créer son flux Feedburner
@@ -41,28 +42,36 @@ On est bien d'accord qu'il faudrait créer une redirection renvoyant l'ancienne 
 
 Le plus simple consiste à créer un fichier `.htaccess` (ou d'éditer directement les directives de votre serveur virtuel) dans le même répertoire que celui du fichier XML. Il contiendrait ce code :
 
-    RewriteEngine on
-    RewriteRule ^**votreFlux**\.xml$ http://feeds.feedburner.com/**votreFluxFeedburner** [R=301,L]`</pre>
+```
+RewriteEngine on
+RewriteRule ^**votreFlux**\.xml$ http://feeds.feedburner.com/**votreFluxFeedburner** [R=301,L]
+```
 
-    On teste, ça marche. Un peu trop bien puisqu'en suivant ce principe, quiconque appelle la véritable URL de votre flux sera redirigé vers le flux Feedburner. Si en soi ça ne pose pas problème majeur, _ça l'est pourtant pour le robot d'indexation Feedburner_ qui, lui, a besoin d'accéder au véritable flux pour en extraire les informations.
+On teste, ça marche. Un peu trop bien puisqu'en suivant ce principe, quiconque appelle la véritable URL de votre flux sera redirigé vers le flux Feedburner. Si en soi ça ne pose pas problème majeur, _ça l'est pourtant pour le robot d'indexation Feedburner_ qui, lui, a besoin d'accéder au véritable flux pour en extraire les informations.
 
-    Feedburner ayant bien fait les choses, leur robot d'indexation se signale en envoyant une entête [_User Agent_ `FeedBurner/1.0 (http://www.FeedBurner.com)`](http://forums.feedburner.com/viewtopic.php?t=707). Ca tombe bien, il existe un [filtre `RewriteCond` dans le module _mod_rewrite_](http://httpd.apache.org/docs/2.0/mod/mod_rewrite.html#rewritecond). Ce dernier va nous servir à **exclure le robot Feedburner de notre redirection** précédente.
+Feedburner ayant bien fait les choses, leur robot d'indexation se signale en envoyant une entête [_User Agent_ `FeedBurner/1.0 (http://www.FeedBurner.com)`](http://forums.feedburner.com/viewtopic.php?t=707). Ca tombe bien, il existe un [filtre `RewriteCond` dans le module _mod_rewrite_](http://httpd.apache.org/docs/2.0/mod/mod_rewrite.html#rewritecond). Ce dernier va nous servir à **exclure le robot Feedburner de notre redirection** précédente.
 
-    Juste au-dessus de notre `RewriteRule`, il suffit d'insérer la ligne suivante :
-    <pre>`RewriteCond %{HTTP_USER_AGENT} !FeedBurner`</pre>
-    L'utilisation de cette condition est d'ailleurs la seule raison pour laquelle une règle de réécriture a été employée en lieu et place d'un `RedirectPermanent`.
-    **Attention cependant**, le `RewriteCond` est à spécifier à _chaque règle de réécriture_. La documentation est assez explicite à ce sujet : **la condition n'est effective que pour une seule règle de réécriture**.
+Juste au-dessus de notre `RewriteRule`, il suffit d'insérer la ligne suivante :
 
-    ### Le résultat final
+```
+RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+```
 
-    Et plutôt qu'un long discours, voici le résultat final obtenu pour [Emu Nova](http://www.emunova.net/). Les fichiers RSS étaient placés dans le répertoire `go/rss/`. J'y ai donc placé un fichier `.htaccess` contenant le code suivant :
-    <pre>`
-    RewriteEngine on
-    RewriteCond %{HTTP_USER_AGENT} !FeedBurner
-    RewriteRule ^news\.xml$ http://feeds.feedburner.com/emunovaNews [R=301,L]
-    RewriteCond %{HTTP_USER_AGENT} !FeedBurner
-    RewriteRule ^veda\.xml$ http://feeds.feedburner.com/emunovaVedaTests [R=301,L]
-    RewriteCond %{HTTP_USER_AGENT} !FeedBurner
-    RewriteRule ^veda_commentaires\.xml$ http://feeds.feedburner.com/emunovaVedaCommentaires [R=301,L]
+L'utilisation de cette condition est d'ailleurs la seule raison pour laquelle une règle de réécriture a été employée en lieu et place d'un `RedirectPermanent`.
+**Attention cependant**, le `RewriteCond` est à spécifier à _chaque règle de réécriture_. La documentation est assez explicite à ce sujet : **la condition n'est effective que pour une seule règle de réécriture**.
+
+### Le résultat final
+
+Et plutôt qu'un long discours, voici le résultat final obtenu pour [Emu Nova](http://www.emunova.net/). Les fichiers RSS étaient placés dans le répertoire `go/rss/`. J'y ai donc placé un fichier `.htaccess` contenant le code suivant :
+
+```
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+RewriteRule ^news\.xml$ http://feeds.feedburner.com/emunovaNews [R=301,L]
+RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+RewriteRule ^veda\.xml$ http://feeds.feedburner.com/emunovaVedaTests [R=301,L]
+RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+RewriteRule ^veda_commentaires\.xml$ http://feeds.feedburner.com/emunovaVedaCommentaires [R=301,L]
+``
 
 Pas difficile et tellement pratique ;-)

@@ -1,13 +1,13 @@
 title: "MySQL : tris personnalisés et aléatoires"
 id: 743
 date: 2007-08-21 13:00:12
-tags: 
+tags:
 - logiciels libres
 - MySQL
 - optimisation
 - order by
 - tris
-categories: 
+categories:
 - Développement Web
 ---
 
@@ -17,6 +17,7 @@ La majorité des systèmes de bases de données permettent de trier une sélecti
 
 *   un **ordre aléatoire**
 *   un **ordre bien précis**, ni ascendant ni descendant
+
 <!--more-->
 
 ### Le mécanisme de tri (`ORDER BY`)
@@ -27,6 +28,7 @@ Pour bien comprendre comment fonctionne en détail la commande `ORDER BY`, je vo
 2.  **il y a 2 algorithmes de tri** : l'un utilisant _deux passes_, l'autre n'utilisant qu'_une passe_ mais davantage de mémoire ;
 3.  l'algorithme en une passe n'est pas valable pour des tris sur des données de type `TEXT` ou `BLOB` ;
 4.  **un tri sur un index est largement plus rapide** et plus performant que sur des valeurs non-indexées
+
 Lorsqu'on veut trier des données, il vaut donc mieux _écrémer au mieux la plage de données_ grâce à de judicieux filtres `WHERE` et de préférence, sur des colonnes indexées.
 
 Mais revenons à nos moutons.
@@ -38,53 +40,64 @@ Si les bases de données portent leur nom, c'est bien parce qu'elles sont perfor
 
 Cette solution est relativement connue, `ORDER BY RAND()` mélange les données recueillies de manière totalement aléatoire, sans tenir compte des index ni de quoi que ce soit d'autre. Pensez à utiliser une clause `LIMIT` si vous ne voulez récupérer qu'un nombre défini de lignes.
 
-    SELECT * FROM `ma_table` ORDER BY RAND() LIMIT 1 ;`</pre>
-    Cette instruction prendra une ligne et une seule, au hasard. Rapide, concis et efficace.
+```sql
+SELECT * FROM `ma_table` ORDER BY RAND() LIMIT 1 ;
+```
 
-    ### Tri personnalisé (`ORDER BY FIELD()`)
+Cette instruction prendra une ligne et une seule, au hasard. Rapide, concis et efficace.
 
-    Pire que le tri aléatoire, il y a celui du tri personnalisé, celui qui n'est _ni_ ascendant, _ni_ descendant, _ni_ aléatoire : on veut un ordre précis. Imaginons que nous nous trouvions avec la table  suivante :
-    <table class="code sql" border="0">
-    <thead>
+### Tri personnalisé (`ORDER BY FIELD()`)
+
+Pire que le tri aléatoire, il y a celui du tri personnalisé, celui qui n'est _ni_ ascendant, _ni_ descendant, _ni_ aléatoire : on veut un ordre précis. Imaginons que nous nous trouvions avec la table  suivante :
+
+```html
+<table class="code sql" border="0">
+  <thead>
     <tr>
-    <th>jour_id</th>
-    <th>jour_nom</th>
+      <th>jour_id</th>
+      <th>jour_nom</th>
     </tr>
-    </thead>
-    <tbody>
+  </thead>
+  <tbody>
     <tr>
-    <th>ven</th>
-    <td>Vendredi</td>
-    </tr>
-    <tr>
-    <th>lun</th>
-    <td>Lundi</td>
-    </tr>
-    <tr>
-    <th>dim</th>
-    <td>Dimanche</td>
+      <th>ven</th>
+      <td>Vendredi</td>
     </tr>
     <tr>
-    <th>mer</th>
-    <td>Mercredi</td>
+      <th>lun</th>
+      <td>Lundi</td>
     </tr>
     <tr>
-    <th>sam</th>
-    <td>Samedi</td>
+      <th>dim</th>
+      <td>Dimanche</td>
     </tr>
     <tr>
-    <th>jeu</th>
-    <td>Jeudi</td>
+      <th>mer</th>
+      <td>Mercredi</td>
     </tr>
     <tr>
-    <th>mar</th>
-    <td>Mardi</td>
+      <th>sam</th>
+      <td>Samedi</td>
     </tr>
-    </tbody></table>
-    Comment faire pour récupérer la liste des jours de semaine dans l'ordre de notre choix ? Tout simplement en utilisant la [fonction FIELD()](http://dev.mysql.com/doc/refman/5.1/en/string-functions.html#function_field) (depuis MySQL 4) :
-    <pre>`SELECT jour_nom
-    FROM `dates_semaine`
-    ORDER BY FIELD( _jour_id_, 'lun', 'mar', 'mer', 'jeu', 'ven', 'sam', 'dim' ) ;
+    <tr>
+      <th>jeu</th>
+      <td>Jeudi</td>
+    </tr>
+    <tr>
+      <th>mar</th>
+      <td>Mardi</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+Comment faire pour récupérer la liste des jours de semaine dans l'ordre de notre choix ? Tout simplement en utilisant la [fonction FIELD()](http://dev.mysql.com/doc/refman/5.1/en/string-functions.html#function_field) (depuis MySQL 4) :
+
+```sql
+SELECT jour_nom
+FROM `dates_semaine`
+ORDER BY FIELD( _jour_id_, 'lun', 'mar', 'mer', 'jeu', 'ven', 'sam', 'dim' ) ;
+```
 
 J'aurais tendance à dire que la requête parle d'elle-même : on spécifie un tri sur le champ _jour_id_ dans l'ordre passé dans les paramètres suivants.
 Ce qui est intéressant dans notre cas c'est qu'on peut donc gérer des semaines débutant le jeudi, le samedi, le dimanche ou le lundi (histoire de coller avec tous les calendriers existants). Seuls les paramètres à donner à la requête changeraient.

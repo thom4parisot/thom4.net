@@ -24,7 +24,9 @@ J'ai donc acheté une oreillette cette année, une [Logitech Mobile Freedom](htt
 
 Pour celles et ceux qui veulent néanmoins bénéficier du Bluetooth sans changer d'ordinateur, je partage avec vous la galère dans laquelle j'ai été embarqué.
 
-**Remarque** : méthode mise à jour pour les versions récentes d'Ubuntu ... c'est encore plus facile ;-)<!--more-->
+**Remarque** : méthode mise à jour pour les versions récentes d'Ubuntu ... c'est encore plus facile ;-)
+
+<!--more-->
 
 ### Rechercher et installation du module Bluetooth Acer
 
@@ -33,6 +35,7 @@ J'ai cherché pendant un bon moment un site ou même une enchère faisant état 
 *   [module Bluetooth pour Acer Aspire 1410 à Aspire 5670](http://www.notebooksolutions.ca/zc/index.php?main_page=product_info&amp;products_id=882)
 *   [module Bluetooth pour Acer Aspire 3620](http://www.notebooksolutions.ca/zc/index.php?main_page=product_info&amp;cPath=66_231&amp;products_id=2058)
 *   [module Bluetooth pour Acer Aspire 7000 à Aspire 9420](http://www.notebooksolutions.ca/zc/index.php?main_page=product_info&amp;products_id=2542)
+
 Attention cependant, s'il ne s'agit pas d'un _upgrade kit_, la pièce ne comprend pas le câble qui permet de relier le module à la carte mère ;-) Pensez à vérifier ce détail. Vu le prix du port, ça serait dommage de les payer deux fois.
 
 Après achat, pensez également à **demander la notice technique correspondant à votre modèle d'ordinateur portable Acer**. Parce qu'armé de vos petits tournevis cruciformes, cette notice vous sera forte utile pour démonter le portable. Le logement de la puce Bluetooth se situe **sur la carte mère**, **sous le clavier**, **côté batterie**. Il faut donc démonter écran LCD, clavier, coque et ainsi dévisser pas moins d'une _trentaine de vis_.
@@ -60,29 +63,41 @@ Si jamais ces solutions ne s'avèrent plus à jour, merci de me le signaler par 
 
 La distribution inclut le paquet _acer-wmi_ donc il n'y a pas besoin d'installer quoi que ce soit.
 
-Pour que le Bluetooth soit activé, il faut remplacer 0 par 1 dans le fichier :
+Pour que le Bluetooth soit activé, il faut remplacer 0 par 1 dans le fichier `/sys/devices/platform/acer-wmi/bluetooth`.
 
-    /sys/devices/platform/acer-wmi/bluetooth`</pre>
-    Pour automatiser ça à chaque démarrage, il faut que votre fichier `/etc/rc.local` ressemble à ceci :
-    <pre>`sudo echo 1 > /sys/devices/platform/acer-wmi/bluetooth
-    exit 0`</pre>
+Pour automatiser ça à chaque démarrage, il faut que votre fichier `/etc/rc.local` ressemble à ceci :
 
-    #### Ubuntu, Hardy Heron (7.10)
+```bash
+sudo echo 1 > /sys/devices/platform/acer-wmi/bluetooth
+```
 
-    La distribution inclut le paquet _acer_acpi_ donc il n'y a pas besoin d'installation.
+#### Ubuntu, Hardy Heron (7.10)
 
-    Pour que le Bluetooth soit activé, il faut remplacer 0 par 1 dans le fichier :
-    <pre>`/sys/devices/platform/acer_acpi/bluetooth`</pre>
-    Pour automatiser ça à chaque démarrage, il faut que votre fichier `/etc/rc.local` ressemble à ceci :
-    <pre>`sudo echo 1 > /sys/devices/platform/acer_acpi/bluetooth
-    exit 0`</pre>
+La distribution inclut le paquet _acer_acpi_ donc il n'y a pas besoin d'installation.
 
-    #### Ubuntu, méthode obsolète
+Pour que le Bluetooth soit activé, il faut remplacer 0 par 1 dans le fichier : `/sys/devices/platform/acer_acpi/bluetooth`.
 
-    Par chance il existe un [dépôt acer-acpi pour Ubuntu](http://code.google.com/p/acer-acpi-deb/) complétant ainsi le [projet originel acer-acpi](http://code.google.com/p/aceracpi/). Suivez les instructions pour ajouter le dépôt, procédez à l'installation (via un `sudo aptitude install acer-acpi`) et revenez à vous ... enfin à moi en modifiant un fichier :
-    <pre>`sudo nano /etc/modprobe.d/acer_acpi`</pre>
-    Vous pouvez noter la présence de deux mots importants dans la seule ligne visible, **wireless** et **bluetooth**. Le bluetooth était désactivé chez moi donc le simple fait de passer la directive de 0 à 1 et un redémarrage plus loin, la lumière bleue fût :
-    <pre>`options acer_acpi wireless=1 <ins>bluetooth=1</ins>
+Pour automatiser ça à chaque démarrage, il faut que votre fichier `/etc/rc.local` ressemble à ceci :
+
+```bash
+sudo echo 1 > /sys/devices/platform/acer_acpi/bluetooth
+```
+
+#### Ubuntu, méthode obsolète
+
+Par chance il existe un [dépôt acer-acpi pour Ubuntu](http://code.google.com/p/acer-acpi-deb/) complétant ainsi le [projet originel acer-acpi](http://code.google.com/p/aceracpi/). Suivez les instructions pour ajouter le dépôt, procédez à l'installation (via un `sudo aptitude install acer-acpi`) et revenez à vous ... enfin à moi en modifiant un fichier :
+
+```bash
+sudo nano /etc/modprobe.d/acer_acpi
+```
+
+Vous pouvez noter la présence de deux mots importants dans la seule ligne visible,
+**wireless** et **bluetooth**. Le bluetooth était désactivé chez moi donc le simple
+fait de passer la directive de 0 à 1 et un redémarrage plus loin, la lumière bleue fût :
+
+```
+options acer_acpi wireless=1 bluetooth=1
+```
 
 ### Le mot de la fin
 

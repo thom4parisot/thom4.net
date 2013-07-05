@@ -39,6 +39,7 @@ Avant de choisir une convention, encore faudrait-il savoir quelles conventions e
 *   [convention Zend Framework](http://framework.zend.com/manual/fr/coding-standard.html)
 *   [convention Wordpress](http://codex.wordpress.org/WordPress_Coding_Standards) (que j'abhorre)
 *   etc.
+
 Autant dire qu'il y a de tout et pour tous les goûts.
 Ce qu'il faut retenir d'**une convention c'est qu'elle explicite des règles de développement** :
 
@@ -48,6 +49,7 @@ Ce qu'il faut retenir d'**une convention c'est qu'elle explicite des règles de 
 *   sur la syntaxe des commentaires
 *   sur la syntaxe de la documentation (le code auto-documenté c'est bon !)
 *   sur l'organisation des fichiers, éventuellement
+
 C'est pour ça que partir sur une **convention parfaite sur le papier mais inapplicable est une vaste fumisterie**. L'idéal étant de pouvoir reprendre du code dans un projet sans avoir eu besoin de lire la documentation pour en comprendre l'organisation.
 
 Mon conseil : **essayez, choisissez** mais ne prenez pas non plus trop laxiste en terme de notation.
@@ -66,7 +68,8 @@ _Exemples_ : `class AmazonWidgetsShortcodes`, `class sfUploader`.
 
 Pour ce qui est méthodes de classes, j'utilise lowerCamelCase. Comme ça on sait qu'on reste dans un objet et c'est pas plus mal.
 
-Enfin, pour les fonctions orphelines, _helpers_ &amp; cie, c'est tout en minuscule séparé par des underscore (un nom particulier à ça ? _lowered_and_underscored_ ? ;-))
+Enfin, pour les fonctions orphelines, _helpers_ &amp; cie, c'est tout en minuscule séparé par des underscore
+(un nom particulier à ça ? _lowered_and_underscored_ ? ;-))
 _Exemple_ : `add_filter()`
 
 #### Indentation
@@ -90,44 +93,51 @@ Tout d'abord les structures dans le code à proprement parler :
 *   pas d'espaces dans les lignes vides (résidus d'indentation)
 *   systématiquement les accolades, même en cas de ligne unique après l'opérateur
 *   opérateur ternaire quand ça reste simple, pas trop long et plus lisible
+
 Côté templating en revanche j'utilise la [syntaxe alternative de PHP](http://fr.php.net/manual/fr/control-structures.alternative-syntax.php) à raison d'un opérateur par ligne :
 
-    <ol class="posts">
-    <?php foreach($posts as $post): ?>
-      <li id="post-<?php echo $post->getId() ?>">
-        <a href="<?php $post->getPermalink() ?>">
-          <?php echo $post->getTitle() ?>
-        </a>
-      </li>
-    <?php endforeach ?>
-    </ol>`</pre>
+```html
+<ol class="posts">
+<?php foreach($posts as $post): ?>
+  <li id="post-<?php echo $post->getId() ?>">
+    <a href="<?php $post->getPermalink() ?>">
+      <?php echo $post->getTitle() ?>
+    </a>
+  </li>
+<?php endforeach ?>
+</ol>
+```
 
-    #### Syntaxe de la documentation
+#### Syntaxe de la documentation
 
-    Enfin, pour terminer sur la partie PHP, [PHPDoc](http://www.phpdoc.org/) est surpuissante en plus d'être simple à utiliser. Comble du bonheur, sa syntaxe est réutilisable dans d'autres langages.
+Enfin, pour terminer sur la partie PHP, [PHPDoc](http://www.phpdoc.org/) est surpuissante en plus d'être simple à utiliser. Comble du bonheur, sa syntaxe est réutilisable dans d'autres langages.
 
-    PHPDoc est le principe du **code autodocumenté** :
+PHPDoc est le principe du **code autodocumenté** :
 
 1.  vous commentez votre code avec la syntaxe PHPDoc
 2.  vous générez sa documentation avec le programme PHPDoc (en HTML, PDF etc.)
-    L'idéal est de **documenter en même temps qu'on produit le code**. Par principe on revient rarement sur son propre code juste pour le loisir de le décrire, par manque de temps ou par flemme.
 
-    ### Mes conventions de nommage en JavaScript
+L'idéal est de **documenter en même temps qu'on produit le code**. Par principe on revient rarement sur son propre code juste pour le loisir de le décrire, par manque de temps ou par flemme.
 
-    [![Exemple de code JavaScript dans Eclipse](https://oncletom.io/images/2008/07/eclipse-javascript-code-sample-300x288.png "Exemple de code JavaScript dans Eclipse")](https://oncletom.io/images/2008/07/eclipse-javascript-code-sample.png)
+### Mes conventions de nommage en JavaScript
 
-    Ne vous inquiétez pas, je ne vais pas tout recommencer pour JavaScript ;-) Je suis à peu près la même logique qu'en PHP à part pour les accolades.
+[![Exemple de code JavaScript dans Eclipse](https://oncletom.io/images/2008/07/eclipse-javascript-code-sample-300x288.png "Exemple de code JavaScript dans Eclipse")](https://oncletom.io/images/2008/07/eclipse-javascript-code-sample.png)
 
-    En effet si je conserve un comportement similaire pour les structures de contrôles (1 accolade par ligne) :
+Ne vous inquiétez pas, je ne vais pas tout recommencer pour JavaScript ;-) Je suis à peu près la même logique qu'en PHP à part pour les accolades.
+
+En effet si je conserve un comportement similaire pour les structures de contrôles (1 accolade par ligne) :
 
 *   je ne fais pas de retour à la ligne sur les accolades/parenthèse ouvrante d'une fonction/objet anonyme
 *   je ne fais pas de retour à la ligne après une accolade/parenthèse fermante s'il y a une virgule ou parenthèse après
-    <pre>`var OncleTom = {
-      age:      25,
-      pensee:   function(){
-        return this.age * Math.random()
-      }
-    };
+
+```javascript
+var OncleTom = {
+  age:      25,
+  pensee:   function(){
+    return this.age * Math.random()
+  }
+};
+```
 
 ### Mes conventions de nommage en CSS
 
@@ -152,6 +162,6 @@ Que l'on travaille seul à plusieurs, et à plus fortes raison dans ce dernier c
 
 Enfin, j'aimerais terminer cet article en écrivant qu'il a fait l'objet d'une [chaîne par le Padawan PHPiste Damien Alexandre](http://blog.damienalexandre.fr/index.php?post/2008/07/19/Mes-conventions-de-programmation). C'était l'occasion de faire une réponse qui passe inaperçue ;-)
 
-Ça ne m'empêchera en revanche pas de refiler la patate chaude à [NicoDePrendreUnCafé](http://prendreuncafe.com/blog/), de tenter d'insuffler de l'activité au blog de [Xavier Lacot](http://lacot.org/blog), de Spipifier [Gastero Prod](http://www.gasteroprod.com), d'extirper une technique ninja pyjama à [remouk](http://shiii.org/) et pourquoi pas lire avec attention l'avis pythonien de [David Larlet](http://www.biologeek.com/journal/) ?
+Ça ne m'empêchera en revanche pas de refiler la patate chaude à [Nic de Prendre Un Café](http://prendreuncafe.com/blog/), de tenter d'insuffler de l'activité au blog de [Xavier Lacot](http://lacot.org/blog), de Spipifier [Gastero Prod](http://www.gasteroprod.com), d'extirper une technique ninja pyjama à [remouk](http://shiii.org/) et pourquoi pas lire avec attention l'avis pythonien de [David Larlet](http://www.biologeek.com/journal/) ?
 
 Et _just for fun_, un petit coup d'électrode à un de mes futurs étudiants, [Thierry Poinot](http://blog.thierry.poinot.fr/).

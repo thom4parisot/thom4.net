@@ -21,7 +21,7 @@ category_dir: categories
 code_dir: downloads/code
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:title.md # File name of new posts
 default_layout: post
 auto_spacing: false # Add spaces between asian characters and western characters
 titlecase: false # Transform title into titlecase

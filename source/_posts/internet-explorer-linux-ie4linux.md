@@ -1,21 +1,23 @@
 title: "Internet Explorer sous Linux"
 id: 538
 date: 2007-04-01 13:00:58
-tags: 
+tags:
 - ie4linux
 - internet explorer
 - linux
 - logiciels libres
 - ubuntu
 - wine
-categories: 
+categories:
 - Développement Web
 ---
 
 ![IE4Linux : Internet Explorer pour Linux](https://oncletom.io/images/2007/04/ie4linux.png)
 
 J'avais lu il y a un moment que l'on pouvait utiliser [Internet Explorer sous Linux](http://www.tatanka.com.br/ies4linux/). Ce que je ne savais pas c'était la facilité avec laquelle on l'installe. Couplé avec [WINE](http://fr.wikipedia.org/wiki/WINE), retrouvez les "joies" d'Internet Explorer 5, 5.5 et/ou Internet Explorer 6 en toute liberté.
+
 <!--more-->
+
 Toutes les explications ci-dessous sont valides pour [Ubuntu](http://www.ubuntu-fr.org/) et [Debian](http://www.debian.org/). C'est globalement similaire sur les autres distributions basées sur une gestion de paquets (OpenSUSE, Fedora Core, Mandriva etc.). Dans tous les cas, il y a le [guide général d'installation IE4Linux](http://www.tatanka.com.br/ies4linux/page/Installation) sur le site officiel.
 
 ### Pré-requis d'installation
@@ -24,12 +26,17 @@ Toutes les explications ci-dessous sont valides pour [Ubuntu](http://www.ubuntu-
 
 Si ce n'est pas déjà le cas, il faut installer _WINE_ et un complément, _cabextract_. Ce dernier permet d'installer des programmes dans WINE à partir d'exécutables _Windows_. Très très difficile, il suffit de taper cette commande :
 
-    sudo aptitude install wine cabextract`</pre>
+```bash
+sudo aptitude install wine cabextract`</pre>
+``
 
-    #### Télécharger IE4Linux
+#### Télécharger IE4Linux
 
-    Là encore on reste dans la simplicité absolue puisqu'on se contentera de récupérer la [dernière version d'IE4Linux](http://www.tatanka.com.br/ies4linux/downloads/ies4linux-latest.tar.gz). Pour les amateurs de la ligne de commande, ça se passe en faisant :
-    <pre>`wget http://www.tatanka.com.br/ies4linux/downloads/ies4linux-latest.tar.gz
+Là encore on reste dans la simplicité absolue puisqu'on se contentera de récupérer la [dernière version d'IE4Linux](http://www.tatanka.com.br/ies4linux/downloads/ies4linux-latest.tar.gz). Pour les amateurs de la ligne de commande, ça se passe en faisant :
+
+```bash
+wget http://www.tatanka.com.br/ies4linux/downloads/ies4linux-latest.tar.gz
+```
 
 ### Installation d'IE4Linux
 

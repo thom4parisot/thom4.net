@@ -25,31 +25,35 @@ Après avoir lu des billets intéressants sur l'[installation de Subversion sur 
 J'ai tenté de contourner le problème en utilisant la [directive DirectoryMatch d'Apache](http://httpd.apache.org/docs/2.0/mod/core.html#directorymatch) mais impossible de récupérer le résultat du masque.
 Si vous comptiez faire ceci, oubliez de suite, ce n'est pas possible :
 
-    <directorymatch "/chemin/vers/racine/svn/([a-z0-9-]*)>
-     DAV svn
-     SVNPath /chemin/vers/racine/svn/$1
-     ...
-    </directorymatch>
+```
+<directorymatch "/chemin/vers/racine/svn/([a-z0-9-]*)>
+  DAV svn
+  SVNPath /chemin/vers/racine/svn/$1
+  ...
+</directorymatch>
+```
 
-    `</pre>
-    En effet, `DIrectoryMatch` ne fait que vérifier l'existence d'un chemin par rapport à un masque ; il n'en récupère pas le contenu pour une exploitation ultérieure. C'est bien dommage.
+En effet, `DirectoryMatch` ne fait que vérifier l'existence d'un chemin par rapport à un masque ; il n'en récupère pas le contenu pour une exploitation ultérieure. C'est bien dommage.
 
-    ### Solution : SVNParentPath
+### Solution : SVNParentPath
 
-    Heureusement tout a été prévu (mais rarement mentionné). Au lieu d'utiliser `SVNPath` pour renseigner le chemin _d'un seul dépôt_, il vaut mieux utiliser `SVNParentPath` qui, lui, spécifie la racine des dépôts Subversion. En gros, tous les répertoires enfants à `SVNParentPath` sont considérés comme étant des dépôts (référentiels) indépendants.
+Heureusement tout a été prévu (mais rarement mentionné). Au lieu d'utiliser `SVNPath` pour renseigner le chemin _d'un seul dépôt_, il vaut mieux utiliser `SVNParentPath` qui, lui, spécifie la racine des dépôts Subversion. En gros, tous les répertoires enfants à `SVNParentPath` sont considérés comme étant des dépôts (référentiels) indépendants.
 
-    Exactement ce qu'il me fallait.
+Exactement ce qu'il me fallait.
 
-    Au final, après avoir cherché à [configurer Subversion pour Windows](http://svn.nuxeo.org/trac/pub/wiki/TracOnWindows), voici ce que j'ai rajouté dans ma config Apache :
-    <pre>`<Location /svn>
-      DAV svn
-      # any /svn/foo URL will map to a repository D:/svn/foo
-      SVNParentPath D:/svn
+Au final, après avoir cherché à [configurer Subversion pour Windows](http://svn.nuxeo.org/trac/pub/wiki/TracOnWindows), voici ce que j'ai rajouté dans ma config Apache :
 
-      #AuthType Basic
-      #AuthName "Subversion repository"
-      #AuthUserFile d:/svn/.<span class="searchword0">htaccess</span>
-      #Require valid-user
-    </Location>
+```
+<Location /svn>
+  DAV svn
+  # any /svn/foo URL will map to a repository D:/svn/foo
+  SVNParentPath D:/svn
+
+  #AuthType Basic
+  #AuthName "Subversion repository"
+  #AuthUserFile d:/svn/.htaccess
+  #Require valid-user
+</Location>
+```
 
 _Je ferai très probablement d'autres billets sur Subversion_. Depuis le temps que je voulais m'y mettre, apprendre ses rouages et sa rigueur ne sont pas forcément faciles.

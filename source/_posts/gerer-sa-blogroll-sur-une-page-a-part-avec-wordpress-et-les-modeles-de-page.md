@@ -25,6 +25,7 @@ En revanche la solution du copié/collé n'est pas à mes yeux une _véritable s
 
 *   soit on gère sa blogroll dans le module de blogroll et on doit systématiquement copier/coller le résultat dans une page
 *   soit on gère directement la blogroll dans la page dédiée ; le module de gestion perdant alors totalement son intérêt
+
 Je suis feignant donc je n'aime pas faire le travail 2 fois alors je propose une solution qui fonctionnera chez vous. C'est d'ailleurs celle que j'emploie depuis la refonte de ce blog ... c'est à dire bientôt 1 an.
 
 ### Les modèles de page Wordpress
@@ -33,6 +34,7 @@ Il existe peu de différences entre une page et un article dans Wordpress :
 
 *   les **articles sont datés**, n'ont pas de hiérarchie et peuvent être dans 1 ou plusieurs catégories
 *   les p**ages ne le sont pas datées**, ont une hiérarchie et ne peuvent pas être dans une catégorie
+
 Les pages possèdent également un autre atout : **on peut leur appliquer un modèle de présentation**. Cette pratique est adaptée à toute présentation où vous souhaiteriez afficher davantage que le seul texte saisi depuis l'interface d'administration.
 
 La notion des [templates de pages](http://codex.wordpress.org/Pages#Page_Templates) est bien expliquée dans le [Codex Wordpress](http://codex.wordpress.org). Petit rappel synthétique néanmoins.
@@ -41,35 +43,44 @@ Un template de page correspond à un fichier créé dans le répertoire du thèm
 
 Ce fichier de template doit obligatoirement comporter une entête de description. Sans elle, pas de sélection possible depuis la page de rédaction. Cette entête doit correspondre à ceci :
 
-    <?php
-    /*
-    Template Name: <Nom du template>
-    */`</pre>
-    La dernière étape avant son utilisation consiste à tapoter un peu de code PHP pour aboutir à votre souhait. N'hésitez pas à parcourir la [documentation de Wordpress](http://codex.wordpress.org) pour produire un code pérenne et utiliser au maximum les [fonctionnalités proposées par Wordpress](http://codex.wordpress.org/Function_Reference).
+```php
+<?php
+/*
+Template Name: <Nom du template>
+*/
+```
 
-    ### Un modèle de page Wordpress pour Blogroll
+La dernière étape avant son utilisation consiste à tapoter un peu de code PHP pour aboutir à votre souhait. N'hésitez pas à parcourir la [documentation de Wordpress](http://codex.wordpress.org) pour produire un code pérenne et utiliser au maximum les [fonctionnalités proposées par Wordpress](http://codex.wordpress.org/Function_Reference).
 
-    Notre besoin initial tombe à point nommé puisque nous avons justement besoin d'un template de page pour gérer sa blogroll depuis son module d'administration sans avoir à mettre à jour manuellement quelconque autre page que ce soit ;-)
+### Un modèle de page Wordpress pour Blogroll
 
-    La première étape consiste à créer un nouveau template dans le thème employé par votre blog. Si vous utilisez le thème de base, le thème default, nous allons créer le fichier suivant :
-    wp-content/themes/default/template-blogroll.php.
+Notre besoin initial tombe à point nommé puisque nous avons justement besoin d'un template
+de page pour gérer sa blogroll depuis son module d'administration sans avoir à mettre à
+jour manuellement quelconque autre page que ce soit ;-)
 
-    Pour remplir ce fichier, nous allons devoir accéder aux éléments contenus dans la blogroll. Ça tombe bien puisqu'il existe pour ça la fonction [wp_list_bookmarks()](http://codex.wordpress.org/wp_list_bookmarks).
-    À ce stade, notre template devrait ressembler à ça :
-    <pre>`<?php
-    /*
-    Template Name: Liens
-    */
+La première étape consiste à créer un nouveau template dans le thème employé par votre blog.
+Si vous utilisez le thème de base, le thème default, nous allons créer le fichier suivant :
+`wp-content/themes/default/template-blogroll.php`.
 
-    get_header() ?>
-    <h2><?php the_title() ?></h2>
-    <?php the_content() ?>
+Pour remplir ce fichier, nous allons devoir accéder aux éléments contenus dans la blogroll. Ça tombe bien puisqu'il existe pour ça la fonction [wp_list_bookmarks()](http://codex.wordpress.org/wp_list_bookmarks).
+À ce stade, notre template devrait ressembler à ça :
 
-    <ol id="page-blogroll">
-      <?php **wp_list_bookmarks()** ?>
-    </ol>
-    <?php get_sidebar() ?>
-    <?php get_footer() ?>
+```php
+<?php
+/*
+Template Name: Liens
+*/
+
+get_header() ?>
+<h2><?php the_title() ?></h2>
+<?php the_content() ?>
+
+<ol id="page-blogroll">
+  <?php wp_list_bookmarks() ?>
+</ol>
+<?php get_sidebar() ?>
+<?php get_footer() ?>
+```
 
 Une fois enregistré, le modèle apparaît dans le sélecteur de modèle (uniquement sur les contenus de type _Page_) :
 
@@ -95,5 +106,6 @@ Les modèles de page (ou templates) est une fonctionnalité assez méconnue mais
 *   utilisation tournée CMS
 *   affichage différent pour certaines pages uniquement, sans vouloir créer un thème spécifique
 *   création de pages plus riches allant au-delà de la simple présentation de contenu rédigé
+
 Si vous vous débrouillez bien, vous aurez un résultat comme sur ma page de liens, [les liens de l'Oncle Tom](https://oncletom.io/liens/).
 Et n'oubliez pas, dès que vous pensez "spécifique", pensez **modèle de page** ;-)
