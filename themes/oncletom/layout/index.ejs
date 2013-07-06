@@ -1,0 +1,32 @@
+<div class="row">
+  <% page.posts.each(function(post){ %>
+  <div class="span10">
+    <article>
+      <header>
+        <h2>
+          <a href="<%= config.root %><%= post.path %>" title="<%= post.title %>" rel="bookmark"><%= post.title %></a>
+        </h2>
+      </header>
+
+      <div class="excerpt"><%- post.excerpt %></div>
+
+      <ul class="metadata stacked stacked-horizontal">
+        <li class="read-more">
+          <%- link_to(config.root+post.path, "Lire la suite") %>
+        </li>
+      </ul>
+    </article>
+  </div>
+  <% }); %>
+
+  <% if (page.prev){ %>
+  <div class="span5 navigation" id="next-page">
+    <div class="article nav-link"><%- link_to(config.root+page.prev_link, "&laquo; Page précédente") %></div>
+  </div>
+  <% } %>
+  <% if (page.next){ %>
+  <div class="span5 navigation" id="previous-page">
+    <div class="article nav-link"><%- link_to(config.root+page.next_link, "Page suivante &raquo;") %></div>
+  </div>
+  <% } %>
+</div>
