@@ -1,0 +1,17 @@
+<div class="span10">
+  <article>
+    <header>
+      <h2>
+        <a href="<%= config.root %><%= post.path %>" title="<%= post.title %>" rel="bookmark"><%= post.title %></a>
+      </h2>
+    </header>
+
+    <div class="excerpt"><%- post.excerpt %></div>
+
+    <ul class="metadata stacked stacked-horizontal">
+      <li class="read-more">
+        <%- link_to(config.root+post.path, "Lire la suite") %>
+      </li>
+    </ul>
+  </article>
+</div>

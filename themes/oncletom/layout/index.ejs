@@ -1,51 +1,8 @@
 <div class="row">
   <% page.posts.each(function(post){ %>
-  <div class="span10">
-    <article>
-      <header>
-        <h2>
-          <a href="<%= config.root %><%= post.path %>" title="<%= post.title %>" rel="bookmark"><%= post.title %></a>
-        </h2>
-      </header>
-
-      <div class="excerpt"><%- post.excerpt %></div>
-
-      <ul class="metadata stacked stacked-horizontal">
-        <li class="read-more">
-          <%- link_to(config.root+post.path, "Lire la suite") %>
-        </li>
-      </ul>
-    </article>
-  </div>
+    <%- partial("_partials/post-excerpt", {post: post})%>
   <% }); %>
 
-  <% if (page.prev){ %>
-  <div class="span5 navigation" id="next-page">
-    <div class="article nav-link"><%- link_to(config.root+page.prev_link, "&laquo; Page précédente") %></div>
-  </div>
-  <% } %>
-  <% if (page.next){ %>
-  <div class="span5 navigation" id="previous-page">
-    <div class="article nav-link"><%- link_to(config.root+page.next_link, "Page suivante &raquo;") %></div>
-  </div>
-  <% } %>
-
-  <div class="span5 navigation" id="nav-links">
-    <div class="article">
-      <header>Et sinon ?</header>
-
-      <div class="content">
-        <form action="/" method="get">
-          <div class="input-append">
-            <input type="search" name="s" value="" class="input-large" placeholder="…" disabled required><button type="submit" class="btn" disabled>Chercher</button>
-          </div>
-          <p><i>Recherche en cours de refonte</i>.</p>
-
-        </form>
-
-        <strong class="archive-list-heading">Ou enfin, les articles par année :</strong>
-        <%- list_archives({type: "yearly", order: -1, format: "YYYY", show_count: false}) %>
-      </div>
-    </div>
-  </div>
+  <%- partial("_partials/archives-pagination") %>
+  <%- partial("_partials/navigation-box") %>
 </div>
