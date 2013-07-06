@@ -29,4 +29,23 @@
     <div class="article nav-link"><%- link_to(config.root+page.next_link, "Page suivante &raquo;") %></div>
   </div>
   <% } %>
+
+  <div class="span5 navigation" id="nav-links">
+    <div class="article">
+      <header>Et sinon ?</header>
+
+      <div class="content">
+        <form action="/" method="get">
+          <div class="input-append">
+            <input type="search" name="s" value="" class="input-large" placeholder="…" disabled required><button type="submit" class="btn" disabled>Chercher</button>
+          </div>
+          <p><i>Recherche en cours de refonte</i>.</p>
+
+        </form>
+
+        <strong class="archive-list-heading">Ou enfin, les articles par année :</strong>
+        <%- list_archives({type: "yearly", order: -1, format: "YYYY", show_count: false}) %>
+      </div>
+    </div>
+  </div>
 </div>
