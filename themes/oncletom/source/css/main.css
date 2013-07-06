@@ -336,10 +336,10 @@ h1 {
   font-size: 44px;
 }
 h2 {
-  font-size: 36px;
+  font-size: 28px;
 }
 h3 {
-  font-size: 28px;
+  font-size: 20px;
 }
 h4 {
   font-size: 20px;
@@ -3334,7 +3334,7 @@ aside:focus {
   -moz-box-shadow: 0 0 13.333333333333px #000000;
   box-shadow: 0 0 13.333333333333px #000000;
 }
-article h2,
+article h1,
 .article header,
 .menu > li {
   background-color: rgba(255,255,255,0.4);
@@ -3345,7 +3345,7 @@ article h2,
   margin: 0;
   padding: 10px;
 }
-article h2 > a,
+article h1 > a,
 .article header > a,
 .menu > li > a {
   display: block;
