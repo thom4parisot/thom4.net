@@ -2933,7 +2933,7 @@ a.thumbnail:hover {
   -moz-box-shadow: 0 1px 4px rgba(0,105,214,0.25);
   box-shadow: 0 1px 4px rgba(0,105,214,0.25);
 }
-.thumbnail > img {
+article .content p img {
   display: block;
   max-width: 100%;
   margin-left: auto;
@@ -3417,6 +3417,14 @@ article #responses a:focus,
   text-align: center;
   width: 100%;
 }
+  .navigation-posts .nav-link{
+    min-height: 0;
+  }
+  .navigation-posts .nav-link a{
+    font-size-adjust: 1.5em;
+    line-height: 1.5;
+  }
+
 .compact-archives {
   list-style: none;
   margin-left: 0;
