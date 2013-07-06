@@ -25,7 +25,7 @@ url: https://oncletom.io
 root: /
 permalink: :year/:title/
 tag_dir: tags
-archive_dir: archives
+archive_dir: ""
 category_dir: categories
 code_dir: downloads/code
 
@@ -62,8 +62,8 @@ tag_map:
 ## 1: Disable pagination
 ## 0: Fully Disable
 archive: 2
-category: 2
-tag: 2
+category: 0
+tag: 0
 
 # Server
 ## Hexo uses Connect as a server
