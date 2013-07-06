@@ -62,5 +62,18 @@
         </aside>
     </div>
 </div>
+<% if (config.disqus_shortname && page.comments){ %>
+<script type="text/javascript">
+  var disqus_shortname = '<%= config.disqus_shortname %>';
+  var disqus_url = 'https://oncletom.io<%- config.root %><%- page.path %>';
+
+  (function(){
+    var dsq = document.createElement('script');
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('body')[0]).appendChild(dsq);
+  }());
+</script>
+<% } %>
 </body>
 </html>
