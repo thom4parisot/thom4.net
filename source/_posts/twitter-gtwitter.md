@@ -10,7 +10,7 @@ categories:
 - Développement Web
 ---
 
-![Logo Twitter](https://oncletom.io/images/2007/05/twitter.png)
+![Logo Twitter](/images/2007/05/twitter.png)
 
 La première fois que j'ai entendu parler de [Twitter](http://twitter.com), j'ai regardé par curiosité et j'ai ri. J'ai ri parce que _je ne comprenais pas_ comment une jeune pousse (_startup_ pour les anglophones :P) pouvait attirer autant de monde et lever des millions de dollars en ayant bâti un site reposant sur ce principe : **envoyer des messages de 140 caractères de long**.
 
@@ -24,7 +24,7 @@ Allez, on va quand même tenter le coup. Soyons jeune !
 
 ## gTwitter
 
-![gTwitter interface](https://oncletom.io/images/2007/05/gtwitter.png)
+![gTwitter interface](/images/2007/05/gtwitter.png)
 
 Etant donné que j'utilise un gestionnaire de bureau sous Linux à base de [GTK](http://fr.wikipedia.org/wiki/GTK) ([Gnome](http://fr.wikipedia.org/wiki/GNOME)), j'ai installé [gTwitter](http://code.google.com/p/gtwitter/).
 Un coup de cuillère à pot plus loin, me voilà en présence d'une interface simple (simpliste ?), vraiment _à l'image du concept de Twitter_.

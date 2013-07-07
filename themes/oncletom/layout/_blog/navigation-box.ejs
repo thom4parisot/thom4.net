@@ -1,0 +1,17 @@
+<div class="span5 navigation" id="nav-links">
+  <div class="article">
+    <header>Et sinon ?</header>
+
+    <div class="content">
+      <form action="https://google.com/search" method="get">
+        <div class="input-append">
+          <input type="hidden" name="q" value="site:oncletom.io" />
+          <input type="search" name="q" value="" class="input-large" placeholder="…" required><button type="submit" class="btn">Chercher</button>
+        </div>
+      </form>
+
+      <strong class="archive-list-heading">Ou enfin, les articles par année :</strong>
+      <%- list_archives({type: "yearly", order: -1, format: "YYYY", show_count: false}) %>
+    </div>
+  </div>
+</div>

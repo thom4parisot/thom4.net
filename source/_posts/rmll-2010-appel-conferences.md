@@ -23,7 +23,7 @@ Les [Rencontres Mondiales du Logiciel Libre](http://rmll.info/) (RMLL) sont un c
 
 Pour cette édition 2010, il y a 2 thématiques transversales : le développement durable et l'accessibilité.
 
-![Tux](https://oncletom.io/images/2010/01/1264010146_tux.png "Tux")
+![Tux](/images/2010/01/1264010146_tux.png "Tux")
 
 <!--more-->
 

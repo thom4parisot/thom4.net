@@ -18,7 +18,7 @@ categories:
 - Développement Web
 ---
 
-![Exemple](https://oncletom.io/images/2008/07/sample-php-code.png "Exemple de code PHP")
+![Exemple](/images/2008/07/sample-php-code.png "Exemple de code PHP")
 
 Tout développeur, que ce soit à l'école ou en apprenant sur le tas, écrit du code. J'espère n'avoir perdu personne à ce stade de l'explication ;-)
 
@@ -57,7 +57,7 @@ Une chose est sure : quand on a essayé une belle
 
 ## Mes conventions de nommage en PHP
 
-[![Exemple de code PHP dans Eclipse](https://oncletom.io/images/2008/07/eclipse-php-code-sample-300x207.png "Exemple de code PHP dans Eclipse")](https://oncletom.io/images/2008/07/eclipse-php-code-sample.png)
+[![Exemple de code PHP dans Eclipse](/images/2008/07/eclipse-php-code-sample-300x207.png "Exemple de code PHP dans Eclipse")](/images/2008/07/eclipse-php-code-sample.png)
 
 J'avoue, la notation utilisée dans [symfony](http://www.symfony-project.org/) m'a tellement plu que je la réutilise quasiment partout. Ci-dessus, une illustration montrant du code pour un [plugin Wordpress](https://oncletom.io/code/wordpress/) (en PHP 4 malheureusement ...). Elle en présente un bon aperçu.
 
@@ -121,7 +121,7 @@ L'idéal est de **documenter en même temps qu'on produit le code**. Par princip
 
 ## Mes conventions de nommage en JavaScript
 
-[![Exemple de code JavaScript dans Eclipse](https://oncletom.io/images/2008/07/eclipse-javascript-code-sample-300x288.png "Exemple de code JavaScript dans Eclipse")](https://oncletom.io/images/2008/07/eclipse-javascript-code-sample.png)
+[![Exemple de code JavaScript dans Eclipse](/images/2008/07/eclipse-javascript-code-sample-300x288.png "Exemple de code JavaScript dans Eclipse")](/images/2008/07/eclipse-javascript-code-sample.png)
 
 Ne vous inquiétez pas, je ne vais pas tout recommencer pour JavaScript ;-) Je suis à peu près la même logique qu'en PHP à part pour les accolades.
 
@@ -141,7 +141,7 @@ var OncleTom = {
 
 ## Mes conventions de nommage en CSS
 
-![](https://oncletom.io/images/2008/02/css-folding.png "Folding en CSS")
+![](/images/2008/02/css-folding.png "Folding en CSS")
 
 Inutile de paraphraser ce que j'ai déjà écris dans mon article sur les [bonnes pratiques de codage CSS](https://oncletom.io/2008/02/26/bonnes-pratiques-codage-css/).
 
@@ -154,7 +154,7 @@ On pourra même s'amuser à compléter le tout par la disposition des méthodes 
 
 Les vues _Outline_ fournissent un plan du code et certains logiciels ne semblent pas disposer d'une fonction de tri. Et au cas où un jour vous n'auriez pas votre IDE favori sous le nez, ça ne mange pas de pain de fonctionner ainsi.
 
-![Plan de code dans Eclipse (Outline)](https://oncletom.io/images/2008/07/eclipse-outline.png "Plan de code dans Eclipse (Outline)")
+![Plan de code dans Eclipse (Outline)](/images/2008/07/eclipse-outline.png "Plan de code dans Eclipse (Outline)")
 
 Que l'on travaille seul à plusieurs, et à plus fortes raison dans ce dernier cas, l'utilisation de notations et conventions est un gage de qualité. Ça rend le travail plus facilement interopérable avec d'autres développeurs, plus facile à relire, plus facile à maintenir.
 

@@ -6,7 +6,7 @@ Canalblog est une plateforme de blogs fermée et dont le support ne m'a jamais a
 
 <!--more-->
 
-[caption id="attachment_1517" align="aligncenter" width="300" caption="Écran d&#39;accueil de l&#39;outil d&#39;import"]![](https://oncletom.io/images/2010/02/screenshot-1-300x123.png "Écran d")[/caption]
+[caption id="attachment_1517" align="aligncenter" width="300" caption="Écran d&#39;accueil de l&#39;outil d&#39;import"]![](/images/2010/02/screenshot-1-300x123.png "Écran d")[/caption]
 
 *   [Canalblog Importer sur l'annuaire officiel d'extensions WordPress](http://wordpress.org/extend/plugins/canalblog-importer/)
 *   Statut : **fonctionnel** mais nécessiterait d'autres tests

@@ -14,7 +14,7 @@ categories:
 - Mobile
 ---
 
-![iPhone 3G](https://oncletom.io/images/2008/07/iphone-3g.jpg "iPhone 3G")
+![iPhone 3G](/images/2008/07/iphone-3g.jpg "iPhone 3G")
 
 La nouvelle génération d'iPhone, **iPhone 3G**, sort dans la majorité des pays du monde dans 2 jours. On devra attendre le 17 juillet 2008 pour en bénéficier en Europe.
 
@@ -37,7 +37,7 @@ J'ai au début été séduit ... puis déçu dès qu'il s'agissait de pousser le
 5.  la possibilité de **synchroniser ses calendriers** Google Calendar avec le petit programme qui va bien (_NemusSync_, bientôt avec _Funambol_)
 Au final, on peut se retrouver avec un produit totalement autonome, permettant de téléphoner sans abonnement téléphonique ... mais en allant à l'encontre de la politique d'Apple.
 
-![iPhone & iPod Touch Jailbreak](https://oncletom.io/images/2008/07/ipod-touch-iphone-jailbreak.jpg "iPhone & iPod Touch Jailbreak")
+![iPhone & iPod Touch Jailbreak](/images/2008/07/ipod-touch-iphone-jailbreak.jpg "iPhone & iPod Touch Jailbreak")
 
 ## Les raisons de ne pas acheter un iPhone
 
@@ -54,7 +54,7 @@ On pourrait également citer le copier/coller mais ces 8 points m'ont au final d
 
 **Où est passé le sens critique** ?
 
-![iPhone Installer](https://oncletom.io/images/2008/07/iphone-installer.jpg "iPhone Installer")
+![iPhone Installer](/images/2008/07/iphone-installer.jpg "iPhone Installer")
 
 ## Mon ressenti sur iPhone
 

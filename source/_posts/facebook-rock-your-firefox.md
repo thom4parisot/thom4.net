@@ -12,7 +12,7 @@ categories:
 - Développement Web
 ---
 
-![Rock your Firefox logo](https://oncletom.io/images/2007/08/rock-your-firefox.gif)
+![Rock your Firefox logo](/images/2007/08/rock-your-firefox.gif)
 
 [Read/WriteWeb](http://www.readwriteweb.com/) fait partie de mes sources d'informations quotidiennes. Je suis tombé aujourd'hui sur un article concernant le [lancement d'une nouvelle application Facebook permettant de recommander ses extensions favorites](http://www.readwriteweb.com/archives/firefox_launches_facebook_app.php) : [Rock your Firefox](http://www.facebook.com/apps/application.php?api_key=b342b55715483ad3ff6a5495b9368702).
 
@@ -49,7 +49,7 @@ Je n'aime pas que les documents <acronym title="Portable Document Format">PDF</a
 **Tab Mix Plus** apporte un **lot considérable d'options pour mieux régler le comportement de vos onglets**. Personnellement je l'utilise pour que toute nouvelle fenêtre se charge obligatoirement dans un nouvel onglet _sans me déranger_ (chargement en arrière-plan). Je profite aussi de son indicateur de chargement allant de 0 à 100%.
 En revanche j'évite son système de récupération en cas de plantage, il fonctionne moins bien que celui intégré à Firefox (pour les rares cas où cela s'est produit chez moi).
 
-![Extensions Firefox](https://oncletom.io/images/2007/08/firefox-extensions.gif)
+![Extensions Firefox](/images/2007/08/firefox-extensions.gif)
 
 ## Extensions "Développeur Web"
 

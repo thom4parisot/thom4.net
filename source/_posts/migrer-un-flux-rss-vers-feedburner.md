@@ -12,7 +12,7 @@ categories:
 - Développement Web
 ---
 
-![Feedburner logo](https://oncletom.io/images/2007/03/feedburner-logo.gif)
+![Feedburner logo](/images/2007/03/feedburner-logo.gif)
 
 Pour mesurer l'utilisation des [flux RSS d'Emu Nova](http://www.emunova.net/infos/outils/), j'ai décidé d'utiliser [Feedburner](http://www.feedburner.com/) dans sa version gratuite. Je l'utilise déjà pour ce blog et j'en suis très satisfait, que ce soit pour les _données fournies_, les _personnalisations possibles_ ou encore la _qualité du service_.
 
@@ -24,7 +24,7 @@ _La problématique du jour_ : **comment utiliser Feedburner sur des flux RSS dé
 
 Avant de faire quoi que ce soit, il convient de créer son flux Feedburner à partir d'un flux déjà existant (qu'on souhaite rediriger tant qu'à faire). L'étape la plus simple.
 
-![Création d](https://oncletom.io/images/2007/03/feedburner-create-feed.png)
+![Création d](/images/2007/03/feedburner-create-feed.png)
 
 ## Modifier les liens vers les flux
 

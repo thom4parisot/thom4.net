@@ -14,7 +14,7 @@ categories:
 - Standards du Web
 ---
 
-![Logo microformats](https://oncletom.io/images/2007/07/logo-microformats.gif)
+![Logo microformats](/images/2007/07/logo-microformats.gif)
 
 Pendant que la bataille fait rage du côté des sites _Web 2.0_ (mais c'est un des leviers de l'innovation sur Internet que l'on aime ou pas cette appellation), **une révolution silencieuse se met en marche** : [le Web sémantique ou encore le Web 3.0](http://affordance.typepad.com/mon_weblog/2006/11/web_30_donnes_o.html).
 Jusqu'à présent, les moteurs de recherche (Google, Yahoo!, Windows Live Search, Exalead etc.) avaient pour défi le recensement du plus grand nombre de documents et des résultats de recherche pertinents.

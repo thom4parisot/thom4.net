@@ -15,7 +15,7 @@ categories:
 - Standards du Web
 ---
 
-![Sites Web : les bonnes pratiques](https://oncletom.io/images/2007/02/sites-web-bonnes-pratiques.jpg)
+![Sites Web : les bonnes pratiques](/images/2007/02/sites-web-bonnes-pratiques.jpg)
 
 Lorsqu'on crée son premier site ou bien lorsqu'on navigue sur Internet, on est loin de se douter de l'étendue des conventions implicites qui facilitent la vie de tout le monde.
 Et pourtant, passé l'apprentissage de la soupe de balises HTML et éventuellement des feuilles de style, il y a tout un tas de _règles à respecter_ pour rendre la navigation aisée et non bloquante. Car oui, **mal concevoir un site peut en bloquer**, qu'il s'agisse de personnes atteintes de déficiences (physiques, mentales) ou pas.

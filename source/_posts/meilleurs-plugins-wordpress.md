@@ -13,7 +13,7 @@ categories:
 - WordPress
 ---
 
-![Logo Wordpress](https://oncletom.io/images/2008/05/wordpress-logo.png "Logo Wordpress")
+![Logo Wordpress](/images/2008/05/wordpress-logo.png "Logo Wordpress")
 
 [Wordpress](http://wordpress.org) c'est bien. Bien utiliser **Wordpress** c'est mieux !
 Si je trouve l'installation de base de cette plateforme de rédaction plus qu'aboutie, certains _plugins_ sont indispensables pour améliorer votre blog, son suivi et sa présence sur Internet. Je me permets donc de partager ma sélection des plugins que je trouve utiles pour une utilisation quotidienne :

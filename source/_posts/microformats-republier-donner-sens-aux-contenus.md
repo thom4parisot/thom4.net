@@ -19,7 +19,7 @@ categories:
 
 [repost from="http://www.clever-age.com/veille/blog/microformats-republier-et-donner-du-sens-aux-contenus.html" sitename="Clever Age" title="Microformats : republier et donner du sens aux contenus"]
 
-![Logo Microformats](https://oncletom.io/images/2007/07/logo-microformats.gif)
+![Logo Microformats](/images/2007/07/logo-microformats.gif)
 
 **Le Web sémantique**.
 Cette expression est sur toutes les lèvres de ceux qui préparent l'Internet de demain. Moteurs de recherche, services de pointe, secteur marchand ... après avoir indexé du contenu, ils aimeraient désormais le comprendre. Comprendre pour mieux cibler, mieux profiler et mieux servir.
@@ -126,7 +126,7 @@ Voici une liste non-exhaustive de services proposant des contenus microformatés
 
 ## Outils agrégeant les microformats
 
-![Extension Operator pour Firefox](https://oncletom.io/images/2008/01/microformats-operator-c2fc2.png)
+![Extension Operator pour Firefox](/images/2008/01/microformats-operator-c2fc2.png)
 
 L'utilisation la plus intéressante des microformats reste indéniablement l'agrégation. Vous pourrez ainsi construire un flux RSS à partir d'une page statique ou explorer
 des photos en rapport avec la page visitée.

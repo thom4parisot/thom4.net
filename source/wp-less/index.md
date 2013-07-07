@@ -6,7 +6,7 @@ date: 2009-08-16 16:49:10
 
 <!--more-->
 
-![LESS CSS](https://oncletom.io/images/2009/08/less-logo.png "LESS CSS")
+![LESS CSS](/images/2009/08/less-logo.png "LESS CSS")
 
 *   [WP-LESS on Wordpress.org plugins repository ](http://wordpress.org/extend/plugins/wp-less/)
 *   State : **stable and ready to use**

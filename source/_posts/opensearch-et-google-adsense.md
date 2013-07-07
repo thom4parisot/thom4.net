@@ -10,7 +10,7 @@ categories:
 - Développement Web
 ---
 
-![Logo OpenSearch](https://oncletom.io/images/2007/02/opensearch.png)
+![Logo OpenSearch](/images/2007/02/opensearch.png)
 
 Les _navigateurs Web modernes_ intègrent désormais quasiment tous une boîte de texte destinée à effectuer une recherche dans son moteur favori. Ces dits navigateurs permettent également d'ajouter les sites de son choix grâce au format [OpenSearch](http://www.opensearch.org) initié par [A9](http://www.a9.com), filiale d'[Amazon](http://www.amazon.fr).
 
@@ -21,11 +21,11 @@ Armez-vous d'un _éditeur de texte_ et ... c'est tout. Il n'en faut pas plus pou
 
 Les sites proposant à leurs visiteurs un moteur de recherche intégrale au navigateur Web se signalent en mettant en surbrillance l'icône du moteur par défaut. Ca manque de clarté et de mise en avant mais il faudra faire avec en attendant que le format gagne en popularité.
 
-![OpenSearch et Firefox 2](https://oncletom.io/images/2007/02/emunova-opensearch-fx2.png)
+![OpenSearch et Firefox 2](/images/2007/02/emunova-opensearch-fx2.png)
 
 _Moteur OpenSearch dans Firefox 2_
 
-![OpenSearch et Internet Explorer 7](https://oncletom.io/images/2007/02/emunova-opensearch-ie7.png)
+![OpenSearch et Internet Explorer 7](/images/2007/02/emunova-opensearch-ie7.png)
 
 _Moteur OpenSearch dans Internet Explorer 7_
 

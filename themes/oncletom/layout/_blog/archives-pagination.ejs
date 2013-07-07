@@ -1,0 +1,10 @@
+<% if (page.prev){ %>
+<div class="span5 navigation" id="next-page">
+  <div class="article nav-link"><%- link_to(config.root+page.prev_link, "Page précédente") %></div>
+</div>
+<% } %>
+<% if (page.next){ %>
+<div class="span5 navigation" id="previous-page">
+  <div class="article nav-link"><%- link_to(config.root+page.next_link, "Page suivante") %></div>
+</div>
+<% } %>

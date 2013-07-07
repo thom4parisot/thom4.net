@@ -6,7 +6,7 @@ categories:
 - Personnel
 ---
 
-![Defective by Design](https://oncletom.io/images/Internet/defective-by-design.png)
+![Defective by Design](/images/Internet/defective-by-design.png)
 
 L'épisode <acronym title="Droit d'Auteur et aux Droits Voisins dans la Société de l'Information">DADvSI</acronym> revient sur le devant de la scène avec une splendide [mise à la rue de Richard Stallman](http://www.pcinpact.com/actu/news/29352-Matignon-se-verrouille-face-a-Richard-Stallm.htm). Qui est cet homme à qui l'on doit pourtant beaucoup et pourquoi cette loi de "confiance" prend-elle une mauvaise tournure ? La réponse dans ce billet et au bout de votre clavier ... vous !
 

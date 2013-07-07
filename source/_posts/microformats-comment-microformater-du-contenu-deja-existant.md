@@ -27,7 +27,7 @@ categories:
 
 [repost from="http://www.clever-age.com/veille/blog/microformats-comment-microformater-du-contenu-deja-existant.html" sitename="Clever Age" title="Microformats : comment microformater du contenu déjà existant ?"]
 
-![Microformats logo](https://oncletom.io/images/2007/07/logo-microformats.gif)
+![Microformats logo](/images/2007/07/logo-microformats.gif)
 
 Nous avions dressé un panorama des microformats dans un précédent article intitulé « [microformats : republier et donner du sens aux contenus](https://oncletom.io/2008/01/29/microformats-republier-donner-sens-aux-contenus/) ». Nous avions notamment conclu que leur** intégration était rapide, peu coûteuse et surtout bénéfique** tant pour le visiteur que pour la visibilité du contenu.
 
@@ -41,7 +41,7 @@ Intéressons-nous toutefois à des sites ayant déjà microformaté leurs conten
 
 **[Exemple avec Google Maps](http://maps.google.fr/?q=clever-age&amp;near=paris)** :
 
-![Microformats sur Google Maps](https://oncletom.io/images/2008/04/microformats-sites-google-maps.jpg)
+![Microformats sur Google Maps](/images/2008/04/microformats-sites-google-maps.jpg)
 
 Google Maps est un service de recherche cartographique accessible via un simple navigateur Web. Le moteur donne un accès à des recherches de lieux, de calculs d'itinéraires mais aussi d'emplacement d'entreprises.
 
@@ -55,7 +55,7 @@ Cette combinaison facilite l'extraction des adresse postales et des entités (in
 
 **[Exemple avec Yahoo ! Upcoming](http://upcoming.yahoo.com/search/?loc=paris)** :
 
-![Microformats sur Yahoo! Upcoming](https://oncletom.io/images/2008/04/microformats-sites-yahoo-upcoming.jpg)
+![Microformats sur Yahoo! Upcoming](/images/2008/04/microformats-sites-yahoo-upcoming.jpg)
 
 Yahoo ! Upcoming est un service gratuit cataloguant tous les évènements à venir par pays, ville, date et même par catégories (cinéma, concerts, expositions etc.).
 
@@ -81,7 +81,7 @@ Avec un peu de pratique et de connaissance des différents microformats, il ne f
 
 **[Exemple avec Wikia Search](http://re.search.wikia.com/search#clever%20age)** :
 
-![Microformats sur Wikia Search](https://oncletom.io/images/2008/04/microformats-tomicroformat-wikia-search.jpg)
+![Microformats sur Wikia Search](/images/2008/04/microformats-tomicroformat-wikia-search.jpg)
 
 Wikia Search est un moteur de recherche lancé au tout début de l'année 2008 par un des fondateurs de l'encyclopédie en ligne Wikipédia. Ce moteur en reprend d'ailleurs le principe du wiki pour contribuer à l'élaboration et la notation de meilleurs résultats.
 
@@ -97,7 +97,7 @@ On peut constater que plus il y a d'emplacement représentant des contenus diff�
 
 **[Exemple avec Clever Age](http://www.clever-age.com/)** :
 
-![Microformats sur Clever Age](https://oncletom.io/images/2008/04/microformats-tomicroformat-cleverage.jpg)
+![Microformats sur Clever Age](/images/2008/04/microformats-tomicroformat-cleverage.jpg)
 
 J'ai dénombré pas moins de 5 zones pouvant accueillir des microformats :
 

@@ -6,7 +6,7 @@ I was pretty tired of copy/pasting ugly code to share Amazon affiliate links. So
 
 <!--more-->
 
-[caption id="attachment_1035" align="aligncenter" width="300" caption="Amazon Widgets Shortcodes preview"][![Amazon Widgets Shortcodes preview](https://oncletom.io/images/2008/07/amazon-widgets-shortcode-300x225.png "Amazon Widgets Shortcodes preview")](https://oncletom.io/images/2008/07/amazon-widgets-shortcode.png)[/caption]
+[caption id="attachment_1035" align="aligncenter" width="300" caption="Amazon Widgets Shortcodes preview"][![Amazon Widgets Shortcodes preview](/images/2008/07/amazon-widgets-shortcode-300x225.png "Amazon Widgets Shortcodes preview")](/images/2008/07/amazon-widgets-shortcode.png)[/caption]
 
 *   [Amazon Widgets Shortcodes on Wordpress.org plugins repository
 ](http://wordpress.org/extend/plugins/amazon-widgets-shortcodes/)

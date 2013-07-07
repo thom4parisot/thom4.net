@@ -12,7 +12,7 @@ categories:
 - Développement Web
 ---
 
-![Ubuntu Feisty Fawn : effets de bureau](https://oncletom.io/images/2007/04/ubuntu-desktop-effects.png)
+![Ubuntu Feisty Fawn : effets de bureau](/images/2007/04/ubuntu-desktop-effects.png)
 
 [Ubuntu 7.04](http://www.ubuntu-fr.org/) (dite "Feisty Fawn", le _faon téméraire_) est sortie hier. Je l'attendais avec impatience pour bénéficier des effets graphiques et le bureau en 3D sans avoir à casser mon système. C'est désormais chose faite malgré quelques problèmes (portables ACER quand tu nous tiens ;-)).
 
@@ -26,7 +26,7 @@ C'est petit, c'est léger et ça se tape rapidement : <kbd>sudo aptitude install
 
 En utilisant le gestionnaire de paquets Synaptic (_Système > Administration > Gestionnaire de paquets Synaptic_), il se trouve à la lettre **g** (logique ...) de la catégorie _Environnement de bureau GNOME (universe)_). Si vous n'avez pas cette catégorie, il faut [activer les dépôts _universe_](http://doc.ubuntu-fr.org/applications/apt/depots#avec_un_outil_graphique_sous_ubuntu).
 
-![Ubuntu : gnome-compiz-preferences](https://oncletom.io/images/2007/04/ubuntu-gnome-compiz-preferences.png)
+![Ubuntu : gnome-compiz-preferences](/images/2007/04/ubuntu-gnome-compiz-preferences.png)
 
 ## Configuration
 
