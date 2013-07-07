@@ -11,7 +11,7 @@ categories:
 - Projets
 ---
 
-![ENES : Emu Nova Entertainment System](https://oncletom.io/images/Emu-Nova/ENES/enes2-index-fr.png)
+![ENES : Emu Nova Entertainment System](/images/Emu-Nova/ENES/enes2-index-fr.png)
 
 Dans le billet [ENES : Open Source ?](https://oncletom.io/2005/08/02/enes-open-source/) j'expliquais les bases du renouveau du projet. Renouveau important car aux yeux du "public", et même aux notres, on en reste sur une impression de stagnation. Pendant que _jeandubois_ s'occupe de la partie développement et matériel, je refonds le site Web. Bientôt à mi-parcours et à moins d'un mois de son relancement, que retenir ?
 
@@ -41,7 +41,7 @@ Canonique parce que si on supprime "titre-de-la-news.htm", on tombera sur toutes
 
 Tellement clair que peu de systèmes fonctionnent comme ça, encore moins en gérant 2 langues. Là oui : l'adresse anglaise aura le titre anglais tandis que l'adresse française le titre français. Difficile de faire mieux et plus clair. Encore une fois, il aurait été impossible d'avoir ça sur un système de blogs préconçu.
 
-![La même page, en anglais ce coup-ci](https://oncletom.io/images/Emu-Nova/ENES/enes2-index-en.png)
+![La même page, en anglais ce coup-ci](/images/Emu-Nova/ENES/enes2-index-en.png)
 
 
 ## Fils RSS

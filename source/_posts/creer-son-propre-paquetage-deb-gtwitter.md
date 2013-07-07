@@ -11,7 +11,7 @@ categories:
 - Développement Web
 ---
 
-![gTwitter 1.0 logo](https://oncletom.io/images/2007/06/gtwitter.gif)
+![gTwitter 1.0 logo](/images/2007/06/gtwitter.gif)
 
 Lorsqu'on utilise un système d'exploitation Linux à base de paquetages (_packages_), il est préférable d'utiliser ce système d'installation pour rajouter de nouvelles applications. Je l'avais expliqué auparavant : [j'ai choisi d'utiliser le client libre gTwitter pour _gazouiller_ sur Twitter](https://oncletom.io/2007/06/01/twitter-gtwitter/).
 
@@ -66,8 +66,8 @@ Le plus dur sera de répondre aux questions suivantes :
 
 Un coup de toucher <kbd>Entrée</kbd> plus loin, **le paquet est créé dans le même répertoire que les sources**. **gtwitter_1.0beta-1_i386.deb** trône fièrement devant vous.
 
-![Installer gTwitter à partir d’un binaire checkinstall](https://oncletom.io/images/2007/06/checkinstall-deb-install.png)
+![Installer gTwitter à partir d’un binaire checkinstall](/images/2007/06/checkinstall-deb-install.png)
 
 Bravo, vous êtes maintenant à la pointe du progrès ;-)
 
-[Télécharger **gTwitter 1.0 beta** .deb pour Debian / Ubuntu](https://oncletom.io/images/2007/06/gtwitter_10beta-1_i386.deb "gTwitter 1.0 beta Debian / Ubuntu installer")
+[Télécharger **gTwitter 1.0 beta** .deb pour Debian / Ubuntu](/images/2007/06/gtwitter_10beta-1_i386.deb "gTwitter 1.0 beta Debian / Ubuntu installer")

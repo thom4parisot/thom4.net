@@ -14,7 +14,7 @@ categories:
 - WordPress
 ---
 
-[![WordPress Logo](https://oncletom.io/images/2009/04/wordpress-badge-138x138.png "WordPress Logo")](https://oncletom.io/images/2009/04/wordpress-badge.png)
+[![WordPress Logo](/images/2009/04/wordpress-badge-138x138.png "WordPress Logo")](/images/2009/04/wordpress-badge.png)
 
 J'ai eu besoin récemment d'inclure un éditeur visuel dans un plugin Wordpress. Je pensais que c'était une tâche aisée sans chercher sur Google : il n'y avait qu'à faire comme les développeurs de Wordpress !
 

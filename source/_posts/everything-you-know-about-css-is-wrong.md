@@ -16,7 +16,7 @@ categories:
 
 En bon français : "**tout ce que vous savez des CSS est faux** !". L'heure n'est pas à la déprime mais à la lecture de cet ouvrage par le site [SitePoint](http://sitepoint.com). Il est écrit en anglais par Rachel Andrew et Kevin Yank.
 
-![Everything You Know About CSS Is Wrong](https://oncletom.io/images/2009/01/everything-you-know-about-css-is-wrong-300x300.jpg "Everything You Know About CSS Is Wrong")
+![Everything You Know About CSS Is Wrong](/images/2009/01/everything-you-know-about-css-is-wrong-300x300.jpg "Everything You Know About CSS Is Wrong")
 
 Ce titre fortement accrocheur à la limite de l'injure annonce la couleur : l'ouvrage est censé vous expliquer que les techniques employées aujourd'hui ne sont que du bricolage et qu'on peut faire la même chose en plus propre et plus simple.
 
@@ -49,7 +49,7 @@ Le chapitre 4 explique avec plein de sous-entendus qu'Internet Explorer 6 et 7 .
 
 Le chapitre 5, _The Road Ahead_, propose une présentation maintes fois vue et revue de l'avenir avec CSS3\. Ça fait office de piqûre de rappel concernant le module _templates_ et  _grille_ notamment.
 
-[![Texte 2 colonnes avec display: table-cell](https://oncletom.io/images/2009/01/txt-2cols.png "Texte 2 colonnes avec display: table-cell")](http://css.alsacreations.com/xmedia/exemples/display/txt-2cols.png)
+[![Texte 2 colonnes avec display: table-cell](/images/2009/01/txt-2cols.png "Texte 2 colonnes avec display: table-cell")](http://css.alsacreations.com/xmedia/exemples/display/txt-2cols.png)
 
 ## Pourquoi je ne vous recommande pas son achat ?
 

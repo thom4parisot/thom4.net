@@ -15,7 +15,7 @@ categories:
 - WordPress
 ---
 
-![](https://oncletom.io/images/2008/09/amazon-associates.gif "Amazon Associates")
+![](/images/2008/09/amazon-associates.gif "Amazon Associates")
 
 J'ai publié il y a quelques jours la version 1.2 du plugin [Amazon Widgets Shortcodes](http://wordpress.org/extend/plugins/amazon-widgets-shortcodes/). Cette version suit plusieurs autres publications plus intimistes, à des fins de tests grandeur nature. Ce fût en tous cas suffisant pour commencer à attirer l'attention de traducteurs.
 
@@ -48,7 +48,7 @@ Les widgets se créent en ligne et au final, leur code HTML nous est gentiement 
 
 Enfin, côté maintenance c'est pas gagné : si Amazon change le code HTML des éléments sans assurer de rétrocompatibilité (ce que je ne leur souhaite pas), les widgets déjà insérés seraient rendus inopérants.
 
-![Arborescence du code d&#39;Amazon Widgets Shortcodes](https://oncletom.io/images/2008/09/awshortcode-workspace.png "Arborescence du code d")
+![Arborescence du code d&#39;Amazon Widgets Shortcodes](/images/2008/09/awshortcode-workspace.png "Arborescence du code d")
 
 ## Les objectifs fixés et avoués du plugin Amazon Widgets Shortcodes
 
@@ -79,7 +79,7 @@ Maintenant que j'avais les idées, il fallait les mettre en place. Voici comment
 
 Cette progression permet de créer petit à petit l'application, de la rendre modulaire et extensible. L'ajout et le support de nouveaux widgets ne doit pas remettre en cause l'architecture du plugin.
 
-![Code JavaScript d&#39;Amazon Widgets Shortcodes](https://oncletom.io/images/2008/09/awshortcode-javascript-abstraction.png "Code JavaScript d")
+![Code JavaScript d&#39;Amazon Widgets Shortcodes](/images/2008/09/awshortcode-javascript-abstraction.png "Code JavaScript d")
 
 ## Ce à quoi il faut penser en développant un plugin
 

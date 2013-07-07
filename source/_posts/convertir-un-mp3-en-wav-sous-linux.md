@@ -10,7 +10,7 @@ categories:
 - Développement Web
 ---
 
-![Metroid Prime 3 Corruption logo](https://oncletom.io/images/2006/10/metroid-prime-3-corruption.jpg)
+![Metroid Prime 3 Corruption logo](/images/2006/10/metroid-prime-3-corruption.jpg)
 
 Comme je suis récemment tombé sur la bande-originale du jeu [Metroid Prime](http://www.emunova.net/veda/test/704.htm), j'ai eu envie de changer les sons d'ouverture et de fermeture de sessions sous Linux. La problématique était que je disposais de fichiers MP3 (le vilain pirate) et qu'il me fallait des WAV. La solution tient en une ligne de commande grâce au programme **mpg321**.
 
@@ -26,5 +26,5 @@ for i in *.mp3; do mpg321 -w "`basename "$i" .mp3`".wav "$i"; done
 
 En cadeau, les fichiers désirés. De suite ça a plus de classe ;-)
 
-*   [Metroid : Samus apparaît](https://oncletom.io/images/2006/10/metroid-samus.wav)
-*   [Metroid : Objet obtenu](https://oncletom.io/images/2006/10/metroid-item.wav)
+*   [Metroid : Samus apparaît](/images/2006/10/metroid-samus.wav)
+*   [Metroid : Objet obtenu](/images/2006/10/metroid-item.wav)

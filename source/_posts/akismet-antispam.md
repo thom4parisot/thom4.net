@@ -1,10 +1,10 @@
 title: "Akismet, tueur de spam"
 id: 433
 date: 2007-02-03 13:00:06
-tags: 
+tags:
 - akismet
 - spam
-categories: 
+categories:
 - WordPress
 ---
 
@@ -12,4 +12,4 @@ Depuis que j'ai passé ce blog sous [Wordpress](http://wordpress.org), je ne sui
 
 Qui a dit que le spam c'était le Mal ?
 
-![Akismet antispam](https://oncletom.io/images/2007/02/akismet-spam.png)
+![Akismet antispam](/images/2007/02/akismet-spam.png)

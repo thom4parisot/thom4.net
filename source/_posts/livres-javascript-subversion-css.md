@@ -13,7 +13,7 @@ categories:
 - Standards du Web
 ---
 
-![Ppk on Javascript / CSS Mastery / Subversion](https://oncletom.io/images/2007/04/ppk-javascript-css-mastery-subversion.png)
+![Ppk on Javascript / CSS Mastery / Subversion](/images/2007/04/ppk-javascript-css-mastery-subversion.png)
 
 Je vous l'annonce, depuis janvier 2007 _je suis boulimique_. Boulimique mais d'informations, de connaissances et de savoir. S'il y a bien un univers qui ne pardonne pas à ceux qui se contentent des acquis, c'est bien celui d'Internet. Donc en plus des 300 brèves quotidiennes que je lis, je viens de passer commande de trois livres :
 

@@ -11,7 +11,7 @@ categories:
 - Développement Web
 ---
 
-![Logo MySQL](https://oncletom.io/images/2007/08/powered-by-mysql-167x86.png)
+![Logo MySQL](/images/2007/08/powered-by-mysql-167x86.png)
 
 La majorité des systèmes de bases de données permettent de trier une sélection de données en fonction de nos besoins, souvent de manière simple. La majorité des besoins courants impliquent des tris ascendants ou descendants (comprendre "par ordre alphabétique croissant ou descendant") sur une plusieurs colonnes (des dates, des titres ou des codes particuliers) mais de temps à autre, il arrive que les  besoins soient plus complexes puisque l'on voudra soit :
 

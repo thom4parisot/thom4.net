@@ -1,15 +1,15 @@
 title: "CSS Summer Refresh 2007"
 id: 741
 date: 2007-08-15 21:12:18
-tags: 
+tags:
 - alsacreations
 - css
 - xhtml
-categories: 
+categories:
 - Standards du Web
 ---
 
-![Logo Alsacreations](https://oncletom.io/images/2007/08/logo-alsacreations.gif)
+![Logo Alsacreations](/images/2007/08/logo-alsacreations.gif)
 
 [Le CSS Summer Refresh 2007 est lancé](http://blog.alsacreations.com/2007/08/14/378-cascading-stylesheet-summer-refresh-2007-les-votes). Ce concours met en scène <acronym title="Cascading Style Sheet">CSS</acronym>, <acronym title="HyperText Markup Language">HTML</acronym>, accessibilité et standards du Web. Chaque site inscrit est tenu de proposer un site beau, propre et accessible pour recevoir un maximum de votes positifs.
 

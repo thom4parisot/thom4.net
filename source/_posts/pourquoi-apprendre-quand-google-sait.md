@@ -13,7 +13,7 @@ categories:
 - Travail 2.0
 ---
 
-![L](https://oncletom.io/images/2009/02/aec-actualites.png "L")
+![L](/images/2009/02/aec-actualites.png "L")
 
 Le [débat numérique](http://www.aecom.org/blog/rdv/labels/debat numerique.html) est un évènement bordelais que j'affectionne et auquel j'aime me rendre tous les trimestres. Il confronte un journaliste, un expert et le public sur une thématique choisie pendant 1h30 ... un débat en somme.
 
@@ -43,7 +43,7 @@ Alors certes c'est un débat, certains de ces points sont légitimes, d'autres m
 
 ## Un vrai-faux débat : parlons éducation !
 
-![Logo Wikipédia - L](https://oncletom.io/images/2009/02/wikipedia.png "Logo Wikipédia - L")
+![Logo Wikipédia - L](/images/2009/02/wikipedia.png "Logo Wikipédia - L")
 
 J'ai souris en entendant cette histoire de personnes défavorisées. Aujourd'hui, le minimum requis pour accéder à la culture c'est un ordinateur, une connexion Internet et savoir lire. Ce n'est certes pas une école d'ingénieurs ou un institut de recherche mais c'est le Web est devenu la porte d'entrée vers le savoir. Tout le monde l'utilise à la hauteur de son besoin.
 
@@ -61,7 +61,7 @@ Et si on en revient à notre hypothèse de départ, à savoir que la concentrati
 
 ## N'oublions pas la réalité : rien n'est éternel
 
-[![Parterre de téléphones mobiles devant Barrack Obama](https://oncletom.io/images/2009/02/obama-parterre-photos-300x236.png "Parterre de téléphones mobiles devant Barrack Obama")](http://soupsoup.tumblr.com/post/72097686/put-the-camera-down-and-enjoy-a-moment-for-once)
+[![Parterre de téléphones mobiles devant Barrack Obama](/images/2009/02/obama-parterre-photos-300x236.png "Parterre de téléphones mobiles devant Barrack Obama")](http://soupsoup.tumblr.com/post/72097686/put-the-camera-down-and-enjoy-a-moment-for-once)
 
 Ce qui m'amène à citer une fois de plus un article de [ReadWriteWeb](http://www.readwriteweb.com) intitulé "[Technology is Great, but Are We Forgetting to Live?](http://www.readwriteweb.com/archives/technology_is_great_but_are_we_forgetting_to_live.php)". En bon français "La technologie c'est bien mais n'oublions-nous pas de vivre ?".
 

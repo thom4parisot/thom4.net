@@ -1,15 +1,15 @@
 title: "Simplifier le visuel"
 id: 69
 date: 2005-03-28 17:12:57
-tags: 
+tags:
 - ui
 - ux
-categories: 
+categories:
 - Développement Web
 - Projets
 ---
 
-[![Emu Nova : menu dynamique](https://oncletom.io/images/Emu-Nova/menu-sousmenu.TN__.png)](/images/Emu-Nova/menu-sousmenu.png)
+[![Emu Nova : menu dynamique](/images/Emu-Nova/menu-sousmenu.TN__.png)](/images/Emu-Nova/menu-sousmenu.png)
 
 Organiser l'affichage d'un site fait partie de la liste des mes hantises. Il faut trouver le bon équilibre entre la quantité d'informations dont doit disposer le visiteur sans le "perdre" ni surcharger le visuel.
 

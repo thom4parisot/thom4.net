@@ -16,7 +16,7 @@ categories:
 - Standards du Web
 ---
 
-![Emu Nova](https://oncletom.io/images/2008/04/emunova.gif)
+![Emu Nova](/images/2008/04/emunova.gif)
 
 Mon premier grand fait d'armes sur le Web aura été le lancement d'[Emu Nova](http://www.emunova.net/) en octobre 2002\. Les grandes lignes du site ont toujours été **jeux vidéo rétro**, **émulation** et **aide aux utilisateurs**.
 J'ai ainsi décidé d'offrir une nouvelle garde-robe à Emu Nova le 1<sup>er</sup> avril 2008 pour **renouveler une interface** vieille de 3 ans. 3 ans où le contenu s'est accumulé, les menus se sont désordonnés et la navigation s'est complexifiée.
@@ -25,7 +25,7 @@ Aujourd'hui je vous dévoile les **tenants et aboutissants d'un travail de réfl
 Où l'on parlera de jQuery, Blueprint et d'interface orientée utilisateur.
 <!--more-->
 
-## [![Emu Nova : version 2](https://oncletom.io/images/2008/04/emunova-2010-227x300.png)](https://oncletom.io/images/2008/04/emunova-2010.png)
+## [![Emu Nova : version 2](/images/2008/04/emunova-2010-227x300.png)](/images/2008/04/emunova-2010.png)
 
 ## Objectifs de la refonte
 
@@ -60,7 +60,7 @@ jQuery sert de base à tout le code JavaScript :
 *   **ouverture des liens externes** dans une nouvelle fenêtre
 *   **diaporama de photos** avec Lightbox ; personnalisé pour l'occasion afin de bénéficier de légendes plus détaillées
 
-![Emu Nova : formulaire avec erreur par jQuery](https://oncletom.io/images/2008/04/emunova-jquery-form.png)
+![Emu Nova : formulaire avec erreur par jQuery](/images/2008/04/emunova-jquery-form.png)
 
 Il ne reste donc plus en tout et pour tout que 2 popup/alert/confirm obligeant à un affreux et désobligeant clic.
 
@@ -87,7 +87,7 @@ La transparence est affichée comme du gris. Magnifique. Sauf en utilisant [jQue
 
 ## Emu Nova : carte de chaleurs, avant et après
 
-[![Heatmap d\](https://oncletom.io/images/2008/04/emunova-2000vs2100-heatmap-294x300.jpg "Heatmap d\")](https://oncletom.io/images/2008/04/emunova-2000vs2100-heatmap.jpg)
+[![Heatmap d\](/images/2008/04/emunova-2000vs2100-heatmap-294x300.jpg "Heatmap d\")](/images/2008/04/emunova-2000vs2100-heatmap.jpg)
 
 Voici une comparaison des cartes de chaleur à 6 mois d'intervalle.
 
@@ -99,7 +99,7 @@ Notez aussi les clics en bas de page : **le pied de page compte**. Qui n'a pas e
 
 ## Conclusion
 
-[![Emu Nova 2.1 : page d\](https://oncletom.io/images/2008/04/emunova-2101-homepage-203x300.png "Emu Nova 2.1 : page d\")](https://oncletom.io/images/2008/04/emunova-2101-homepage.png)
+[![Emu Nova 2.1 : page d\](/images/2008/04/emunova-2101-homepage-203x300.png "Emu Nova 2.1 : page d\")](/images/2008/04/emunova-2101-homepage.png)
 
 Il n'est pas aisé de refondre une interface, surtout quand il y a derrière toute une troupe d'utilisateurs attachés à ses habitudes (ce qu'on peut comprendre).
 

@@ -11,7 +11,7 @@ categories:
 - WordPress
 ---
 
-![Logo Wordpress](https://oncletom.io/images/2008/05/wordpress-logo.png "Logo Wordpress")
+![Logo Wordpress](/images/2008/05/wordpress-logo.png "Logo Wordpress")
 
 [Alexandre Balmes est à la fois content et déçu des _tags_ de Wordpress](http://www.alexandrebalmes.fr/wordpress/wordpress-23-les-tags/) et pour cause, les nouvelles fonctions ajoutées ne permettent leur utilisation que dans [_the Loop_](http://codex.wordpress.org/the_Loop) (_la Boucle_, la boucle d'affichage du contenu de Wordpress).
 

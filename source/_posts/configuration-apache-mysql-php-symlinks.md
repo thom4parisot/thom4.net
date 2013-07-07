@@ -18,7 +18,7 @@ categories:
 
 J'ai récemment passé mon poste de développement de Debian Testing vers Ubuntu 8.10\. Comme toute installation _from scratch_, il faut passer par la case configuration.
 
-![](https://oncletom.io/images/2008/12/php-custom.png "Configuration PHP personnalisée")
+![](/images/2008/12/php-custom.png "Configuration PHP personnalisée")
 
 J'ai déjà expliqué comment [modifier l'emplacement des données d'un serveur MySQL](https://oncletom.io/2008/05/04/modifier-emplacement-donnees-serveur-mysql/) mais cette fois-ci on va aller encore plus loin :
 
@@ -60,7 +60,7 @@ Un des _moto_ de Debian c'est la **configuration à base de fichiers**. Vous tro
 
 ## Configuration d'Apache
 
-![](https://oncletom.io/images/2008/12/apache-logo.gif "Logo Apache")
+![](/images/2008/12/apache-logo.gif "Logo Apache")
 
 Pour Apache la démarche est la suivante :
 
@@ -99,7 +99,7 @@ On se fendra de l'ajout d'un hôte local dans le fichiers _hosts_ pour coller au
 
 ## Configuration de MySQL
 
-![](https://oncletom.io/images/2007/08/powered-by-mysql-167x86.png "Logo MySQL")
+![](/images/2007/08/powered-by-mysql-167x86.png "Logo MySQL")
 
 Pour MySQL c'est un peu plus compliqué car on va également en profiter pour déplacer l'emplacement par défaut des données. Pourquoi ? Pour les placer sur une partition qui ne craindra pas les formattages et les réinstallation système.
 Si vous aviez déjà suivi ma [procédure de déplacement des données MySQL](https://oncletom.io/2008/05/04/modifier-emplacement-donnees-serveur-mysql/) : oubliez là. Celle-ci est largement plus aboutie.
@@ -159,7 +159,7 @@ Ensuite à vous de repeupler vos bases de données à partir d'un dump. Si vous 
 
 ## Configuration de PHP
 
-![](https://oncletom.io/images/2008/12/php.gif "Logo PHP")
+![](/images/2008/12/php.gif "Logo PHP")
 
 Fort heureusement pour PHP c'est plus simple puisqu'il n'y a qu'un seul petit lien symbolique à faire.
 À noter que la configuration modifiée sera répercutée sur toutes les configurations de PHP, que ça soit pour Apache, en CLI ou CGI.

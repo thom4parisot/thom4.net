@@ -15,7 +15,7 @@ categories:
 - Projets
 ---
 
-![Logo BlogCamp France](https://oncletom.io/images/2008/02/blogcamp-france-logo.png)
+![Logo BlogCamp France](/images/2008/02/blogcamp-france-logo.png)
 
 J'ai tenu ma première conférence vendredi 29 février 2008 à l'occasion de **BlogCamp Bordeaux #3**. Petite conférence car il n'y avait "qu'une trentaine" de personnes face à moi. Une fréquentation plus qu'honorable si on tient compte de la jeunesse de [BlogCamp France](http://blogcamp.fr/), à savoir 3 mois.
 

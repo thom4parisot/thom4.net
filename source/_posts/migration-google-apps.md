@@ -32,7 +32,7 @@ Ce que je souhaitais avant tout c'était de **récupérer tous les emails actuel
 
 L'étape de configuration des emails est suffisamment claire et bien renseignée pour que n'importe quel administrateur s'en sorte. Toutefois, comme j'utilise Webmin pour me simplifier la vie, voici la configuration qu'il faut appliquer dans les champs <abbr title="Mail eXchange">MX</abbr> du domaine à migrer :
 
-![Webmin : configuration des serveurs MX pour Google Apps](https://oncletom.io/images/2007/10/webmin-bind-mx.png)
+![Webmin : configuration des serveurs MX pour Google Apps](/images/2007/10/webmin-bind-mx.png)
 
 Alors deux choses :
 
@@ -49,7 +49,7 @@ En effet, si vous expédiez des emails depuis la machine au nom de votre nom de 
 
 Dans _Virtual Mappings_ et _Accepted Domains_, il suffit juste de supprimer le nom de domaine concerné.
 
-![Qmail : suppression du localdomain](https://oncletom.io/images/2007/10/webmin-qmail-outgoing.png)
+![Qmail : suppression du localdomain](/images/2007/10/webmin-qmail-outgoing.png)
 
 ### Via le shell
 
@@ -57,7 +57,7 @@ A l'aide d'un éditeur de texte (nano, vi, emacs etc.), il faut procéder de la 
 
 ## Import des emails _via_ IMAP
 
-![Google Apps : import IMAP des emails](https://oncletom.io/images/2007/10/google-apps-mail-import.png)
+![Google Apps : import IMAP des emails](/images/2007/10/google-apps-mail-import.png)
 
 Pour vous donner un ordre d'idée, **25 000 emails répartis dans 15 comptes ont mis deux heures à être récupérés avec une seule connexion IMAP**. Il faut compter deux heures de plus pour une intégration complète des emails et quoiqu'il arrive, les comptes sont utilisables. C'est juste que les emails continueront à s'ajouter dans des labels représentatifs de l'arborescence IMAP (`INBOX/` etc.).
 Il faut malgré tout savoir que pendant cette importation, **chaque email est passé à l'antivirus et au filtre antispam**.

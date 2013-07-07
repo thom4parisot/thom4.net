@@ -8,7 +8,7 @@ categories:
 - Personnel
 ---
 
-![UFC que Choisir](https://oncletom.io/images/Actualite/ufc-que-choisir.gif)
+![UFC que Choisir](/images/Actualite/ufc-que-choisir.gif)
 
 <q>Dis maman, je peux t'emprunter ton CD d'Alizée pour l'écouter sur mon baladeur MP3 ?</q>
 

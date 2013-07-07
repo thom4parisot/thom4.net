@@ -25,7 +25,7 @@ En tête, cette **admiration envers les gens qui quittent tout**, partent à l�
 
 À ces [nomades](https://larlet.fr/david/biologeek/archives/20110112-resolutions-decouvrir-concretiser-et-transmettre/) sans racine (mais un peu quand même), quand je leur pose la question “c’est où chez toi ?”, ces voyageurs répondent invariablement “la maison familiale/là où j’ai grandi/là où je me suis construit”. Même s’ils en sont partis depuis 5, 10 ou 20 ans. **Des fondations sur lesquelles on s'appuie** de manière instinctive.
 
-[![Guardian of Nowhere. Of Everywhere.](https://oncletom.io/images/2013/06/8721964504_6ec83240fb_c-600x399.jpg)](http://www.flickr.com/photos/the-jedi/8721964504/)
+[![Guardian of Nowhere. Of Everywhere.](/images/2013/06/8721964504_6ec83240fb_c-600x399.jpg)](http://www.flickr.com/photos/the-jedi/8721964504/)
 
 ## Réinventer les habitudes
 
@@ -53,7 +53,7 @@ La journée, le temps file à toute allure : comprendre l'organisation, de l'éq
 
 Et puis il y a ces gens talentueux que l'on croise à tout bout de champ. Ils auront visité la moitié des pays de la planète, jouent de 25 instruments de musique ou connaissent les derniers siècles de littérature avec une facilité apparente déconcertante. De quoi en avoir le tournis et de se demander ce qu'on a pu faire de toutes ces années. Rien ?
 
-[![Mile End Canal](https://oncletom.io/images/2013/06/ed3ad2aeca2011e2b97522000a1f97e9_7-600x600.jpg)](http://instagram.com/p/Z_IOYVhfoR/)
+[![Mile End Canal](/images/2013/06/ed3ad2aeca2011e2b97522000a1f97e9_7-600x600.jpg)](http://instagram.com/p/Z_IOYVhfoR/)
 
 ## Ce qu’on laisse derrière nous continue d’exister
 

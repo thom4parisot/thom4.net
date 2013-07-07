@@ -85,5 +85,5 @@ Le lundi 15 à 8h30 pétantes, après un oubli d'intégration de base de donnée
 
 Voici donc ce qu'une simple bascule de serveur occasionne : des heures d'étude, des heures de préparation, des heures d'installation. Et quand c'est bien fait, ça représente peu d'ennuis et surtout beaucoup de satisfaction pour de nombreux jours à venir ;-)
 
-![Progression de la fréquentation du site Emu Nova entre 2002 et 2006](https://oncletom.io/images/Emu-Nova/emunova-statistiques-progression-2002-2006.png)
+![Progression de la fréquentation du site Emu Nova entre 2002 et 2006](/images/Emu-Nova/emunova-statistiques-progression-2002-2006.png)
 **novembre 2002** : 300 visiteurs quotidiens ; **mai 2006** : 9000 visiteurs quoditiens

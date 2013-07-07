@@ -65,7 +65,7 @@ Ils parlent tous de manière **calme**. Ils échangent à distance via micro. Il
 
 Ça va.
 
-![](https://oncletom.io/images/2012/10/DSC_4514_W1280-600x399.jpg "L")
+![](/images/2012/10/DSC_4514_W1280-600x399.jpg "L")
 
 ## Les yeux rivés au ciel
 

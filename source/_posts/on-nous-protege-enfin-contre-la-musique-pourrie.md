@@ -1,10 +1,10 @@
 title: "On nous protège enfin contre la musique pourrie !"
 id: 60
 date: 2006-01-15 20:21:50
-tags: 
+tags:
 - drm
 - Musique
-categories: 
+categories:
 - Personnel
 ---
 
@@ -14,7 +14,7 @@ Au passage, si vous achetez le prochain CD de Coldplay, ça sera plus pour le re
 
 <!--more-->
 
-![CD Coldplay protégé](https://oncletom.io/images/Actualite/coldplay-cd-illisible.jpg)
+![CD Coldplay protégé](/images/Actualite/coldplay-cd-illisible.jpg)
 
 Si cette image ne vous dit pas grand chose, il va falloir apprendre à la dénicher sur vos futurs achats. Enfin, seulement si vous achetez de la bonne musique commerciale comme il se doit. La maison d'édition a en effet préféré lister la liste des supports sur lesquels **vous ne pourrez pas écouter le CD** (dûment acheté, les CD copiés, eux, se lisent sans problème). La bonne idée aurait été de faire l'inverse : lister les supports (s'il en existe) autorisant sa lecture. Histoire de rire, sur quoi ne pourra-t-on pas lire le prochain CD de **Coldplay** :
 

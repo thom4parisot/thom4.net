@@ -43,7 +43,7 @@ Les choses suivent leur court. Début décembre 2012, [mise en redressement de l
 
 Dans cette histoire, le _code informatique_ n’est rien. Bien indenté, mal indenté, 48 couches d'abstraction ou non, PHP, Python ou JavaScript … il doit surtout pouvoir évoluer au rythme de l’entreprise. **Il doit avant tout être robuste au lieu d’être parfait**. Car il sera jeté et sûrement réécrit à mesure que l'organisme évolue.
 
-[![](https://oncletom.io/images/2013/01/8206099378_43f3c7e1cb_z-600x404.jpg "Mountain View")](http://www.flickr.com/photos/the-jedi/8206099378/)
+[![](/images/2013/01/8206099378_43f3c7e1cb_z-600x404.jpg "Mountain View")](http://www.flickr.com/photos/the-jedi/8206099378/)
 
 ## Retour à la réalité : qui suis-je ?
 
@@ -78,7 +78,7 @@ Des heures de **discussion** avec des personnes brillantes, d’une patience inf
 
 Pour afficher cette cohérence, l’identité du blog a été refondue pour s’intégrer naturellement avec mes prestations professionnelles : **expertise**, **formations** et **conférences**.
 
-![](https://oncletom.io/images/2013/01/oncletom_-on-Instagram-600x291.png "Same Place, Every Day")
+![](/images/2013/01/oncletom_-on-Instagram-600x291.png "Same Place, Every Day")
 
 ## Poursuivre dans mes choix de vie
 
@@ -107,7 +107,7 @@ Une **révélation** : [Edward Hopper au Grand Palais](http://www.grandpalais.fr
 
 Je ressens aussi le besoin de rompre l’isolement. [J’ai rejoins un collectif fort sympathique](https://www.facebook.com/OpusBoheme) et ça me fait déjà le plus grand bien ; entre autre parce que sont des gens biens, **stimulants** et _sains_.
 
-[![](https://oncletom.io/images/2013/01/8099301942_74feed9455_z-424x600.jpg "Dyrhólaey to Somewhere — Lin &amp; Unknown")](http://www.flickr.com/photos/the-jedi/8099301942/)
+[![](/images/2013/01/8099301942_74feed9455_z-424x600.jpg "Dyrhólaey to Somewhere — Lin &amp; Unknown")](http://www.flickr.com/photos/the-jedi/8099301942/)
 
 ## Conclusion
 

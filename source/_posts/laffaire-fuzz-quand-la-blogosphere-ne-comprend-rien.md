@@ -15,7 +15,7 @@ categories:
 - Personnel
 ---
 
-![Campagne de soutien à Presse-citron](https://oncletom.io/images/2008/04/pressecitron-150x250.gif "Campagne de soutien à Presse-citron")
+![Campagne de soutien à Presse-citron](/images/2008/04/pressecitron-150x250.gif "Campagne de soutien à Presse-citron")
 
 L'[affaire Fuzz](http://www.presse-citron.net/?2008/03/12/3162-bonne-nouvelle-fuzz-rapporte-enfin-beaucoup-d-argent) a fait beaucoup de bruit en plus de 3 semaines. Toute la "blogosphère" a d'ailleurs apporté un soutien plus que massif à ce qui apparaît à première vue comme une injustice totale.
 

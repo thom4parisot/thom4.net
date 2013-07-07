@@ -10,7 +10,7 @@ categories:
 - Accessibilité
 ---
 
-![](https://oncletom.io/images/2008/11/service_public.jpg "Logo Service-public.fr")
+![](/images/2008/11/service_public.jpg "Logo Service-public.fr")
 
 Je suis tombé nez à nez sur l'[annuaire des sites Internet publics](http://lessites.service-public.fr/) la semaine dernière en cherchant l'adresse de la CPAM de Gironde. Il se trouve que [la page de cette dite organisation](http://lessites.service-public.fr/cgi-bin/annusite/annusite.fcgi/loc7?lang=fr&amp;orga=11712 "CPAM de Gironde sur l") était affublée d'un message explicite ... ou en fait pas vraiment.
 
@@ -22,7 +22,7 @@ Ou comment un message partant d'**un bon sentiment peut ruiner une navigation**.
 
 Voici la disposition de l'alerte une fois sur la fiche de l'organisation recherchée :
 
-![Message d](https://oncletom.io/images/2008/10/cpam-gironde-service-public.png "Message d'alerte de Service-public.fr")
+![Message d](/images/2008/10/cpam-gironde-service-public.png "Message d'alerte de Service-public.fr")
 
 On est sur du simple et direct : message puis information recherchée.
 
@@ -61,7 +61,7 @@ Enfer et damnation, je dois retrouver la CPAM dans une liste à 5 niveaux de dé
 
 Et comme si je n'avais pas assez cherché, je me retrouve confronté à un choix difficile : choisir parmi 8 liens hypertexte au même libellé. Jugez-en par vous-même :
 
-![Quel lien choisir ?](https://oncletom.io/images/2008/10/liste-cpam-gironde.png "Quel lien choisir ?")
+![Quel lien choisir ?](/images/2008/10/liste-cpam-gironde.png "Quel lien choisir ?")
 
 Le pifomètre m'a fait cliquer sur le premier des 8 liens et coup de bol ... c'est bon.
 

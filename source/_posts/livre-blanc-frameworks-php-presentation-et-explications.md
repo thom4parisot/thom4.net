@@ -20,7 +20,7 @@ categories:
 - Développement Web
 ---
 
-[![Couverture du livre blanc «Frameworks PHP pour l\](https://oncletom.io/images/2008/06/couverture-livre-blanc.png "Couverture du livre blanc «Frameworks PHP pour l\")](http://www.clever-age.com/veille/publications/livres-blancs/livre-blanc-frameworks-php-pour-l-entreprise.html)
+[![Couverture du livre blanc «Frameworks PHP pour l\](/images/2008/06/couverture-livre-blanc.png "Couverture du livre blanc «Frameworks PHP pour l\")](http://www.clever-age.com/veille/publications/livres-blancs/livre-blanc-frameworks-php-pour-l-entreprise.html)
 
 Il existe 4 phases dans la vie d'un développeur :
 
@@ -51,7 +51,7 @@ J'essaierai de faire court en énumérant une liste de quelques points à faire 
 _A contrario_, on pourra critiquer les frameworks pour leur plus forte consommation en ressources qu'un développement maison.
 Ce n'est évidemment pas une raison valable pour passer à côté d'autant plus qu'il existe de nombreuses solutions pour palier/réduire ce problème avec les gestionnaires de cache et les accélérateurs de code.
 
-![Exemple d](https://oncletom.io/images/2008/06/exemple-application-symfony.png "Exemple d")
+![Exemple d](/images/2008/06/exemple-application-symfony.png "Exemple d")
 
 ## Framework PHP ou CMS ?
 
@@ -83,7 +83,7 @@ On pourrait classer ces frameworks en 2 catégories :
 
 ## symfony : champion toutes catégories
 
-![Écran de première installation de symfony](https://oncletom.io/images/2008/06/symfony-first-install.gif "Écran de première installation de symfony")
+![Écran de première installation de symfony](/images/2008/06/symfony-first-install.gif "Écran de première installation de symfony")
 
 Lors de la lecture du [livre blanc sur les frameworks PHP](http://www.clever-age.com/veille/publications/livres-blancs/livre-blanc-frameworks-php-pour-l-entreprise.html), vous remarquerez très probablement que le framework _symfony_ a tout pour plaire. C'est en effet à l'heure où j'écris ces lignes le framework PHP le plus abouti et le plus intéressant à analyser.
 Il jouit d'une excellente réputation, d'une incroyable stabilité et d'une communauté très active, quantitativement et qualitativement parlant. Si on ne devait en garder qu'un, ça serait lui.

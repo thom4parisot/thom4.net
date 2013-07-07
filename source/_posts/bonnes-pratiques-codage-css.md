@@ -20,7 +20,7 @@ categories:
 - Standards du Web
 ---
 
-![CSS URL @import](https://oncletom.io/images/2008/02/css-url-import.png)
+![CSS URL @import](/images/2008/02/css-url-import.png)
 
 J'y songeais mais l'article «[De l'ordre, que diable !](http://blog.alsacreations.com/2008/02/21/411-de-lordre-que-diable-)» m'a incité à m'y atteler plus tôt que prévu.
 Il n'y a en effet **pas de méthode universelle pour programmer** les <acronym title="Cascading Style Sheets">CSS</acronym> mais après plusieurs années d'expérience, j'ai affiné ma réflexion que je vous livre aujourd'hui.
@@ -204,7 +204,7 @@ J'en parle succintement mais le _folding_ consiste à utiliser votre éditeur CS
 
 Je ne suis pas un fervent utilisateur de cette pratique bien que je respecte son utilisation. Je trouve qu'en utilisation les précédentes astuces (hiérarchie + recherche) on s'y retrouve très bien.
 
-![Folding en CSS](https://oncletom.io/images/2008/02/css-folding.png)
+![Folding en CSS](/images/2008/02/css-folding.png)
 
 ## Conclusion
 

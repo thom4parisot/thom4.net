@@ -18,7 +18,7 @@ categories:
 - Standards du Web
 ---
 
-![Couverture de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-css-couverture.jpg)
+![Couverture de Transcender CSS](/images/2007/12/transcencer-css-couverture.jpg)
 
 Concevoir un site Internet dans les règles de l'art demande de multiples compétences : architecture technique, programmation, graphismes, intégration, ergonomie et du bon sens. [Transcender CSS : sublimez le design Web !](http://www.transcendingcss.com/) s'intéresse à l'aspect esthétique au travers des <acronym title="Cascading Style Sheet">CSS</acronym>.
 
@@ -28,7 +28,7 @@ Ou comment CSS, sémantique, intégration XHTML, microformats, sources d'inspira
 
 **Transcender CSS** ne s'adresse pas aux débutants puisqu'il ne s'attardera pas à vous expliquer les modèles de boîte ou les innombrables bugs d'Internet Explorer. Son contenu évolue toutefois en douceur de la facilité à la complexité ce qui le rend néanmoins abordable par des néophytes.
 
-![Extrait du chapitre “Découverte” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-1-decouverte.jpg)
+![Extrait du chapitre “Découverte” de Transcender CSS](/images/2007/12/transcencer-1-decouverte.jpg)
 
 ## Découverte
 
@@ -46,7 +46,7 @@ Il existe de nombreuses balises XHTML qui ont chacune leur propre signification 
 
 Et d'aborder dans la foulée les [microformats](https://oncletom.io/2007/07/31/semantique-microformats-internet/). Ça a été ma première surprise car je ne m'attendais pas à les retrouver dans ce livre. Un duo de page les aborde et montre (un peu trop succinctement) que microformater du contenu n'a rien d'impossible, surtout quand la structure XHTML est bonne dès le départ.
 
-![Extrait du chapitre “Processus” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-2-processus.jpg)
+![Extrait du chapitre “Processus” de Transcender CSS](/images/2007/12/transcencer-2-processus.jpg)
 
 ## Processus
 
@@ -61,7 +61,7 @@ J'y consacrerai un billet mais les éditeurs intégré modifiant à la volée vo
 
 L'ouvrage poursuit sur des **bonnes pratiques d'organisation de son code** au sein même des feuilles de style. Des pratiques qui permettent de retrouver facilement ses petits sans avoir à chercher inutilement. Des pratiques qui suggèrent également de bien coder pour mieux réutiliser son travail dans d'autres projets. Si vous estimez votre travail, pourquoi le recommencer intégralement lors du projet suivant ?
 
-![Extrait du chapitre “Inspiration” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-3-inspiration.jpg)
+![Extrait du chapitre “Inspiration” de Transcender CSS](/images/2007/12/transcencer-3-inspiration.jpg)
 
 ## Inspiration
 
@@ -75,7 +75,7 @@ Cette lubie n'est pas si excentrique que cela puisqu'elle nous provient directem
 
 **Andy Clarke** termine ce chapitre sur les sources d'inspirations. Là non plus il n'y a pas de frein à l'imagination puisque **tout est susceptible de catalyser créativité** : architectures d'immeubles, coupures de presse, publicités de magazines, affiches diverses et variées. Vous l'aurez compris, **tous les supports visuels** facilement agrégeables.
 
-![Extrait du chapitre “Transcendance” de Transcender CSS](https://oncletom.io/images/2007/12/transcencer-4-transcendance.jpg)
+![Extrait du chapitre “Transcendance” de Transcender CSS](/images/2007/12/transcencer-4-transcendance.jpg)
 
 ## Transcendance
 

@@ -1,14 +1,14 @@
 title: "Cette année je donne à l'Unicef"
 id: 847
 date: 2008-01-03 22:04:22
-tags: 
+tags:
 - dons
 - unicef
-categories: 
+categories:
 - Personnel
 ---
 
-![Drapeau de l’Unicef](https://oncletom.io/images/2008/01/600px-flag_of_unicefsvg.png)
+![Drapeau de l’Unicef](/images/2008/01/600px-flag_of_unicefsvg.png)
 
 J'aurais pu dresser un bilan de l'année mais ce blog parle de lui-même.
 J'aurais également pu partager mes anticipations de l'année 2008 mais là encore je laisse ce plaisir aux autres.

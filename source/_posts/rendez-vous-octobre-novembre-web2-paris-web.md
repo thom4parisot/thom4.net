@@ -18,7 +18,7 @@ categories:
 - Personnel
 ---
 
-![](https://oncletom.io/images/2008/10/webdeuxconnect_300_250-150x150.jpg "Webdeux.connect")
+![](/images/2008/10/webdeuxconnect_300_250-150x150.jpg "Webdeux.connect")
 
 Les mois d'octobre et de novembre seront assurément chargés cette année puisqu'il y aura, entre autre, 3 évènements où il me paraît difficile de ne pas être :
 
@@ -40,7 +40,7 @@ Ce sera une première pour moi mais j'imagine que ça sera à la hauteur de mes 
 
 C'est **lundi 6 octobre à 17h00** à Cap Sciences à Bordeaux.
 
-## ![](https://oncletom.io/images/2008/10/diagnotic-aquitaine.gif "Diagnostique Aquitaine")
+## ![](/images/2008/10/diagnotic-aquitaine.gif "Diagnostique Aquitaine")
 
 ## Webdeux.Connect
 
@@ -66,7 +66,7 @@ C'est **samedi 11 octobre de 8h30** jusqu'à pas d'heure à l'[Usine](http://www
 
 ## Paris-Web 2008
 
-![](https://oncletom.io/images/2008/10/paris-web-2008.png "Paris-Web 2008")
+![](/images/2008/10/paris-web-2008.png "Paris-Web 2008")
 
 Je l'attendais depuis 1 an, j'ai posé mes congès et pris mes billets de train dès l'annonce l'évènement ... toute la crème du Web accessible et du Web que j'aime y sera avec un [programme plus qu'alléchant](http://www.paris-web.fr/2008/-programme- "programme de Paris-Web 2008").
 
@@ -92,7 +92,7 @@ Là c'est plus violent, c'est du **jeudi 13 au samedi 15 novembre** inclus, chez
 
 ## BlogCamp Bordeaux #7
 
-![](https://oncletom.io/images/2008/02/blogcamp-france-logo.png "Logo BlogCamp France")
+![](/images/2008/02/blogcamp-france-logo.png "Logo BlogCamp France")
 
 Et petit _teasing_ puisqu'il y aura bel et bien un [BlogCamp Bordeaux #7](http://blogcamp.fr/wiki/bordeaux/blogcamp7) après la trève estivale passée. C'est [Yann Leroux](http://www.psyetgeek.com/) qui prendra la parole sur les [digiborigènes](http://www.digiborigenes.fr) (_digital natives_) avant d'enchainer sur un débat et des ateliers blogs.
 

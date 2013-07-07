@@ -1,15 +1,15 @@
 title: "ADOT, une option pour la vie"
 id: 44
 date: 2006-04-06 19:55:05
-tags: 
+tags:
 - adot
 - don
 - organes
-categories: 
+categories:
 - Personnel
 ---
 
-![France ADOT](https://oncletom.io/images/Divers-inclassable/france-adot.gif)
+![France ADOT](/images/Divers-inclassable/france-adot.gif)
 
 Les 4 initiales de l'acronyme <acronym title="Association pour le Don d'Organes et de Tissus humains">ADOT</acronym> ne sera certainement pas familier à vos oreilles donc je vais en profiter pour en parler. Je ne vais pas étaler ma science comme si je connaissais cet organisme depuis longtemps puisque je l'ai découvert ... lundi dernier. Depuis aujourd'hui, j'ai officiellement ma carte de "membre" de l'_ADOT_. Mais l'ADOT c'est quoi ?
 

@@ -1,10 +1,10 @@
 title: "Emu Nova version 3 : premier visuel"
 id: 74
 date: 2005-12-01 09:41:21
-tags: 
+tags:
 - Emu Nova
 - ui
-categories: 
+categories:
 - Développement Web
 - Projets
 ---
@@ -24,7 +24,7 @@ Le menu principal se retrouverait donc en bandeau, en haut de la page. En fait, 
 Outre le menu principal, j'ai remis à  plat l'actuelle présentation de l'arborescence du site dans laquelle on se trouve. Classique mais j'ai préféré tout mettre sur une ligne, comme sur un système d'exploitation ou d'autres applications. C'est donc intuitif et parlant. Pas la peine de tergiverser dessus.
 La grosse nouveauté de la présentation sera la barre latérale de gauche, dynamique. Plutôt que d'avoir, comme actuellement, une barre latérale statique avec un contenu pas toujours adapté à  la page dans laquelle on navigue, j'ai décidé que seules les informations pertinentes auraient leur place. C'est plus pratique pour donner de l'importance au "membre" puisqu'il dispose d'un emplacement qui se personnalisera au fur et à  mesure. Plus la peine non plus d'afficher en permanence dans une liste cachée la totalité des consoles : ce n'était qu'un vieux relent remontant aux origines du site. Ca avait le don de "perdre" le visiteur dans de trop nombreux liens dès la première page.
 
-![Emu Nova version 3](https://oncletom.io/images/Emu-Nova/emunova3-visuel1.png)
+![Emu Nova version 3](/images/Emu-Nova/emunova3-visuel1.png)
 
 Pour en rester là , pour cette fois-ci, quelques petits défis que nous réaliserons :
 

@@ -10,7 +10,7 @@ It's pretty handy to use a blog to gather informations from our other activities
 ](http://wordpress.org/extend/plugins/lifestream/)
 *   State : stable and ready to use
 
-[![Lifestream preview](https://oncletom.io/images/2010/03/lifestream-nq8.png "Lifestream preview")](https://oncletom.io/images/2010/03/lifestream-nq8.png)
+[![Lifestream preview](/images/2010/03/lifestream-nq8.png "Lifestream preview")](/images/2010/03/lifestream-nq8.png)
 
 ## My Work
 

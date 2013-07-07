@@ -14,7 +14,7 @@ categories:
 - Personnel
 ---
 
-![Netvibes Logo](https://oncletom.io/images/2007/01/netvibes-logo.gif)
+![Netvibes Logo](/images/2007/01/netvibes-logo.gif)
 
 J'étais impatient de pouvoir accéder à la beta privée de [Netvibes pour bénéficier de ses nouvelles fonctionnalités](http://blog.netvibes.com/?2007/12/08/148-ginger-the-first-preview). **Je n'attendais pas grand chose si ce n'est plus de confort d'utilisation**. Tout le bruit généré par cette beta privée et ces <q>Ginger c'est trop bien</q> me laissaient à croire que j'avais de bonnes raisons d'avoir attendu.
 
@@ -27,7 +27,7 @@ La sympathique [Jacinthe Busson](http://www.ergophile.com/) s'est déjà chargé
 
 À vrai dire, certaines fonctionnalités comme le glisser-déposer de widgets dans l'espace privé ou public sont loin d'être flagrantes. À tel point que si on ne le tente pas, on ne peut pas se douter de sa présence. Dommage car c'est un gain de temps.
 
-![Les widgets sur Netvibes Ginger](https://oncletom.io/images/2008/02/netvibes-widgets.png)
+![Les widgets sur Netvibes Ginger](/images/2008/02/netvibes-widgets.png)
 
 ## La navigation et les widgets
 
@@ -45,7 +45,7 @@ On ne peut en effet pas s'abonner à un univers public, que ce soit via RSS ou v
 
 Ce faisant, l'intérêt d'entretenir un univers devient très restreint. **On affirme une présence certes, mais réduite**.
 
-![Les amis sur Netvibes Ginger](https://oncletom.io/images/2008/02/netvibes-friends.png)
+![Les amis sur Netvibes Ginger](/images/2008/02/netvibes-friends.png)
 
 ## La dimension sociale
 

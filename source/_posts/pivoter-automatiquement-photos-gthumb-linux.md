@@ -28,7 +28,7 @@ Le seul pré-requis à ces outils de feignants est que votre **appareil photo nu
 
 ## Rotation automatique à l'import
 
-![Pivoter des images avec gThumb lors de l’import d’images](https://oncletom.io/images/2007/06/gthumb-pivoter-images-import.png)
+![Pivoter des images avec gThumb lors de l’import d’images](/images/2007/06/gthumb-pivoter-images-import.png)
 
 Comme l'illustre la capture d'écran ci-dessus, l'assistant d'import d'images de _gThumb_ propose une option <cite>Pivoter physiquement l'image</cite>. Lors de l'import des photos depuis le medium en question, _gThumb pivotera les images dans le bon sens_. Du coup il n'y a plus rien à faire si ce n'est regarder les photos sans avoir à pencher la tête sur le côté pour admirer les photos de mémé.
 
@@ -37,6 +37,6 @@ Comme l'illustre la capture d'écran ci-dessus, l'assistant d'import d'images de
 Pas de chance pour vous, mémé vous a refilé un CD entier d'images qui n'ont pas été pivotées. Vous souffrez d'avance rien qu'à l'idée de pivoter les images une par une mais par chance, gThumb est encore là grâce à un outil utilisable à tout moment.
 Lorsque gThumb est lancé et que vous parcourez un répertoire rempli de photos à pivoter, sélectionnez-les toutes (<kbd>Control + A</kbd> pour faire vite) et activez le menu `Outils > Pivoter les images`. En cochant ensuite les cases <cite>Appliquer à toutes les images</cite> et <cite>Appliquer les transformations physiques</cite>, _gThumb_ passera au crible toutes les photos sélectionnées et les pivotera automatiquement dans le bon sens, peu importe l'orientation d'origine.
 
-![Pivoter des images avec gThumb lors d’une sélection](https://oncletom.io/images/2007/06/gthumb-pivoter-images-selection.png)
+![Pivoter des images avec gThumb lors d’une sélection](/images/2007/06/gthumb-pivoter-images-selection.png)
 
 _gThumb_ est un outil particulièrement bien conçu pour les manipulations d'images. D'ailleurs je regrette qu'il ait été délaissé dans GNOME au profit de [F-Spot](http://f-spot.org/). Ce dernier est en revanche plus agréable à utiliser pour la visualisation de photos, surtout grâce à son système de chronologie.

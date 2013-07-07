@@ -16,7 +16,7 @@ categories:
 
 J'y répondrai, rassurez-vous ;-)
 
-[![Réussir son blog professionnel − 2ème édition](https://oncletom.io/images/2009/08/reussir-son-blog-professionnel-2eme-edition-nq8-252x300.png)](http://amzn.to/blog-professionnel)
+[![Réussir son blog professionnel − 2ème édition](/images/2009/08/reussir-son-blog-professionnel-2eme-edition-nq8-252x300.png)](http://amzn.to/blog-professionnel)
 
 <!--more-->
 

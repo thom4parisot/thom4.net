@@ -12,7 +12,7 @@ categories:
 - Projets
 ---
 
-![](https://oncletom.io/images/2008/06/logo-jaiku.png "Logo Jaiku")
+![](/images/2008/06/logo-jaiku.png "Logo Jaiku")
 
 Oyé utilisateurs de [Jaiku](http://jaiku.com) et de [Netvibes](http://www.netvibes.com) (mais aussi [iGoogle](http://www.igoogle.com), [Dashboard](http://www.apple.com/downloads/dashboard/), Windows Vista). J'ai publié hier soir une nouvelle version du widget avec quelques nouveautés cosmétiques et des corrections de bugs casse-pied.
 
@@ -33,6 +33,6 @@ Les lignes alternées reprennent les couleurs de Jaiku : bleu pour les présence
 C'est tout pour cette fois.
 Ah et aussi, n'oubliez pas d'[installer le widget Jaiku pour Netvibes](http://eco.netvibes.com/subscribe/241591) ou cherchez _Jaiku_ dans l'ajout de widgets sur Netvibes.
 
-![Jaiku en mode compact](https://oncletom.io/images/2008/09/netvibes-jaiku-14-compact.png "Jaiku en mode compact")
+![Jaiku en mode compact](/images/2008/09/netvibes-jaiku-14-compact.png "Jaiku en mode compact")
 
 Et si vous utilisez un navigateur moisi (genre il ne connaît pas `!important` en CSS), je ne corrige pas.

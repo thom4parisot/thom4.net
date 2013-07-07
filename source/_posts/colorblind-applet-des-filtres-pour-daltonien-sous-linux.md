@@ -16,7 +16,7 @@ categories:
 - Accessibilité
 ---
 
-![](https://oncletom.io/images/2008/08/colorblind-applet-credits.png "Colorblind-applet")
+![](/images/2008/08/colorblind-applet-credits.png "Colorblind-applet")
 
 J'ai découvert totalement par hasard un jeu de filtres pour daltonien fonctionnant sur l'environnement de bureau Gnome. Son petit nom ? **colorblind-applet**.
 Il est livré en standard sous Debian et [plus péniblement, sous Ubuntu](http://news.softpedia.com/news/How-To-Install-the-Colorblind-Applet-on-GNOME-91323.shtml "installer colorblind-applet sous Ubuntu"). Cette dernière distribution englobe pourtant Gnome Magnifier (paquet _gnome-mag_), le projet père mais allez savoir pourquoi, sans l'applet pour daltonien.
@@ -61,17 +61,17 @@ En clair je résumerais comme suit :
 *   vous êtes sous Linux et plus particulièrement dans un bureau à base de GTK ? Utilisez _colorblind-applet_
 *   dans les autres cas, utilisez _Color Oracle_ (compatible Linux, MacOS X et Windows)
 
-![Colorblind-applet : contrôles](https://oncletom.io/images/2008/08/colorblind-applet-controls.png "Colorblind-applet : contrôles")
+![Colorblind-applet : contrôles](/images/2008/08/colorblind-applet-controls.png "Colorblind-applet : contrôles")
 
 ## colorblind-applet en action
 
 Puisqu'une image vaut davantage qu'un long discours (trop tard me direz-vous ;-)), voici une série d'images présentant mon bureau de travail ainsi qu'un navigateur Web ouvert sur la page de [Planète Accessibilité](http://planete-accessibilite.com/).
 
-[![Capture d&#39;écran d&#39;origine](https://oncletom.io/images/2008/08/original-300x187.jpg "Capture d")](https://oncletom.io/images/2008/08/original.jpg)
+[![Capture d&#39;écran d&#39;origine](/images/2008/08/original-300x187.jpg "Capture d")](/images/2008/08/original.jpg)
 
-[![Filtre réglé sur &quot;Selective Green Desaturation&quot;](https://oncletom.io/images/2008/08/selective-green-desaturation-300x187.jpg "Filtre réglé sur &quot;Selective Green Desaturation&quot;")](https://oncletom.io/images/2008/08/selective-green-desaturation.jpg)
+[![Filtre réglé sur &quot;Selective Green Desaturation&quot;](/images/2008/08/selective-green-desaturation-300x187.jpg "Filtre réglé sur &quot;Selective Green Desaturation&quot;")](/images/2008/08/selective-green-desaturation.jpg)
 
-[![Filtre réglé sur &quot;Negative Hue Shift&quot;](https://oncletom.io/images/2008/08/negative-hue-shift-300x187.jpg "Filtre réglé sur &quot;Negative Hue Shift&quot;")](https://oncletom.io/images/2008/08/negative-hue-shift.jpg)
+[![Filtre réglé sur &quot;Negative Hue Shift&quot;](/images/2008/08/negative-hue-shift-300x187.jpg "Filtre réglé sur &quot;Negative Hue Shift&quot;")](/images/2008/08/negative-hue-shift.jpg)
 
 ** Plusieurs choses à noter** :
 

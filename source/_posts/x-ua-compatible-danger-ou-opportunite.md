@@ -13,7 +13,7 @@ categories:
 
 [repost from="http://www.clever-age.com/veille/blog/x-ua-compatible-danger-ou-opportunite.html" sitename="Clever Age" title="X-UA-Compatible : danger ou opportunité ?"]
 
-![](https://oncletom.io/images/2008/10/logo-ie8.gif "Logo Internet Explorer 8")
+![](/images/2008/10/logo-ie8.gif "Logo Internet Explorer 8")
 
 Après 10 ans de règne d'Internet Explorer et un succès d'adoption en demi-teinte pour son successeur, Internet Explorer 7, Microsoft a fort à faire pour convaincre avec Internet Explorer 8.
 La firme de Redmond est confrontée à ce fâcheux dilemne :
@@ -48,7 +48,7 @@ Si Internet Explorer 8 ne rencontre pas cette balise, il utilisera son moteur de
 Il faut toutefois avoir en tête que cette bascule n'affecte pas que l'interprétation d'HTML mais aussi celles des CSS et de JavaScript.
 Autrement dit, si vous décidiez un jour d'enlever la balise _X-UA-Compatible_, il y a de très fortes chances que vous souscriviez à une grosse couche de recettage fonctionnel, tant du côté CSS que JavaScript.
 
-![Bouton d&#39;émulation Internet Explorer 7 ... équivoque ?](https://oncletom.io/images/2008/10/emulateie7.png "Bouton d")
+![Bouton d&#39;émulation Internet Explorer 7 ... équivoque ?](/images/2008/10/emulateie7.png "Bouton d")
 
 ## Les options de compatibilité, le casse-tête
 

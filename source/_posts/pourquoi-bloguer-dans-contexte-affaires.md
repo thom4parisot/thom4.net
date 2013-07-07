@@ -33,7 +33,7 @@ Je reviens sur cette journée si particulière, celle qui m'a permis de prendre 
 Il faut le savoir, le prétexte de cette journée était un livre, écrit à 20 mains (10 personnes donc ;-)), exclusivement par des professionnels québecois.
 Chacun de ces auteurs a une affinité particulière avec l'utilisation des blogs. L'écriture de ce livre était l'occasion pour eux de **synthétiser leur expérience des blogs en milieu professionnel**.
 
-![Pourquoi Bloguer dans un contexte d](https://oncletom.io/images/2008/08/pourquoi-bloguer-couverture.jpg "Pourquoi Bloguer dans un contexte d\")
+![Pourquoi Bloguer dans un contexte d](/images/2008/08/pourquoi-bloguer-couverture.jpg "Pourquoi Bloguer dans un contexte d\")
 
 Ce livre s'est axé sur 10 idées, une par blogueur :
 

@@ -16,7 +16,7 @@ categories:
 - Standards du Web
 ---
 
-![](https://oncletom.io/images/2008/11/badge-paris-web-2008.jpg "Badge Paris-Web 2008")
+![](/images/2008/11/badge-paris-web-2008.jpg "Badge Paris-Web 2008")
 
 J'ai _enfin_ pu assister à mon premier [Paris-Web](http://www.paris-web.fr/) à Paris du 13 au 15 novembres 2008 inclus. C'était bien, très bien mais que dis-je : excellent ! J'ai rarement eu aussi peu envie de rentrer chez moi après cette multitude de rencontres dans un état d'esprit des plus respectueux.
 

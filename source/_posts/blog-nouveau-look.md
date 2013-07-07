@@ -48,7 +48,7 @@ Cette refonte avait également un autre objectif : **rendre mon blog lisible san
 
 Et pour les nostalgiques qui débarqueront en ne sachant pas à quoi je fais référence :
 
-*   [La Case de l’Oncle Tom : avant le 27 juillet 2007](https://oncletom.io/images/2007/07/caseoncle-tomnet-jediweb.png "La Case de l’Oncle Tom : avant le 27 juillet 2007")
-*   [La Case de l'Oncle Tom : à partir du 27 juillet 2007](https://oncletom.io/images/2007/07/caseoncle-tomnet-oncletom.png "La Case de l")
+*   [La Case de l’Oncle Tom : avant le 27 juillet 2007](/images/2007/07/caseoncle-tomnet-jediweb.png "La Case de l’Oncle Tom : avant le 27 juillet 2007")
+*   [La Case de l'Oncle Tom : à partir du 27 juillet 2007](/images/2007/07/caseoncle-tomnet-oncletom.png "La Case de l")
 
 Voilà ;-) ce sont quelques heures de travail qui s'offrent à vous.
