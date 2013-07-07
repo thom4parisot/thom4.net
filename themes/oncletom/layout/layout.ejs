@@ -63,7 +63,7 @@
     </div>
 </div>
 <% if (config.disqus_shortname && page.comments){ %>
-<script type="text/javascript">
+<script>
   var disqus_shortname = '<%= config.disqus_shortname %>';
   var disqus_url = 'https://oncletom.io<%- config.root %><%- page.path %>';
 
@@ -75,5 +75,6 @@
   }());
 </script>
 <% } %>
+<%- js("assets/js/main.js") %>
 </body>
 </html>

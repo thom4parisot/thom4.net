@@ -3345,6 +3345,10 @@ article h1,
   margin: 0;
   padding: 10px;
 }
+.article header h2{
+  font-size: 1.3em;
+  margin: 0;
+}
 article h1 > a,
 .article header > a,
 .menu > li > a {
