@@ -98,5 +98,6 @@ exclude_generator:
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
   type: rsync
-  host: ssh.alwaysdata.com
-  delete: true
+  host: oncletom
+  user: oncletom
+  root: ~/
