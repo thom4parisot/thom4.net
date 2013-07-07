@@ -1,11 +1,11 @@
 title: "Emu Nova / Moeroshop : payé pour jouer"
 id: 430
 date: 2007-01-31 13:00:46
-tags: 
+tags:
 - Emu Nova
 - moeroshop
 - partenariat
-categories: 
+categories:
 - Projets
 ---
 
@@ -13,7 +13,7 @@ Il est clair que si je ne parle pas assez d'une chose, c'est d'[Emu Nova](http:/
 
 **Moeroshop** est une boutique en ligne, également présente sur [eBay](http://www.ebay.fr), qui est spécialisée dans la vente d'**objets rares** (souvent en provenance du Japon) liés aux **jeux vidéo** : _consoles_, _jeux_, _goodies_, _accessoires_ et j'en passe.
 
-![Logo Moeroshop](https://oncletom.io/images/2007/01/moeroshop.gif)
+![Logo Moeroshop](/images/2007/01/moeroshop.gif)
 
 <!--more-->
 Si tout se passe bien, **Moeroshop** fournirait **Emu Nova** en jeux vidéo et en matériel. J'ai pour l'instant décidé que ces jeux iraient dynamiser le [projet Veda](http://www.emunova.net/veda/). Si notre sponsor [Gametroc](http://www.gametroc.com/) offre déjà un ou plusieurs jeux par mois à un participant du projet Veda, quel intérêt dans ce cas ?

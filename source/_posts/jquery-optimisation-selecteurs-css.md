@@ -13,7 +13,7 @@ categories:
 - Développement Web
 ---
 
-![Logo jQuery](https://oncletom.io/images/2007/12/jquery-logo.png)
+![Logo jQuery](/images/2007/12/jquery-logo.png)
 
 [JQuery](http://jquery.com) est une formidable librairie JavaScript car elle offre une grande souplesse et une utilisation simple. **Il est cependant important de bien comprendre son fonctionnement** pour éviter les débordements liés à une joie mal maîtrisée.
 S'il est très facile d'utiliser les sélecteurs CSS de jQuery, je constate de ci de là que leur utilisation n'est pas toujours optimale ... quand elle l'est déjà un tant soit peu.
@@ -26,7 +26,7 @@ Alors on se retrousse les manches et c'est parti pour un petit **cas pratique su
 J'ai pensé à une chose : plutôt que vous papillonniez en lisant cet article, j'ai fait en sorte que vous puissiez y prendre part. JQuery est très divertissant - certainement plus que votre voisine d'en face - alors tant qu'à me lire, autant optimiser la compréhension ;-)
 Pour cela il vous faut 2 choses :
 
-1.  un [bac à sable HTML / jQuery](https://oncletom.io/images/2007/12/sandbox-oncletom-20071217.htm "Sandbox HTML / jQuery") concocté par mes soins
+1.  un [bac à sable HTML / jQuery](/images/2007/12/sandbox-oncletom-20071217.htm "Sandbox HTML / jQuery") concocté par mes soins
 2.  l'inévitable [extension Firebug](https://addons.mozilla.org/fr/firefox/addon/1843) pour bénéficier d'une console digne de ce nom (entre autre)
 
 ## Principe de la sélection CSS de jQuery

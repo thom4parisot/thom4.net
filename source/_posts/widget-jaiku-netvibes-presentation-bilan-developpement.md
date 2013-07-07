@@ -18,7 +18,7 @@ categories:
 - Développement Web
 ---
 
-[![](https://oncletom.io/images/2008/06/logo-jaiku.png "Logo Jaiku")](https://oncletom.io/images/2008/06/logo-jaiku.png)
+[![](/images/2008/06/logo-jaiku.png "Logo Jaiku")](/images/2008/06/logo-jaiku.png)
 
 J'ai publié il y a quelques semaines un [widget Jaiku](http://eco.netvibes.com/widgets/241591/jaiku "widget Jaiku pour Netvibes") dans l'[écosystème Netvibes](http://eco.netvibes.com). Autrement dit, on peut désormais interagir avec le sous-employé Jaiku depuis son compte Netvibes en levant à peine le petit doigt.
 
@@ -30,7 +30,7 @@ La réalisation de ce widget était pour moi l'occasion de réaliser mon premier
 
 Avant de rentrer dans les détails techniques, faisons ensemble un petit tour de ce qu'est capable de faire le widget Jaiku. Rien de bien méchant puisqu'il fait ce qu'on veut : lire et envoyer les messages. Faut savoir rester simple ;-)
 
-![Jaiku pour Netvibes](https://oncletom.io/images/2008/08/jaiku-netvibes.png "Jaiku pour Netvibes")
+![Jaiku pour Netvibes](/images/2008/08/jaiku-netvibes.png "Jaiku pour Netvibes")
 
 Je ne me cacherai pas que je me suis largement inspiré du widget Twitter pour Netvibes au niveau de la présentation tout en ajoutant ma touche personnelle.
 

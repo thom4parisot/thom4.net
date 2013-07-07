@@ -30,7 +30,7 @@ Cette année, j'ai décidé de participer à toutes les conférences qui ne sont
 
 Je suis donc arrivé à Paris Web sans avoir regardé le programme, en décidant entre chaque pause le titre de la conférence que j'allais inscrire sur mon carnet de notes.
 
-[![](https://oncletom.io/images/2010/09/logotype-paris-web-300x203.png "Paris-Web")](https://oncletom.io/images/2010/09/logotype-paris-web.png)
+[![](/images/2010/09/logotype-paris-web-300x203.png "Paris-Web")](/images/2010/09/logotype-paris-web.png)
 
 <!--more-->
 

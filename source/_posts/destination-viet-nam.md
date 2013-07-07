@@ -1,12 +1,12 @@
 title: "Destination Viet-Nam"
 id: 25
 date: 2005-11-18 08:46:14
-tags: 
+tags:
 - canada
 - japon
 - vietnam
 - voyage
-categories: 
+categories:
 - Personnel
 ---
 
@@ -14,4 +14,4 @@ Pour celles et ceux qui ne le savent pas encore, je suis un grand fou. L'an proc
 
 Vous aurez d'autres informations au fur et à mesure que je préparerai mon voyage, en passant du couteau suisse "McGuyver" à la réservation des billets d'avion. Allez, j'y serai en septembre 2006, ça vous laisse de la marge pour devenir accro à ce blog d'ici là ;-)
 
-![Baie d](https://oncletom.io/images/3615-my-life/Ha-Long.jpg)
+![Baie d](/images/3615-my-life/Ha-Long.jpg)

@@ -17,7 +17,7 @@ categories:
 
 Bon nombre de clients utilisant les sites Internet de mon employeur passent des commandes en saisissant directement les codes articles de leur choix. Ce n'est pas anodin : pour du réassort de magasin, ils savent exactement ce qu'ils veulent. Et un beau jour on vient me voir en me disant qu'<cite>ils ne peuvent saisir qu'un code et une seule quantité à la fois</cite>, qu'il faudrait changer ça.
 
-![Ligne article](https://oncletom.io/images/2007/06/articles-autoexpand-mini.png)
+![Ligne article](/images/2007/06/articles-autoexpand-mini.png)
 
 Voici donc mon constat de départ :
 
@@ -41,7 +41,7 @@ Comment faire pour satisfaire tout le monde, les gros donneurs d'ordre comme les
 Une _bonne pratique de l'Ajax_ est de partir du cas particulier : celui où les conditions ne sont pas requises. En clair, une personne qui n'a pas JavaScript d'activé ou pas de JavaScript tout court.
 Conclusion, j'ai décidé de générer un tableau en HTML de 10 lignes. 10 est un choix arbitraire, modifiable à tout moment et qui ne doit donc pas gêner la version dynamique en cas de changement (ajout de colonne, ajout de lignes).
 
-![Tableau auto-extansible dégradé](https://oncletom.io/images/2007/06/articles-autoexpand.png)
+![Tableau auto-extansible dégradé](/images/2007/06/articles-autoexpand.png)
 
 ## La version Ajax
 

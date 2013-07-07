@@ -14,7 +14,7 @@ categories:
 - Développement Web
 ---
 
-![Logo OpenID](https://oncletom.io/images/2008/02/openid-logo.gif)
+![Logo OpenID](/images/2008/02/openid-logo.gif)
 
 [OpenID](http://openid.net/) est un **service d'identité numérique** qui permet, entre autre, de mettre fin à la sempiternelle saisie des noms d'utilisateurs et des mots de passe. C'est gratuit, c'est libre et ça permet de gérer plusieurs identités sous la même adresse.
 Puisque de plus en plus de services proposent d'utiliser OpenID, intéressons-nous de près avant de terminer sur quelques astuces et autres microformats ;-)
@@ -63,7 +63,7 @@ J'ai pour ma part choisi d'être indépendant de tous ces services en utilisant 
 Un des avantages indéniable à mes yeux c'est la gestion des profils. Avec un seul identifiant on peut choisir quelle casquette porter. Ça ne parlera peut-être pas aux plus jeunes d'entre vous qui n'ont qu'une identité mais dès que l'on souhaite partager des données différentes en fonction du contexte, c'est vraiment l'idéal.
 Ce concept est également appelé **personas** : on choisit quel masque on porte, quelle image on donne de soi.
 
-![Gestion des personas avec MyOpenID](https://oncletom.io/images/2008/02/myopenid-personas.png)
+![Gestion des personas avec MyOpenID](/images/2008/02/myopenid-personas.png)
 
 Sur la capture d'écran ci-dessus, vous pouvez constater que je gère 2 personas :
 
@@ -87,7 +87,7 @@ J'apprécie tout particulièrement MyOpenID pour une autre fonctionnalité, en p
 
 Ainsi, seule une personne ayant un accès physique à votre ordinateur ainsi qu'à votre session de travail pourra s'identifier à votre place. Autant dire que ça restreint énormément les possibilités. Évidemment l'intérêt est nul sur un ordinateur public (cybercafé entre autre).
 
-![Gestion des certificats OpenID avec MyOpenID](https://oncletom.io/images/2008/02/myopenid-certificates.png)
+![Gestion des certificats OpenID avec MyOpenID](/images/2008/02/myopenid-certificates.png)
 
 ## OpenID et microformats, l'avenir ?
 

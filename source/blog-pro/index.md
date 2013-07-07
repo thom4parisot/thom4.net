@@ -2,7 +2,7 @@ title: Réussir son blog professionnel
 date: 2009-08-12 15:50:49
 ---
 
-[![Réussir son blog professionnel − 2ème édition](https://oncletom.io/images/2009/08/reussir-son-blog-professionnel-2eme-edition-nq8-252x300.png)](http://amzn.to/blog-professionnel)
+[![Réussir son blog professionnel − 2ème édition](/images/2009/08/reussir-son-blog-professionnel-2eme-edition-nq8-252x300.png)](http://amzn.to/blog-professionnel)
 
 On me pose souvent des questions comme "je peux faire un site Web avec un blog ?", "mais les blogs, c'est pas pour raconter sa vie ?" ou encore "j'ai  besoin d'un site mais ça coûte cher, tu fais comment ?". J'ai réalisé à ce moment que malgré la démocratisation des blogs, malgré la démocratisation d'Internet depuis la fin des années 1990 (il y a plus de 10 ans), le Web, ses usages et les blogs n'étaient toujours pas clairement compris.
 

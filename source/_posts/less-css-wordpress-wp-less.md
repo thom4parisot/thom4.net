@@ -21,7 +21,7 @@ categories:
 
 Cet outil me paraît **indispensable** alors j'ai décidé de l'intégrer à WordPress : [WP-LESS](http://wordpress.org/extend/plugins/wp-less/) est né.
 
-![LESS CSS](https://oncletom.io/images/2009/08/less-logo.png "LESS CSS")
+![LESS CSS](/images/2009/08/less-logo.png "LESS CSS")
 
 <!--more-->
 
@@ -72,7 +72,7 @@ Des tas de choses qu'on ne pourrait pas faire en simple PHP4 (message subliminal
 
 WP-LESS agit en toute **transparence et simplicité**.
 
-[![Arborescence du plugin WP-LESS](https://oncletom.io/images/2009/08/wp-less-repository-300x125.png "Arborescence du plugin WP-LESS")](https://oncletom.io/images/2009/08/wp-less-repository.png)
+[![Arborescence du plugin WP-LESS](/images/2009/08/wp-less-repository-300x125.png "Arborescence du plugin WP-LESS")](/images/2009/08/wp-less-repository.png)
 
 ## Quel avenir pour WP-LESS ?
 

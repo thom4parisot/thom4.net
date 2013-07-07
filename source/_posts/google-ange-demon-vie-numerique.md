@@ -15,7 +15,7 @@ categories:
 - Personnel
 ---
 
-![Logo Google](https://oncletom.io/images/2008/03/google-logo.gif)
+![Logo Google](/images/2008/03/google-logo.gif)
 
 [Google](http://www.google.com/) est une société à la fois adulée et pointée du doigt. La moindre nouveauté résonne sur l'étendue du Web, louée par ses défenseurs, critiquée par ses détracteurs.
 Au-delà de ces querelles insipides et totalement subjectives, **qu'est-on en droit de penser de Google** ?
@@ -64,7 +64,7 @@ En fournissant une forge nommée [Google Code](http://code.google.com/), Google 
 
 ## De quoi est-on en droit de se méfier ?
 
-![Google : Don’t Be Evil](https://oncletom.io/images/2008/03/google-dont-be-evil.gif)
+![Google : Don’t Be Evil](/images/2008/03/google-dont-be-evil.gif)
 
 ### Don't be evil
 
@@ -82,7 +82,7 @@ Cette stratégie a beau limiter au maximum les plagiats de la concurrence mais �
 
 Cette communication du _blackout_ est problématique pour une société censée ... agréger et traiter l'information. Je pense qu'un peu de **transparence et une meilleure organisation de l'information** interne à Google lui éviterait quelques déboires et des inquiétudes de la part d'utilisateurs.
 
-![Google Web Accelerator stats](https://oncletom.io/images/2008/03/google-web-accelerator.gif)
+![Google Web Accelerator stats](/images/2008/03/google-web-accelerator.gif)
 
 ### À la merci d'une politique obscure
 

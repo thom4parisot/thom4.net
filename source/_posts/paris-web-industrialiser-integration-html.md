@@ -23,7 +23,7 @@ J'ai le plaisir d'animer un atelier technique à [Paris-Web](http://www.paris-we
 
 Je reviens aux sources et à mon grand dada avec l'**intégration HTML** au sens large du terme. J'ai choisi d'intituler cet atelier : [industrialiser l'artisanat de l'intégration HTML](http://www.paris-web.fr/2010/programme/industrialiser-lartisanat-de-lintegration-html.php). Rendez-vous le samedi 16 octobre 2010 à 10h50 dans les locaux de [Télécom Paris](http://www.telecom-paristech.fr/) pour en discuter ... et maintenant, pour le préparer et en dessiner les contours.
 
-![](https://oncletom.io/images/2010/09/logotype-paris-web-300x203.png "Paris-Web")
+![](/images/2010/09/logotype-paris-web-300x203.png "Paris-Web")
 
 <!--more-->
 

@@ -17,7 +17,7 @@ categories:
 - Développement Web
 ---
 
-![](https://oncletom.io/images/2008/10/citrix-loading.png "Chargement du serveur de présentation Citrix")
+![](/images/2008/10/citrix-loading.png "Chargement du serveur de présentation Citrix")
 
 Pour les besoins du boulot et non plus pour le plaisir, j'ai eu pour impératif de me connecter à un Intranet client via un [VPN Citrix](http://fr.wikipedia.org/wiki/Citrix_Presentation_Server). Je ne sais pas pour vous, mais quand j'entends VPN, je commence à avoir des sueurs froides en me disant que la galère ne fait que commencer.
 
@@ -31,7 +31,7 @@ Citrix Presentation Server c'est une manière d'offrir une connexion à des appl
 Tout se fait via son navigateur Web préféré (Iceweasel sous Debian, Firefox sous Ubuntu dans mon cas). Seulement voilà, quand je souhaitais lancer l'application Putty pour profiter d'une jolie connexion SSH, _que nenni_ !
 À la place, j'avais le droit de télécharger un fichier _launch.ica_ qui, j'avoue, ne m'évoquais pas grand chose.
 
-![Si on en est là, c&#39;est que ça ne va pas](https://oncletom.io/images/2008/10/citrix-ica.png "Téléchargement d")
+![Si on en est là, c&#39;est que ça ne va pas](/images/2008/10/citrix-ica.png "Téléchargement d")
 
 ## Installer le plugin ICA pour Linux
 
@@ -53,7 +53,7 @@ Et pourtant, quand on sait ce qu'il faut installer c'est tellement plus simple :
 3.  Fermez et relancer Firefox/Iceweasel si nécessaire
 4.  Dans les modules complémentaires, vérifiez que le plugin apparaît bien (ou bien dans <kbd>about:plugins</kbd>)
 
-![Plugin Citrix vu depuis le gestionnaire de modules Firefox](https://oncletom.io/images/2008/10/citrix-plugin.png "Plugin Citrix vu depuis le gestionnaire de modules Firefox")
+![Plugin Citrix vu depuis le gestionnaire de modules Firefox](/images/2008/10/citrix-plugin.png "Plugin Citrix vu depuis le gestionnaire de modules Firefox")
 
 ## Conclusion
 
@@ -61,4 +61,4 @@ Bref ça marche bien même sous Firefox 3 et j'en suis content. Le chargement de
 
 C'est également la première fois que je peux me connecter à un VPN distant sans sérieux problèmes. J'ai déjà eu droit aux VPN Cisco à _passphrase_ aléatoire généré par un badge ... même le support technique n'a pas pu m'aider : j'étais le premier à les appeler en étant sous Linux !
 
-![Chargement de l&#39;application Windows à distance](https://oncletom.io/images/2008/10/citrix-loading-2.png "Chargement de Citrix MetaFrame")
+![Chargement de l&#39;application Windows à distance](/images/2008/10/citrix-loading-2.png "Chargement de Citrix MetaFrame")

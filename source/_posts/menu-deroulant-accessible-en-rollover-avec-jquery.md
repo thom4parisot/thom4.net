@@ -14,7 +14,7 @@ categories:
 - Standards du Web
 ---
 
-![Logo jQuery](https://oncletom.io/images/2007/12/jquery-logo.png "Logo jQuery")
+![Logo jQuery](/images/2007/12/jquery-logo.png "Logo jQuery")
 
 Joie : je fais maintenant partie de [Planète Accessibilité](http://planete-accessibilite.com/) en plus de [Planet Libre](http://www.planet-libre.org/). C'est l'occasion pour ce premier article dédié d'allier à la fois logiciels libres et accessibilité pour le plus grand bien du Web ;-)
 
@@ -36,7 +36,7 @@ Autrement dis, j'ai besoin d'un **contenu en fin de flux mais visible avant tout
 
 En une image, cela se résume ainsi :
 
-[![Tentative de menu accessible](https://oncletom.io/images/2008/06/emunova-menu-accessible-150x300.png "Tentative de menu accessible")](https://oncletom.io/images/2008/06/emunova-menu-accessible.png)
+[![Tentative de menu accessible](/images/2008/06/emunova-menu-accessible-150x300.png "Tentative de menu accessible")](/images/2008/06/emunova-menu-accessible.png)
 
 Nous allons aborder les 3 phases de ce tracé de flèche :
 
@@ -48,7 +48,7 @@ Nous allons aborder les 3 phases de ce tracé de flèche :
 
 C'est l'étape essentielle. De sa structure dépend le reste de l'application. On doit **d'abord penser à présenter le contenu de manière dégradée**. C'est ainsi que le verront les utilisateur et c'est important de penser d'abord au pire des cas avant de mettre en place les paillettes et les artifices.
 
-![Menu accessible (Étape 1)](https://oncletom.io/images/2008/06/menu-accessible-etape-1.png "Menu accessible (Étape 1)")
+![Menu accessible (Étape 1)](/images/2008/06/menu-accessible-etape-1.png "Menu accessible (Étape 1)")
 
 Cette structure est représentée ainsi en HTML :
 
@@ -93,7 +93,7 @@ La deuxième reste assez simple : on transporte `#navigation` dans son nouveau c
 
 Pour éviter tout aléas graphique, l'idéal est de masquer tout ce qu'on ne veut pas voir maintenant. Nous rentrons maintenant dans la partie pure JavaScript.
 
-![Menu accessible (Étape 2)](https://oncletom.io/images/2008/06/menu-accessible-etape-2.png "Menu accessible (Étape 2)")
+![Menu accessible (Étape 2)](/images/2008/06/menu-accessible-etape-2.png "Menu accessible (Étape 2)")
 
 Pour atteindre ce résultat, on pourrait envisager le code suivant :
 
@@ -131,7 +131,7 @@ Si on imagine un `mouseover` directement sur `li.column`, le problème c'est que
 Heureusement pour nous, jQuery a introduit les évènements `mouseenter` et `mouseleave` (présents dans Internet Explorer depuis des lustres, c'est bien le seul avantage de cette atrocité) depuis la [version 1.2.2](http://docs.jquery.com/Release:jQuery_1.2 "Notes de version de jQuery 1.2.2"). Ces évènements correspondent exactement à ce que l'on souhaite : maintenir une zone survolée malgré le survol de ses enfants.
 Tout est histoire de couches ;-)
 
-![Menu accessible (Étape 3)](https://oncletom.io/images/2008/06/menu-accessible-etape-3.png "Menu accessible (Étape 3)")
+![Menu accessible (Étape 3)](/images/2008/06/menu-accessible-etape-3.png "Menu accessible (Étape 3)")
 
 Côté code, ça se complique :
 

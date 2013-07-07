@@ -12,7 +12,7 @@ categories:
 - Accessibilité
 ---
 
-![](https://oncletom.io/images/2008/10/site-optimise-pour.png "Site optimisé pour ...")
+![](/images/2008/10/site-optimise-pour.png "Site optimisé pour ...")
 
 Hier [Sébastien Delorme](http://www.tentatives-accessibles.eu/) s'est [fendu d'un petit twit](http://twitter.com/sebcbien/statuses/948211570) qui m'a fait sourire sur le site de vente en ligne [Ooshop](http://ooshop.fr). Cependant après réflexion, je me suis dis que c'était particulièrement grave.
 
@@ -101,4 +101,4 @@ C'est le reflet d'une mauvaise conception ou d'un vice assumé.
 
 Je n'aurais qu'une chose à dire, le slogan d'Ooshop, il est parfait !
 
-![Je te le fais pas dire](https://oncletom.io/images/2008/10/ooshop-vie-optimise.png "Ooshop, la vie optimisée")
+![Je te le fais pas dire](/images/2008/10/ooshop-vie-optimise.png "Ooshop, la vie optimisée")

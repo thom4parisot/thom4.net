@@ -12,7 +12,7 @@ categories:
 - Développement Web
 ---
 
-![IE4Linux : Internet Explorer pour Linux](https://oncletom.io/images/2007/04/ie4linux.png)
+![IE4Linux : Internet Explorer pour Linux](/images/2007/04/ie4linux.png)
 
 J'avais lu il y a un moment que l'on pouvait utiliser [Internet Explorer sous Linux](http://www.tatanka.com.br/ies4linux/). Ce que je ne savais pas c'était la facilité avec laquelle on l'installe. Couplé avec [WINE](http://fr.wikipedia.org/wiki/WINE), retrouvez les "joies" d'Internet Explorer 5, 5.5 et/ou Internet Explorer 6 en toute liberté.
 
@@ -47,4 +47,4 @@ Répondez aux questions et le tour sera joué.
 
 **IE4Linux** est une belle réussite car on peut avoir sous la main et sans effort 3 versions majeures du navigateur de Microsoft mais surtout, les bugs qui vont avec ! Car il faut bien le reconnaître, c'est uniquement pour ça que je l'installe : car le navigateur actuel le plus utilisé dans le monde est le plus bogué et le moins fiable. Changez-moi ce paradoxe : **utilisez un véritable navigateur Web**.
 
-![Firefox et IE4Linux](https://oncletom.io/images/2007/04/firefox-ie4linux.gif)
+![Firefox et IE4Linux](/images/2007/04/firefox-ie4linux.gif)

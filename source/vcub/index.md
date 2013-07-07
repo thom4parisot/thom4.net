@@ -6,7 +6,7 @@ Le [VCUB](http://vcub.fr/) est un système de vélos en libre-service de la [com
 
 <!--more-->
 
-[caption id="attachment_7986" align="aligncenter" width="358" caption="Aperçu du widget VCUB"][![](https://oncletom.io/images/2010/04/uwa-vcub.png "Aperçu du widget VCUB")](https://oncletom.io/images/2010/04/uwa-vcub.png)[/caption]
+[caption id="attachment_7986" align="aligncenter" width="358" caption="Aperçu du widget VCUB"][![](/images/2010/04/uwa-vcub.png "Aperçu du widget VCUB")](/images/2010/04/uwa-vcub.png)[/caption]
 
 ## Fonctionnalités
 

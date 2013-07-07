@@ -18,7 +18,7 @@ categories:
 - Travail 2.0
 ---
 
-![](https://oncletom.io/images/2008/09/aquitaine-numerique-17-couverture.jpg "Aquitaine Numérique #17")
+![](/images/2008/09/aquitaine-numerique-17-couverture.jpg "Aquitaine Numérique #17")
 
 La [Génération Y](http://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_Y) semble être sur toutes les lèvres comme l'expression en passe de remplacer le Web 2.0\. Un **glissement générationnel est en cours** et bouleverse petit à petit les règles du jeu dans les entreprises.
 

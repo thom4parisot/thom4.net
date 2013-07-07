@@ -18,7 +18,7 @@ categories:
 - WordPress
 ---
 
-![WordPress Logo](https://oncletom.io/images/2009/04/wordpress-badge-138x138.png "WordPress Logo")
+![WordPress Logo](/images/2009/04/wordpress-badge-138x138.png "WordPress Logo")
 
 Je me décide à passer un coup de peinture sur ce blog quasiment 2 ans après le [CSS Summer Refresh](https://oncletom.io/2007/08/15/css-summer-refresh-2007/) organisé par [Alsacréations](http://alsacreations.com/). À vrai dire, j'avais ce projet dans les cartons depuis septembre 2008 mais le plus difficile a été de trouver le talent graphique. C'était également l'occasion de dire au revoir aux navigateurs Web de seconde zone, à savoir Internet Explorer 7 et moins.
 
@@ -58,7 +58,7 @@ Tout d'abord, qu'est ce qui a changé par rapport à la maquette ?
 *   l'**ajout des pages en lieu et place du fil d'ariane** : j'en avais besoin pour présenter différents contenus statiques ;
 *   **le pied de page** : peu de widgets WordPress offrent un degré de personnalisation suffisant pour arriver à ce résultat. C'est donc temporisé là aussi en attendant de trouver chaussure à mon pied ;-)
 
-[![Aperçu pleine page](https://oncletom.io/images/2009/04/caseoncle-tomnet-oncletom-wood-150x300.png "caseoncle-tomnet-oncletom-wood")](/images/2009/04/caseoncle-tomnet-oncletom-wood.png)
+[![Aperçu pleine page](/images/2009/04/caseoncle-tomnet-oncletom-wood-150x300.png "caseoncle-tomnet-oncletom-wood")](/images/2009/04/caseoncle-tomnet-oncletom-wood.png)
 
 Pour le reste je me suis fait plaisir avec notamment l'utilisation de coins arrondis (_border-radius_) basés sur les implémentations de Gecko et Webkit. Désolé pour les utilisateurs d'autres navigateurs car j'en ai usé et abusé afin d'éviter l'utilisation d'images.
 
@@ -73,7 +73,7 @@ Au final je n'ai même pas eu à placer la moindre ligne de JavaScript : tout es
 
 J'ai mis à peu près 2 jours pour tout intégrer et optimiser. Je n'ai pas encore tenté l'optimisation à coup de PNG 8 grâce aux quelques Ko gagnés avec [pngcrush](http://pmt.sourceforge.net/pngcrush/). Il faudrait également que je réunisse quelques images dans un seul et même sprite pour gagner encore quelques dizièmes de seconde en temps de chargement.
 
-![Rapport YSlow](https://oncletom.io/images/2009/04/caseoncle-tomnet-yslow.png "Rapport YSlow")
+![Rapport YSlow](/images/2009/04/caseoncle-tomnet-yslow.png "Rapport YSlow")
 
 J'en ai profité pour tester l'utilisation de _mod_expires_ et _mod_gzip_ chez OVH en mutualisé (avant de tout migrer sur serveur dédié) : ça marche plutôt très bien. Si ça vous intéresse, je peux en faire un billet dédié. D'ici là, n'hésitez pas à bouquiner [High Performances Web Sites](https://oncletom.io/2008/07/15/high-performance-web-sites/) qui reste une référence en la matière. J'attends d'ailleurs sa suite avec impatience : _Even Faster Web Sites: Essential Knowledge for Frontend Engineers_.
 

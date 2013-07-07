@@ -1,8 +1,8 @@
 title: "Reposez vos poignets"
 id: 159
 date: 2006-07-07 20:58:03
-tags: 
-categories: 
+tags:
+categories:
 - Développement Web
 ---
 
@@ -10,7 +10,7 @@ Toutes mes excuses pour ce léger relachement dans la fréquence des billets mai
 
 Toutefois, j'ai en préparation un p'tit billet ciné avec le résumé des films vus en juin, un spécial "Superman" (mais j'attendrai de voir le 5<sup>ème</sup> volet pour le publier), 2-3 bricoles sur Internet et plus d'infos sur ma recherche d'appart' ... et non j'ai toujours pas eu celui qui me convient ;-) ça ne saurait tarder (j'espère).
 
-![Repose-poignet en gel](https://oncletom.io/images/Internet/repose-poignet-gel.jpg)
+![Repose-poignet en gel](/images/Internet/repose-poignet-gel.jpg)
 
 Bref, aujourd'hui ça sera frais et surement inintéressant pour ceux qui ne passent pas quelques heures par jour devant leur PC. Quoiqu'il en soit, je parlerai des **reposes-poignet** pour souris. Celui en question est incorporé à un tapis de souris mais celui que je possède à la maison n'en a pas (donc s'adapte à tout tapis de souris, si vous en avez).
 

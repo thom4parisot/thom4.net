@@ -1,14 +1,14 @@
 title: "DADVSI & les DRM: Droits Ridicules et Misérables"
 id: 65
 date: 2006-03-16 09:36:43
-tags: 
+tags:
 - dadvsi
 - drm
-categories: 
+categories:
 - Personnel
 ---
 
-![DADVSI: vous irez en prison](https://oncletom.io/images/Actualite/Derriere-les-barreaux_Legend-of-the-bat.jpg)
+![DADVSI: vous irez en prison](/images/Actualite/Derriere-les-barreaux_Legend-of-the-bat.jpg)
 
 La bonne nouvelle du jour pour les disquaires c'est qu'ils ont désormais le droit d'appliquer en toute tranquilité des verrous anti-copie (<acronym title="Digital Rights Management">DRM</acronym>). La bonne nouvelle pour le consommateur c'est qu'il ne pourra plus copier les contenus protégés par des DRM et qu'à priori, ça aussi ça a été voté, la taxe liée au piratage sur les media des stockage devrait sauter. Un petit pas de plus vers la prison...
 

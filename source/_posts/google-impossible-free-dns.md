@@ -1,12 +1,12 @@
 title: "Impossible d'accéder à Google avec Free ?"
 id: 231
 date: 2006-10-05 19:38:57
-tags: 
+tags:
 - free
 - google
 - internet
 - proxy
-categories: 
+categories:
 - Personnel
 ---
 
@@ -14,4 +14,4 @@ Visiblement depuis 2 jours, les internautes de Free vivant dans certains quartie
 
 Pour les utilisateurs de Firefox, rendez-vous dans les préférences du navigateur, dans l'onglet _Général_ puis le bouton _paramètres de connexion_. Ce n'est pas forcément bien indiqué sur le site de Free alors configurez le proxy HTTP avec **proxy.free.fr** sur le port **3128**. Vous pouvez d'ailleurs l'utiliser pour tous les autres ports.
 
-![Free : Google inaccessible à cause des DNS](https://oncletom.io/images/2006/10/free-dns-google.png)
+![Free : Google inaccessible à cause des DNS](/images/2006/10/free-dns-google.png)

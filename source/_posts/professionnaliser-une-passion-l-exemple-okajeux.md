@@ -1,16 +1,16 @@
 title: "Professionnaliser une passion : l'exemple Okajeux"
 id: 73
 date: 2005-12-13 09:13:15
-tags: 
+tags:
 - affiliation
 - Emu Nova
 - partenariat
-categories: 
+categories:
 - Projets
 - Travail 2.0
 ---
 
-![Logo Okajeux](https://oncletom.io/images/Emu-Nova/okajeux-logo.png)
+![Logo Okajeux](/images/Emu-Nova/okajeux-logo.png)
 
 Je crois que le fantasme de tout webmaster passionné et absorbé par son/ses site(s) c'est de gagner sa vie avec. Au stade actuel je n'y crois pas un instant (en tous cas avec **Emu Nova**) car une entreprise unipersonnelle coûte encore beaucoup trop cher (les taxes mes enfants). Nous allons voir dans ce billet qu'un site "amateur" un tant soit peu sérieux peut se placer à mi-chemin des sites professionnels et diversifier ses sources de revenus.
 
@@ -20,7 +20,7 @@ A mon grand regret, l'émulation est très souvent stigmatisée par les mots **w
 
 OK c'est sympa la nostalgie mais ça a un prix : rester dans l'ombre. Nombre de conditions d'utilisations de publicitaires et d'annuaires (pour ne citer qu'eux) spécifient pixel sur écran ("noir sur blanc" c'est dépassé les enfants) que <q>le site en question ne doit pas porter atteinte à la propriété intellectuelle, ne doit pas proposer de contenu illégal, pornographique</q> etc. etc. C'est là que le bas blesse parce que ça oblige de rester dans un certain carcan. Et ça j'y tiens de moins e moins depuis ...
 
-![Okajeux](https://oncletom.io/images/Emu-Nova/okajeux-grand.png)
+![Okajeux](/images/Emu-Nova/okajeux-grand.png)
 
 ... depuis qu'Emu Nova a été démarché par la société [Okajeux](http://www.okajeux.com/). Ca paraît bête surtout que je songeais déjà à nouer des relations avec de véritables sites plus ou moins marchants mais liés aux jeux vidéo. C'est là que je me suis dis "Emu Nova ça rox, c'est super complet y'a plein d'informations et tu veux encore en ajouter : ça vaut des sous". Alors non je ne chante pas ça comme un hymne au capitalisme mais si ça vaut des sous, c'est qu'une valeur a été créée (sans but spéculatif) et que cette valeur peut servir.
 

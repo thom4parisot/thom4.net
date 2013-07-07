@@ -13,7 +13,7 @@ categories:
 - Développement Web
 ---
 
-[![Logo Jaiku](https://oncletom.io/images/2008/06/logo-jaiku.png "Logo Jaiku")](https://oncletom.io/images/2008/06/logo-jaiku.png)
+[![Logo Jaiku](/images/2008/06/logo-jaiku.png "Logo Jaiku")](/images/2008/06/logo-jaiku.png)
 
 [Cela fait maintenant plus d'1 an que j'utilise Twitter](https://oncletom.io/2007/06/01/twitter-gtwitter/). Passée l'appréhension du gadget puéril, je l'ai finalement converti en **outil de communication**, de **réseautage** et de **veille** ... comme beaucoup de ses utilisateurs d'ailleurs.
 
@@ -43,7 +43,7 @@ Parallèlement à ça, très peu de nouveautés ont fait leur apparition sur le 
 
 Et avec ça je tente de vous convaincre que Jaiku est mieux ? Et pourtant :
 
-![Flux Flickr sur Jaiku](https://oncletom.io/images/2008/06/jaiku-flickr.png "Flux Flickr sur Jaiku")
+![Flux Flickr sur Jaiku](/images/2008/06/jaiku-flickr.png "Flux Flickr sur Jaiku")
 
 *   **automatisation de l'intégration de vos flux** (RSS, Twitter, Last.fm etc.) avec une présentation des plus sympathiques (exemple ci-dessus avec [Flickr, mon service photo préféré](https://oncletom.io/2008/03/18/flickr-le-site-ideal-pour-partager-ses-photos/))
 *   une **interface Web beaucoup plus agréable** : identification facile des source des données, différenciation de nos messages et des flux aggrégés, filtrage des sources de flux
@@ -62,7 +62,7 @@ Malgré tout, Twitter possède une bonne avance, notamment grâce à son énorme
 
 ## Comment Jaiku peut surpasser Twitter
 
-[![Vue d](https://oncletom.io/images/2008/06/jaiku-overview-300x159.png "Vue d")](https://oncletom.io/images/2008/06/jaiku-overview.png)
+[![Vue d](/images/2008/06/jaiku-overview-300x159.png "Vue d")](/images/2008/06/jaiku-overview.png)
 
 Twitter conserve fonctionnellement pas mal d'avantages qui justifient encore son utilisation et sa forte adoption. C'est en subissant les pannes répétées et en lisant plusieurs articles, dont «[Can Twitter Be Saved](http://www.readwriteweb.com/archives/can_twitter_be_saved.php)» que j'ai sérieusement mis en doute la **capacité à Twitter à accompagner ses utilisateurs** de manière pérenne.
 

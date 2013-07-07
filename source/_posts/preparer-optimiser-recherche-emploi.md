@@ -45,7 +45,7 @@ Ce besoin dessine plusieurs structures d'entreprises susceptibles de me plaire e
 
 **La problématique à résoudre** : _trouver les meilleures_ d'entre elles, _montrer le meilleur_ de moi-même et _croiser les doigts_ pour avoir eu de raison de placer la barre aussi haut.
 
-![Aperçu de mon CV](https://oncletom.io/images/2007/09/cv-apercu.png)
+![Aperçu de mon CV](/images/2007/09/cv-apercu.png)
 
 ## Se créer une présence en ligne : CV, blog, veille et réseaux sociaux
 
@@ -65,7 +65,7 @@ Cette refonte a été l'occasion d'unifier ma communication en plaçant le blog 
 Dernier élément du triptyque : **les réseaux sociaux**. C'est à ce moment précis que j'ai trouvé une utilité réellement utile à [Facebook](http://www.facebook.com). Ma présence sur [LinkedIn](http://www.linkedin.com) était également devenue pertinente. [Twitter](http://www.twitter.com) a aussi connu un regain d'intérêt à mes yeux puisque j'ai pu suivre des personnes qui m'intéressaient et en apprendre davantage sur leur vie (infos à replacer lors d'un entretien, effet positif garanti).
 Sur ces différents réseaux, dites-en un maximum sur vous sans tomber dans la naïveté mielleuse. C'est l'occasion de placer quelques détails plus communs sur vos goûts et centres d'intérêt qui n'auraient pas leur place sur votre CV.
 
-![Logo Facebook](https://oncletom.io/images/2007/09/facebook-logo.png)
+![Logo Facebook](/images/2007/09/facebook-logo.png)
 
 ## Se créer une présence en ligne : nouer les contacts
 

@@ -10,7 +10,7 @@ categories:
 - WordPress
 ---
 
-[![Logo Wordpress](https://oncletom.io/images/2008/05/wordpress-logo.png "Logo Wordpress")](https://oncletom.io/images/2008/05/wordpress-logo.png)
+[![Logo Wordpress](/images/2008/05/wordpress-logo.png "Logo Wordpress")](/images/2008/05/wordpress-logo.png)
 
 [Wordpress 2.3 est sorti, accompagné de sa traduction française](http://www.wordpress-fr.net/blog/wordpress/sortie-de-wordpress-23-et-de-son-pack-franais). C'est un fait et je conseille aux aventuriers de toujours mais alors toujours faire une sauvegarde de leurs fichiers et de leur base de données avant de se lancer dedans. **Compte-rendu d'une migration** qui s'est passée sans trop de problèmes et **point rapide sur quelques correctifs** appliqués pour rendre le tout fonctionnel.
 

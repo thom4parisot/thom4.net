@@ -18,7 +18,7 @@ Le titre est volontairement provocateur (mais non Jacques, Internet c'est bien) 
 
 1.  j'y ai déjà mangé et _beaucoup_ apprécié le décors ainsi que les plats (cf. mon album [Chez Éric Sampietro](http://www.flickr.com/photos/the-jedi/sets/72157611243875576/))
 2.  l'**image de tête de l'article utilisait une de mes photos** ([Éric Sampietro aux commandes](http://www.flickr.com/photos/the-jedi/3111920922/))
-[![Extrait de l](https://oncletom.io/images/2009/11/parismatch-sampietro-300x273.jpg "Extrait de l")](https://oncletom.io/images/2009/11/parismatch-sampietro.jpg)
+[![Extrait de l](/images/2009/11/parismatch-sampietro-300x273.jpg "Extrait de l")](/images/2009/11/parismatch-sampietro.jpg)
 
 Oncle Tom vs. Paris Match peut commencer ;-)
 
@@ -78,7 +78,7 @@ On pourrait imaginer que je n'ai plus à faire valoir mes droits sur la photo vu
 *   [la photo se trouve toujours physiquement sur leur serveur](http://photo.parismatch.com/media/photos2/4.-photos-conso/gastronomie/eric-sampietro/1070657-1-fre-FR/4-photos-conso-gastronomie-Eric-Sampietro-Eric-Sampietro_articlephoto.jpg) (merci à mon cache pour en avoir gardé une trace − je m'attends toutefois à ce qu'elle soit supprimée après qu'une personne de Paris Match l'apprenne, disons par ce présent article)
 *   la photo se trouve toujours sur le [PDF de l'article](http://www.julieandrieu.com/images/ilsontdit/210.pdf) ... ainsi que dans la version papier
 
-[![Extrait de l](https://oncletom.io/images/2009/11/parismatch-sampietro-extrait-papier-300x263.jpg "Extrait de l")](https://oncletom.io/images/2009/11/parismatch-sampietro-extrait-papier.jpg)
+[![Extrait de l](/images/2009/11/parismatch-sampietro-extrait-papier-300x263.jpg "Extrait de l")](/images/2009/11/parismatch-sampietro-extrait-papier.jpg)
 
 ## Un cheminement compliqué
 
@@ -99,7 +99,7 @@ Dans tous les cas, **la propriété intellectuelle était clairement indiquée**
 
 Quoiqu'il en soit, le **cheminement d'une image est long et parsemé d'intermédiaires**. Autant de risques qu'une licence spécifique saute (et en arrange, c'est selon). Fournir des images à un ami ou une connaissance ne lui laisse pas pour autant les droits de les réutiliser comme bon lui semble. Mais encore faut-il que ces personnes aient conscience de cet aspect légal.
 
-[![Référants d](https://oncletom.io/images/2009/11/photo-referers.png "Référants d")](https://oncletom.io/images/2009/11/photo-referers.png)
+[![Référants d](/images/2009/11/photo-referers.png "Référants d")](/images/2009/11/photo-referers.png)
 
 La bonne nouvelle dans tout ça, c'est le **pic de consultation de la photo** (plus de 270 vues en l'espace de 6 heures). La provenance des visiteurs est aussi assez caractéristiques. Facebook (420+ amis) représente davantage de trafic que Twitter (600+ contacts). Il y a eu beau avoir davantage de retweets, le suivi de l'activité sur Facebook offre davantage de concentration sur l'information ... et davantage de temps de vie.
 J'ai également gagné 2 contacts Flickr ainsi qu'une poignée sur Twitter.

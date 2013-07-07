@@ -15,7 +15,7 @@ categories:
 - Standards du Web
 ---
 
-![Logo Firebug](https://oncletom.io/images/2007/12/firebug-logo.gif)
+![Logo Firebug](/images/2007/12/firebug-logo.gif)
 
 [Firebug fait partie de mes extensions préférées](https://oncletom.io/2007/08/07/facebook-rock-your-firefox/) depuis un bon moment. Je l'estime aujourd'hui même plus importante que l'extension [Web Developer](https://addons.mozilla.org/fr/firefox/addon/60), c'est dire.
 
@@ -34,7 +34,7 @@ Le plus amusant dans l'histoire c'est que le site officiel de Firebug dévoile (
 
 ### L'inspection HTML
 
-![Inspecteur HTML Firebug](https://oncletom.io/images/2007/12/firebug-html-inspector.png)
+![Inspecteur HTML Firebug](/images/2007/12/firebug-html-inspector.png)
 
 J'apprécie l'inspection HTML car elle me permet de retrouver simplement le code lié au visuel. Après avoir activé l'inspecteur, je survole l'élément sur lequel je veux travailler, je clique dessus et le volet Firebug se fige dessus en m'indiquant **toutes ses propriétés CSS, le modèle de boîte et ses propriétés DOM**. On en reparle tout de suite après.
 L'inverse est également possible. C'est à dire qu'en survolant le code, la correspondance visuelle dans la page est établie. C'est rudement pratique pour repérer des éléments qui sortent du flux. Ça l'est d'autant plus que les différentes marges (internes, externes, bordures) sont elles aussi mises en surbrillance.
@@ -49,7 +49,7 @@ Le panneau latéral de l'inspecteur HTML se compose de 3 onglets, tous très uti
 
 #### Inspecteur CSS
 
-![Inspecteur CSS Firebug](https://oncletom.io/images/2007/12/firebug-css-inspector.png)
+![Inspecteur CSS Firebug](/images/2007/12/firebug-css-inspector.png)
 
 Les propriétés CSS affichées concernent uniquement l'objet actif et c'est ce qui en fait sa force. Ce panneau indique en effet la **cascade CSS en cours** ce qui permet de comprendre rapidement pourquoi sa feuille de style n'est pas appliquée comme il faudrait. Elle a la bonne idée de mentionner quelle feuille de style est utilisée et quelle ligne. De quoi corriger ça dans son éditeur favori rapidement.
 
@@ -60,7 +60,7 @@ Là encore c'est une des parties où les gains de temps sont énormes. On peut e
 
 #### Inspecteur du modèle de boîte (_Layout_)
 
-![Modèle de boîte avec Firebug](https://oncletom.io/images/2007/12/firebug-layout-inspector.png)
+![Modèle de boîte avec Firebug](/images/2007/12/firebug-layout-inspector.png)
 
 Le [modèle de boîte CSS](http://www.yoyodesign.org/doc/w3c/css2/box.html) peut vite devenir pénible à gérer et plus particulièrement quand on visualise mal le **cumul des différentes marges**.
 Dans tous les cas c'est appréciable de pouvoir constater les marges en présence et encore, de pouvoir **modifier leurs dimensions à la volée**. Firebug a la bonne idée de colorer les marges intérieures (`padding`), extérieures (`margin`) et les bordures (`border`) d'une couleur différente.
@@ -76,7 +76,7 @@ L'inspecteur DOM m'est moyennement utile dans le cas d'une simple inspection du 
 
 ### L'inspecteur JavaScript
 
-![Inspecteur JavaScript Firebug](https://oncletom.io/images/2007/12/firebug-javascript-watcher.png)
+![Inspecteur JavaScript Firebug](/images/2007/12/firebug-javascript-watcher.png)
 
 C'est l'autre **outil indispensable de Firebug**. Avec lui, c'en est fini des `alert(mavariable);`. L'inspecteur DOM prend avec lui toute son utilité.
 
@@ -87,7 +87,7 @@ En parallèle de ça, l'inspecteur DOM est à utiliser pour **visualiser d'un co
 
 ### La console Firebug _alias_ `console.*`
 
-![Console Firebug](https://oncletom.io/images/2007/12/firebug-console.png)
+![Console Firebug](/images/2007/12/firebug-console.png)
 
 **La console Firebug est l'autre tueuse d'`alert()`** et s'utilise de deux manières.
 
@@ -111,7 +111,7 @@ Après avoir bien développé, Firebug propose de mieux développer. L'extension
 
 ### Le traceur réseau
 
-![Traceur réseau Firebug](https://oncletom.io/images/2007/12/firebug-net-tracer.png)
+![Traceur réseau Firebug](/images/2007/12/firebug-net-tracer.png)
 
 Avec le traceur réseau c'est simple, tout ce qui est chargé sur la page est chronométré. Si un élément est systématiquement long à charger en tête de liste, pourquoi ne pas essayer de le déplacer dans le bas de la pile ? Je pense notamment aux appels vers des fichiers JavaScripts externes. Les appeler en bas de page permet d'éviter des gels de page. C'est ce que YSlow nous recommandera ;-)
 
@@ -121,7 +121,7 @@ J'aime beaucoup le traceur pour le **suivi des requêtes XHR (appels AJAX)**. Un
 
 ### Le profileur JavaScript
 
-![Profileur JavaScript Firebug](https://oncletom.io/images/2007/12/firebug-profiler.png)
+![Profileur JavaScript Firebug](/images/2007/12/firebug-profiler.png)
 
 Le profileur (_profiler_) JavaScript s'utilise un peu à la manière de la console : de manière active ou au travers de l'objet `console`.
 
@@ -131,7 +131,7 @@ Sauf en utilisant le profileur directement dans le code comme on a déjà pu le 
 
 ### L'extension YSlow
 
-![Firebug YSlow](https://oncletom.io/images/2007/12/firebug-yslow.png)
+![Firebug YSlow](/images/2007/12/firebug-yslow.png)
 
 L'[extension YSlow](https://addons.mozilla.org/en-US/firefox/addon/5369) est une extension pour Firefox mais elle nécessite toutefois la présence de Firebug. Elle s'articule autour de trois critères.
 

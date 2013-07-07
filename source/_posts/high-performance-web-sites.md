@@ -20,7 +20,7 @@ categories:
 - Développement Web
 ---
 
-![High Performance Web Sites (couverture)](https://oncletom.io/images/2008/07/livre-high-performance-web-sites.jpg "High Performance Web Sites (couverture)")
+![High Performance Web Sites (couverture)](/images/2008/07/livre-high-performance-web-sites.jpg "High Performance Web Sites (couverture)")
 
 [High Performance Web Site](http://www.amazon.fr/dp/0596529309/), sous-titré _Essential Knowledge for Frontend Engineers_, est ce genre de **livre à lire au moins une fois** à défaut de le posséder. Il résume en à peu près 120 pages 14 points d'optimisation d'un site Web.
 
@@ -45,7 +45,7 @@ J'achèterais ce livre si j'étais :
 *   toute personne avare en kilo-octets superflus
 *   toute personne voulant **accélérer les temps de réponse** de son ou ses sites Web
 
-[![YSLow sur Emu Nova : les composants](https://oncletom.io/images/2008/07/yslow-emunova-components-300x81.png "YSLow sur Emu Nova : les composants")](https://oncletom.io/images/2008/07/yslow-emunova-components.png)
+[![YSLow sur Emu Nova : les composants](/images/2008/07/yslow-emunova-components-300x81.png "YSLow sur Emu Nova : les composants")](/images/2008/07/yslow-emunova-components.png)
 
 ## Les 14 points d'optimisation
 
@@ -82,7 +82,7 @@ J'avais déjà au préalable externalisés mes CSS et JavaScript, placé au bon 
 
 C'est bête à dire mais **le résultat s'est vraiment senti avec des chargements de page incroyablement plus rapides**. _YSlow_ est effectivement un compagnon idéal pour la mise en application de ces éléments avec son analyse des performances et des composants.
 
-![YSLow sur Emu Nova : les statistiques](https://oncletom.io/images/2008/07/yslow-emunova-stats.png "YSLow sur Emu Nova : les statistiques")
+![YSLow sur Emu Nova : les statistiques](/images/2008/07/yslow-emunova-stats.png "YSLow sur Emu Nova : les statistiques")
 
 ## Conclusion
 

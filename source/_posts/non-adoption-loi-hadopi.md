@@ -11,7 +11,7 @@ categories:
 - Projets
 ---
 
-![](https://oncletom.io/images/Actualite/Derriere-les-barreaux_Legend-of-the-bat.jpg "Sous les barreaux")
+![](/images/Actualite/Derriere-les-barreaux_Legend-of-the-bat.jpg "Sous les barreaux")
 
 Sans verser dans la politique, j'aimerais quand même attirer l'attention du public sur le prochain vote de la loi Hadopi à l'Assemblée Nationale. Son contenu est basé sur les recommandations de Denis Olivennes qui a été jusque très récemment le patron de la non moins connue FNAC.
 

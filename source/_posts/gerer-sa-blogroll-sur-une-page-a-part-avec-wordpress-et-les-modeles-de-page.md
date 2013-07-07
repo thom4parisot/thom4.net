@@ -13,7 +13,7 @@ categories:
 - WordPress
 ---
 
-![Logo Wordpress](https://oncletom.io/images/2008/05/wordpress-logo.png "Logo Wordpress")
+![Logo Wordpress](/images/2008/05/wordpress-logo.png "Logo Wordpress")
 
 J'ai récemment lu une astuce pour afficher sa blogroll sur une page à part et ça m'a donné envie de réagir à la solution proposée.
 
@@ -84,7 +84,7 @@ get_header() ?>
 
 Une fois enregistré, le modèle apparaît dans le sélecteur de modèle (uniquement sur les contenus de type _Page_) :
 
-![Wordpress Template Selector](https://oncletom.io/images/2008/05/wordpress-template-selector.png "Wordpress Template Selector")
+![Wordpress Template Selector](/images/2008/05/wordpress-template-selector.png "Wordpress Template Selector")
 
 Ça y'est, vous avez votre page dédiée aux liens sans travail de recopie supplémentaire.
 

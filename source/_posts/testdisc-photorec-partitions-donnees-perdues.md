@@ -11,7 +11,7 @@ categories:
 - Développement Web
 ---
 
-![Logo TestDisk](https://oncletom.io/images/2007/04/testdisklogo-clear-100.gif)
+![Logo TestDisk](/images/2007/04/testdisklogo-clear-100.gif)
 
 [Cette semaine j'ai installé un PC sous Windows Vista édition familiale basique](https://oncletom.io/2007/04/15/hasta-la-vista/). Dire que la récupération des données fut un couac est un doux euphémisme. Non seulement Windows Vista ne m'a pas monté automatiquement le petit disque dur IDE de 10Go mais en plus _il a carrément fichu en l'air sa table de partitions_.
 

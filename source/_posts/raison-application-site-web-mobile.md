@@ -29,7 +29,7 @@ Non, ce qui m'a vraiment frappé c'est que sur les 10 raisons évoquées, à pei
 Mais surtout, les véritables raisons ne sont même pas évoquées.
 Rectification.
 
-![Logo Android](https://oncletom.io/images/2010/04/android-nq8.png "Logo Android")
+![Logo Android](/images/2010/04/android-nq8.png "Logo Android")
 
 <!--more-->
 
@@ -73,7 +73,7 @@ Quand même, je vais citer LA raison qui me fait utiliser une application plutô
 
 Je pourrai quand même citer un excellent contre-exemple : le [site Web mobile de Flickr](http://m.flickr.com/). Sa navigation entièrement en Ajax (pour les mobiles supportant cela) la rend véloce et très agréable à utiliser. Elle est aussi rapide à consulter que l'application Facebook. Elle est même plus rapide en ce qui concerne le chargement d'images.
 
-[![Écran de l](https://oncletom.io/images/2010/04/bordeaux-agenda-208x300.jpg "Écran de l")](https://oncletom.io/images/2010/04/bordeaux-agenda.jpg)
+[![Écran de l](/images/2010/04/bordeaux-agenda-208x300.jpg "Écran de l")](/images/2010/04/bordeaux-agenda.jpg)
 
 ## Application ou site mobile ? Les deux mon capitaine !
 

@@ -13,7 +13,7 @@ categories:
 - Standards du Web
 ---
 
-![Paris-Web 2009](https://oncletom.io/images/2009/10/pw2009-400x150-3.gif "Paris-Web 2009")
+![Paris-Web 2009](/images/2009/10/pw2009-400x150-3.gif "Paris-Web 2009")
 
 [Paris-Web](http://www.paris-web.fr/) est LE rendez-vous Web de l'année pour tous les professionnels intéressés par le webdesign, la qualité et l'accessibilité. [L'édition 2008](http://www.paris-web.fr/2008/) (la première à laquelle j'assistais) m'a particulièrement plu alors je rempile cette année, à la fois en tant que spectacteur et orateur d'atelier technique.
 

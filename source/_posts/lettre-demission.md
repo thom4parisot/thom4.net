@@ -14,7 +14,7 @@ Car oui, même si vous en avez marre de votre patron, la dernière des choses à
 
 ## La lettre de démission
 
-Je vous propose en téléchargement [ma lettre de démission](https://oncletom.io/images/2007/10/demission-type.pdf "Lettre-type de démission"). Il faudra l'imprimer une ou deux fois selon le mode de remise choisi.
+Je vous propose en téléchargement [ma lettre de démission](/images/2007/10/demission-type.pdf "Lettre-type de démission"). Il faudra l'imprimer une ou deux fois selon le mode de remise choisi.
 
 En pratique pour remettre sa lettre de démission, il y a deux moyens, tous deux très simples :
 
