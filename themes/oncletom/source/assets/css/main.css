@@ -3471,39 +3471,9 @@ article #responses a:focus,
   min-height: auto;
   max-height: auto;
 }
-#responses {
-  list-style: none;
-  margin: 0;
-}
-#responses .comment {
-  margin-bottom: 1.5em;
-}
-#responses .comment:last-child {
-  margin-bottom: 0;
-}
-#responses .avatar {
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  border-radius: 2px;
-  -webkit-box-shadow: 0 0 5px #004916;
-  -moz-box-shadow: 0 0 5px #004916;
-  box-shadow: 0 0 5px #004916;
-  margin-right: .5em;
-}
-#responses .comment-author {
-  margin-bottom: .5em;
-}
-#responses .comment-meta {
-  display: none;
-}
-#respond .form-submit {
-  display: none;
-}
-#respond .form-allowed-tags,
-#respond code {
-  font-size: .85em;
-  white-space: normal;
-}
+  #disqus_thread{
+    margin: 10px
+  }
 .sticky {
   position: fixed;
   top: 1.5em;
