@@ -16,11 +16,14 @@
   <meta property="og:title" content="<%= page.title || [config.title, config.subtitle].join(' &mdash; ') %>">
   <meta property="og:type" content="article">
   <meta property="og:url" content="<%= config.url + (page.current_url || (page.path && config.root+page.path)) %>">
-  <meta property="og:description" content="<%= partial('_description') %>" />
+  <meta name="twitter:description" property="og:description" content="<%= partial('_description') %>">
   <meta property="og:locale" content="<%- config.language %>">
   <meta property="og:site_name" content="<%= config.title %>">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@<%= config.graph.twitter %>">
+  <meta name="twitter:domain" content="<%= config.title %>">
 </head>
-<body data-navigation-id="" class="home blog">
+<body class="home blog">
 
 <div class="container">
     <div class="navbar" id="services">
@@ -35,7 +38,7 @@
             <div class="nav-collapse collapse">
                 <ul class="nav">
                     <% Object.keys(theme.menu).forEach(function(key){ %>
-                    <li data-page-id=""><a href="<%- theme.menu[key] %>"><%= key %></a></li>
+                    <li class="<%= key === 'Blog' ? 'active' : '' %>"><a href="<%- theme.menu[key] %>"><%= key %></a></li>
                     <% }); %>
                 </ul>
             </div>
