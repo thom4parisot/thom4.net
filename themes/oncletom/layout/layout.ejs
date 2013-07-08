@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="<%- config.language %>">
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <%- css(['assets/css/fonts.css', 'assets/css/main.css']) %>
-    <title><% if (page.title){ -%><%= [page.title, config.title].join(" &mdash; ") %><% }else{ %><%= [config.title, config.subtitle].join(" &mdash; ") %><% } -%></title>
-    <meta name="viewport" content="initial-scale=1.0">
-    <link rel="apple-touch-icon" type="image/x-icon" href="/assets/avatar.jpg">
-    <link rel="icon" href="/favicon.ico">
-    <meta name="description" content="<%= strip_html(page.excerpt || config.description) %>">
-    <meta name="keywords" content="<%= (page.tags && page.tags.toArray().map(function(tag){ return tag.name; }) || []).concat(config.keywords).join(',') %>">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <%- css(['assets/css/fonts.css', 'assets/css/main.css']) %>
+  <title><% if (page.title){ -%><%= [page.title, config.title].join(" &mdash; ") %><% }else{ %><%= [config.title, config.subtitle].join(" &mdash; ") %><% } -%></title>
+  <meta name="viewport" content="initial-scale=1.0">
+  <link rel="apple-touch-icon" type="image/x-icon" href="/assets/avatar.jpg">
+  <link rel="icon" href="/favicon.ico">
+  <meta name="description" content="<%= strip_html(page.excerpt || config.description) %>">
+  <meta name="keywords" content="<%= (page.tags && page.tags.toArray().map(function(tag){ return tag.name; }) || []).concat(config.keywords).join(',') %>">
+  <meta rel="canonical" content="https://oncletom.io<%= page.current_url || (page.path && config.root+page.path) %>">
 </head>
 <body data-navigation-id="" class="home blog">
 
