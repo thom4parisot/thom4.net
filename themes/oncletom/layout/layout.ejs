@@ -9,7 +9,7 @@
   <link rel="icon" href="/favicon.ico">
   <meta name="description" content="<%= strip_html(page.excerpt || config.description) %>">
   <meta name="keywords" content="<%= (page.tags && page.tags.toArray().map(function(tag){ return tag.name; }) || []).concat(config.keywords).join(',') %>">
-  <meta rel="canonical" content="https://oncletom.io<%= page.current_url || (page.path && config.root+page.path) %>">
+  <link rel="canonical" href="https://oncletom.io<%= page.current_url || (page.path && config.root+page.path) %>">
 </head>
 <body data-navigation-id="" class="home blog">
 
