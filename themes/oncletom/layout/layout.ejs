@@ -17,9 +17,10 @@
   <meta property="og:type" content="article">
   <meta property="og:url" content="<%= config.url + (page.current_url || (page.path && config.root+page.path)) %>">
   <meta name="twitter:description" property="og:description" content="<%= partial('_description') %>">
-  <meta property="og:locale" content="<%- config.language %>">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:locale:alternate" content="en_GB">
   <meta property="og:site_name" content="<%= config.title %>">
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@<%= config.graph.twitter %>">
   <meta name="twitter:domain" content="<%= config.title %>">
 </head>
