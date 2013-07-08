@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="<%- config.language %>">
+<html lang="<%- config.language %>" prefix="og: http://ogp.me/ns#">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <%- css(['assets/css/fonts.css', 'assets/css/main.css']) %>
-  <title><% if (page.title){ -%><%= [page.title, config.title].join(" &mdash; ") %><% }else{ %><%= [config.title, config.subtitle].join(" &mdash; ") %><% } -%></title>
+  <title><%= partial("_title") %></title>
   <meta name="viewport" content="initial-scale=1.0">
   <link rel="apple-touch-icon" type="image/x-icon" href="/assets/avatar.jpg">
   <link rel="icon" href="/favicon.ico">

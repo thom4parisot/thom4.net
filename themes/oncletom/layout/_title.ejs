@@ -1,0 +1,5 @@
+<% if (page.title){
+  %><%= [page.title, config.title].join(" &mdash; ") %><%
+}else{
+  %><%= [config.title, config.subtitle].join(" &mdash; ") %><%
+} %>
