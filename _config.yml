@@ -97,7 +97,7 @@ exclude_generator:
 graph:
   google_plus:    https://plus.google.com/113450102076209289116/
   facebook:       ~
-  twitter:        ~
+  twitter:        oncletom
 
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
