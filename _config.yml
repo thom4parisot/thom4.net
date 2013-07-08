@@ -94,6 +94,11 @@ disqus_shortname: oncletom
 theme: oncletom
 exclude_generator:
 
+graph:
+  google_plus:    https://plus.google.com/113450102076209289116/
+  facebook:       ~
+  twitter:        ~
+
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
