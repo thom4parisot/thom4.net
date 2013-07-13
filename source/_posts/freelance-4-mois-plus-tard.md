@@ -12,13 +12,12 @@ tags:
 categories:
 - Développement Web
 - Entrepreneuriat
+cover: /images/2011/03/logo_cyneticmonkey_standard.png
 ---
 
 Je suis officiellement gérant de la SARL [CyneticMonkey](http://cyneticmonkey.com) depuis le 5 janvier 2011\. J'ai d'ailleurs expliqué des raisons m'ayant poussé à [devenir indépendant](https://oncletom.io/2011/pourquoi-devenir-freelance/ "Pourquoi j’ai décidé de devenir indépendant ?"). Je complète la réflexion avec l'animation d'un atelier au [BarCamp Bordeaux](http://www.barcamp-bordeaux.com/) intitulé « [Freelance : pourquoi, comment et avec qui ?](http://www.barcamp-bordeaux.com/wiki/wiki/freelance-pourquoi-comment-avec-qui) ». 4 mois c'est court, ça passe vite mais ça reste significatif quand on démarre ... surtout dans la mesure où on n'attend qu'une chose : faire ses preuves.
 
 Je vous fais part de mes impressions, de mes actions mais aussi de mes craintes. J'en profite aussi pour vous communiquer un pré-requis indispensable : **motivation**. En étant seul à bord, on n'a pas d'autre choix que de maintenir le cap, et d'aller au-delà de son propre ressenti.
-
-![](/images/2011/03/logo_cyneticmonkey_standard-300x207.png "CyneticMonkey")
 
 <!--more-->
 

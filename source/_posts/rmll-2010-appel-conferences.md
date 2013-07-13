@@ -17,13 +17,12 @@ tags:
 categories:
 - Développement Web
 - Projets
+cover: /images/2010/01/1264010146_tux.png
 ---
 
 Les [Rencontres Mondiales du Logiciel Libre](http://rmll.info/) (RMLL) sont un cycle de conférences autour du logiciel libre. Ces rencontres se déroulent en 2010 à Bordeaux du 6 au 11 juillet. Je co-organise les sessions _Internet_ avec [Nicolas Perriault](http://prendreuncafe.com/). C'est dans ce cadre que je relaie l'appel à conférences. Et puis tant qu'à faire, histoire de présenter cet évènement réunissant plus de 5000 visiteurs.
 
 Pour cette édition 2010, il y a 2 thématiques transversales : le développement durable et l'accessibilité.
-
-![Tux](/images/2010/01/1264010146_tux.png "Tux")
 
 <!--more-->
 

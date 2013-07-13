@@ -15,6 +15,7 @@ tags:
 - widgets
 categories:
 - Développement Web
+cover: /images/2010/04/uwa-vcub.png
 ---
 
 Cela faisait un petit moment que je n'avais pas réalisé de [widget Netvibes](https://oncletom.io/code/netvibes/). À vrai dire, je n'en avais pas publié depuis 2008\. C'était encore le boom et la folie des widgets.

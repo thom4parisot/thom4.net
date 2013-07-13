@@ -12,11 +12,13 @@ tags:
 categories:
 - Personnel
 - Travail 2.0
+cover: /images/2007/09/cv-apercu.png
 ---
 
 A l'heure qu'il est ma lettre de démission a été expédiée et reçue. C'est l'aboutissement de **plusieurs mois d'anticipation et de préparation** pour un changement délicat puisque passée cette première expérience professionnelle, tout contrat signé oriente davantage son destin ou ce que l'on appelle plus professionnellement une **carrière**.
 
 Je vous livre ici les clés de ma réussite, _a priori_ inédite puisqu'entièrement basée sur de la communication, de la présence et de l'image de marque. J'ai utilisé tous les outils à ma disposition pour me mettre en valeur. Et je peux vous dire qu'il y a des reconsidérations à faire sur des outils Internet soit disant inutiles ;)
+
 <!--more-->
 
 ## Anticiper et convertir sa propre démotivation

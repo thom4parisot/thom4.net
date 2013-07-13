@@ -13,6 +13,7 @@ tags:
 - zend framework
 categories:
 - Développement Web
+cover: /images/2008/06/couverture-livre-blanc.png
 ---
 
 Cette semaine pas d'article pour vous élever dans la stratosphère du Web (quoique) malgré la dizaine de brouillons sous le bras. Je vous communique néanmoins **quelques dates et rendez-vous** où l'on se verra peut-être, surtout si vous êtes à Bordeaux et que le Web fait partie de vos préoccupations.

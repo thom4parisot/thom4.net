@@ -12,6 +12,7 @@ tags:
 categories:
 - Personnel
 - Travail 2.0
+cover: /images/2012/10/DSC_4513_W1280.jpg
 ---
 
 Voyager est un excellent moyen de prendre du recul, de sortir la tête du quotidien, de son nombril.

@@ -10,6 +10,7 @@ tags:
 categories:
 - Évènements
 - Développement Web
+cover: /images/2011/01/logo-sudweb.png
 ---
 
 D'habitude, le vendredi c'est la journée des trolls. Je préfère terminer la semaine doucement, sur une note d'ouverture.
@@ -18,8 +19,6 @@ Samedi dernier, le 5 mars, l'équipe de [Sud Web](http://sudweb.fr) s'est réuni
 Pour être précis, ce sont 12 personnes qui ont fait le déplacement jusqu'aux arènes, depuis Bordeaux, depuis Paris et même depuis Arles ! **12 personnes sur combien ? 14**. Dont 1 excusé ayant prévu de venir et une personne en plein déménagement.
 
 S'il y avait un pareil engouement pour se rendre aux urnes en avril 2012, j'en serais ravi.
-
-![](/images/2011/01/logo-sudweb.png "Sud Web")
 
 <!--more-->
 

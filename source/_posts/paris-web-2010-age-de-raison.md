@@ -22,6 +22,7 @@ categories:
 - Évènements
 - Développement Web
 - Standards du Web
+cover: /images/2010/09/logotype-paris-web.png
 ---
 
 [Paris Web](http://paris-web.fr/). Déjà 2 semaines que cet évènement est passé. 1 an à attendre à chaque fois : ça fait long mais au final, l'attente passe vite. Plus on se rapproche de la prochaine édition, plus le temps file.
@@ -29,8 +30,6 @@ categories:
 Cette année, j'ai décidé de participer à toutes les conférences qui ne sont pas au cœur de mon activité quotidienne, au sens _production_. En gros, j'ai voulu laisser tomber tous les _buzzwords_ et me concentrer sur des compétences et connaissances périphériques à activité. Satisfaire ma curiosité.
 
 Je suis donc arrivé à Paris Web sans avoir regardé le programme, en décidant entre chaque pause le titre de la conférence que j'allais inscrire sur mon carnet de notes.
-
-[![](/images/2010/09/logotype-paris-web-300x203.png "Paris-Web")](/images/2010/09/logotype-paris-web.png)
 
 <!--more-->
 

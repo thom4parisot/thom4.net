@@ -15,6 +15,7 @@ tags:
 categories:
 - Entrepreneuriat
 - Personnel
+cover: /images/2011/12/DSC_0577-LR.jpg
 ---
 
 Après un éclat de rire, détendu, je lâche à un ami "on s'est bien vautré cette année quand même". Cette réflexion m'est venue lors d'une soirée, alors que j'observais l'apparente tranquilité des convives. Cet ami me répond : "tu sais, c'est le cas de tout le monde dans cette pièce".

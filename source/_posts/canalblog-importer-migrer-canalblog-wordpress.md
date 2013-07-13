@@ -14,11 +14,10 @@ tags:
 - xpath
 categories:
 - WordPress
+cover: /images/2010/02/canalblog.png
 ---
 
 [Canalblog](http://www.canalblog.com/), en 2010, c'est près de 700 000 blogs et près de 17 millions d'articles publiés depuis l'année 2003\. À ce stade, difficile de considérer cette plateforme comme négligeable puisqu'elle a bénéficié d'une capacité d'attraction suffisante pour séduire plusieurs centaines de millier d'utilisateurs.
-
-![](/images/2010/02/canalblog.png "Logo Canalblog")
 
 J'ai contacté le support à plusieurs reprises pour prendre connaissance de la mise en place de noms de domaine personnalisés et de la mise en place de nouvelles fonctionnalités. Bénéficier d'une adresse en _monblog.fr_ au lieu de _monblog.canalblog.fr_ est intéressant, en terme d'image mais aussi d'indépendance.
 

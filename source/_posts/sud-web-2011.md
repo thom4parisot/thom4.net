@@ -14,14 +14,13 @@ categories:
 - Évènements
 - Développement Web
 - Projets
+cover: /images/2011/01/logo-sudweb.png
 ---
 
 L'appel à conférences de [Sud Web](http://sudweb.fr/) est lancé depuis le début du mois de janvier 2011\. Il court **jusqu'au 7 février** (minuit, cachet de la Poste faisant foi). C'est l'occasion pour tout un chacun d'exprimer son savoir-faire lié au Web, et de le faire savoir.
 
 En 2011, nous avons décidé de mettre en avant ces thèmes de conférences : développement, métier, valeurs et méthodologie. 4 thèmes, c'est beaucoup ... et bien peu face au nombre de sujets à traiter.
 Retour sur la constitution de Sud Web, et ce qui nous a amené à choisir ces thèmes, chers à nos cœurs ... et nos professions.
-
-![](/images/2011/01/logo-sudweb.png "Sud Web 2011")
 
 <!--more-->
 

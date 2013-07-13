@@ -13,6 +13,7 @@ tags:
 categories:
 - Photographie
 - Travail 2.0
+cover: /images/2012/08/5096781001_fb731f1725_b.jpg
 ---
 
 Ce billait s'intitulait initialement **Passion et responsabilité**.

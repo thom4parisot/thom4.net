@@ -18,13 +18,12 @@ categories:
 - Mobile
 - Standards du Web
 - Travail 2.0
+cover: /images/2011/10/shot_1318684180740.jpg
 ---
 
 Une année s'est déjà écoulée depuis [Paris Web](http://paris-web.fr) 2010\. À mon retour de cette précédente édition, je l'avais même qualifiée d'[âge de raison](https://oncletom.io/2010/paris-web-2010-age-de-raison/ "Paris Web 2010 : l’âge de raison"). Petit à petit, année après année, les conférences Paris Web en sont arrivées à 2 sessions simultanées, 500 inscrits, 60 orateurs, de la traduction en langue des signes française et même de la [vélotypie](http://fr.wikipedia.org/wiki/V%C3%A9lotypie) pour une retranscription écrite en direct.
 
 Pour ma part, c'est la **quatrième année consécutive** où je m'y rends … et où on accepte de me voir déblatérer des sujets de plus en plus bizarre. Qu'y ai-je vu cette année ?
-
-[![Legalize Table](/images/2011/10/shot_1318684180740-300x300.jpg "Legalize Table")](/images/2011/10/shot_1318684180740.jpg)
 
 <!--more-->
 

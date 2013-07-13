@@ -15,6 +15,7 @@ tags:
 categories:
 - Évènements
 - Standards du Web
+cover: /images/2010/10/a4782f1b1a1a45aab40472dd16bf1753_7.jpg
 ---
 
 De l'eau a coulé sous les ponts depuis [Paris Web](http://paris-web.fr/), et surtout, depuis que j'ai animé mon atelier technique intitulé "Industrialiser l'artisanat de l'intégration Web" (titre amélioré sur une judicieuse remarque de [Frank Taillandier](http://frank.taillandier.free.fr/) ... comme quoi on peut être végétarien et avoir de bonnes idées ;-)).

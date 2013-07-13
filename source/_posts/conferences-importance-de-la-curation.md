@@ -11,6 +11,7 @@ tags:
 categories:
 - Évènements
 - JavaScript
+cover: /images/2012/12/2012-11-30_10-17-17.jpg
 ---
 
 La [conférence DotJS](http://dotjs.eu) s’est déroulée le vendredi 30 novembre au théâtre des variétés à Paris. L’occasion de se retrouver avec la team invincible : [David Bruant](http://longtermlaziness.wordpress.com/), [Guillaume Marty](http://twitter.com/g_marty) et [Nicolas Chambrier](http://naholyr.fr/) !

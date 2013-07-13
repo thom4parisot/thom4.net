@@ -11,9 +11,8 @@ tags:
 - performances
 categories:
 - Développement Web
+cover: /images/2007/12/jquery-logo.png
 ---
-
-![Logo jQuery](/images/2007/12/jquery-logo.png)
 
 [JQuery](http://jquery.com) est une formidable librairie JavaScript car elle offre une grande souplesse et une utilisation simple. **Il est cependant important de bien comprendre son fonctionnement** pour éviter les débordements liés à une joie mal maîtrisée.
 S'il est très facile d'utiliser les sélecteurs CSS de jQuery, je constate de ci de là que leur utilisation n'est pas toujours optimale ... quand elle l'est déjà un tant soit peu.

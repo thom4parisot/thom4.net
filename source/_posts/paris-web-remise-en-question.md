@@ -14,6 +14,7 @@ categories:
 - Évènements
 - Développement Web
 - Personnel
+cover: /images/2012/10/A5ogsJmCAAA89Pu.jpg
 ---
 
 Quels que soient les sujets, quels que soient les orateurs, on pourra dire que me rendre à Paris Web chaque année aura contribué à influencer ma vie.

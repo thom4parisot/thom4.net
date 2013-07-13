@@ -12,11 +12,10 @@ tags:
 - usa
 categories:
 - Travail 2.0
+cover: /images/2010/02/twitter.png
 ---
 
 Je pense que la première chose que j'ai vu en débarquant dans le quartier de Time Square à New York, c'était une pub géante pour [Twitter](http://twitter.com/). Dans le métro de Montréal, c'était un argument fonctionnel pour des téléphones mobiles : il est compatible Twitter et Facebook. De quoi laisser divaguer son esprit sur la diffusion grand public de l'outil − qui est toute relative, [seuls 4% des internautes américains l'utiliseraient vraiment](http://www.emarketer.com/Article.aspx?R=1007059). Bon, ça fait quand même 6 millions d'utilisateurs.
-
-![](/images/2010/02/twitter.png "Logo Twitter")
 
 En France, on ne sait pas trop en fin de compte. L'[IFOP parlait de 2% des internautes français](http://www.ifop.fr/media/poll/917-1-study_file.pdf) (~ 760 000 utilisateurs) mais j'ai vraiment peine à croire que le nombre soit aussi élevé. En 2009 ce service était considéré comme nouveau dans notre contrée. En 2010 on se pose encore les mêmes questions : faut-il utiliser Twitter ? À quoi ça sert ?
 

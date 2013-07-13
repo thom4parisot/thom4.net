@@ -10,6 +10,7 @@ tags:
 - nodejs
 categories:
 - Développement Web
+cover: /images/2012/10/logo.js_badge_512.png
 ---
 
 [Sud Web 2012](http://sudweb.fr/2012/) : une discussion autour d'un [bon poulet à Toulouse](http://www.pategrain.com/) avec [Frank](http://frank.taillandier.me/) et compagnie.

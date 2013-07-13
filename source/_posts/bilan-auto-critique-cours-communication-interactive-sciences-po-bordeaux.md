@@ -16,6 +16,7 @@ tags:
 categories:
 - Projets
 - Travail 2.0
+cover: /images/2010/04/sciences-po-bordeaux.png
 ---
 
 J'ai eu la chance et le privilège de pouvoir dispenser des cours à des élèves en [Master 2 Communication Publique et Politique](http://www.sciencespobordeaux.fr/fr/formation/formation_initiale/masters/cpp_communication_publique_et_politique.html), alias CPP. Il s'agit d'un cursus commun entre l'I[SIC](http://isic.u-bordeaux3.fr/) et [Sciences-Po Bordeaux](www.sciencespobordeaux.fr/). D'ailleurs, les 2 semestres sont partagés entre les 2 instituts.

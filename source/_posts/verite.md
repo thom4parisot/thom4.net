@@ -13,6 +13,7 @@ categories:
 - Entrepreneuriat
 - Personnel
 - Photographie
+cover:  /images/2013/01/8219758779_e0d21f3c5e_z.jpg
 ---
 
 L’année débute tout juste. La fatigue du réveillon n’éclipse pas l’envie de prendre la plume pour dresser un bilan et orienter le regard vers l’avenir, vers demain.

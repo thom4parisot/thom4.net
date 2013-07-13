@@ -11,6 +11,7 @@ tags:
 - sarl
 categories:
 - Entrepreneuriat
+cover: /images/2011/03/logo_cyneticmonkey_standard.png
 ---
 
 On ne décide pas de [quitter son travail ou de tourner dos au salariat](https://oncletom.io/2010/pourquoi-quitter-travail/ "Pourquoi j’ai décidé de quitter mon travail") du jour au lendemain. Est-ce parce que l'herbe est plus verte ailleurs ? Qu'on cherche à changer d'air, d'orientation ou afin de percevoir une rémunération mieux adaptée à son travail ?
@@ -18,8 +19,6 @@ On ne décide pas de [quitter son travail ou de tourner dos au salariat](https:/
 Devenir indépendant est-il un passage obligé ou une [tentative désespérée d'atteindre une liberté](https://oncletom.io/2011/liberte/ "1 seul changement pour 2011 : liberté") promise, s'éloignant au fur et à mesure que l'on s'en rapproche ?
 
 Dans mon cas, puisque je ne peux parler que de mon expérience avec la création de [CyneticMonkey](http://cyneticmonkey.com). **Les réponses se trouvent dans le passé**, mon caractère et mes objectifs, tant professionnels que personnels.
-
-[![](/images/2011/03/logo_cyneticmonkey_standard-300x207.png "CyneticMonkey")](http://cyneticmonkey.com)
 
 <!--more-->
 

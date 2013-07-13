@@ -12,13 +12,14 @@ tags:
 categories:
 - Personnel
 - Travail 2.0
+cover: /images/2007/11/clever_age.png
 ---
 
 [Après avoir mis toutes les billes de mon côté pour ma recherche d'emploi](https://oncletom.io/2007/preparer-optimiser-recherche-emploi/), [j'ai démissionné](https://oncletom.io/2007/lettre-demission/). J'avoue que les derniers jours m'ont paru plus longs que d'habitude ... _l'impatience de commencer une nouvelle aventure c'est quelque chose_.
 
 Après deux semaines de travail, j'en tire déjà quelques conclusions, par rapport au travail, aux gens avec qui je compose et à ma nouvelle vie. Certains livres et méthodes oscillent entre 30 et 90 jours pour convaincre. Tout ce que je peux dire c'est que 90 c'est beaucoup trop : **en 20 ou 30 jours tout est cuit**.
 
-![](/images/2007/11/clever_age.png "Clever Age") <!--more-->
+<!--more-->
 
 ## Changement de collègues
 

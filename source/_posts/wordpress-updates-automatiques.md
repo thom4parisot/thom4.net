@@ -10,6 +10,7 @@ tags:
 - WordPress
 categories:
 - WordPress
+cover: /images/2009/04/wordpress-badge.png
 ---
 
 Lorsque j'étais hébergé chez [OVH](http://www.ovh.com/), avant de basculer vers [AlwaysData](http://alwaysdata.com/) pour gagner en vitesse d'affichage, la mise à jour de mes extensions se faisait le plus simplement du monde depuis l'interface d'administration.

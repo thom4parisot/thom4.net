@@ -7,6 +7,9 @@ tags:
 - mozilla
 categories:
 - Développement Web
+cover:
+  url: /images/2013/02/dino.png
+  link: https://wiki.mozilla.org/MDN/Doc_sprints/2013February
 ---
 
 Je me suis laissé embarquer dans un [Mozilla Doc Sprint](https://wiki.mozilla.org/MDN/Doc_sprints/2013February) par [David Bruant](https://twitter.com/davidbruant). C'était un samedi, pluvieux de surcroît. Une motivation liée à l'apprentissage et à la découverte de la contribution. C'est quoi contribuer ? Il faut être qui pour contribuer ? Et savoir quoi, surtout.
@@ -55,7 +58,7 @@ Par ricochet, je commence à chercher l'origine de la [compatibilité avec `href
 
 [L'histoire remonte à … 2001](https://bugzilla.mozilla.org/show_bug.cgi?id=93077), pour une sombre histoire de compatibilité avec … Internet Explorer **4**. Bug réouvert en 2011 après avoir été rencontré dans Firefox Mobile. Époque à laquelle le "Remonter en haut de page" revient à la mode puisque pratique sur mobile.
 
-Puis de constater que ce comportement a été [standardisé dans HTML5](http://www.whatwg.org/specs/web-apps/current-work/multipage/history.html#scroll-to-fragid) (voir le point 6). Ça me fait penser à l'[histoire de <main>](http://www.whatwg.org/specs/web-apps/current-work/multipage/grouping-content.html#the-main-element), implémenté après une observation des usages (et peut-être à cause de la [faible popularité d'ARIA](http://www.sitepoint.com/whos-using-aria/) ?).
+Puis de constater que ce comportement a été [standardisé dans HTML5](http://www.whatwg.org/specs/web-apps/current-work/multipage/history.html#scroll-to-fragid) (voir le point 6). Ça me fait penser à l'[histoire de `<main>`](http://www.whatwg.org/specs/web-apps/current-work/multipage/grouping-content.html#the-main-element), implémenté après une observation des usages (et peut-être à cause de la [faible popularité d'ARIA](http://www.sitepoint.com/whos-using-aria/) ?).
 
 Une bonne heure de passée juste pour naviguer, lire et rajouter … un lien hypertexte dans [MDN](https://developer.mozilla.org/).
 

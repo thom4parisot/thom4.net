@@ -17,6 +17,7 @@ tags:
 categories:
 - Développement Web
 - Mobile
+cover: /images/2010/04/android-nq8.png
 ---
 
 J'ai lu hier un article intitulé [Internet mobile : 10 raisons de proposer une application plutôt qu'une version Web mobile de son site](http://www.presse-citron.net/internet-mobile-10-raisons-de-proposer-une-application-plutot-quune-version-web-mobile-de-son-site). Je passerai outre le « x raisons / meilleures applis / bla bla » dont l'intérêt a été usé par son usage.
@@ -28,8 +29,6 @@ Non, ce qui m'a vraiment frappé c'est que sur les 10 raisons évoquées, à pei
 
 Mais surtout, les véritables raisons ne sont même pas évoquées.
 Rectification.
-
-![Logo Android](/images/2010/04/android-nq8.png "Logo Android")
 
 <!--more-->
 

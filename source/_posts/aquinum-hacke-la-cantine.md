@@ -9,13 +9,12 @@ tags:
 - rendez-vous
 categories:
 - Projets
+cover: /images/2011/01/logo-aquinum.png
 ---
 
 [Aquinum ](http://aquinum.fr)est une association née en décembre 2010\. Elle a pour but de **fédérer les acteurs aquitains du numérique**, et de mettre en valeur leurs actions. Elle compte un peu plus de 90 membres à l'heure actuelle et surtout, elle lance une opération illustrant sa nature : [Aquinum hacke la Cantine](http://www.amiando.com/aqhackan.html).
 
 Présentation rapide du programme et bien sûr, invitation à venir sur place, le **jeudi 13 janvier 2011**. Le cocktail est offert ... ainsi que le reste de la soirée ;-)
-
-![](/images/2011/01/logo-aquinum-300x142.png "Logo Aquinum")
 
 <!--more-->
 

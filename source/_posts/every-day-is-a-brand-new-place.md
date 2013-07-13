@@ -9,6 +9,8 @@ tags:
 categories:
 - Personnel
 - Travail 2.0
+cover:
+  url: /images/2013/06/8497120471_08cbaf3834_c.jpg
 ---
 
 C’est peu ou prou le discours tenu par un vagabond à Donald Draper dans la première saison de [Mad Men](http://www.amctv.com/shows/mad-men). C’est son _mantra_. **Cette rencontre changea à jamais** la vie de ce petit garçon même s’il ne s’en souvint que bien plus tard, lorsqu’il voulut à nouveau fuir une vie qui lui réussit mais dans laquelle _il ne se sentirait plus jamais à sa place_. <!--more-->

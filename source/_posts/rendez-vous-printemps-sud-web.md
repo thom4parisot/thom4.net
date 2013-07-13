@@ -16,13 +16,12 @@ categories:
 - Évènements
 - Développement Web
 - Entrepreneuriat
+cover: /images/2011/01/logo-sudweb.png
 ---
 
 Le printemps est posé, le travail afflue, le soleil brille dans un ciel dégagé ... et pourtant, il y a des raisons de s'enfermer dans le noir à faire rouler les mécaniques. Plusieurs évènements méritent le détour – encore que je cite uniquement ceux auxquels je vais participer.
 
 Alsacréations a publié hier son [calendrier des conférences 2011](http://www.alsacreations.com/actu/lire/1202-conferences-web-2011-a-vos-agendas.html). J'en profite pour étayer quelque peu, et ajouter d'autres sujets tout aussi intéressants.
-
-![](/images/2011/01/logo-sudweb.png "Sud Web")
 
 <!--more-->
 
