@@ -104,5 +104,3 @@ En effet plutôt que de nous dire **quoi faire**, **Transcender CSS** explique *
 Vous le savez tout aussi bien que moi, le gros problème des ouvrages réside dans des cas pratiques difficilement réutilisables au quotidien. **Transcender CSS** a l'intelligence de proposer des recettes pour **mieux aborder la conception des sites**, des sources d'inspiration jusqu'aux secrets du découpage en grilles. Qui eût cru que la presse papier avait encore de belles leçons à donner au Web ?
 
 **Transcender CSS** ne livre pas clé en mains des solutions mais vous aidera à y voir plus clair, à comprendre pour mieux réagir. En soi c'est ce que j'attends d'un livre à 30€. **Une valeur sure**.
-
-[amazon-carrousel]730e7f70-dbbe-48ba-85e0-7a9cc5054dc8[/amazon-carrousel]

@@ -17,14 +17,15 @@ tags:
 categories:
 - Personnel
 - Projets
+cover:
+  url: //farm4.static.flickr.com/3493/3728205591_48db6692ac_b_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/3728205591/
 ---
 
 Il s'en est passé des choses en 2009\. Pour une année de crise, c'était avant tout une année on ne peut plus remplie, pleine de projets, de rencontres et de changements.
 Ce fût à mes yeux une **excellente année** et si 2010 continue sur cette lancée, le résultat n'en sera que meilleur.
 
 C'est l'occasion de dresser un **rapide bilan de l'année** et de parler de [6 Changes](http://6changes.com/), une méthode sympathique qui m'a plu et assez facile à mettre en œuvre.
-
-[![Bordeaux Fireworks](//farm4.static.flickr.com/3493/3728205591_48db6692ac.jpg)](http://www.flickr.com/photos/the-jedi/3728205591/ "Bordeaux Fireworks de Oncle Tom, sur Flickr")
 
 <!--more-->
 

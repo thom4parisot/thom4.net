@@ -213,5 +213,3 @@ Ma méthodologie n'est pas parfaite, peut être perfectible et ne conviendra pas
 C'est ce qui importe. **Il y a autant de façons de coder qu'il n'y a de développeurs**. Le tout est d'être ouvert aux améliorations possibles, aux méthodes existantes et à l'intérêt de leurs utilisations. Je trouverai peut-être cet article obsolète dans 1 an mais il aura été un point de passage.
 
 J'espère qu'il le sera au moins en partie pour vous, développeur en herbe ou féru des pseudo-classes ;-)
-
-[amazon-carrousel]730e7f70-dbbe-48ba-85e0-7a9cc5054dc8[/amazon-carrousel]

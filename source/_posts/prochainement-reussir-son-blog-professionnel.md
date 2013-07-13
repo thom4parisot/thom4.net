@@ -143,5 +143,3 @@ Cette table des matières est encore sujette à évolution, notamment dans le ch
 Pendant cette fin de mois de juillet, je procède aux corrections sur les judicieux conseils de ma batterie de relecteurs. [Philippe Martin](http://www.nayezpaspeur.ca/blog/) participe également au projet en proposant une préface et sa vision franco-canadienne de l'utilité des blogs. Au mois d'août, l'imprimeur fait son office pour que le 3 septembre vous puissiez apprécier le travail mené et commencer à m'insulter parce que de toutes façons, les blogs c'est nul, ça craint et que le classement Wikio ça sert à rien :-)
 
 D'ici là je vous livrerai quelques billets sur cette épreuve car malgré l'aspect sympathique d'écrire un livre, c'est avant tout une aventure humaine, tant d'un point de vue personnel que professionnel.
-
-[amazon-product]2212125143[/amazon-product]

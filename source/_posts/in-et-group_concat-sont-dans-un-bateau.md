@@ -101,5 +101,3 @@ Bref, on a gagné une boucle (le `while`), des lignes de résultats MySQL
 (autant de ressources d'économisées) et un traitement PHP en moins (`implode`).
 Et devinez quoi ? Le résultat retourné par le `GROUP_CONCAT`
 s'intègre très bien dans le ... `IN()`.
-
-[amazon-carrousel]d0a06165-3ed7-478a-9bf3-0ce760581b8a[/amazon-carrousel]

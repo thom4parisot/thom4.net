@@ -46,5 +46,3 @@ J'ai découvert le site de l'auteur bien avant qu'il écrive son livre et je le 
 La même chose que _Ppk on Javascript_ mais avec des CSS ! Pour bien comprendre les différents bugs des navigateurs, les histoires de DOCTYPE et de mode navigateur, les bonnes pratiques pour maintenir son code CSS, les hacks, les filtres et tout ce qui est recommandé ou pas. Bref ça me paraît être un bon choix.
 
 Rendez-vous dans quelques temps : on verra bien si ça me servira :-)
-
-[amazon-carrousel]730e7f70-dbbe-48ba-85e0-7a9cc5054dc8[/amazon-carrousel]

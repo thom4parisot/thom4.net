@@ -14,9 +14,8 @@ tags:
 categories:
 - Évènements
 - Développement Web
+cover: /images/2008/11/blueprint-logo.png
 ---
-
-![](/images/2008/11/blueprint-logo.png "Logo Blueprint")
 
 J'ai eu peur il y a 2 semaines en arrivant à [Paris-Web 2008](https://oncletom.io/2008/11/20/paris-web-2008-webdesign-qualite-standards/) : en discutant avec plusieurs personnes, il se trouve que peu d'entre elles connaissaient les _frameworks_ CSS. Je craignais de n'attirer personne avec ce sujet lors des [ateliers du samedi](http://www.paris-web.fr/2008/-samedi-15-novembre-technique-).
 

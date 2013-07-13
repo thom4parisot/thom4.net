@@ -94,5 +94,3 @@ Cette présentation relativement courte avait pour but d'expliquer en 15 minutes
 À en croire les retours par mail, nous avons réussi à nous 4 à rassurer et convaincre un bon paquet d'entreprises ;-)
 
 Une journée utile, des rencontres intéressantes et un public satisfait. J'aurais pas posé un jour de RTT pour rien !
-
-[amazon-product]2922417689[/amazon-product]

@@ -149,5 +149,3 @@ Nous avons vu 2 méthodes pour rendre sa **gestion des bases de données plus so
 On peut aussi constater que les **nouveaux services de protection peuvent compliquer la vie** si on ne les sait pas actifs et si on ne comprend pas leur fonctionnement. J'ai passé plusieurs heures à comprendre pourquoi le serveur MySQL ne se relançait pas alors qu'il me semblait avoir effectué la même manipulation sur les précédentes versions d'Ubuntu.
 
 N'hésitez pas à partager votre méthode ou apporter vos suggestions sur votre gestion des _datadir_.
-
-[amazon-carrousel]d0a06165-3ed7-478a-9bf3-0ce760581b8a[/amazon-carrousel]

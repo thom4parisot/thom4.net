@@ -37,5 +37,3 @@ D'autres sont plus tordues au premier abord mais totalement justifiée, certaine
 *   <cite>La navigation reste possible sur l'ensemble du site en utilisant exclusivement le clavier</cite>.
 
 Comme vous pouvez le constater, ça n'a rien de bien sorcier. C'est un peu comme dire <cite>bonjour</cite> en se présentant à un inconnu : c'est le minimum à fournir pour établir une conversation. Lorsqu'on crée un site Web, c'est une conversation avec le monde que l'on établit ;-)
-
-[amazon-product]2212121016[/amazon-product]

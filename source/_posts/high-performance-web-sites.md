@@ -92,5 +92,3 @@ J'ai dévoré **High Performance Web Sites** grâce à sa simplicité de rédact
 Ces optimisations ne sont évidemment pas les seules à mettre en place pour que tout fonctionne bien : il faut aussi produire du code HTML propre, du JavaScript optimisé, du code application qui ne soit pas redondant.
 
 **C'est un bon début et des pratiques à généraliser**.
-
-[amazon-product]0596529309[/amazon-product]

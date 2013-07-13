@@ -162,4 +162,3 @@ Pour résumer, je résume la pensée des **bonnes pratiques du JavaScript non in
 
 Ainsi, **on ne pénalise personne** (y compris en cas d'erreur de programmation), **on conserve un code lisible** tout en **facilitant sa réutilisation** dans un autre document.
 
-[amazon-carrousel]fc64116b-6b59-444b-b4ee-074a4adecf57[/amazon-carrousel]

@@ -54,4 +54,3 @@ En cas de changement de paramètre, **le navigateur estime qu'il s'agit d'un nou
 Cette petite astuce permet de _gagner en crédibilité face à des clients_, _évite aux internautes d'être perdus_ dans un affichage incohérent misant fortement sur les feuilles de style.
 Exactement ce que l'on recherchait ;-)
 
-[amazon-carrousel]8010%2F730e7f70-dbbe-48ba-85e0-7a9cc5054dc8[/amazon-carrousel]

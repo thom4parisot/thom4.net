@@ -48,7 +48,7 @@ L'architecture, c'est **travailler sur un patrimoine**, ensemble, en utilisant l
 
 Paris Web est un moment où l'**on s'ouvre l'esprit** : cette conférence était programmée au bon moment, avec le bon intervenant mais surtout avec le bon contenu. Quelque chose qui n'était pas axée sur le Web. Celui qui replace le Web dans son contexte, celui de l'inspiration.
 
-**Conseil livre** : [amazon-product text="Vers une architecture" type="text"]2081217449[/amazon-product] de Le Corbusier.
+**Conseil livre** : _Vers une architecture_ de Le Corbusier.
 
 ## Let's Interface!
 
@@ -99,7 +99,7 @@ Olivier soulignait aussi un détail essentiel, qu'on oublie un peu et qui pourta
 
 Encore une fois, les personnes les plus fascinantes ne sont pas celles qui apportent de nouvelles choses ou qui sont les "meilleures". Mais celles qui apportent un regard différent, de par leur(s) culture(s), leur expérience et leur vécu.
 
-**Conseil lecture** : [amazon-product text="The Myths of Innovation" type="text"]0596527055/[/amazon-product] de Scott Berkun.
+**Conseil lecture** : _The Myths of Innovation_ de Scott Berkun.
 
 ## Journey over Destination: creating an effective framework with UX tools
 
@@ -125,7 +125,7 @@ En revanche, retour à l'architecture, c'est tout le **bagage culturel** que les
 
 En considérant que le Web, c'est 95% de typographie (ce que l'on lit), ce n'est clairement pas le choix banal que l'on a l'habitude de faire, ou de subir. Je rajoute cette notion aux indispensables à réunir pour réussir un projet, par le biais de la communication écrite.
 
-**Conseil lecture** : [amazon-product text="Guide pratique de choix typographique" type="text"]2911220269[/amazon-product]de David Rault.
+**Conseil lecture** : _Guide pratique de choix typographique_ de David Rault.
 
 ## La macrotypographie de la page Web
 
@@ -139,7 +139,7 @@ Plus amusant encore, tout ce qui concerne la typographie a déjà été inventé
 
 Un **regard rafraîchissant** de plus sur la manière de concevoir et d'architecturer nos contenus, nos sites et nos applications.
 
-**Conseil lecture** : [amazon-product text="Grid Systems in Graphic Design" type="text"]3721201450/[/amazon-product]de Josef Muller-Brockmann.
+**Conseil lecture** : _Grid Systems in Graphic Design_ de Josef Muller-Brockmann.
 
 [![La crois au rouge français](//farm2.static.flickr.com/1153/5108562588_7a9d7e59d8.jpg "La croix au rouge français")](http://www.flickr.com/photos/nicolas-hoizey/5108562588/)
 

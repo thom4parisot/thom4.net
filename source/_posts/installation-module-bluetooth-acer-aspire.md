@@ -106,5 +106,3 @@ options acer_acpi wireless=1 bluetooth=1
 J'espère au moins avoir permis d'aiguiller certains esprits fougueux. Ca aura fonctionné au moins pour moi ;-)
 
 **Remarque** : suite à des demandes répétées, voici un lien direct vers la [documentation et les plans Acer](http://dl.free.fr/bLCS31qZW/doc-acer.zip). Ça vous permettra de lire la procédure de démontage et de mieux appréhender la difficulté de l'opération.
-
-[amazon-carrousel]2ba4653d-6a25-4a35-ab9d-4e4051b916f6[/amazon-carrousel]

@@ -18,4 +18,3 @@ Créer un blog est facile, l'entretenir l'est déjà un peu moins alors j'ai ég
 5.  Gérer un blog au quotidien
 6.  Quel logiciel choisir ?
 7.  Utiliser des services complémentaires pour étendre son réseau (Facebook, Twitter etc.)
-[amazon-product]2212127685[/amazon-product]

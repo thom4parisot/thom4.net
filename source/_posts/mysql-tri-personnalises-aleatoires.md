@@ -108,4 +108,3 @@ C'est également intéressant pour **trier le résultat d'une requête en foncti
 La clause `ORDER BY` est plus puissante qu'il n'y paraît. **Elle est garante de l'ordre des résultats retournés**. Si dans certains cas l'ordre n'a pas d'importance, le contraire peut également être valable. Et c'est précisément dans ce cas que l'on aime à pouvoir manipuler les données comme on l'entend.
 Il existe d'autres possibilités intéressantes en combinant par exemple le tri et les recherches _FULLTEXT_ pour **récupérer les lignes par ordre de pertinence** ou pourquoi pas sur des **résultats de calcul**.
 
-[amazon-carrousel]d0a06165-3ed7-478a-9bf3-0ce760581b8a[/amazon-carrousel]

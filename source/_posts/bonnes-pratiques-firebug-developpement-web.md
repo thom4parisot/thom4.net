@@ -146,5 +146,3 @@ Enfin on termine sur une partie complémentaire aux stats : les composants (_com
 
 J'espère avoir éclairé quelques lanternes sur l'utilisation de Firebug. Cette extension est suffisamment puissante pour gagner en confort de développement ; il serait dommage de s'en priver. **On gagne du temps, du confort et surtout, de la qualité de développement**.
 À noter qu'il existe aussi Firebug Lite. Il s'agit d'un script JavaScript compatible avec les principaux navigateurs du marché mais comme le _Lite_ l'indique, les fonctionnalités sont plutôt limitées. Seule la console JavaScript persiste.
-
-[amazon-carrousel]fc64116b-6b59-444b-b4ee-074a4adecf57[/amazon-carrousel]

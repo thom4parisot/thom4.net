@@ -224,5 +224,3 @@ Une autre optimisation consiste à déplacer la déclaration CSS `cursor` dans l
 **Optimiser ses sélecteurs n'est finalement pas si difficile que ça quand on comprend comment fonctionnent les rouages internes**. Il est évident que les gains peuvent être minimes sur de petites pages. Il s'agit cependant d'une gymnastique à maîtriser : ce n'est pas en arrivant sur de gros volumes qu'il faudra apprendre à sélectionner proprement.
 
 Et comme <q>les petites rivières font les grands fleuves</q>, ces petites économies pourraient vous sauver la vie sur des applications full-AJAX ou qui sait, quand vous travaillerez chez Netvibes ;-)
-
-[amazon-carrousel]fc64116b-6b59-444b-b4ee-074a4adecf57[/amazon-carrousel]

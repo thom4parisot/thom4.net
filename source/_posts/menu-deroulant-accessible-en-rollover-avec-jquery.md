@@ -187,4 +187,3 @@ Ceci n'est qu'un exemple où le JavaScript peut servir à conserver des interfac
 Le seul reproche que l'on peut faire à ce menu accessible c'est le _manque de navigation au clavier_. L'idéal serait de pouvoir naviguer dans le choix des menus entièrement avec les flèches de son clavier.
 Rendez-vous dans un autre billet pour ce point ? ;-)
 
-[amazon-carrousel]fc64116b-6b59-444b-b4ee-074a4adecf57[/amazon-carrousel]

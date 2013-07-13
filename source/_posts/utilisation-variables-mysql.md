@@ -72,5 +72,3 @@ UPDATE `item_liste` SET item_ordre = @ordre := @ordre+1, item_cat = 2 WHERE item
 **Alors pourquoi ça fonctionne** ? La commande `UPDATE` balaie les lignes **une par une** et du coup, **met à jour la variable `@ordre` à chaque ligne**. Nous retrouvons ainsi l'effet désiré : incrémenter chaque ligne déplacée dans la nouvelle catégorie.
 
 Il existe des utilisations plus compliquées que celles-là mais je pense que c'est un bon départ pour se faire une idée de ce qui est faisable par ce biais là. L'imagination et les besoins feront le reste ;-)
-
-[amazon-carrousel]d0a06165-3ed7-478a-9bf3-0ce760581b8a[/amazon-carrousel]

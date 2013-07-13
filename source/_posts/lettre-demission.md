@@ -39,5 +39,3 @@ Pour terminer, je synthétise quelques remarques issues de mon expérience perso
 *   _remercier son patron_ : vous avez beau partir, travailler avec lui vous aura quand même apporté (financièrement ou autre)
 *   _bien présenter sa lettre_ : lire un torchon ce n'est pas franchement agréable
 *   ne pas oublier que _votre ex-patron peut redevenir votre patron_, plus tard
-
-[amazon-carrousel]F95792d50-13a8-4011-ab58-9ff35b0cb174[/amazon-carrousel]

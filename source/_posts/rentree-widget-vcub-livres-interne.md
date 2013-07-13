@@ -46,7 +46,7 @@ En attendant, vous pouvez toujours _[forker](http://github.com/oncletom/uwa-vcub
 ## Boulimie littéraire
 
 Catalogué _geek_ ou pas, on a beau passer ses journées à travailler dessus/sur/devant un ordinateur, cela n'empêche pas d'aimer lire.
-Je suis tenu en haleine par un pavé ô combien instructif : [amazon-product text="Berlin − Les offensives géantes de l'Armée Rouge" type="text"]2717857834[/amazon-product] de Jean Lopez. Il s'agit d'un livre historique sacrément bien ficelé sur les offensives finales de l'Armée Rouge entre 1944 et 1945.
+Je suis tenu en haleine par un pavé ô combien instructif : _Berlin − Les offensives géantes de l'Armée Rouge_ de Jean Lopez. Il s'agit d'un livre historique sacrément bien ficelé sur les offensives finales de l'Armée Rouge entre 1944 et 1945.
 Il contient beaucoup d'explications sur les contextes politiques, géopolitiques et les raisons du succès des Soviets ... jusqu'aux fondements de la Guerre Froide.
 Je recommande fortement sa lecture, pour peu que le sujet vous intéresse.
 
