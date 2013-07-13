@@ -2933,12 +2933,14 @@ a.thumbnail:hover {
   -moz-box-shadow: 0 1px 4px rgba(0,105,214,0.25);
   box-shadow: 0 1px 4px rgba(0,105,214,0.25);
 }
+article .content .video-container,
 article .content p img,
 article .excerpt p img {
   display: block;
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 .thumbnail .caption {
   padding: 9px;
@@ -3254,7 +3256,7 @@ label {
   margin: 1em 1.5em;
   margin-left: 0;
 }
-img[class*='wp-image-'],
+img[src^='/images'],
 img[src*='static.flickr.com'] {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -3263,6 +3265,20 @@ img[src*='static.flickr.com'] {
   -moz-box-shadow: 0 0 5px #555;
   box-shadow: 0 0 5px #555;
 }
+figure.highlight{
+  margin-left: 0;
+  margin-right: 0;
+}
+  figure.highlight .gutter{
+    text-align: right;
+  }
+  figure.highlight .code pre{
+    font-size: 14px;
+    overflow-x: auto;
+    width: 680px;
+    white-space: pre;
+    word-wrap: normal;
+  }
 .avatar-32 {
   height: 32px;
   width: 32px;
