@@ -16,9 +16,8 @@ tags:
 - symfony
 categories:
 - Développement Web
+cover: /images/2008/07/sample-php-code.png
 ---
-
-![Exemple](/images/2008/07/sample-php-code.png "Exemple de code PHP")
 
 Tout développeur, que ce soit à l'école ou en apprenant sur le tas, écrit du code. J'espère n'avoir perdu personne à ce stade de l'explication ;-)
 

@@ -99,7 +99,8 @@ C'est le serpent qui se mord la queue diraient certains.
 Et pourtant, c'est la meilleure fonctionnalité qu'on puisse apporter. Tout le monde n'étant pas technicien, les utilisateurs lambda apprécieront de pouvoir simplement se débarrasser de leur code HTML Amazon pour le convertir sur leur blog.
 
 Simple comme bonjour !
-<div style="text-align:center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="350" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://www.youtube.com/v/BigIblty910" /><embed type="application/x-shockwave-flash" width="425" height="350" src="http://www.youtube.com/v/BigIblty910"></embed></object></div>
+
+{% youtube BigIblty910 %}
 
 ## Conclusion
 

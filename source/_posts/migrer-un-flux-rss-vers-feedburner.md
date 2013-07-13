@@ -10,9 +10,8 @@ tags:
 - xml
 categories:
 - Développement Web
+cover: /images/2007/03/feedburner-logo.gif
 ---
-
-![Feedburner logo](/images/2007/03/feedburner-logo.gif)
 
 Pour mesurer l'utilisation des [flux RSS d'Emu Nova](http://www.emunova.net/infos/outils/), j'ai décidé d'utiliser [Feedburner](http://www.feedburner.com/) dans sa version gratuite. Je l'utilise déjà pour ce blog et j'en suis très satisfait, que ce soit pour les _données fournies_, les _personnalisations possibles_ ou encore la _qualité du service_.
 

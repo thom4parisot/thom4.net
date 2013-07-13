@@ -12,6 +12,7 @@ tags:
 categories:
 - Évènements
 - Projets
+cover: /images/2009/07/reussir-son-blog-professionnel-nq8.png
 ---
 
 Je serai présent à la librairie Eyrolles le samedi 5 septembre 2009 à partir de 14h30 à l'occasion de la sortie du livre [Réussir son blog professionnel](https://oncletom.io/blog-pro/).
@@ -23,7 +24,7 @@ Il y aura de toutes façons une **réduction offerte **par la librairie à cette
 
 Et comme le soir je repars à Bordeaux, on peut même faire un bout de route/rail ensemble ;-)
 
-## ![Réussir son blog professionnel](/images/2009/07/reussir-son-blog-professionnel-nq8-218x300.png "Réussir son blog professionnel")Informations complémentaires
+## Informations complémentaires
 
 **Librairie Eyrolles**
 55, 57, 61 et 63 boulevard Saint-Germain

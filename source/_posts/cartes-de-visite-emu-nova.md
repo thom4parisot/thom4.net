@@ -4,9 +4,8 @@ date: 2007-05-23 20:01:48
 tags:
 categories:
 - Projets
+cover: /images/2007/05/mini-card-moo-boite.jpg
 ---
-
-![mini-card-moo-boite.jpg](/images/2007/05/mini-card-moo-boite.jpg)
 
 C'est bien connu, [chez Emu Nova on roule en Porsche](http://forums.emunova.net/index.php?showtopic=2696). A tel point qu'on a même besoin de fournir des cartes de visites à toutes les filles que l'on ramène de _disco club_ (<cite>Jean-Jean, un Cacolac on ze rock si il te plait</cite>).
 <!--more-->

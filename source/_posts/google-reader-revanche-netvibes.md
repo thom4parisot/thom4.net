@@ -9,9 +9,8 @@ tags:
 - veille
 categories:
 - Travail 2.0
+cover: /images/2007/03/google-reader.png
 ---
-
-![Google Reader](/images/2007/03/google-reader.png)
 
 [Cela faisait un mois que j'étais passé sous Netvibes](https://oncletom.io/2007/02/08/netvibes-economiseur-de-temps/) et je ne pensais pas changer de sitôt malgré à part 2-3 défauts acceptables.
 J'ai eu envie de tester [Google Reader](http://www.google.com/reader/) après avoir lu qu'il était le [lecteur Web le plus utilisé](http://blogs.feedburner.com/feedburner/archives/2007/02/feedburners_view_of_the_feed_m.php) ainsi que l'avis d'une _personne ayant préféré Google Reader à Netvibes_. Malheureusement je ne retrouve plus le lien et c'est bien dommage car c'est ce dernier qui m'en a convaincu.

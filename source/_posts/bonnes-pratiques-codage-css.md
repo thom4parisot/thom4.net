@@ -18,9 +18,9 @@ tags:
 categories:
 - Développement Web
 - Standards du Web
+cover: /images/2008/02/css-url-import.png
 ---
 
-![CSS URL @import](/images/2008/02/css-url-import.png)
 
 J'y songeais mais l'article «[De l'ordre, que diable !](http://blog.alsacreations.com/2008/02/21/411-de-lordre-que-diable-)» m'a incité à m'y atteler plus tôt que prévu.
 Il n'y a en effet **pas de méthode universelle pour programmer** les <acronym title="Cascading Style Sheets">CSS</acronym> mais après plusieurs années d'expérience, j'ai affiné ma réflexion que je vous livre aujourd'hui.

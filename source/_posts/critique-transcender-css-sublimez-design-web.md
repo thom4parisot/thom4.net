@@ -16,9 +16,9 @@ tags:
 categories:
 - Développement Web
 - Standards du Web
+cover: /images/2007/12/transcencer-css-couverture.jpg
 ---
 
-![Couverture de Transcender CSS](/images/2007/12/transcencer-css-couverture.jpg)
 
 Concevoir un site Internet dans les règles de l'art demande de multiples compétences : architecture technique, programmation, graphismes, intégration, ergonomie et du bon sens. [Transcender CSS : sublimez le design Web !](http://www.transcendingcss.com/) s'intéresse à l'aspect esthétique au travers des <acronym title="Cascading Style Sheet">CSS</acronym>.
 

@@ -18,9 +18,8 @@ tags:
 - symfony
 categories:
 - Développement Web
+cover: /images/2008/06/couverture-livre-blanc.png
 ---
-
-[![Couverture du livre blanc «Frameworks PHP pour l\](/images/2008/06/couverture-livre-blanc.png "Couverture du livre blanc «Frameworks PHP pour l\")](http://www.clever-age.com/veille/publications/livres-blancs/livre-blanc-frameworks-php-pour-l-entreprise.html)
 
 Il existe 4 phases dans la vie d'un développeur :
 

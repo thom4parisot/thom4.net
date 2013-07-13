@@ -7,9 +7,9 @@ tags:
 - reseaux sociaux
 categories:
 - Personnel
+cover: //oncletom.io/images/2007/01/lastfm.png
 ---
 
-![Logo Last.fm](/images/2007/01/lastfm-logo.gif)
 
 Lorsque j'ai définitivement basculé sous Linux ([Ubuntu](http://www.ubuntu-fr.org) plus précisément), je suis parti à la recherche d'un lecteur musical au moins aussi pratique que [Winamp](http://www.winamp.com) sous Windows. Il faut savoir que j'étais un farouche utilisateur de la navigation par raccourcis clavier : <kbd>Control + Alt + Gauche</kbd> pour la piste précédente, <kbd>Control + Alt + Droite</kbd> pour la piste suivante etc. Un bon truc de feignasse en somme.
 
@@ -27,7 +27,6 @@ Tout seul il ne sert pas à grand chose et c'est pourquoi il y a **Last.fm**, LE
 **Last.fm** ([disponible depuis peu en français](http://www.clubic.com/actualite-67469-musique-des-nouvelles-de-jamendo-et-de-last-fm.html)) se présente comme un _site social de musique_. Pourquoi social et pas _communautaire_ ?
 Une communauté se démarque par un ou plusieurs centres d'intérêts communs tandis qu'un site social encourage les interactions entre utilisateurs en cherchant des rapprochements possibles, en fonction des goûts, en fonction de l'actualité, en fonction des habitudes et même en fonction des emplacements géographiques. C'est le genre de sites qui vous proposera de consulter d'autres profils d'utilisateurs ou d'artistes car il vous estime proches.
 
-![Last.fm : profil utilisateur](/images/2007/01/lastfm.png)
 
 La capture d'écran ci-dessus représente par exemple [mon profil personnel sur Last.fm](http://www.lastfm.fr/user/the-jedi/). Il recense mes derniers morceaux écoutés, les statistiques majeures de la semaine précédente ainsi qu'un récapitulatif de mes groupes les plus écoutés depuis le début. J'aime beaucoup ces statistiques car j'aime connaître mes propres habitudes musicales. Les fanatiques du genre pourront jusqu'à utiliser les [outils Last.fm](http://www.lastfm.fr/tools/) en image : ils s'intègrent très facilement sur un site Web, un blog ou même une signature de forums.
 

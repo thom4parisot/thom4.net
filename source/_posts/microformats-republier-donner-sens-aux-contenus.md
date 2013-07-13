@@ -15,11 +15,11 @@ tags:
 categories:
 - Développement Web
 - Standards du Web
+cover: /images/2007/07/logo-microformats.gif
 ---
 
 [repost from="http://www.clever-age.com/veille/blog/microformats-republier-et-donner-du-sens-aux-contenus.html" sitename="Clever Age" title="Microformats : republier et donner du sens aux contenus"]
 
-![Logo Microformats](/images/2007/07/logo-microformats.gif)
 
 **Le Web sémantique**.
 Cette expression est sur toutes les lèvres de ceux qui préparent l'Internet de demain. Moteurs de recherche, services de pointe, secteur marchand ... après avoir indexé du contenu, ils aimeraient désormais le comprendre. Comprendre pour mieux cibler, mieux profiler et mieux servir.
@@ -94,22 +94,24 @@ mais bel et bien à du texte présent sur une page Web.
 Si ce code était placé sur une page Web accessible au public, n'importe quel outil gérant les microformats serait capable d'en extraire les données et pourquoi pas, de lancer une recherche sur
 Google Maps pour obtenir les coordonnées GPS de l'adresse.
 
-    <div class="vcard">
-      <a class="fn org url" href="http://www.clever-age.com/">Clever Age</a>
-      <div class="adr">
-        <div class="street-address">37, boulevard des Capucines</div>
-        <span class="postal-code">75002</span>
-        <span class="locality">Paris</span>
-        <div class="country-name">France</div>
-      </div>
-      <div class="tel">
-       <span class="type">Téléphone</span> +33 1 53 34 66 10
-      </div>
-      <div class="tel">
-        <span class="type">Fax</span> +33 1 53 34 65 20
-      </div>
-      <div>Email: <span class="email">commercial@clever-age.com</span></div>
-    </div>
+```html
+<div class="vcard">
+  <a class="fn org url" href="http://www.clever-age.com/">Clever Age</a>
+  <div class="adr">
+    <div class="street-address">37, boulevard des Capucines</div>
+    <span class="postal-code">75002</span>
+    <span class="locality">Paris</span>
+    <div class="country-name">France</div>
+  </div>
+  <div class="tel">
+   <span class="type">Téléphone</span> +33 1 53 34 66 10
+  </div>
+  <div class="tel">
+    <span class="type">Fax</span> +33 1 53 34 65 20
+  </div>
+  <div>Email: <span class="email">commercial@clever-age.com</span></div>
+</div>
+```
 
 ## Outils proposant des microformats
 

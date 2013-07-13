@@ -13,9 +13,8 @@ tags:
 - yahoo
 categories:
 - Personnel
+cover: //oncletom.io/images/2008/03/google-dont-be-evil.gif
 ---
-
-![Logo Google](/images/2008/03/google-logo.gif)
 
 [Google](http://www.google.com/) est une société à la fois adulée et pointée du doigt. La moindre nouveauté résonne sur l'étendue du Web, louée par ses défenseurs, critiquée par ses détracteurs.
 Au-delà de ces querelles insipides et totalement subjectives, **qu'est-on en droit de penser de Google** ?
@@ -63,8 +62,6 @@ Par delà cet aspect visible, il y a également un travail de l'ombre avec des c
 En fournissant une forge nommée [Google Code](http://code.google.com/), Google permet aussi à des projets de naître en leur fournissant une infrastructure, certes limitée, à moindre coût.
 
 ## De quoi est-on en droit de se méfier ?
-
-![Google : Don’t Be Evil](/images/2008/03/google-dont-be-evil.gif)
 
 ### Don't be evil
 

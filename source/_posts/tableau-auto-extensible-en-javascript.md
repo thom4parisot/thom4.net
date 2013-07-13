@@ -252,6 +252,6 @@ function articlesMultiRows(params)
  * Initialisation du tableau multi-lignes avec les options par défaut
  */
 window.addEvent('domready', articlesMultiRows);
-``
+```
 
 [amazon-carrousel]fc64116b-6b59-444b-b4ee-074a4adecf57[/amazon-carrousel]

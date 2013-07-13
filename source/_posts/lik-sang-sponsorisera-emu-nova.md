@@ -7,9 +7,9 @@ tags:
 - partenariat
 categories:
 - Projets
+cover: /images/Emu-Nova/lik-sang-logo.gif
 ---
 
-![Lik Sang](/images/Emu-Nova/lik-sang-logo.gif)
 
 Les amateurs de jeux vidéo connaissent très probablement ce logo puisqu'il s'agit de la boutique [Lik-Sang](http://www.lik-sang.com), un de plus gros sites d'importation de jeux vidéo ... au monde. Bien que majoritairement axé sur les systèmes en exploitation commerciale, **Lik-Sang** est cependant bien fourni en matériel destiné au _retrogaming_ : adaptateurs manettes/PC, tapis de danse, vieux jeux et accessoires en tous genres.
 

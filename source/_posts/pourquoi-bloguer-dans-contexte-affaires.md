@@ -16,9 +16,10 @@ tags:
 - Réseau professionnel
 categories:
 - Personnel
+cover:
+  url: //farm4.static.flickr.com/3017/2600356326_7ff3c48384_b_d.jpg
+  link: http://flickr.com/photos/the-jedi/2600356326/
 ---
-
-[![Isabelle Juppé et Philippe Martin](//farm4.static.flickr.com/3017/2600356326_7ff3c48384.jpg "Isabelle Juppé et Philippe Martin")](http://flickr.com/photos/the-jedi/2600356326/)
 
 2 mois plus tard, il n'est jamais trop tard.
 

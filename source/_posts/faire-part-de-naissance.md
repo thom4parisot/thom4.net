@@ -8,11 +8,10 @@ tags:
 categories:
 - Personnel
 - Projets
+cover:
+  url: //farm4.staticflickr.com/3098/3303892997_e5f52a6e84_b_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/3303892997/
 ---
-
-[![Faire-part de naissance Eyrolles](//farm4.static.flickr.com/3098/3303892997_e5f52a6e84.jpg)](http://www.flickr.com/photos/the-jedi/3303892997/ "Faire-part de naissance Eyrolles")
-
-<!--more-->
 
 Comme je ne savais plus quoi faire de mes journées, j'ai tenté le coup.
 Le petit se porte bien et devrait voir le jour aux alentours du mois de _juin 2009_. Le prénom n'est pas encore officiel, ça peut encore changer.

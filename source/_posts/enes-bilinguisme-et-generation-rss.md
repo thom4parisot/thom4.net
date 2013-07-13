@@ -9,9 +9,8 @@ tags:
 categories:
 - Développement Web
 - Projets
+cover: /images/Emu-Nova/ENES/enes2-index-fr.png
 ---
-
-![ENES : Emu Nova Entertainment System](/images/Emu-Nova/ENES/enes2-index-fr.png)
 
 Dans le billet [ENES : Open Source ?](https://oncletom.io/2005/08/02/enes-open-source/) j'expliquais les bases du renouveau du projet. Renouveau important car aux yeux du "public", et même aux notres, on en reste sur une impression de stagnation. Pendant que _jeandubois_ s'occupe de la partie développement et matériel, je refonds le site Web. Bientôt à mi-parcours et à moins d'un mois de son relancement, que retenir ?
 

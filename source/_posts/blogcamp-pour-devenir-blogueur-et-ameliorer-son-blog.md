@@ -10,9 +10,9 @@ tags:
 categories:
 - Projets
 - WordPress
+cover: /images/2008/02/blogcamp-france-logo.png
 ---
 
-![Logo BlogCamp France](/images/2008/02/blogcamp-france-logo.png)
 
 Si seulement [TiBo](http://www.tibo-etc.com/) avait imaginé que son [blog@bordeaux](http://www.thibaut-charron.com/blog/2007/10/27/blogbordeaux/) avait semé les germes de [BlogCamp France](http://www.blogcamp.fr/) ... et pourtant c'est le cas.
 

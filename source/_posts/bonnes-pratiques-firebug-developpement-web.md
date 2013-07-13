@@ -13,9 +13,9 @@ tags:
 categories:
 - Développement Web
 - Standards du Web
+cover: /images/2007/12/firebug-logo.gif
 ---
 
-![Logo Firebug](/images/2007/12/firebug-logo.gif)
 
 [Firebug fait partie de mes extensions préférées](https://oncletom.io/2007/08/07/facebook-rock-your-firefox/) depuis un bon moment. Je l'estime aujourd'hui même plus importante que l'extension [Web Developer](https://addons.mozilla.org/fr/firefox/addon/60), c'est dire.
 

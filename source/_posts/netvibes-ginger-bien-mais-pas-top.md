@@ -12,9 +12,9 @@ tags:
 - widgets
 categories:
 - Personnel
+cover: /images/2007/01/netvibes-logo.gif
 ---
 
-![Netvibes Logo](/images/2007/01/netvibes-logo.gif)
 
 J'étais impatient de pouvoir accéder à la beta privée de [Netvibes pour bénéficier de ses nouvelles fonctionnalités](http://blog.netvibes.com/?2007/12/08/148-ginger-the-first-preview). **Je n'attendais pas grand chose si ce n'est plus de confort d'utilisation**. Tout le bruit généré par cette beta privée et ces <q>Ginger c'est trop bien</q> me laissaient à croire que j'avais de bonnes raisons d'avoir attendu.
 

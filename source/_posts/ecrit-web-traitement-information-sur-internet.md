@@ -10,9 +10,8 @@ tags:
 - xhtml
 categories:
 - Personnel
+cover: /images/2008/01/ecrit-web.jpg
 ---
-
-![Couverture de l’écrit Web](/images/2008/01/ecrit-web.jpg)
 
 Je rédige sur ce blog depuis bientôt 3 ans, depuis plus de 5 ans sur [Emu Nova](http://www.emunova.net/) et depuis quasiment 10 ans si on remonte à mon [ancien site perso](http://web.archive.org/web/20010223234921/http://www.ifrance.com/the-jedi/) et [mon site consacré à Star Wars](http://the-jedi.ifrance.com/starwars/). Ah l'époque des [.fr.st](http://www.ulimit.com/) ;-) .
 Ce bagage m'a permis d'affiner mon écriture sur le Web mais je cherchais à l'améliorer. C'est précisément à ce moment qu'[Olivier Ertzscheid offre la dernière préface issue de sa plume](http://affordance.typepad.com/mon_weblog/2007/08/ronez-est-bon.html) et qu'[Élie Sloïm recommande un obscur livre](http://blog.temesis.com/2007/10/08/261-ecrit-web) : **[l'écrit Web](http://ronez.typepad.com/lecritweb/)**.

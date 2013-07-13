@@ -8,9 +8,9 @@ tags:
 categories:
 - Projets
 - Travail 2.0
+cover: /images/Emu-Nova/okajeux-logo.png
 ---
 
-![Logo Okajeux](/images/Emu-Nova/okajeux-logo.png)
 
 Je crois que le fantasme de tout webmaster passionné et absorbé par son/ses site(s) c'est de gagner sa vie avec. Au stade actuel je n'y crois pas un instant (en tous cas avec **Emu Nova**) car une entreprise unipersonnelle coûte encore beaucoup trop cher (les taxes mes enfants). Nous allons voir dans ce billet qu'un site "amateur" un tant soit peu sérieux peut se placer à mi-chemin des sites professionnels et diversifier ses sources de revenus.
 

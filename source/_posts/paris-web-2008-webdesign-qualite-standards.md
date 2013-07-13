@@ -14,9 +14,8 @@ categories:
 - Accessibilité
 - Évènements
 - Standards du Web
+cover: /images/2008/11/badge-paris-web-2008.jpg
 ---
-
-![](/images/2008/11/badge-paris-web-2008.jpg "Badge Paris-Web 2008")
 
 J'ai _enfin_ pu assister à mon premier [Paris-Web](http://www.paris-web.fr/) à Paris du 13 au 15 novembres 2008 inclus. C'était bien, très bien mais que dis-je : excellent ! J'ai rarement eu aussi peu envie de rentrer chez moi après cette multitude de rencontres dans un état d'esprit des plus respectueux.
 
@@ -32,7 +31,7 @@ Les [conférences de Paris-Web 2008](http://www.paris-web.fr/2008/-programme-) �
 *   [Travailler dans le présent](http://www.slideshare.net/cheilmann/working-in-the-now-presentation)
 *   **Accessibilité, des volontaires ?**
 *   Internationalisation
-*   **La mode se démode, le <style> jamais**
+*   **La mode se démode, le `<style>` jamais**
 *   Identité 2.0 et Web sémantique
 *   IE8 et les standards du Web
 *   **Performances côté client**

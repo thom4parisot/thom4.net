@@ -10,9 +10,8 @@ tags:
 - ubuntu
 categories:
 - Développement Web
+cover: /images/2007/04/ubuntu-desktop-effects.png
 ---
-
-![Ubuntu Feisty Fawn : effets de bureau](/images/2007/04/ubuntu-desktop-effects.png)
 
 [Ubuntu 7.04](http://www.ubuntu-fr.org/) (dite "Feisty Fawn", le _faon téméraire_) est sortie hier. Je l'attendais avec impatience pour bénéficier des effets graphiques et le bureau en 3D sans avoir à casser mon système. C'est désormais chose faite malgré quelques problèmes (portables ACER quand tu nous tiens ;-)).
 

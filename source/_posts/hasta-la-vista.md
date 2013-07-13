@@ -6,9 +6,8 @@ tags:
 - windows vista
 categories:
 - Personnel
+cover: /images/2007/04/windows-vista-home-basic.jpg
 ---
-
-![Windows Vista Home Basic](/images/2007/04/windows-vista-home-basic.jpg)
 
 Pour les besoins d'une association **je suis parti en quête d'un PC assemblé aux alentours de 400€**. Comme d'habitude, je cherchais le meilleur rapport qualité / prix, si possible _pas de carte vidéo intégrée_ (impact négatif sur les performances en général), du _disque dur_ et un _processeur pas trop à la ramasse_. La providence met ainsi sur mon chemin le _Compaq SR2102FR_ :
 

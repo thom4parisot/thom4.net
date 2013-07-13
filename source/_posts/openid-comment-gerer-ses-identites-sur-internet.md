@@ -12,9 +12,9 @@ tags:
 - yahoo
 categories:
 - Développement Web
+cover: /images/2008/02/openid-logo.gif
 ---
 
-![Logo OpenID](/images/2008/02/openid-logo.gif)
 
 [OpenID](http://openid.net/) est un **service d'identité numérique** qui permet, entre autre, de mettre fin à la sempiternelle saisie des noms d'utilisateurs et des mots de passe. C'est gratuit, c'est libre et ça permet de gérer plusieurs identités sous la même adresse.
 Puisque de plus en plus de services proposent d'utiliser OpenID, intéressons-nous de près avant de terminer sur quelques astuces et autres microformats ;-)
@@ -52,7 +52,7 @@ Le nombre de fournisseurs OpenID croît ce qui a un peu tendance à dérouter : 
 *   [Yahoo OpenID](http://openid.yahoo.com/) (du genre `https://me.yahoo.com/_pseudonyme_` ou `http://flickr.com/people/_pseudonyme_`)
 *   [Wordpress.com](http://wordpress.com/) (du genre `http://_pseudonyme_.wordpress.com`)
 *   [Blogger](http://blogger.com/) (du genre `http://_nom-du-blog_.blogspot.com`)
-*   [Orange OpenID](http://openid.orange.fr/) (du genre <code>http://openid.orange.fr/_pseudonyme_)
+*   [Orange OpenID](http://openid.orange.fr/) (du genre `http://openid.orange.fr/pseudonyme`)
 
 J'ai pour ma part choisi d'être indépendant de tous ces services en utilisant un des premiers prestataires historiques : [MyOpenID](https://www.myopenid.com/) pour ses fonctionnalités avancées un peu moins "grand public" ;-)
 

@@ -156,7 +156,7 @@ Côté code, ça se complique :
       });
   });
 })(jQuery);
-``
+```
 
 Plusieurs remarques sur ce code :
 

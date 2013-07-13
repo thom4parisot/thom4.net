@@ -12,9 +12,8 @@ tags:
 - téléphone
 categories:
 - Mobile
+cover: //oncletom.io/images/2008/07/iphone-3g.jpg
 ---
-
-![iPhone 3G](/images/2008/07/iphone-3g.jpg "iPhone 3G")
 
 La nouvelle génération d'iPhone, **iPhone 3G**, sort dans la majorité des pays du monde dans 2 jours. On devra attendre le 17 juillet 2008 pour en bénéficier en Europe.
 

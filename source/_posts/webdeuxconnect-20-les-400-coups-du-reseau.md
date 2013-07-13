@@ -15,9 +15,10 @@ tags:
 categories:
 - Évènements
 - Personnel
+cover:
+  url: //farm4.staticflickr.com/3242/2934622938_d83079a14c_b_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/2934622938/
 ---
-
-[![Jean-François Ruiz](//farm4.static.flickr.com/3242/2934622938_d83079a14c.jpg)](http://www.flickr.com/photos/the-jedi/2934622938/ "Jean-François Ruiz")
 
 J'ai été faire un tour à Paris samedi 11 octobre pour le Webdeux.connect. [Je vous en avais d'ailleurs parlé il y a 2 semaines](https://oncletom.io/2008/10/03/rendez-vous-octobre-novembre-web2-paris-web/). J'y allais pour réseauter et rencontrer des camarades de la Toile et je n'ai pas été déçu !
 

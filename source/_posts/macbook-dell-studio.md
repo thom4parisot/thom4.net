@@ -16,9 +16,10 @@ tags:
 categories:
 - Développement Web
 - Personnel
+cover:
+  url: //farm4.static.flickr.com/3121/3148614252_7980e00e12_b_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/3148614252/
 ---
-
-[![Dell Studio 17 Red](//farm4.static.flickr.com/3121/3148614252_7980e00e12_m.jpg)](http://www.flickr.com/photos/the-jedi/3148614252/ "Dell Studio 17 Red")
 
 L'utilisation intensive d'[OpenOffice](http://fr.openoffice.org) et le Go de RAM de mon ancien ordinateur portable ACER aidant, je me suis rapidement motivé un dimanche après-midi à changer de machine. J'ai un instant hésité à sombrer du côté obscur de la Force en optant pour un [MacBook](http://www.apple.com/fr/macbook/) avec clavier rétro-éclairé mais non, la raison m'a rattrapé.
 

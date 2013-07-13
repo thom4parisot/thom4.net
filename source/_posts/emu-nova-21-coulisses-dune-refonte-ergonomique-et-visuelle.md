@@ -14,9 +14,8 @@ categories:
 - Développement Web
 - Projets
 - Standards du Web
+cover: //oncletom.io/images/2008/04/emunova-2010.png
 ---
-
-![Emu Nova](/images/2008/04/emunova.gif)
 
 Mon premier grand fait d'armes sur le Web aura été le lancement d'[Emu Nova](http://www.emunova.net/) en octobre 2002\. Les grandes lignes du site ont toujours été **jeux vidéo rétro**, **émulation** et **aide aux utilisateurs**.
 J'ai ainsi décidé d'offrir une nouvelle garde-robe à Emu Nova le 1<sup>er</sup> avril 2008 pour **renouveler une interface** vieille de 3 ans. 3 ans où le contenu s'est accumulé, les menus se sont désordonnés et la navigation s'est complexifiée.
@@ -24,8 +23,6 @@ J'ai ainsi décidé d'offrir une nouvelle garde-robe à Emu Nova le 1<sup>er</su
 Aujourd'hui je vous dévoile les **tenants et aboutissants d'un travail de réflexion** mené sur plusieurs mois tant en terme d'ergonomie, d'accessibilité et de respect des standards du Web.
 Où l'on parlera de jQuery, Blueprint et d'interface orientée utilisateur.
 <!--more-->
-
-## [![Emu Nova : version 2](/images/2008/04/emunova-2010-227x300.png)](/images/2008/04/emunova-2010.png)
 
 ## Objectifs de la refonte
 

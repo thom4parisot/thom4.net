@@ -10,9 +10,9 @@ tags:
 - optimisation
 categories:
 - Développement Web
+cover: /images/2007/08/rock-your-firefox.gif
 ---
 
-![Rock your Firefox logo](/images/2007/08/rock-your-firefox.gif)
 
 [Read/WriteWeb](http://www.readwriteweb.com/) fait partie de mes sources d'informations quotidiennes. Je suis tombé aujourd'hui sur un article concernant le [lancement d'une nouvelle application Facebook permettant de recommander ses extensions favorites](http://www.readwriteweb.com/archives/firefox_launches_facebook_app.php) : [Rock your Firefox](http://www.facebook.com/apps/application.php?api_key=b342b55715483ad3ff6a5495b9368702).
 
