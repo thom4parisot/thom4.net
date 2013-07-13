@@ -3256,8 +3256,8 @@ label {
   margin: 1em 1.5em;
   margin-left: 0;
 }
-img[src^='/images'],
-img[src*='static.flickr.com'] {
+article .content img[src^='/images'],
+article .content img[src*='static.flickr.com'] {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
