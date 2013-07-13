@@ -1,7 +1,7 @@
 # Redirection feeds
 RedirectTemp /photos/ http://www.flickr.com/photos/the-jedi/
 RedirectTemp /music/ http://www.last.fm/user/the-jedi/
-RedirectTemp /code/ https://github.com/oncletom
+RedirectMatch temp /code/(.*) https://github.com/oncletom/$1
 RedirectPermanent /tags/linux/ https://oncletom.io/categorie/logiciels-libres/
 RedirectPermanent /categorie/php/ https://oncletom.io/categorie/developpement-web/
 RedirectPermanent /categorie/mysql/ https://oncletom.io/categorie/developpement-web/
