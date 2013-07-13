@@ -16,6 +16,7 @@
   <meta property="og:title" content="<%= page.title || [config.title, config.subtitle].join(' &mdash; ') %>">
   <meta property="og:type" content="article">
   <meta property="og:url" content="<%= config.url + (page.current_url || (page.path && config.root+page.path)) %>">
+  <meta name="twitter:image" property="og:image" content="<%= page.cover && (page.cover.url || page.cover) %>">
   <meta name="twitter:description" property="og:description" content="<%= partial('_description') %>">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:locale:alternate" content="en_GB">
