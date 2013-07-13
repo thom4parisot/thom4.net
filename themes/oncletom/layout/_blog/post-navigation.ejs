@@ -1,12 +1,12 @@
 <div class="row">
   <% if (page.prev){ %>
-  <div class="span10 navigation navigation-posts" id="next-post">
-    <div class="article nav-link"><%- link_to(config.root+page.prev.path, page.prev.title) %></div>
+  <div class="span5 navigation" id="next-post">
+    <div class="article nav-link"><%- link_to(config.root+page.prev.path, "&laquo; Billet précédent") %></div>
   </div>
   <% } %>
   <% if (page.next){ %>
-  <div class="span10 navigation navigation-posts" id="previous-post">
-    <div class="article nav-link"><%- link_to(config.root+page.next.path, page.next.title) %></div>
+  <div class="span5 navigation" id="previous-post">
+    <div class="article nav-link"><%- link_to(config.root+page.next.path, "Billet suivant &raquo; ") %></div>
   </div>
   <% } %>
 </div>
