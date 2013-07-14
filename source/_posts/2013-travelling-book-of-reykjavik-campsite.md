@@ -66,7 +66,7 @@ It is still how we are manipulated by words nowadays.
 
 ## Drying Paper
 
-Monod was a traveller. Ironically, I was reading this book during this travel
+Monod was a traveller. Ironically, I was reading this book during this trip
 in Iceland. It was my companion. Sadly, it experienced a heavy rainshower. Enough to be almost totally wet.
 
 I left the book on a table of the campsite reception, hopping it would dry.
