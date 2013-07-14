@@ -1,7 +1,7 @@
 <% if (page.cover){ %>
 <div class="post-cover">
   <% if (page.cover.hasOwnProperty("link")){ -%><a href="<%= page.cover.link %>" rel="external"><% } %>
-  <img src="<%= page.cover.url || page.cover %>" alt="">
+  <img src="<%= partial('_cover_url') %>" alt="">
   <% if (page.cover.hasOwnProperty("link")){ %></a><% } %>
 </div>
 <% } %>
