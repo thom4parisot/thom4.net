@@ -6,9 +6,16 @@ tags:
 Initial Title
  Consuming Software and Newness
 
-What to choose
-Staying up to date
-Coolness does not solve problems
-Softwares die, it's better to be able to take over or be able to switch to something else (content is not locked because you own it)
+* What to choose
+* Staying up to date
+* Coolness does not solve problems
+* Softwares die, it's better to be able to take over or be able to switch to something else (content is not locked because you own it)
+* Short Memory Syndrom
+ * Hackaton are cool
+ * Hackaton are bad - http://www.rudebaguette.com/2013/07/16/hackathons-are-dead-introducing-code-in-the-dark-sept-27th/
+ * X is the new thing
+ * They are stil the same, you just got mature and figured out you've been fooled on your expectations
+ * jQuery is cool
+ * jQuery is evil
 
 http://elroyjetson.org/blog/declaration-of-content-independence
