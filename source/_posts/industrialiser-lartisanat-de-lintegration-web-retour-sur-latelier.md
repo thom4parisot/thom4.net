@@ -24,7 +24,7 @@ De l'eau a coulé sous les ponts depuis [Paris Web](http://paris-web.fr/), et su
 
 ## La présentation
 
-[slideshare id=5459902&amp;doc=industrialiser-artisanat-integration-html-101016073637-phpapp01]
+{% slideshare 5459902 %}
 
 J'ai **complètement changé d'axe d'approche** entre l'appel à proposition de Paris Web et le jour venu. J'ai retourné le sujet dans tous les sens pour arriver à transmettre le message de la manière la plus adaptée qu'il soit au public. Parce qu'il est vraiment [essentiel de comprendre votre auditoire](http://thinkvitamin.com/user-science/understanding-your-audience/).
 

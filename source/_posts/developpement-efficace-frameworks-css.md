@@ -39,7 +39,7 @@ Comme le suggérait très justement [Christian Heilmann](http://www.wait-till-i.
 
 Je n'en dis pas plus, je vous laisse lire la présentation. Ayez toutefois en tête qu'en vrai elle dure facilement 1h.
 
-<div style="text-align:center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=pariswebdeveloppementefficaceframeworkscss-1226764594180788-9&amp;stripped_title=dveloppement-efficace-avec-les-frameworks-css-presentation" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slideshare.net/swf/ssplayer2.swf?doc=pariswebdeveloppementefficaceframeworkscss-1226764594180788-9&amp;stripped_title=dveloppement-efficace-avec-les-frameworks-css-presentation" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+{% slideshare 755237 %}
 
 ## Ce qu'il faut en retenir
 

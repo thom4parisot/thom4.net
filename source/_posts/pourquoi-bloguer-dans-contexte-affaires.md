@@ -84,10 +84,7 @@ Une journée magique comme j'en aimerais tant d'autres. D'autres personnes ont d
 
 Cette journée, c'était aussi l'occasion d'intervenir avec la casquette [BlogCamp France](http://blogcamp.fr) et de démystifier les blogs devant une assemblée intéressée et aux réactions intéressantes.
 
-<div style="text-align:center">
-  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcampbloguerenentreprisemythescontreveriteslight-1213943930186908-9&amp;stripped_title=blogcamp-bloguer-en-entreprises-vrits-et-contrevrits" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcampbloguerenentreprisemythescontreveriteslight-1213943930186908-9&amp;stripped_title=blogcamp-bloguer-en-entreprises-vrits-et-contrevrits" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-[Les blogs : vérités et contre-vérités, impacts financiers et organisationnels](http://www.slideshare.net/oncletom/blogcamp-bloguer-en-entreprises-vrits-et-contrevrits)
-</div>
+{% slideshare 476852 %}
 
 Cette présentation relativement courte avait pour but d'expliquer en 15 minutes les **intérêts des blogs dans le milieu de l'entreprise**. Nous avons souhaité utiliser des exemples concrets basés sur notre vécu personnel pour montrer qu'on pouvait recruter par le biais d'un blog, utiliser les blogs pour faciliter ses recrutements (il n'y a pas meilleur complément à une lettre de motivation).
 

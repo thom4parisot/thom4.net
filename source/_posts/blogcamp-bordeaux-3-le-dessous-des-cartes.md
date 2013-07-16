@@ -24,12 +24,7 @@ C'est l'occasion pour moi d'aborder cette session par un angle un peu différent
 
 ## L'atelier BlogCamp Bordeaux #3
 
-<div style="text-align:center"><object width="425" height="355">
-  <param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcamp-bordeaux-3-latelier-1204382639117599-4"/>
-  <param name="allowFullScreen" value="true"/>
-  <param name="allowScriptAccess" value="always"/>
-  <embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogcamp-bordeaux-3-latelier-1204382639117599-4" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed>
-</object></div>
+{% slideshare 288048 %}
 
 Cette présentation m'a pris à peu près 8h de travail, en comptant le temps de recherche de la mise en page. On utilisait en effet pour la première fois un modèle commun. Ces 8 heures ont été réparties de la sorte :
 

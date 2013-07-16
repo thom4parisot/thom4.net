@@ -33,7 +33,7 @@ _Je parle de moi en preum's, comme ça si la suite vous ennuie, je me serais au 
 
 J’alterne entre technique et pratique. Cette année j’ai décidé de me focaliser sur le [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
 
-[slideshare id=14794755&amp;doc=readme-121018235231-phpapp01&amp;align=center]
+{% slideshare 14794755 %}
 
 L’enjeu était de présenter en 15 minutes l’**intérêt de rédiger moins**, de rédiger **plus simplement** ce que doivent faire nos applications tout en **développant davantage la culture de la parole** pour combler la « différence ».
 
