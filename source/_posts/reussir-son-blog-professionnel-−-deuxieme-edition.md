@@ -61,7 +61,7 @@ Toujours est-il que la trame de ce documentaire d'une quarantaine de minutes se 
 
 J'ai choisi d'inclure cette vidéo en fin de premier chapitre, afin de clôturer l'introduction de manière originale, avec un **condensé rapide de ce qu'il faut savoir**, sans pour autant faire doublon avec le reste du livre.
 
-[dailymotion]http://www.dailymotion.com/video/x8hpg0_documentaire-le-phenomene-des-blogs_news[/dailymotion]
+{% dailymotion x8hpg0 %}
 
 ## Conclusion
 
