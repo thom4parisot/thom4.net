@@ -54,7 +54,7 @@ C'est ainsi que je me retrouvais avec 200 post-it en forme de cœur,  de maison
 Un peu de gaieté pour un atelier sérieux et créatif.
 D'ailleurs, parce qu'on n'a pas bossé pour rien, et que Paris Web c'est aussi la création en plus de _share the love_, voici la carte mentale de notre heure de travail :
 
-[mindmeister]65925228[/mindmeister]
+{% mindmeister 65925228 %}
 
 ## Constats
 
