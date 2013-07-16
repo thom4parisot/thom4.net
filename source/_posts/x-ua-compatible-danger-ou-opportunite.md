@@ -9,14 +9,13 @@ tags:
 - xhtml
 categories:
 - Standards du Web
+cover: /images/2008/10/logo-ie8.gif
 ---
 
-[repost from="http://www.clever-age.com/veille/blog/x-ua-compatible-danger-ou-opportunite.html" sitename="Clever Age" title="X-UA-Compatible : danger ou opportunité ?"]
-
-![](/images/2008/10/logo-ie8.gif "Logo Internet Explorer 8")
+{% repost http://www.clever-age.com/veille/blog/x-ua-compatible-danger-ou-opportunite.html "X-UA-Compatible : danger ou opportunité ?" %}
 
 Après 10 ans de règne d'Internet Explorer et un succès d'adoption en demi-teinte pour son successeur, Internet Explorer 7, Microsoft a fort à faire pour convaincre avec Internet Explorer 8.
-La firme de Redmond est confrontée à ce fâcheux dilemne :
+La firme de Redmond est confrontée à ce fâcheux dilemme :
 
 *   considérer ses clients existants
 *   réagir aux pressions exercées par la concurrence, Firefox en tête

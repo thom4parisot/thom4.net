@@ -23,11 +23,11 @@ tags:
 categories:
 - Développement Web
 - Standards du Web
+cover: /images/2007/07/logo-microformats.gif
 ---
 
-[repost from="http://www.clever-age.com/veille/blog/microformats-comment-microformater-du-contenu-deja-existant.html" sitename="Clever Age" title="Microformats : comment microformater du contenu déjà existant ?"]
+{% repost "http://www.clever-age.com/veille/blog/microformats-comment-microformater-du-contenu-deja-existant.html" "Microformats : comment microformater du contenu déjà existant ?" %}
 
-![Microformats logo](/images/2007/07/logo-microformats.gif)
 
 Nous avions dressé un panorama des microformats dans un précédent article intitulé « [microformats : republier et donner du sens aux contenus](https://oncletom.io/2008/01/29/microformats-republier-donner-sens-aux-contenus/) ». Nous avions notamment conclu que leur** intégration était rapide, peu coûteuse et surtout bénéfique** tant pour le visiteur que pour la visibilité du contenu.
 

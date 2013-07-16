@@ -18,7 +18,7 @@ categories:
 cover: /images/2007/07/logo-microformats.gif
 ---
 
-[repost from="http://www.clever-age.com/veille/blog/microformats-republier-et-donner-du-sens-aux-contenus.html" sitename="Clever Age" title="Microformats : republier et donner du sens aux contenus"]
+{% repost "http://www.clever-age.com/veille/blog/microformats-republier-et-donner-du-sens-aux-contenus.html" "Microformats : republier et donner du sens aux contenus" %}
 
 
 **Le Web sémantique**.
