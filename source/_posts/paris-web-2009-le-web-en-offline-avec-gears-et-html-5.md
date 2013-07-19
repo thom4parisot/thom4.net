@@ -6,20 +6,18 @@ tags:
 - gears
 - google gears
 - html5
-- Javascript
 categories:
+- JavaScript
 - Évènements
 - Développement Web
-- Standards du Web
+cover: //farm3.staticflickr.com/2486/4001304159_20914c5b52_b_d.jpg
 ---
-
-![Paris-Web 2009](/images/2009/10/pw2009-400x150-3.gif "Paris-Web 2009")
 
 [Paris-Web](http://www.paris-web.fr/) est LE rendez-vous Web de l'année pour tous les professionnels intéressés par le webdesign, la qualité et l'accessibilité. [L'édition 2008](http://www.paris-web.fr/2008/) (la première à laquelle j'assistais) m'a particulièrement plu alors je rempile cette année, à la fois en tant que spectacteur et orateur d'atelier technique.
 
 <!--more-->
 
-## <!--more-->Des conférences de choix
+## Des conférences de choix
 
 Les thématiques abordées sont une nouvelle fois intéressantes. Si leur titre n'est pas forcément attirant, la qualité des intervenants fait qu'à n'en pas douter, on va encore en prendre plein les yeux : suffit de lire le [programme](http://www.paris-web.fr/2009/-Programme- "Programme de Paris-Web 2009").
 

@@ -11,7 +11,7 @@ tags:
 - sitepoint
 categories:
 - Développement Web
-- Standards du Web
+
 ---
 
 En bon français : "**tout ce que vous savez des CSS est faux** !". L'heure n'est pas à la déprime mais à la lecture de cet ouvrage par le site [SitePoint](http://sitepoint.com). Il est écrit en anglais par Rachel Andrew et Kevin Yank.

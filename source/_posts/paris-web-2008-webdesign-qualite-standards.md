@@ -13,8 +13,10 @@ tags:
 categories:
 - Accessibilité
 - Évènements
-- Standards du Web
-cover: /images/2008/11/badge-paris-web-2008.jpg
+- Développement Web
+cover:
+  url: //farm4.staticflickr.com/3270/3034679191_d551c06a85_b.jpg
+  link: http://www.flickr.com/photos/the-jedi/3034679191/in/set-72157609189799718
 ---
 
 J'ai _enfin_ pu assister à mon premier [Paris-Web](http://www.paris-web.fr/) à Paris du 13 au 15 novembres 2008 inclus. C'était bien, très bien mais que dis-je : excellent ! J'ai rarement eu aussi peu envie de rentrer chez moi après cette multitude de rencontres dans un état d'esprit des plus respectueux.
@@ -96,8 +98,6 @@ Et Dieu sait s'il y avait tout un tas de pointures du Web à notre disposition d
 *   [Daniel Glazman](http://glazman.org), du CSS Working Group ; franc, direct et j'aime ça
 *   Sans oublier pêle-mêle [Than](http://www.sutekidane.net/), [Sébastien Delorme](http://www.tentatives-accessibles.eu), [Monique](http://blog.webatou.info/), [La Lène](http://www.jeuxdemaux.com/), [Amélie Boucher](http://www.ergolab.net), [Hellgy](http://redisdead.net), [Raphaël Goetter](http://goetter.fr), [Fabrice Bonny](http://openweb.eu.org/), [François Hodierne](http://www.netvibes.com/znarf), [Xavier Borderie](http://xavier.borderie.net/blog/) ... et en oubliant très certainement plein d'autres :'(
 *   Et d'excellentes découvertes : [Anthony Ricaud](http://hanblog.info/blog/), [Mathieu Pillard](http://blog.virgule.info/) et toute l'**équipe Paris-Web** !
-
-[![Table ronde du jeudi](//farm4.static.flickr.com/3270/3034679191_d551c06a85.jpg)](http://www.flickr.com/photos/the-jedi/3034679191/ "Table ronde du jeudi")
 
 ## Conclusion
 

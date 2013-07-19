@@ -14,7 +14,6 @@ tags:
 - technorati
 categories:
 - Développement Web
-- Standards du Web
 cover: /images/2007/07/logo-microformats.gif
 ---
 

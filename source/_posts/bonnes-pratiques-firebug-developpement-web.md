@@ -11,8 +11,8 @@ tags:
 - performances
 - yslow
 categories:
+- JavaScript
 - Développement Web
-- Standards du Web
 cover: /images/2007/12/firebug-logo.gif
 ---
 

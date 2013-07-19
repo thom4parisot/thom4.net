@@ -12,7 +12,7 @@ tags:
 - xfn
 categories:
 - Développement Web
-- Standards du Web
+
 ---
 
 **La Case de l'Onc' Tom** n'avait presque pas changé de visage depuis son lancement en février 2005\. L'été s'installe enfin dans notre vert pays et j'en profite donc pour donner un gros coup de balais. _Exit_ donc le fond sombre, le jaune et le blanc, _bienvenue_ au marron et au blanc cassé. Vous noterez également le _léger changement de nom_ (il n'était presque pas respecté faut dire). On parlera désormais de **La Case de l'Oncle Tom**. Ne vous prenez pas la tête, c'est comme le livre (mais ça n'a rien à voir on est d'accord).

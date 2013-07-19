@@ -5,20 +5,21 @@ tags:
 - dijiwan
 - expérience
 - freelance
-- Javascript
+- JavaScript
 - photo
 - stratégie
 - voeux
 categories:
 - Entrepreneuriat
 - Personnel
-- Photographie
-cover:  /images/2013/01/8219758779_e0d21f3c5e_z.jpg
+cover:
+  url: //farm9.staticflickr.com/8487/8219758779_e0d21f3c5e_c_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/8219758779/
 ---
 
 L’année débute tout juste. La fatigue du réveillon n’éclipse pas l’envie de prendre la plume pour dresser un bilan et orienter le regard vers l’avenir, vers demain.
 
-Il se sera passé beaucoup de choses en 2012\. Beaucoup de joie. Beaucoup d’énergie. Beaucoup de souffrance aussi, les dernières semaines.
+Il se sera passé beaucoup de choses en 2012. Beaucoup de joie. Beaucoup d’énergie. Beaucoup de souffrance aussi, les dernières semaines.
 
 2013 sera vérité : la révolution extérieure, la consolidation et le collectif.
 
@@ -28,7 +29,7 @@ Il se sera passé beaucoup de choses en 2012\. Beaucoup de joie. Beaucoup d’é
 
 L’épicentre de la souffrance se révèle lorsque le [premier chèque de salaire émis par la société Dijiwan se retrouve impayé](http://www.sudouest.fr/2012/10/23/un-gros-couac-dans-la-success-story-857820-713.php). On est alors au mois de juillet 2012.
 
-**Interlude historique** : Dijiwan SAS est créée fin 2011\. Je participe à la création de la SAS en portant la responsabilité technique du projet et en apportant 6% du capital social.
+**Interlude historique** : Dijiwan SAS est créée fin 2011. Je participe à la création de la SAS en portant la responsabilité technique du projet et en apportant 6% du capital social.
 La pertinence du projet, l’apport d’un investisseur (capital et apport d’affaires) ainsi que nos CV nous aident à boucler un amorçage auprès d'[OSEO](http://www.oseo.fr/) et du fond [Innovation de la Région Aquitaine](http://aquitaine.fr/politiques-regionales/economie-emploi/r-d-innovation-transfert-de-technologie.html#outil_sommaire_1).
 Je monte une équipe de choc, l’encadre, participe aux développements afin d’augmenter la qualité des livrables de l’agence, afin d’améliorer la productivité et de délivrer des tableaux de bords visuels à nos clients.
 
@@ -116,7 +117,7 @@ En 2008, une carte de vœux me signifiait ceci :
 
 > Cher Thomas,
 >
-> Je te souhaite une excellente année 2008\. Je crois que tu es lancé, et que tu iras loin.
+> Je te souhaite une excellente année 2008. Je crois que tu es lancé, et que tu iras loin.
 
 Ça y'est, c'est fait, je suis lancé et je ne me le cache plus à moi-même.
 

@@ -12,7 +12,6 @@ tags:
 categories:
 - Accessibilité
 - Développement Web
-- Standards du Web
 ---
 
 ![Sites Web : les bonnes pratiques](/images/2007/02/sites-web-bonnes-pratiques.jpg)

@@ -11,10 +11,9 @@ tags:
 - xhtml
 categories:
 - Accessibilité
-- Standards du Web
+- Développement Web
+cover: /images/2007/12/jquery-logo.png
 ---
-
-![Logo jQuery](/images/2007/12/jquery-logo.png "Logo jQuery")
 
 Joie : je fais maintenant partie de [Planète Accessibilité](http://planete-accessibilite.com/) en plus de [Planet Libre](http://www.planet-libre.org/). C'est l'occasion pour ce premier article dédié d'allier à la fois logiciels libres et accessibilité pour le plus grand bien du Web ;-)
 

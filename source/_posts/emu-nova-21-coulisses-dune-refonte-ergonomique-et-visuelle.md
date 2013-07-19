@@ -13,7 +13,7 @@ tags:
 categories:
 - Développement Web
 - Projets
-- Standards du Web
+
 cover: //oncletom.io/images/2008/04/emunova-2010.png
 ---
 

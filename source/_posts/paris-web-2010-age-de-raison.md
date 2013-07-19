@@ -21,7 +21,6 @@ categories:
 - Accessibilité
 - Évènements
 - Développement Web
-- Standards du Web
 cover: /images/2010/09/logotype-paris-web.png
 ---
 

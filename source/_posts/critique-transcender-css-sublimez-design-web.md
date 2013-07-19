@@ -8,14 +8,13 @@ tags:
 - css3
 - eyrolles
 - firefox
-- Javascript
 - microformats
 - semantique
 - standards
 - xhtml
 categories:
 - Développement Web
-- Standards du Web
+- JavaScript
 cover: /images/2007/12/transcencer-css-couverture.jpg
 ---
 

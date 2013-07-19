@@ -6,7 +6,6 @@ tags:
 - dashboard
 - iphone
 - jaiku
-- Javascript
 - json
 - macosx
 - micro-blogs
@@ -16,9 +15,9 @@ tags:
 - xhtml
 categories:
 - Développement Web
+- JavaScript
+cover: /images/2008/06/logo-jaiku.png
 ---
-
-[![](/images/2008/06/logo-jaiku.png "Logo Jaiku")](/images/2008/06/logo-jaiku.png)
 
 J'ai publié il y a quelques semaines un [widget Jaiku](http://eco.netvibes.com/widgets/241591/jaiku "widget Jaiku pour Netvibes") dans l'[écosystème Netvibes](http://eco.netvibes.com). Autrement dit, on peut désormais interagir avec le sous-employé Jaiku depuis son compte Netvibes en levant à peine le petit doigt.
 
