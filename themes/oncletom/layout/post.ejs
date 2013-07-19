@@ -4,7 +4,8 @@
   <%- partial("_blog/post-cover", {post: page})  %>
 
   <div class="content"><%- page.content %></div>
+
+  <%- partial("_blog/post-footer", {post: page}) %>
 </article>
 
-<%- partial("_blog/post-navigation") %>
 <%- partial("_blog/comments")  %>

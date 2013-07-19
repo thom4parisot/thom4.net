@@ -12,7 +12,9 @@ tags:
 categories:
 - Entrepreneuriat
 - Personnel
-cover:  /images/2013/01/8219758779_e0d21f3c5e_z.jpg
+cover:
+  url: //farm9.staticflickr.com/8487/8219758779_e0d21f3c5e_c_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/8219758779/
 ---
 
 L’année débute tout juste. La fatigue du réveillon n’éclipse pas l’envie de prendre la plume pour dresser un bilan et orienter le regard vers l’avenir, vers demain.
