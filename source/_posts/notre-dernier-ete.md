@@ -11,7 +11,7 @@ tags:
 - réflexions
 - slow life
 categories:
-- Photographie
+- Personnel
 - Travail 2.0
 cover: /images/2012/08/5096781001_fb731f1725_b.jpg
 ---

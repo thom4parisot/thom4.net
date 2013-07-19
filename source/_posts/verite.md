@@ -12,7 +12,6 @@ tags:
 categories:
 - Entrepreneuriat
 - Personnel
-- Photographie
 cover:  /images/2013/01/8219758779_e0d21f3c5e_z.jpg
 ---
 
