@@ -1,7 +1,7 @@
 <article lang="<%= page.lang || 'fr' %>">
   <h1><%= page.title %></h1>
 
-  <%- partial("_blog/post-cover")  %>
+  <%- partial("_blog/post-cover", {post: page})  %>
 
   <div class="content"><%- page.content %></div>
 </article>

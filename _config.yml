@@ -61,8 +61,8 @@ tag_map:
 ## 2: Enable pagination
 ## 1: Disable pagination
 ## 0: Fully Disable
-archive: 2
-category: 0
+archive: 1
+category: 1
 tag: 0
 
 # Server

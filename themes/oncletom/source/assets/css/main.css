@@ -3382,8 +3382,10 @@ article,
 body.single article,
 body.page article,
 body.single .article,
-body.page .article {
+body.page .article,
+.post-condensed{
   height: auto;
+  min-height: 0;
 }
 article .excerpt,
 article .content,

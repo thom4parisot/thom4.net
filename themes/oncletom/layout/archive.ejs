@@ -1,0 +1,7 @@
+<div class="row">
+  <% page.each(function(post){ %>
+    <%- partial("_blog/post-condensed", {post: post})%>
+  <% }); %>
+
+  <%- partial("_blog/navigation-box") %>
+</div>
