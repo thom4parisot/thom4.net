@@ -6,7 +6,7 @@ tags:
 - css
 - xhtml
 categories:
-- Standards du Web
+
 ---
 
 ![Logo Alsacreations](/images/2007/08/logo-alsacreations.gif)

@@ -1,5 +1,5 @@
-<% var url = ''; if (page.cover){
-  url = page.cover.url || page.cover || '';
+<% var url = ''; if (post.cover){
+  url = post.cover.url || post.cover || '';
 
   if (url.match(/^\/images/)){
     url = config.url + url;

@@ -15,6 +15,7 @@ tags:
 - widgets
 categories:
 - Développement Web
+- JavaScript
 cover: /images/2010/04/uwa-vcub.png
 ---
 

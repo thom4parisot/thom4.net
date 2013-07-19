@@ -5,7 +5,7 @@ tags:
 - api
 - code
 - firebug
-- Javascript
+- JavaScript
 - logiciels libres
 - plugin
 - tinymce

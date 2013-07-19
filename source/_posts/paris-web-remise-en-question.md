@@ -6,7 +6,7 @@ tags:
 - cyneticmonkey
 - doutes
 - html5
-- Javascript
+- JavaScript
 - off
 - parisweb
 - readme

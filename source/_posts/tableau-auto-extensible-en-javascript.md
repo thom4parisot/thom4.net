@@ -7,17 +7,15 @@ tags:
 - code
 - dom
 - html
-- Javascript
 - mootools
 categories:
+- JavaScript
 - Accessibilité
 - Développement Web
-- Standards du Web
+cover: /images/2007/06/articles-autoexpand-mini.png
 ---
 
 Bon nombre de clients utilisant les sites Internet de mon employeur passent des commandes en saisissant directement les codes articles de leur choix. Ce n'est pas anodin : pour du réassort de magasin, ils savent exactement ce qu'ils veulent. Et un beau jour on vient me voir en me disant qu'<cite>ils ne peuvent saisir qu'un code et une seule quantité à la fois</cite>, qu'il faudrait changer ça.
-
-![Ligne article](/images/2007/06/articles-autoexpand-mini.png)
 
 Voici donc mon constat de départ :
 

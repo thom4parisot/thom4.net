@@ -1,0 +1,22 @@
+<footer>
+  <p>
+    Article publié le
+    <time datetime="<%= date(post.date, 'YYYY-MM-DDTHH:mm:ss.SSS')%>"><%= date(post.date, config.date_format) %></time>
+    par <a href="/slash-me/" rel="author">Thomas Parisot</a>.
+  </p>
+
+  <ul class="categories-list inline-list">
+    <% post.categories.each(function(category){ -%>
+    <li class="icon-comment"><a href="<%= category.permalink %>"><%= category.name %></a></li>
+    <% }) -%>
+  </ul>
+
+  <ul class="navigation-list unstyled">
+    <li class="previous"><% if(post.prev){ -%>
+      <a href="<%= post.prev.permalink %>" rel="bookmark"><%= post.prev.title %></a>
+      <% } -%></li>
+    <li class="next"><% if(post.next){ -%>
+      <a href="<%= post.next.permalink %>" rel="bookmark"><%= post.next.title %></a>
+    <% } -%></li>
+  </ul>
+</footer>

@@ -3,7 +3,7 @@ id: 1147
 date: 2008-09-25 07:00:16
 tags:
 - jaiku
-- Javascript
+- JavaScript
 - netvibes
 - release
 - widget

@@ -5,11 +5,11 @@ tags:
 - afterwork
 - bordeaux
 - communauté
-- Javascript
 - node
 - nodejs
 categories:
 - Développement Web
+- JavaScript
 cover: /images/2012/10/logo.js_badge_512.png
 ---
 

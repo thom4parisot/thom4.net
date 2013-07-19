@@ -9,7 +9,6 @@ tags:
 - css
 categories:
 - Développement Web
-- Standards du Web
 ---
 
 Bien souvent on est amené à **modifier une feuille de style existante pour adapter la présentation** ou corriger un bug (qui a pensé à _Internet Explorer_ ?).

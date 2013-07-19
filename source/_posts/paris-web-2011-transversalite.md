@@ -16,7 +16,6 @@ categories:
 - Évènements
 - Développement Web
 - Mobile
-- Standards du Web
 - Travail 2.0
 cover: /images/2011/10/shot_1318684180740.jpg
 ---

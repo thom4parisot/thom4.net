@@ -1,6 +1,20 @@
+<div class="span5 navigation" id="category-links">
+  <div class="article">
+    <header>Catégories de contenu</header>
+
+    <div class="content">
+      <ul class="inline-list">
+        <% Object.keys(config.category_map).forEach(function(key){ -%>
+        <li><a href="<%= config.root + config.category_dir + '/' + config.category_map[key] %>" rel="tag"><%= key %></a></li>
+        <% }) -%>
+      </ul>
+    </div>
+  </div>
+</div>
+
 <div class="span5 navigation" id="nav-links">
   <div class="article">
-    <header>Et sinon ?</header>
+    <header>Voyage dans l'espace et le temps</header>
 
     <div class="content">
       <form action="https://google.com/search" method="get">
@@ -10,7 +24,7 @@
         </div>
       </form>
 
-      <strong class="archive-list-heading">Ou enfin, les articles par année :</strong>
+      <strong class="archive-list-heading">Archives, par année :</strong>
       <%- list_archives({type: "yearly", order: -1, format: "YYYY", show_count: false}) %>
     </div>
   </div>
