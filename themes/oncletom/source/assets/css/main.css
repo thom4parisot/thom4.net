@@ -3438,6 +3438,14 @@ article #responses a:focus,
   background: #fff;
   text-align: center;
 }
+
+.navigation{
+  margin-top: 2em;
+}
+main .title{
+  margin-bottom: 1em;
+}
+
 .navigation .previous-next a {
   font-weight: bold;
 }
