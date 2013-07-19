@@ -3302,17 +3302,26 @@ figure.highlight{
 }
 .header h1 {
   font-size: 4em;
-  text-shadow: 1px 1px 1px #2f1f47;
 }
 .header h1,
-.header h1 a {
+main .title{
+  color: #fff;
+  text-shadow: 1px 1px 1px #2f1f47;
+}
+main .title{
+  margin-top: 0;
+}
+.header h1,
+.header h1 a,
+main .title{
   color: #fff;
 }
 .header h1 a:hover,
 .header h1 a:focus {
   color: #eee;
 }
-.header h1 span {
+.header h1 span,
+main .title span {
   color: #ccd121;
 }
 .header blockquote {
