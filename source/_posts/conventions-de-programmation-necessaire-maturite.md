@@ -9,7 +9,7 @@ tags:
 - css
 - eclipse
 - html
-- Javascript
+- JavaScript
 - pear
 - php
 - phpdoc

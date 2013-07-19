@@ -17,7 +17,7 @@ tags:
 - optimisation
 categories:
 - Développement Web
-- Standards du Web
+
 cover: /images/2008/02/css-url-import.png
 ---
 

@@ -7,14 +7,14 @@ tags:
 - css
 - html
 - interaction design
-- Javascript
+- JavaScript
 - livre blanc
 - opquast
 - parisweb
 - temesis
 categories:
 - Évènements
-- Standards du Web
+- Développement Web
 cover: /images/2010/10/a4782f1b1a1a45aab40472dd16bf1753_7.jpg
 ---
 

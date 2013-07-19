@@ -12,10 +12,10 @@ tags:
 - widgets
 categories:
 - Projets
+- JavaScript
 - WordPress
+cover: /images/2008/09/amazon-associates.gif
 ---
-
-![](/images/2008/09/amazon-associates.gif "Amazon Associates")
 
 J'ai publié il y a quelques jours la version 1.2 du plugin [Amazon Widgets Shortcodes](http://wordpress.org/extend/plugins/amazon-widgets-shortcodes/). Cette version suit plusieurs autres publications plus intimistes, à des fins de tests grandeur nature. Ce fût en tous cas suffisant pour commencer à attirer l'attention de traducteurs.
 

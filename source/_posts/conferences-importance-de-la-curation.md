@@ -6,7 +6,7 @@ tags:
 - conférence
 - curation
 - dotjs
-- Javascript
+- JavaScript
 - qualité
 categories:
 - Évènements

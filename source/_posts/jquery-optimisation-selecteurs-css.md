@@ -11,6 +11,7 @@ tags:
 - performances
 categories:
 - Développement Web
+- JavaScript
 cover: /images/2007/12/jquery-logo.png
 ---
 
