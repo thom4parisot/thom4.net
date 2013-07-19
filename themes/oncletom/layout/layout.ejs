@@ -12,7 +12,7 @@
   <link rel="alternate" type="application/rss+xml" title="<%= [config.title, config.subtitle].join(' &mdash; ') %>" href="<%= config.url %>/feed/">
   <link rel="author" href="<%= config.graph.google_plus %>">
   <link rel="publisher" href="<%= config.graph.google_plus %>">
-  <link rel="canonical" href="<%= config.url + (page.current_url || (page.path && config.root+page.path)) %>">
+  <link rel="canonical" data-disqus-shortname="<%= config.disqus_shortname %>" href="<%= config.url + (page.current_url || (page.path && config.root+page.path)) %>">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@<%= config.graph.twitter %>">
   <meta name="twitter:creator" content="@<%= config.graph.twitter %>">
@@ -77,19 +77,6 @@
         </aside>
     </div>
 </div>
-<% if (config.disqus_shortname && page.comments){ %>
-<script>
-  var disqus_shortname = '<%= config.disqus_shortname %>';
-  var disqus_url = 'https://oncletom.io<%- config.root %><%- page.path %>';
-
-  (function(){
-    var dsq = document.createElement('script');
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('body')[0]).appendChild(dsq);
-  }());
-</script>
-<% } %>
 <%- js("assets/js/main.js") %>
 </body>
 </html>
