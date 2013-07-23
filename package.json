@@ -13,7 +13,7 @@
   "devDependencies": {
     "grunt-shell": "~0.3.0",
     "grunt": "~0.4.1",
-    "hexo": "~1.2.4",
+    "hexo": "git://github.com/tommy351/hexo.git#master",
     "hexo-generator-feed": "0.0.10"
   }
 }
