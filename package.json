@@ -14,6 +14,9 @@
     "grunt-shell": "~0.3.0",
     "grunt": "~0.4.1",
     "hexo": "git://github.com/tommy351/hexo.git#master",
-    "hexo-generator-feed": "0.0.10"
+    "hexo-generator-feed": "0.0.10",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-less": "~0.6.4",
+    "grunt-contrib-watch": "~0.5.1"
   }
 }
