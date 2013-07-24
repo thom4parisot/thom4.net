@@ -43,6 +43,9 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
+[class^="icon-"]:hover:before, [class*=" icon-"]:hover:before {
+  text-decoration: none;
+}
 .icon-ok-circled:before { content: '\e80e'; } /* '' */
 .icon-cancel-circled:before { content: '\e80d'; } /* '' */
 .icon-tags:before { content: '\e80c'; } /* '' */
