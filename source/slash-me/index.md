@@ -1,5 +1,8 @@
 title: Qui est Oncle Tom ?
 date: 2006-08-16 18:31:46
+cover:
+  url: //farm9.staticflickr.com/8044/8147306385_5900f08cb0_c.jpg
+  link: http://www.flickr.com/photos/parisweb/8147306385/
 ---
 
 On se croisera sur Internet via mon pseudonyme **Oncle Tom**.
