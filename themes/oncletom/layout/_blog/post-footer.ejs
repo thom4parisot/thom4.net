@@ -1,21 +1,23 @@
 <footer>
-  <p>
+  <p class="icon-calendar-empty">
     Article publié le
     <time datetime="<%= date(post.date, 'YYYY-MM-DDTHH:mm:ss.SSS')%>"><%= date(post.date, config.date_format) %></time>
     par <a href="/slash-me/" rel="author">Thomas Parisot</a>.
   </p>
 
-  <ul class="categories-list inline-list">
+  <ul class="categories-list inline">
     <% post.categories.each(function(category){ -%>
-    <li class="icon-comment"><a href="<%= category.permalink %>"><%= category.name %></a></li>
+    <li class="icon-tags"><a href="<%= category.permalink %>"><%= category.name %></a></li>
     <% }) -%>
   </ul>
 
   <ul class="navigation-list unstyled">
     <li class="previous"><% if(post.prev){ -%>
+      <p class="navigation-label"><span class="icon-left-open"></span> Plus récent</p>
       <a href="<%= post.prev.permalink %>" rel="bookmark"><%= post.prev.title %></a>
       <% } -%></li>
     <li class="next"><% if(post.next){ -%>
+      <p class="navigation-label">Plus ancien <span class="icon-right-open"></span></p>
       <a href="<%= post.next.permalink %>" rel="bookmark"><%= post.next.title %></a>
     <% } -%></li>
   </ul>

@@ -2512,6 +2512,14 @@ input[type="submit"].btn.btn-mini {
 .navbar-inverse .btn-navbar.active {
   background-color: #000000 \9;
 }
+@media (min-width: 768px) {
+  .navigation-list > li{
+    display: inline-block;
+    vertical-align: top;
+    width: 49%;
+  }
+}
+
 @media (max-width: 767px) {
   body {
     padding-top: 0;
@@ -3347,6 +3355,10 @@ article footer{
   border-radius: 0 0 2px 2px;
   font-size: 1.1em;
 }
+article footer .inline li{
+  padding-left: 0;
+  padding-right: 10px;  /* twice the size */
+}
 .article header h2,
 article footer h2{
   font-size: 1.3em;
@@ -3419,27 +3431,15 @@ article #responses a:focus,
 .navigation{
   margin-top: 2em;
 }
-  .navigation-list > li{
-    display: inline-block;
-    vertical-align: top;
-    width: 49%;
-  }
-
   .navigation-list .previous{
     text-align: left;
-  }
-  .navigation-list .previous:not(:empty):before{
-    content: "\00ab";
-    font-size: 1.5em;
-    vertical-align: middle;
   }
   .navigation-list .next{
     text-align: right;
   }
-  .navigation-list .next:not(:empty):after{
-    content: "\00bb";
-    font-size: 1.5em;
-    vertical-align: middle;
+  .navigation-label{
+    font-size: 0.9em;
+    margin-bottom: 0;
   }
 main .title{
   margin-bottom: 1em;
@@ -3559,7 +3559,7 @@ aside .menu-item a[href*='twitter.com']:after {
   content: "\e80a";
 }
 aside .menu-item a[href*='flickr.com']:after {
-  content: "\e800";
+  content: "\e809";
 }
 aside .menu-item a[href*='github.com']:after {
   content: "\e802";
