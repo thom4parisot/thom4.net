@@ -3553,16 +3553,16 @@ aside .menu-item a:after {
   right: 7px;
 }
 aside .menu-item a[href$='/feed/']:after {
-  content: "\e802";
+  content: "\e804";
 }
 aside .menu-item a[href*='twitter.com']:after {
-  content: "\e800";
+  content: "\e80a";
 }
 aside .menu-item a[href*='flickr.com']:after {
-  content: "\e803";
+  content: "\e800";
 }
 aside .menu-item a[href*='github.com']:after {
-  content: "\e801";
+  content: "\e802";
 }
 @media (max-width: 767px) {
   .about {
