@@ -3251,6 +3251,11 @@ figure.highlight{
   figure.highlight .gutter{
     text-align: right;
   }
+  figure.highlight .gutter pre{
+    font-size: 0.8em;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
   figure.highlight .code pre{
     font-size: 14px;
     overflow-x: auto;
