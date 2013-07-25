@@ -3,6 +3,7 @@
     Article publié le
     <time datetime="<%= date(post.date, 'YYYY-MM-DDTHH:mm:ss.SSS')%>"><%= date(post.date, config.date_format) %></time>
     par <a href="/slash-me/" rel="author">Thomas Parisot</a>.
+    <small class="pull-right"><a href="https://github.com/oncletom/oncletom.io/tree/master/source/<%= post.source %>" class="icon-pencil-squared">Proposer une correction</a></small>
   </p>
 
   <ul class="categories-list inline">
