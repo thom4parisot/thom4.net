@@ -23,7 +23,7 @@ Here is how I solved the problem.
 
 The main concern we would like to address is to know **if we are in a development context** or not.
 
-Unfortunately, the Chrome Extensions API does not let us know if  the extension is *unpacked* (**development**) or *not* (**production**). We could only sniff the `chrome.runtime.getManifest().key` value; which is populated when the extension is published on the Web Store.
+Unfortunately, the Chrome Extensions API does not let us know if  the extension is *unpacked* (**development**) or *not* (**production**). We can only sniff the `chrome.runtime.getManifest().key` value; which is populated when the extension is published on the Web Store.
 
 The sniffing solution will not work if you ship **both** on the Web Store and an Auto Update Server (for beta test or any other reason). The `key` value will be populated in both case, thus leading us back again to our initial problem: **what is the execution context of the extension**?
 
@@ -42,7 +42,7 @@ The final result is available as a [public Gist](https://gist.github.com/oncleto
 
 ## Extension Background Page Boilerplate
 
-For the sake of letting our extension testable in the future, we want to separate the *features* from the *execution*.
+For the sake of testability, we want to separate the *features* from the *execution*.
 
 So our background page is defined as is in the Manifest file:
 
@@ -61,7 +61,7 @@ So our background page is defined as is in the Manifest file:
 }
 ```
 
-With this content in our `process` file:
+With this content in the `process` file:
 
 ```javascript
 // src/lib/process.js
@@ -81,11 +81,11 @@ var process = new BackgroundProcess();
 // process.channel === "production";
 ```
 
-I like this pattern because we can **manipulate our context more easily** through the `process` variable in the DevTools. So as it makes our tests damn easy to write.
+I like this pattern because we can **manipulate our context more easily** through the `process` variable in the DevTools. So as it makes our tests damn easy to write. And the *background* testable even outside a background context (because it became a simple public API).
 
 ## Implementing the Extension Channel
 
-Our channel configuration informations will lie in a specific file, alongside the `manifest.json`. It will help our API to remain the same by storing the *differences* in this file.
+Our channel configuration informations will lie in a specific file, alongside the `manifest.json`. It will help our API to remain the same by keeping the *differences* in this file.
 
 ```javascript
 // src/channel.json
@@ -111,9 +111,11 @@ This file is loaded through an XMLHttpRequest during the `BackgroundProcess` ini
 
 BackgroundProcess.prototype.requetChannelConfig = function requetChannelConfig(url){
   var xhr = new XMLHttpRequest();
+
   xhr.open("GET", url);
   //xhr.responseType = "json"; //in the future it will work…
   xhr.addEventListener("load", this.channelResponseHandler.bind(this));
+
   xhr.send();
 };
 
@@ -124,7 +126,7 @@ BackgroundProcess.prototype.channelResponseHandler = function channelResponseHan
 };
 ```
 
-OK. So now we have something nice. We now have a way to figure out the context of execution of our extension. It is about time to figure it out visually.
+OK, now we have something nice. We can figure out the context of execution of our extension. It is about time to figure it out visually.
 
 ## Changing The `browserAction` Icon
 
@@ -152,8 +154,7 @@ BackgroundProcess.prototype.devSetup = function devSetup(config){
 
 This way, we execute a post-configuration code only if this latest is avaivable. We alter the extension behaviour only if we  deviate from the production environment.
 
-
-## But, What Do I Do For Production?
+## But, What About Production Channel?
 
 As for now, the `channel.json` is systematically loaded. Even if we zip the content of the `src/` folder to upload it on the Chrome Web Store.
 
@@ -161,8 +162,8 @@ I rely on [Grunt](http://gruntjs.com) to automate my packaging. For this example
 
 The workflow is the following:
 
-1. selecting recursively the content of the `src/` folder in a temporary folder;
-1. during the copy process, excluding the `channel.json` file;
+1. selecting recursively the content of the `src/` folder;
+1. during the selection process, excluding the `channel.json` file;
 1. compressing the content of the temporary folder in a ZIP file;
 1. when in production, the `channel.json` will not be loaded because it won't be part of the package;
 1. as a consequence, the `load` event will never be fired;
@@ -200,7 +201,7 @@ module.exports = function(grunt) {
 
 ### What's Next?
 
-Instead of executing a dynamic function, thus increasing the size of our `BackgroundProcess` class and breaking the single responsible principle, we could **spread the configuration via an Extension event** (cf. [chrome.runtime.sendMessage](http://developer.chrome.com/extensions/runtime.html#method-sendMessage)). **Several layers of the app can react to a same event**. Like you would do in any DOM application.
+Instead of executing a dynamic function (cf. the prior `devSetup`) — thus increasing the size of our `BackgroundProcess` class and breaking the single responsible principle — we could **spread the configuration via an Extension event** (cf. [chrome.runtime.sendMessage](http://developer.chrome.com/extensions/runtime.html#method-sendMessage)). **Several layers of the app can react to a same event**. Like you would do in any DOM application.
 
 Another approach would to be to *monkey patch* the `BackgroundProcess` instance by **loading an additional file before initialising the process**. It may be easier than the previous solution but it could also *lead to more hacky code*.
 
@@ -212,5 +213,6 @@ We could also use the `FileAPI` to **browse a local extension configuration fold
 
 It's up to you to choose the complexity you add in your extension. **The only thing we want is that is works**!
 
+Feel free to share your remarks, improvements or correct any English mistake I made :-)
 
 
