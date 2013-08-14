@@ -1,5 +1,5 @@
 title: Live Development of a Bower Component
-date: 2013-07-15 18:24:12
+date: 2013-08-15 10:00:00
 tags:
 - bower
 - components
@@ -17,6 +17,26 @@ At some point, you would like to **develop your Bower component within the Web p
 
 <!--more-->
 
-## Architecture
+## Project Architecture
 
-## 
+```
+exce££ent-hackday-project/
+├── bower.json
+├── lib
+├── public
+└── src
+    ├── bootstrap.js
+    ├── headlines.js
+    └── vendor
+        ├── my-bower-package
+        │   ├── bower.json
+        │   └── main.js
+        └── semicolon.js
+            ├── LICENSE
+            ├── README.md
+            └── semicolon.js
+
+```
+
+## Bla
+
