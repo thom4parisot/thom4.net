@@ -3263,6 +3263,28 @@ figure.highlight{
     white-space: pre;
     word-wrap: normal;
   }
+
+.lang-javascript .string{
+  color: #d14;
+}
+.lang-javascript .comment{
+  color: #998;
+  font-style: italic;
+}
+.lang-javascript .literal,
+.lang-javascript .keyword{
+  font-weight: bold;
+}
+.lang-javascript .regexp{
+  color: #009926;
+}
+.lang-javascript .number{
+  color: #099;
+}
+.lang-javascript .params{
+  color: #0086B3;
+}
+
 .avatar-32 {
   height: 32px;
   width: 32px;
