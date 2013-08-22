@@ -14,7 +14,7 @@ cover: /images/2013/08/grunt-dynamic-expand.png
 
 [Dynamic file object](http://gruntjs.com/configuring-tasks#building-the-files-object-dynamically) maps various `src` to `dest` within *one target*.
 
-But what about **writing multiple targets at once** — without any line of code?
+But what about **writing multiple targets at once** — without add any line of code?
 
 <!--more-->
 
@@ -24,7 +24,8 @@ Some Grunt tasks may last too long *and* you don't want to keep adding targets i
 
 ## The Initial Context
 
-[Mark McDonnell](http://integralist.co.uk/) worked hard on [making BBC News Sass compilation dynamic with Grunt](http://integralist.co.uk/Dynamically-Generated-Grunt-Tasks.html). He faced the **problem of long Sass compilation time** and wanted to split them in **smaller chunks** to reduce the compilation time.
+[Mark McDonnell](http://integralist.co.uk/) worked hard on [making BBC News Sass compilation dynamic with Grunt](http://integralist.co.uk/Dynamically-Generated-Grunt-Tasks.html).
+He faced the **problem of long Sass compilation time** and wanted to split them in **smaller chunks** to reduce the time people stall during two changesets.
 
 Hence the following file structure:
 
@@ -87,24 +88,24 @@ module.exports = function (grunt) {
 };
 ```
 
-This way, you type `grunt sass:afrique` to compile only the  [BBC Afrique](http://www.bbc.co.uk/afrique/) service stylesheets or `grunt sass:dist` to rebuild *all* the services stylesheets (only when releasing otherwise [you will feel like living this comic strip](http://xkcd.com/303/)).
+This way, you type `grunt sass:afrique` to compile only the  [BBC Afrique](http://www.bbc.co.uk/afrique/) service stylesheets or `grunt sass:dist` to rebuild *all* the services stylesheets  — typically done only when releasing otherwise [you will feel like living this comic strip](http://xkcd.com/303/).
 
 You hence face 2 problems:
 
 * the **maintenance cost increases** gradually as soon as new services requires to add new targets;
 * the **readability decreases** as your Gruntfile get more and more bloated by repetitive content.
 
-[Mark's technique has been great](http://integralist.co.uk/Dynamically-Generated-Grunt-Tasks.html) at removing this pain — and [even improved to leverage the Grunt Config API](http://integralist.co.uk/Using-Grunts-Config-API.html)): he  **dynamically generated the Grunt targets** on runtime.
+[Mark's technique has been great](http://integralist.co.uk/Dynamically-Generated-Grunt-Tasks.html) at removing this pain — and [he even improved it to leverage the Grunt Config API](http://integralist.co.uk/Using-Grunts-Config-API.html)): he  **dynamically generated the Grunt targets** on runtime.
 
-I’ve been working at making [BBC News](http://responsivenews.co.uk/) Grunt tooling battle-tested and shipped in their [CI](http://martinfowler.com/articles/continuousIntegration.html) process. It gave me the opportunity to simplify things.
+I’ve been working at making [BBC News](http://responsivenews.co.uk/) Grunt tooling battle-tested and pluggable into their [CI process](http://martinfowler.com/articles/continuousIntegration.html). It gave me the opportunity to simplify things.
 
 Because I had time and found it challenging.
 
 ## Enters Grunt Property Expand
 
-The [`grunt.template`](http://gruntjs.com/api/grunt.template) mechanism is recommended to avoid repetition, and **reuse configuration values**.
+The [`grunt.template`](http://gruntjs.com/api/grunt.template) mechanism is recommended to avoid repetitions, and **to reuse configuration values**.
 
-Templates are evaluated on *runtime*, when a task is duely queued and ran. Not when `grunt.initConfig` is called.  
+Templates are evaluated on *runtime*, when a task is duely queued and ran. Not when `grunt.initConfig` is called.
 Which means we have access to the `grunt.task.current` object.
 
 In the case of `grunt sass:afrique`, [`grunt.task.current.name`](http://gruntjs.com/inside-tasks#this.name) equals `sass` and then, [its arguments](http://gruntjs.com/inside-tasks#this.args): `grunt.task.current.args` is an array for which the first index equals `afrique`.
@@ -117,7 +118,7 @@ grunt sass:service:arabic
 …
 ```
 
-Our `Gruntfile.js` will never grow or require a line of code to target a sub-tree of our codebase:
+Our `Gruntfile.js` will never grow in size or require any new line of code to target a sub-tree of our codebase:
 
 ```javascript
 module.exports = function (grunt) {
@@ -154,7 +155,8 @@ module.exports = function (grunt) {
 
 ## The Bay Watcher
 
-We can apply the same sugar to any `watch` task to recompile automatically our Sass files. Still, we don’t want to rebuild the whole files. **We only want to recompile service’s modified Sass files**.
+We can apply the same sugar to the `watch` task to recompile automatically our Sass files.
+Still, we don’t want to rebuild the whole files assets. **We only want to recompile service’s modified Sass files**.
 
 This is doable by applying the same technique, not only in the `src` target configuration, but also in the `tasks`’s one:
 
