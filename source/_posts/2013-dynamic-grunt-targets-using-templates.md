@@ -170,8 +170,8 @@ module.exports = function (grunt) {
         // …
         service:{
           files: [
-            ‘src/sass/partials/**/*.scss',
-            ‘src/sass/services/<%= grunt.task.current.args[1] %>/*.scss'
+            'src/sass/partials/**/*.scss',
+            'src/sass/services/<%= grunt.task.current.args[1] %>/*.scss'
           ],
           tasks: ['sass:service:<%= grunt.task.current.args[1] %>']
         }
