@@ -25,7 +25,7 @@
       </form>
 
       <strong class="archive-list-heading">Archives, par année :</strong>
-      <%- list_archives({type: "yearly", order: -1, format: "YYYY", show_count: false}) %>
+      <%- list_archives({type: "yearly", order: -1, format: "YYYY", show_count: false}).replace(/\/\//g, '/') %>
     </div>
   </div>
 </div>
