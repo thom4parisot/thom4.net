@@ -1,22 +1,10 @@
-<% if (page.year || page.category){ -%>
 <% if(page.archive){ -%><h1 class="title">Archives de l'année <span><%= page.year %><span></h1><% } -%>
 <% if(page.category){ -%><h1 class="title"><%= page.category %> <span>&amp; cie.</span></h1><% } -%>
 
 <div class="row">
-  <% page.each(function(post){ %>
+  <% page.posts.each(function(post){ %>
     <%- partial("_blog/post-condensed", {post: post})%>
   <% }); %>
 
   <%- partial("_blog/navigation-box") %>
 </div>
-<% } else {%>
-<div class="row">
-  <%- partial("_blog/post-excerpt", {post: page.first()})%>
-
-    <% page.slice(1, 5).each(function(post){ %>
-      <%- partial("_blog/post-condensed", {post: post})%>
-    <% }); %>
-
-  <%- partial("_blog/navigation-box") %>
-</div>
-<% } -%>

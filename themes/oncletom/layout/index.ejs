@@ -1,5 +1,9 @@
 <div class="row">
-  <%- partial("_blog/post-excerpt", {post: page.first()})%>
+  <%- partial("_blog/post-excerpt", {post: page.posts.first()})%>
+
+  <% page.posts.slice(1, 5).each(function(post){ %>
+  <%- partial("_blog/post-condensed", {post: post})%>
+  <% }); %>
 
   <%- partial("_blog/navigation-box") %>
 </div>

@@ -1,6 +1,6 @@
 {
   "name": "oncletom.io",
-  "version": "1.2.4",
+  "version": "2.1.0",
   "private": true,
   "engines": {
     "node": ">= 0.10.0",
@@ -13,7 +13,7 @@
   "devDependencies": {
     "grunt-shell": "~0.3.0",
     "grunt": "~0.4.1",
-    "hexo": "git://github.com/tommy351/hexo.git#master",
+    "hexo": "~2.1.0",
     "hexo-generator-feed": "0.0.10",
     "grunt-contrib-jshint": "~0.6.0",
     "grunt-contrib-less": "~0.6.4",
