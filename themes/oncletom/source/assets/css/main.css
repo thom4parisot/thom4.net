@@ -2912,10 +2912,26 @@ a.thumbnail:hover {
   -moz-box-shadow: 0 1px 4px rgba(0,105,214,0.25);
   box-shadow: 0 1px 4px rgba(0,105,214,0.25);
 }
-article .content .video-container,
+article .content .video-container{
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  padding-top: 30px;
+  overflow: hidden;
+}
+  article .content .video-container iframe,
+  article .content .video-container object,
+  article .content .video-container embed{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 article .content p img,
 article .excerpt p img {
   display: block;
+  height: auto;
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
