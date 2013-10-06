@@ -14,7 +14,7 @@ cover:
   link: http://www.flickr.com/photos/the-jedi/10121241273/
 ---
 
-[LXJS 2013](http://2013.lxjs.org) is the second edition of this Portuguese conference. LXJS is an *all-inclusive single track JavaScript* conference spanned on two days.
+[LXJS 2013](http://2013.lxjs.org) is the second edition of English conference located in Lisbon, Portugal. LXJS is an *all-inclusive single track JavaScript* conference spanned on two days.
 
 To keep things short, this wrap up will be a **one sentence summary per *enlightening* session**.
 
