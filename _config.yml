@@ -105,5 +105,5 @@ deploy:
   host: oncletom
   user: oncletom
   root: ~/
-  delete: true
+  delete: false
   exclude: [.ssh, .bash*, .htaccess, images, talks]

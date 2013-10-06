@@ -10,7 +10,7 @@ tags:
 - nodejs
 - firefox-os
 cover:
-  url: http://farm6.staticflickr.com/5327/10121241273_589d0dcf84_c_d.jpg
+  url: //farm6.staticflickr.com/5327/10121241273_589d0dcf84_c_d.jpg
   link: http://www.flickr.com/photos/the-jedi/10121241273/
 ---
 
