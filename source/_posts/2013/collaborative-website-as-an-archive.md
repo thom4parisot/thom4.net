@@ -166,5 +166,7 @@ Anyway, a couple of things will be interesting to explore:
 - importing missing contents
 - **HTML frontend to face Github contribution**
 - [D3.js](http://d3js.org/) powered tables and filtered lists (courtesy of [Tim Ruffles](http://truffles.me.uk/) for the idea)
+- playing video games online thanks to HTML5 emulators such as [jsSMS](http://gmarty.github.io/jsSMS/)
+- eventually evolving as a Web-based peer to peer retrogaming open  platform (let's be super ambitious again)
 
 I hope it **gave you inspiration to craft your ideas** to your own domain, using this shared experience :-)
