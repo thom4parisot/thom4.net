@@ -1,7 +1,7 @@
 menu:
-  Expertise Web: http://cyneticmonkey.com
   Blog: /
-  Conférences: http://cyneticmonkey.com/talks
+  Conférences: /talks
+  Projets Web: /projects
 
 links:
   RSS: /feed/
