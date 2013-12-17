@@ -60,6 +60,8 @@ The so much awaited moment arrives: the moment when you feel the work is finally
 
 A last minute addition even made Imager suitable to use the Flickr URL pattern – something useful for the Flickr team to avoid their… flickering effect on page load.
 
+55 commits. 1204 additions. 70 deletions.
+
 A notification pops in. Imager. I click on the issue. **Closed**. Not merged. **Closed**. *Cold shower*.
 
 ![Imager.js initial Pull Request closed](/images/2013/12/imager-pr-failure.jpg)
@@ -134,6 +136,8 @@ Honestly it has been a perfect workflow: instead of a 100% failure ratio with 1 
 
 ![Imager.js aggregated Pull Request successfully merged](/images/2013/12/imager-pr-success.jpg)
 
+Oh, and beautiful coincidence: [the aggregated Pull Request counts exactly 55 commits](https://github.com/BBC-News/Imager.js/pull/49/commits) (before extra polishing by Mark leveraging it to 61 commits).
+
 ## The 55 Commits Syndrome
 
 Let’s wrap up things.
@@ -163,3 +167,5 @@ I can only be thankful not to have forked the project **due to  a communication 
 ![Imager.js as a trending project on Github](/images/2013/12/imager-github-fame.png)
 
 Team work. **Team work and community**. They are much more important than our individual proudness/selfishness. This is about talking. The code is just a glue connecting our ideas and making them physical. The code is just one part of the discussion. Not everything.
+
+
