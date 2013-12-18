@@ -108,9 +108,9 @@ Atomic you said?
 
 I rewrote 99% of the code *at once*.
 
-Even if the code was beautiful, battle tested and solidly documented, **who would accept to *replace* the legacy at once of something you care about**? Not even *me*.
+Even if the code was beautiful, battle tested and solidly documented, **who would accept to *replace* the legacy of something you care about, at once**? No one. Not even *me*.
 
-The **refactoring** has been replaced by a **rewriting** by wanting to do **more at once**.
+The **refactoring** “evolved” to a **rewriting** by wanting to do **more at once** and to **prove I could do it**.
 
 The Pull Request was *inclusive* or *exclusive* depending of your level of involvement. *My* level of involvement. So it was **exclusive by default**.
 
@@ -150,7 +150,7 @@ Although some douchebags will not be happy by any of your decision but whatever,
 
 **The size of the Pull Request does not matter**.
 
-At the end of November 2013, [a Pull Request containing 2 words rephrasing has been propose to a Node.js related project](https://github.com/joyent/libuv/pull/1015). Unfortunately it has been rejected by this abrupt sentence:
+At the end of November 2013, [a Pull Request containing 2 words rephrasing has been proposed to a Node.js related project](https://github.com/joyent/libuv/pull/1015). Unfortunately it has been rejected by this abrupt sentence:
 
 > [Sorry, not interested in trivial changes like that.](https://github.com/joyent/libuv/pull/1015#issuecomment-29538615)
 
