@@ -1,5 +1,5 @@
-title: Regenerating an Identity
-date: 2013-12-03 22:35:55
+title: Past — Year of the Truth
+date: 2013-12-18 10:00:00
 tags:
 - introspection
 - quête
@@ -55,7 +55,7 @@ I would have never imagined working for the BBC and being able to bring somethin
 
 What remains of technology and evolution? People. Nature.
 
-Has technology or tools ever solved problems? They certainly helped. 
+Has technology or tools ever solved problems? They certainly helped.
 
 ## Focusing on the Self
 
