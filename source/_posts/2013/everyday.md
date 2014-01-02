@@ -31,7 +31,7 @@ What 2013 looked like, **every day**, in picture(s).
 
 ## The Technique
 
-The timelapse is built using [GraphicsMagick](http://graphicsmagick.org/) and an obsessional daily ritual:
+The timelapse is built using [GraphicsMagick](http://www.graphicsmagick.org/) and an obsessional daily ritual:
 
 ```bash
 cd ~/everyday/2013
