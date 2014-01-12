@@ -6,7 +6,7 @@
       </h1>
     </header>
 
-    <%- partial("post-cover", {post: post}) %>
+    <%- partial("post-cover", {post: post, href: config.root+post.path }) %>
 
     <div class="excerpt"><%- post.excerpt %></div>
 
