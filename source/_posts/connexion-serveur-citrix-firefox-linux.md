@@ -35,6 +35,8 @@ Tout se fait via son navigateur Web préféré (Iceweasel sous Debian, Firefox s
 
 ## Installer le plugin ICA pour Linux
 
+**Mise à jour** : [un paquet RPM de Citrix Receiver est disponible pour Linux](http://www.citrix.com/downloads/citrix-receiver/linux.html) (merci au commentateur anonyme pour l'information). [`Alien` convertira le RPM en DEB pour Debian/Ubuntu](https://help.ubuntu.com/community/RPM/AlienHowto) ; je laisse le reste de l'article pour la postérité.
+
 [Une recherche Google plus tard](http://www.agaveblue.org/howtos/Citrix_ICA_How-To.shtml  "Citrix ICA Client How-To for Linux"), je découvre donc sans surprise qu'il me faut installer un client Citrix. J'ai un peu peur en imaginant qu'il ne fonctionne que sur des systèmes d'exploitation arriérés.
 
 Et pourtant, quand on sait ce qu'il faut installer c'est tellement plus simple :
