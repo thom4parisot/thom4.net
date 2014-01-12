@@ -1,6 +1,6 @@
 <% if (post.cover){ %>
 <div class="post-cover">
-  <% if (post.cover.hasOwnProperty("link")){ -%><a href="<%= post.cover.link %>" rel="external"><% } %>
+  <% if (post.cover.hasOwnProperty("link")){ -%><a href="<% if(typeof href !== 'undefined') { %><%= href %><% } else { %><%= post.cover.link %><% } %>" rel="external"><% } %>
   <img src="<%= partial('../_cover_url', {post: post}) %>" alt="">
   <% if (post.cover.hasOwnProperty("link")){ %></a><% } %>
 </div>
