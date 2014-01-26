@@ -1,5 +1,5 @@
 title: Past — Year of the Truth
-date: 2013-12-18 10:00:00
+date: 2014-01-30 10:00:00
 tags:
 - introspection
 - quête
@@ -17,6 +17,20 @@ I would have never imagined working for the BBC and being able to bring somethin
 <!--more-->
 
 2013 has been another year full of destructuring for a better regeneration. On top of the legacy, not against it.
+
+## Loops and Patterns
+
+(re)discovered “In C” from Terry Riley.
+
+## Habbits
+
+Had to recreate them. Carrying them overseas.
+i
+
+## Fraud and Normality
+
+Everything I did was normal to me, and I aknowledge everybody around me is better than me.
+
 
 ## Leaving Things/People/Memories
 
