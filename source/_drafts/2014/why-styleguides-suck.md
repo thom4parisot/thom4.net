@@ -16,6 +16,8 @@ tags:
 - https://github.com/cloudhead/styleguide
 - http://www.bbc.co.uk/gel
 
+Checklist effect.
+
 ## The Anatomy of Design Decision
 
 > https://vimeo.com/38973832
