@@ -18,6 +18,23 @@ tags:
 
 Checklist effect.
 
+Styleguide creates a walled garden: nice to see but huge payload to come inside.
+
+In the real life, we work on various projects, from various stakeholders. Our efforts should focus on how to contribute rather than satisfying a subjective taste. But respecting the codestyle by mimicking.
+
+Another problem of a styleguide is: what do we do with something which is clearly not specified? How new rules emerge? How people keep in sync? The effort does not scale.
+
+How do you verify a styleguide? By eye? You, programmer? Manually?
+
+A styleguide creates a culture which atom is a project. Do you want to force people proving their identity at the entry and performing identity checks at each street corner or do you want to stimulate contributions to make breathing and living your community?
+
+Pick up a common convention, something handy, create rules when it's really solving a problem encountered in a project.
+Problems we need to fix in a project are: bugs, vision and communication.
+
+Styleguides should be a tool helped to make code consistent (whatever is your definition of consistency) and to prevent leaking mistakes (global variables in JavaScript, possible minification bugs due to a lack of semicolon etc.).
+
+What you think is cool but what is important for the project's code is way better.
+
 ## The Anatomy of Design Decision
 
 > https://vimeo.com/38973832
