@@ -10,10 +10,10 @@ cover:
   url: //farm9.staticflickr.com/8388/8489312830_17628cc7d5_c_d.jpg
 ---
 
-**2013 has been *even less* predictable than the past years**.
-The only event I could have predicted is I would turn thirty years old.
+2013 has been another year full of destructuring for a better regeneration. **On top of the legacy**, not against it.
 
-[Leaving France to London was not part of any plan](https://oncletom.io/2013/every-day-is-a-brand-new-place/).
+[Leaving France to United Kingdom was not part of any plan](/2013/every-day-is-a-brand-new-place/).  
+But still, it happened. And for the best!
 
 <!--more-->
 
@@ -22,7 +22,7 @@ This blog post is part of 2014’s New Year triptych:
 - Present — Self-awareness Thirties (yet to be published)
 - Future — The Plan (yet to be published)
 
-2013 has been another year full of destructuring for a better regeneration. On top of the legacy, not against it.
+
 
 
 
