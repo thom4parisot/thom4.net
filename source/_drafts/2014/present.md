@@ -1,8 +1,12 @@
 title: Present — Self-awareness Thirties
+published: false
 date: 2014-02-07 10:00:00
 tags:
 categories:
 - Personnel
+cover:
+  link: http://www.flickr.com/photos/the-jedi/11235787753/
+  url: //farm4.staticflickr.com/3804/11224137675_e5e99d65da_c_d.jpg
 ---
 
 

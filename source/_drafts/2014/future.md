@@ -1,9 +1,13 @@
 title: Future — The Plan
 date: 2014-02-14 10:00:00
+published: false
 tags:
 categories:
 - Personnel
 - Projets
+cover:
+  link: http://www.flickr.com/photos/the-jedi/11915201475/
+  url: //farm4.staticflickr.com/3751/11915201475_8f7fd3d7af_c_d.jpg
 ---
 
 <!--more-->
