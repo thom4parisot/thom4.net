@@ -61,3 +61,5 @@ First anonymous parcel containing the book “Soft City”.
 I start witnessing my body aging. The first decade of decay while reaching its momentum, or perhaps during the fourties.
 
 Time is limited, and never granted.
+
+I’m not building softwares. I’m building trust and confidence.
