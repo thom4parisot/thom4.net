@@ -1,5 +1,6 @@
 title: Past — Year of the Truth
 date: 2014-01-30 10:00:00
+lang: en-GB
 tags:
 - introspection
 - quête
@@ -22,7 +23,7 @@ But still, it happened. And for the best!
 This blog post is part of a 2014’s New Year triptych:
 
 1. **Past — Year of the Truth**
-1. Present — Self-awareness Thirties (yet to be published)
+1. [Present — Self-awareness Thirties](/2014/present/)
 1. Future — The Plan (yet to be published)
 
 You will read a summary of my 2013’s learnings. It might seems pointless but these are the *fundations* of **today** and **tomorrow**.
