@@ -1,5 +1,4 @@
 title: Present — Self-awareness Thirties
-published: false
 date: 2014-02-07 10:00:00
 lang: en-GB
 tags:
@@ -8,8 +7,8 @@ tags:
 categories:
 - Personnel
 cover:
-  link: http://www.flickr.com/photos/the-jedi/12274425355/
-  url: //farm4.staticflickr.com/3822/12274425355_9ece21af11_c_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/12309669015/
+  url: //farm8.staticflickr.com/7460/12309669015_ce1e4c207e_c_d.jpg
 ---
 
 I always considered turning thirty years old would be just a symbolic change. Two beautiful digits and nothing more. A **continuity**.
@@ -28,8 +27,6 @@ This blog post is part of a 2014’s New Year triptych:
 
 You will read how I believe the journey to the thirties happened and brought me slowly but surely in this actual state of mind.
 
-This is why it’s written as a mirror of [the Past](/2014/past/).
-
 ## Home & Town
 
 My parents moved a couple of times before I got 6 years old. They *definitely* settled in Bordeaux when I turned 12. Since then, I  moved two times within an area of 18 kilometers in 18 years.
@@ -39,6 +36,8 @@ I now recall **we need *time* to reset our body clock**: habbits, mental cues an
 Therefore, the local cultures is a membrane to access this tate of **being home**. The *local culture* includes the spoken languages as it conveys the myths and knowledge shared by a majority of citizens.
 
 Now I’m living at home, abroad my hometown. **By living I mean taking part and giving to the communities I’ve chosen to be part of**. I also feel I could live wherever is possible in the world, as long as I can *bridge my local culture(s) with the local cultures*.
+
+Through friends and family experience, I also know that **I can become a foreigner for my own native country** if I stay away for a certain amount of time. From another point of view, **I** might not be able to cope again with a culture which became partially unknown to me.
 
 ## Identity & Individuality
 
@@ -56,39 +55,58 @@ By *inner world*, I mean the world as you start conceiving it in your mind, by l
 
 At thirty years old, I now admit this feeling of freedom, of choosing my life according to my desires, is in reality a pure self-programming consequence resulting from a secret agreement between my body and my brains during the first decade. The external environment shaped my knowledge and my reactions through life experiences.
 
-That’s not *grandiose* neither poetic but realistically, it just helped me moving on situations which severely broke my ideals. 
+That’s not *grandiose* neither poetic but realistically, it just made me making decisions with ease and fluency, only understanding later the *real* ins and outs of it. Like the pleasure I have playing videogames, writing software, travelling or even making pictures with a camera.
 
-As mentioned before, **I now assume being a foreigner**.
+## Self & Someone
 
-Through friends and family experience, I also know that **I can become a foreigner for my own native country** if I stay away for a certain amount of time. From another point of view, **I** might not be able to cope again with a culture which became partially unknown to me.
+Moving abroad helped me getting a decisive grip on my own internals. **By becoming nobody in a new place, I had to become myself**. Not I was not aware of that. But I had to understand what I was composed of.
 
-**I have always worked with *content***.
+Having the label **BBC** stamped on my face hopefully saved me a couple of months/years to be taken seriously as a foreigner. Not only for the worldwide *prestige* of this well-known institution, but also for the people I’ve been able to meet and what they mirrored me back.
 
-And I feel more and more comfortable everyday.
+In November 2013, our team went over an organisational change and I picked up working in the *Content Experiences* team. A Senior manager then told me:
+> I think this is the team which suits you the most. You are a great developer but I believe for you, **programming is just a way to do something different**.
 
-Deprived of being myself due to external constraints.
+*Flashback*.
 
-## Balance & Consistency
+I then remembered making the first edition of a primary school newspaper (because it was exciting to share things we loved!), creating misunderstood riddles in secondary school, *living* the videogames I was playing (I was so sad to finish *Zelda: A Link to the Past* because the alternate world disappears), creating my first website to share my opinions about Star Wars books I’ve read (ah Timothy Zahn and its *Heir to the Empire* trilogy, the best one ever!), skipping college tuitions to build a videogame website, writing a book instead of caring about my girlfriend, organising (Web) events because we were missing the point: it is not about technique, it is about people.
 
-I am building things in the continuity of past experiences, either success or failures.
+**People are contents**.
 
-I had a tendency to wipe off to start again. It costs a lot of efforts plus you never really clear out the past. I now assume building *on top of* past experiences. Acceptance rather than cartesianism.
+And I have always worked with *content*. This content has different shapes, uses different materials, either it is pictures, text, digits or software.
 
-## Culture & Knowledge
+This manager is so in the right: I can just give life to content, transform an idea by mixing the various universes I’m familiar. I care about delivering tools and experiences to end users in the most acceptable way.
 
-I am a creative person using code for another purpose than the code itself.
+![](/images/2013/everyday.jpg)
 
-I can easily have ideas, adjust them and not willing to push them absolutely to an end. They can be merged and lead to other and more interesting ideas. And projects.
+## Balance & Knowledge
 
-The downside is it can be tiring, and it requires efforts to distract my own mind.
+I am now aware I need to source experiences from transversal areas of knowledge. I struggle to face the everyday life if I can’t access to that. This is why the *routine* scared me so much for a long time, inconsciously making me moving forward to avoid stagnating.
 
-Reading and writing.
+The problem of moving forward is you end up leaving the present to live it in an alternate time people can’t access. The problem of moving forward is you end up forgetting the past, because you  rely less and less on it, fearing to be trapped into it.
+
+The opposite problem is living in the now and not thinking about the future. It either have a strange effect: the continuous insatisfaction of *never enough* and the continuous stress to discover expected deadlines too late before they happen. Smartphones are a great safety net because you have an immediate access to something you could easily anticipate.
+
+The balance is in between, not in the middle, but rather close to our natural way of sorting things out. I’ve found my trick to act on and measure that balance. [By doing the same thing every day](/2013/everyday/). Something I can’t escape because of my lazyness or a “good” excuse.
+
+It can be boring, I can get bored and sometimes I don’t even look at the scenery but if I feel a beginning of desire to skip that effort, it’s a warning I’m starting to dive into my comfort zone.
 
 ## Photography & Creativity
 
-Repetitive patterns. Lines. Cutting/slashing.
+The enters photography. I think I started photography by staring at the family picture books: seeing my parents smiling, my little baby face and the first day of life of my brother. This is the first scene in picture I photographed in my head while living it.
 
-I feel I need to expand, towards music and other crafts.
+Fast forward: I’m now a teenager, travelling with my family somewhere in Ireland or in Wales. I remember taking the initiative of holding the camera and making the pictures to stop an argument between my parents. After all, it’s just a zoom with a trigger when you’re happy with what you have in the eyefinder.  
+So why not doing it? The feeling to see the printed pictures was extraordinary: “wow, I can do that?”
+
+The Christmas of my 18th birthday, I got my first camera: a Toshiba PDR-M70. A 3 megapixels digital camera with a 128Mo SmartMedia flashcard. Believe or not, in 2000 it was one of the best compact camera on this brand new market. So many hours browsing catalogues, rejecting the proprietary Sony’s MemoryStick or the truly bad colours of other cameras.  
+The journey goes on, from a camera to another one, from compact to *bridge* then *bridge* to DSLR and finally, expanding to analog and instant cameras.
+
+This seems an ordinary evolution but I never took a minute to understand it. Or to even to go beyond the feeling of making a picture. I became aware of that by attending exhibitions, booking my first photography tuitions and by reading the sidenotes of [Raymond Depardon during his latest appearance in Paris](http://www.grandpalais.fr/fr/article/raymond-depardon-la-bande-annonce).
+
+**The pivotal moment**. He had it 20 years later after starting photography. Realising what effects had the colours on himself.  
+I realised during the tuitions what I liked to convey on pictures. A quote from a friend also helped me to understand why I could not make any picture of London:
+> There is too many people here, that’s why you can’t take a picture. Because there is always something, someone, some crowd. You like emptiness.
+
+I am now aware I love showing the beauty of the Nature, the weakness of Humans and expressing some tender through geometric/repetitive patterns. And how I mix influences, including software programming.
 
 
 ## Goals & Motivations

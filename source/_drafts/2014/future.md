@@ -1,16 +1,23 @@
 title: Future — The Plan
 date: 2014-02-14 10:00:00
-published: false
+lang: en-GB
 tags:
 categories:
 - Personnel
 - Projets
 cover:
-  link: http://www.flickr.com/photos/the-jedi/11915201475/
-  url: //farm4.staticflickr.com/3751/11915201475_8f7fd3d7af_c_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/12327903045/
+  url: //farm8.staticflickr.com/7346/12327903045_a2f78c662f_c_d.jpg
+
 ---
 
+https://medium.com/servant-leadership/3b0e39d87179
+
 <!--more-->
+
+I am building things in the continuity of past experiences, either success or failures.
+
+I had a tendency to wipe off to start again. It costs a lot of efforts plus you never really clear out the past. I now assume building *on top of* past experiences. Acceptance rather than cartesianism.
 
 ## Time Balance
 
