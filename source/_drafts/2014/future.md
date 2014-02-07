@@ -13,6 +13,16 @@ cover:
 
 https://medium.com/servant-leadership/3b0e39d87179
 
+## It’s All About Time
+
+Time is limited, and never granted: I started witnessing my body aging. You never care about it until you notice those details.
+
+31st of December 2013. I stand on a rooftop in Lisbon. People are around, waiting for the fireworks. The mild temperature makes the night easy to bear. One of the guests told his story, how he traveled, memories and ended on the fact it was the right moment to settle down.
+ 
+I then asked the question: “How do you know it is the right moment to settle down again in your home country?”
+
+He smiled and answered he learned enough in 10 years around the world. He can now bring back this knowledge back and make an impact around him thanks to this experience.
+
 <!--more-->
 
 I am building things in the continuity of past experiences, either success or failures.
