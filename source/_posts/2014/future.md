@@ -35,11 +35,21 @@ Focusing on *doing* things which matches long-term life plan.
 
 Because when you are curious, it is very easy to spread your time and energy into everything, and getting back frustrated of a low progress.
 
-## Crafting
+## Surface & Transverse
+
+## Listening & Spealing
+
+## Knowledge & Transfer
+
+## Sharing & Open Source
+
+## Groups & Communities
+
+## Vision & Empowering
+
+## Craft & Photography
 
 Do more manual crafting: calligraphy, paper work (I’d love to create paper from natural materials), darkroom processing, digital photography programming.
-
-## Photography
 
 Book on Iceland.
 
