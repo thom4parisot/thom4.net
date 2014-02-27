@@ -8,7 +8,7 @@ categories:
 - Personnel
 cover:
   link: http://www.flickr.com/photos/the-jedi/12309669015/
-  url: //farm8.staticflickr.com/7460/12309669015_ce1e4c207e_c_d.jpg
+  url: //farm8.staticflickr.com/7460/12309669015_1636503337_c_d.jpg
 ---
 
 I always considered that turning thirty years old would be just a symbolic change. Two beautiful digits and nothing more. A simple **continuity**.
