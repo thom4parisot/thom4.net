@@ -95,6 +95,16 @@ Enlightened and curious individual.
 
 Groups and communities.
 
+## Connecting / Disconnecting
+
+Connecting with what we've been deviated by being in long-journey commute urban world. Not much time except for consuming.
+
+World is living in an improved human condition. Kings have changed. They are not ruling us. We are buying from them. So there is no reason for them to change this bound with us. And also because they have few choice to survive.
+
+## Long term
+
+Love the BBC Three move. It's a 10 years plan. At a cost, but a short term cost for long term result.
+
 ## Coming Back
 
 Maybe. Later. When it will be the good moment and when I’ll want it. Which is far from being the case.
