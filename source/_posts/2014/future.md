@@ -103,49 +103,54 @@ I will dedicate the next ten years to infuse a **good culture** in any community
 
 ## To Explore & To Deepen
 
-How can one understand
-Through books and history.
+The twenties of one’s life is that moment in life you spawn your attention over the surface of knowledge and various experiences. We follow our guts, friends and random opportunities popping up wherever we go. And it works for plenty of domains, including friendships (have you ever met your best friend in a party you did not want to go to?).
 
-Through journeys to unknown places. Being more proactive at looking for them instead of awaiting some interesting recommandations pops out.
+By reading technical books and technical blogs, I **aquired** my knowledge of *how to build **with*** Web technologies.
+By reading accessibility blogs, by attending conferences, I **improved** my knowledge on *how to build **with*** Web technologies.
+By providing tuitions, by reading essays about psychology, history and sociology, I **improved** my knowledge on *how to build **around*** Web technologies.
 
-Digging more than surfacing. It conflicts though with the love of bridging disciplines together to benefit from each of them everywhere. Code in photography. Art in life shaping. Traveling in organising events. Etc.
+Because I have a bit of knowledge about humans, **I have been able to make technical decisions taking in account the *human factor***.
 
-
-Either tighting more the bonds with people I care about. Being more proactive at generating activities instead of trying to catch up in the rush.
-
-Focus.
+I will continue on that trail the next ten years: local and global history, travels, the evolution of photography, computer science, Eastern philosophy. Books and peer recommendations are a great fuel to this.
 
 ![](/images/2014/03/team-invincible.jpg)
 
 ## To Craft & To Be Creative
 
-Do more manual crafting: calligraphy, paper work (I’d love to create paper from natural materials), darkroom processing, digital photography programming.
+Last year I enjoyed taking photography courses. It triggered a lot of interesting things. It altered my vision on my own work, it unveiled new directions and unlocked new crafts I never thought about beforehand.
 
-Book on Iceland.
+These learnings positively altered my travel habbits, the meaning of my actions (*even more* one would say) and gave me this excuse to experience analog film processing and film printing.
+Even though analog photography changed my relationship with my cameras, this helped deepening the photographic experience.
 
-Collaborations.
+More recently, and because I told a couple of friends about those experiences, one of them recommended me some bookbinding courses she enjoyed very much. I found a lot of emotional **similarities between processing a film in a darkroom and binding a book on your own**.
 
+The next ten years are going to be a field for new experiences: calligraphy, wood framing, paper making, more analog photography stuff, paper-based creations.
+
+All this cannot happen only by doing things on our own. **The generated energy of a close collaboration is joyful**.
 
 ## To Disconnect & To Reconnect
 
-Connecting with what we've been deviated by being in long-journey commute urban world. Not much time except for consuming.
+Even though we read a lot about realtime collaboration in an always connected world driven by worldwide corporations, even though the human condition improved drastically over the last century — yet unequally — I have this feeling **we also got disconnected from the ground**.
 
-World is living in an improved human condition. Kings have changed. They are not ruling us. We are buying from them. So there is no reason for them to change this bound with us. And also because they have few choice to survive.
+Cities and especially metropolis are fast-time places. They protect us by providing everything, at any time of the day. They protect us from the outside, whatever the outside is.
 
+How many of the supermarket products we buy are we able to make on our own, with raw materials? Butter, cheese or bread? The emphasis on tech and newness makes me feeling dumb regarding the making of essential things.
 
-I’ve given up on the idea of *changing the world* or *making an impact*. Especially as it can’t work on an individual basis. Or otherwise it’s like falling again in the hero’s myth.
-
-Enlightened and curious individual.
-
-Groups and communities.
+I really want to spend the next ten years at **going deeper in a sustainable life**: producing vegetables in a urban environment, being able to cook every processed food I buy in a supermarket (no one complained about my houmous so far).
 
 ## To Build & To Depart
 
-Staying longer abroad, in London, to develop what has been started. Getting back some benefits of all those efforts.
+I have given up on the idea of *changing the world* or *making an impact*. The change needs to be incorporated by closer, smaller and enclosing groups between *ourselves* and the *world*. It will bubble up naturally as you deepen your roots in the relevant communities.
 
-Maybe. Later. When it will be the good moment and when I’ll want it. Which is far from being the case.
+Empowering, motivating and helping will generate smaller but longer term outcomes. Which can make bigger impacts in the end.
 
-Meanwhile, things can be done remotely. As long as the Internet remains a public resource.
+**Building is enabling locally**. It is making the ability to replicate yourself at human scale. Other people sharing the same values are around. They will replicate your effort if they feel strong enough to do so.
+
+**Building is making the effort of one to be an outcome for 10, 70 or 150 people**. *Seeding* and *peer to peer*.
+
+I cannot pretend I will stay ten years in London as I cannot pretend I planned remaining eighteen years in my previous town. But as far as I can say, **I want to spend the next ten years building locally**, not looking for growth but for sustainability.
+
+**There will be no going back to France**. It will be a choice to chose France as a next destination. Maybe. Later.
 
 ![](/images/2014/03/tony-ray-jones.jpg)
 
@@ -153,7 +158,7 @@ Meanwhile, things can be done remotely. As long as the Internet remains a public
 
 **Time is limited, and never granted**: I started witnessing my body aging. You never care about it until you notice those details. This also helps you making better decisions: **we can only make a limiter number of decisions**. Let’s make the good ones, the ones matching our values.
 
-We will see in ten years how much of this is (still) relevant, and if it was worth spending some time sharing this content with you.
+We will see in ten years how much of this is (still) relevant, and if it was worth spending some time sharing this vision with you.
 
 Tonight I will take a picture of myself with an analog medium format camera. The first on a roll of twelve exposures. Every month. For a year. For ten years.
 
