@@ -148,7 +148,7 @@ Empowering, motivating and helping will generate smaller but longer term outcome
 
 I cannot pretend I will stay ten years in London as I cannot pretend I ever planned to live eighteen years in my previous town. But as far as I can say, **I want to spend the next ten years building locally** — wherever the *local* is — not looking for growth but for sustainability.
 
-**There will be no going back to France**. It will be a choice to chose France as a next destination. Maybe. Later.
+**There will be no going back to France**. It will be a choice to choose France as a next destination. Maybe. Later.
 
 ![](/images/2014/03/tony-ray-jones.jpg)
 
