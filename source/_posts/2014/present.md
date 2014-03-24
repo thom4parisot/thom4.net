@@ -23,7 +23,7 @@ This blog post is part of a 2014’s New Year triptych:
 
 1. [Past — Year of the Truth](/2014/past/)
 1. **Present — Self-awareness Thirties**
-1. Future — The Plan (yet to be published)
+1. [Future — The Plan](/2014/future/)
 
 You will read how I believe the journey to the thirties happened and brought me slowly but surely in this actual state of mind.
 
