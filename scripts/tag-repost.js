@@ -1,6 +1,6 @@
 "use strict";
 
-var translate = require('hexo/lib/i18n');
+var translate = require('hexo/lib/core/i18n');
 var i18n = new translate();
 
 i18n.load('languages/', function(){
