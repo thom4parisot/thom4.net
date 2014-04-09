@@ -1,29 +1,34 @@
 "use strict";
 
-var translate = require('hexo/lib/i18n');
-var i18n = new translate();
+var i18n = require('hexo/lib/core/i18n');
+var t = new i18n();
 
-i18n.load('languages/', function(){
-  hexo.extend.tag.register('repost', function(args, content){
-    var __ = i18n.get('fr');
-    var data = {
-      "url": args[0] || '',
-      "title": args[1] || '',
-      "domain": args[0].match(/\/\/([^\/]+)/)[1].replace('www.', '')
-    };
+t.set('en-GB', {
+  repost_tag: "This blogpost has originally been published on %s as %s."
+});
 
-    function replacer(occurence){
-      return occurence.replace(/%([^%]+)%/g, function(m, key){
-        return (data[key] && data[key].replace(/(^"|"$)/g, "")) || '';
-      });
-    }
+t.set('fr', {
+  repost_tag: "Ce billet a été initialement publié sur %s sous l'intitulé %s."
+});
 
-    var text = __.apply(this, ["repost_tag"].concat([
-      '<a href="http://%domain%" class="domain-link" rel="external">%domain%</a>',
-      '<a href="%url%" class="source-link" rel="external">%title%</a>'
-    ].map(replacer)));
+hexo.extend.tag.register('repost', function(args, content, options){
+  var data = {
+    "url": args[0] || '',
+    "title": Array.prototype.slice.call(args, 1).join(' ') || '',
+    "domain": args[0].match(/\/\/([^\/]+)/)[1].replace('www.', '')
+  };
 
-    return '<blockquote class="repost"><p>'+text+'</p></blockquote>';
-  });
+  function replacer(occurence){
+    return occurence.replace(/%([^%]+)%/g, function(m, key){
+      return (data[key] && data[key].replace(/(^"|"$)/g, "")) || '';
+    });
+  }
+  var lang = options.locals.lang || 'fr';
+  var __ = t.__(lang);
+  var text = __.bind(__, 'repost_tag').apply(null, [
+    '<a href="http://%domain%" class="domain-link" rel="external">%domain%</a>',
+    '<a href="%url%" class="source-link" rel="external">%title%</a>'
+  ].map(replacer));
 
+  return '<blockquote class="repost"><p>'+text+'</p></blockquote>';
 });
