@@ -34,17 +34,18 @@
 
 <header class="header">
     <div class="container">
-        <h1><a href="<%= config.root %>" rel="home"><%- config.title.replace('.io', '<span>.io</span>') %></a></h1>
-        <blockquote class="description"><%= config.subtitle %></blockquote>
+      <div class="row">
+        <div class="col-md-8">
+          <h1><a href="<%= config.root %>" rel="home"><%- config.title.replace('.io', '<span>.io</span>') %></a></h1>
+        </div>
+        <div class="col-md-4">
+          <blockquote class="description"><%= config.subtitle %></blockquote>
+        </div>
+      </div>
     </div>
 </header>
 
-
-<div class="container">
-    <div class="row">
-        <main class="col-sm-12" role="main"><%- body %></main>
-    </div>
-</div>
+<main role="main"><%- body %></main>
 <%- js("assets/js/main.js") %>
 </body>
 </html>

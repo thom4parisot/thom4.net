@@ -1,9 +1,16 @@
-<div class="span10">
-  <article lang="<%= post.lang || 'fr' %>" data-type="post" class="post-condensed">
-    <header>
-      <h2>
-        <a href="<%= config.root %><%= post.path %>" title="<%= post.title %>" rel="bookmark"><%= post.title %></a>
-      </h2>
-    </header>
-  </article>
-</div>
+<article lang="<%= post.lang || 'fr' %>" class="post post-abstract">
+  <header class="post-header">
+    <h2>
+      <a href="<%= config.root %><%= post.path %>" title="<%= post.title %>" rel="bookmark"><%= post.title %></a>
+      <small><time datetime="<%= post.date.format('YYYY-MM-DDTHH:mm:ss.SSS') %>"><%= post.date.format('MM.YYYY') %></time></small>
+    </h2>
+  </header>
+
+  <div class="excerpt"><%- post.excerpt %></div>
+
+  <p>
+    <a href="<%= config.root+post.path %>" lang="<%= post.lang || "fr" %>" class="btn btn-primary">
+      <%= (post.lang || "fr") === "fr" ? "Lire la suite" : "Read more" %>
+    </a>
+  </p>
+</article>
