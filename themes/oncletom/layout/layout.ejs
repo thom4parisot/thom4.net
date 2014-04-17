@@ -27,25 +27,10 @@
   <meta property="og:locale" content="fr_FR">
   <meta property="og:locale:alternate" content="en_GB">
   <meta property="og:site_name" content="<%= config.title %>">
+  <script src="//use.typekit.net/ydq7bvz.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
 </head>
 <body class="home blog">
-
-<div class="container">
-    <div class="navbar" id="services">
-        <div class="navbar-inner">
-            <a class="btn btn-navbar icon-ellipsis" data-toggle="collapse" data-target=".nav-collapse"></a>
-
-            <a class="brand" href="<%- config.root %>slash-me">@ Thomas Parisot</a>
-            <div class="nav-collapse collapse">
-                <ul class="nav">
-                    <% Object.keys(theme.menu).forEach(function(key){ %>
-                    <li class="<%= key === 'Blog' ? 'active' : '' %>"><a href="<%- theme.menu[key] %>"><%= key %></a></li>
-                    <% }); %>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
 
 <header class="header">
     <div class="container">
@@ -57,23 +42,7 @@
 
 <div class="container">
     <div class="row">
-        <main class="span10" role="main"><%- body %></main>
-
-        <aside class="span2">
-            <p class="about">
-                <a href="/slash-me" rel="me" class="about">
-                    <img src="/assets/avatar.jpg" alt="" class="avatar">
-                </a>
-            </p>
-
-            <ul id="menu-navigation" class="menu">
-                <% Object.keys(theme.links).forEach(function(key){ %>
-                <li class="menu-item">
-                    <a href="<%= theme.links[key] %>"><%= key %></a>
-                </li>
-                <% }); %>
-            </ul>
-        </aside>
+        <main class="col-sm-12" role="main"><%- body %></main>
     </div>
 </div>
 <%- js("assets/js/main.js") %>

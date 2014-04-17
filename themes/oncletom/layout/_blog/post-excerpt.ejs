@@ -1,19 +1,19 @@
 <div class="span10">
   <article lang="<%= post.lang || 'fr' %>">
     <header>
-      <h1>
+      <h2>
         <a href="<%= config.root %><%= post.path %>" title="<%= post.title %>" rel="bookmark"><%= post.title %></a>
-      </h1>
+      </h2>
     </header>
 
     <%- partial("post-cover", {post: post, href: config.root+post.path }) %>
 
     <div class="excerpt"><%- post.excerpt %></div>
 
-    <ul class="metadata stacked stacked-horizontal">
-      <li class="read-more">
-        <%- link_to(config.root+post.path, (post.lang || "fr") === "fr" ? "Lire la suite" : "Read more") %> <span class="icon-right-open"></span>
-      </li>
-    </ul>
+    <footer>
+        <a href="<%= config.root+post.path %>" lang="<%= post.lang || "fr" %>" class="btn btn-primary">
+          <%= (post.lang || "fr") === "fr" ? "Lire la suite" : "Read more" %>
+        </a>
+    </footer>
   </article>
 </div>
