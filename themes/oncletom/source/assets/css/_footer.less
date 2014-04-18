@@ -1,0 +1,43 @@
+.footer {
+  .header;
+
+  margin: sqrt(2em) 0 0;
+  padding: sqrt(2em) 0;
+
+  a:before {
+    color: darken(#fff, 10%);
+    display: inline-block;
+    font-family: fontello;
+    margin-right: 1em;
+    width: 1em;
+  }
+
+  a[href$='/feed/']:before {
+    content: "\e804";
+  }
+  a[href*='twitter.com']:before {
+    content: "\e80a";
+  }
+  a[href*='flickr.com']:before,
+  a[href$='/photos/']:before {
+    content: "\e809";
+  }
+  a[href*='github.com']:before {
+    content: "\e802";
+  }
+}
+
+[role="search"] {
+  position: relative;
+
+  input[type="search"] {
+    padding-right: 5.5em;
+  }
+
+  .btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 5em;
+  }
+}

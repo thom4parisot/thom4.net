@@ -4,7 +4,7 @@ menu:
   Projets Web: /projects
 
 links:
-  RSS: /feed/
-  Twitter: https://twitter.com/oncletom
-  Code: https://github.com/oncletom
-  Photos: http://flickr.com/photos/the-jedi/
+  Photos: /photos/
+  @oncletom: https://twitter.com/oncletom
+  GitHub: https://github.com/oncletom
+  RSS Feed: /feed/

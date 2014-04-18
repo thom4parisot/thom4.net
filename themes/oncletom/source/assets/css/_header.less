@@ -1,0 +1,23 @@
+.header {
+  background: @brand-darker;
+  color: #fff;
+}
+
+@media (max-width: @screen-xs-max) {
+
+  h1 {
+    font-size: ceil((@font-size-base * 2.6154));
+  }
+  h2,
+  .site-title {
+    font-size: ceil((@font-size-base * 2.1151));
+    word-wrap: break-word;
+  }
+  h3 {
+    font-size: @font-size-base;
+    word-wrap: break-word;
+  }
+  h4 {
+    font-size: ceil((@font-size-base * 0.8077));
+  }
+}

@@ -1,0 +1,39 @@
+<article lang="<%= post.lang || 'fr' %>" class="post post-full">
+  <header class="post-header">
+    <h1><%= post.title %></h1>
+  </header>
+
+  <div class="row">
+    <div class="content col-lg-10">
+      <%- post.content %>
+    </div>
+  </div>
+
+  <% if(typeof footer === 'undefined' || !!footer){ -%>
+  <footer class="post-footer row">
+    <div class="col-sm-4">
+      <ul class="list-unstyled post-actions">
+        <li class="icon-calendar-empty">
+          <time datetime="<%= date(post.date, 'YYYY-MM-DDTHH:mm:ss.SSS')%>"><%= post.date.format(config.date_format) %></time></li>
+        <li class="icon-pencil-squared">
+          <a href="https://github.com/oncletom/oncletom.io/tree/master/source/<%= post.source %>">Contribuer</a>
+        </li>
+        <li class="icon-chat">
+          <a href="#comments">Commenter</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="col-sm-4 nav nav-prev"><% if(post.prev){ -%>
+      <a href="<%= post.prev.permalink %>" rel="bookmark">
+        <span class="icon-left-open">&nbsp;</span><%= post.prev.title %>
+      </a>
+    <% } -%></div>
+
+    <div class="col-sm-4 nav nav-next"><% if(post.next){ -%>
+      <a href="<%= post.next.permalink %>" rel="bookmark">
+        <%= post.next.title %>&nbsp;<span class="icon-right-open">
+      </a>
+    <% } -%></div>
+  </footer><% } -%>
+</article>
