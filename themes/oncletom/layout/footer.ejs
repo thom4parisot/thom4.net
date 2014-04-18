@@ -1,0 +1,37 @@
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+
+            </div>
+
+            <div class="col-sm-8">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <form action="https://google.com/search" method="get" class="form" role="search">
+                            <input type="hidden" name="q" value="site:oncletom.io" />
+                            <input type="search" name="q" value="" class="form-control" placeholder="What are you looking for?" required>
+                             <button type="submit" class="btn btn-primary">Search</button>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h3>/categories</h3>
+
+                        <ul class="inline-list">
+                            <% Object.keys(config.category_map).forEach(function(key){ -%>
+                            <li><a href="<%= config.root + config.category_dir + '/' + config.category_map[key] %>" rel="tag"><%= key %></a></li>
+                            <% }) -%>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <h3>/years</h3>
+                        <%- list_archives({type: "yearly", order: -1, format: "YYYY", show_count: false}).replace(/\/\//g, '/') %>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
