@@ -9,6 +9,7 @@
     </div>
   </div>
 
+  <% if(typeof footer === 'undefined' || !!footer){ -%>
   <footer class="post-footer row">
     <div class="col-sm-4">
       <ul class="list-unstyled post-actions">
@@ -34,5 +35,5 @@
         <%= post.next.title %>&nbsp;<span class="icon-right-open">
       </a>
     <% } -%></div>
-  </footer>
+  </footer><% } -%>
 </article>

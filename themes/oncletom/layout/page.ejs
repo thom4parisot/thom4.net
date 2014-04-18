@@ -1,7 +1,12 @@
-<article data-type="page">
-  <h1><%= page.title %></h1>
+<%- partial("_blog/post-cover", { post: page })  %>
 
-  <%- partial("_blog/post-cover", {post: page})  %>
+<div class="container">
+    <div class="row">
+        <div class="col-sd-12">
+            <%- partial("_blog/post-full", { post: page, footer: false }) %>
+        </div>
+    </div>
+</div>
 
-  <div class="content"><%- page.content %></div>
-</article>
+
+
