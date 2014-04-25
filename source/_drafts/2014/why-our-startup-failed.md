@@ -1,3 +1,4 @@
+---
 title: Why Our Startup Failed?
 date: 2014-05-01 10:00:00
 categories:
@@ -6,6 +7,8 @@ tags:
 - startup
 - dijiwan
 ---
+
+Bla
 
 <!--more-->
 
