@@ -6,6 +6,9 @@ categories:
 tags:
 - startup
 - dijiwan
+cover:
+  link: https://www.flickr.com/photos/the-jedi/8468239532/
+  url: //farm9.staticflickr.com/8511/8468239532_62c175620a_b_d.jpg
 ---
 
 Bla
