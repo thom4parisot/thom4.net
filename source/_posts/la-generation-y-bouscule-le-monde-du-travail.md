@@ -28,12 +28,12 @@ Y'a du vrai _mais pas tout à fait_.
 
 <!--more-->
 
-J'aborde ce sujet car la [publication Aquitaine Numérique](http://www.aecom.org/blog/veille/2008/09/laquitaine-numrique-17-dossier-la.html) d'[AEC](http://www.aecom.org) aborde ce sujet dans sa 17<sup>ème</sup> itération. Les deux envers du décors sont traitées :
+J'aborde ce sujet car la [publication Aquitaine Numérique](http://www.aecom.org/Vous-informer/Publications/AnalyTIC/Aquitaine-AnalyTIC-4-Juin-2008-La-generation-internet-en-Aquitaine) d'[AEC](http://www.aecom.org) aborde ce sujet dans sa 17<sup>ème</sup> itération. Les deux envers du décors sont traitées :
 
 *   côté recruteur
 *   côté utilisateur (génération Y)
 
-<span style="text-decoration: line-through;">[Cette édition est consultable de manière numérique](http://fr.calameo.com/books/000007502669a3c650d7c "Lire l"). Je reviendrai dessus dans un prochain billet car je trouve le système particulièrement inconfortable.</span> [Vous pouvez télécharger le PDF correspondant](http://www.aecom.org/veille/pdf/lan17.pdf).
+~~[Cette édition est consultable de manière numérique](http://fr.calameo.com/books/000007502669a3c650d7c "Lire l"). Je reviendrai dessus dans un prochain billet car je trouve le système particulièrement inconfortable.~~ [Vous pouvez télécharger le PDF correspondant](http://www.aecom.org/content/download/1053/14967/version/1/file/Analytic_GenerationInternet.pdf).
 
 ## Notre génération Y
 
