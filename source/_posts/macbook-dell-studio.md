@@ -46,7 +46,7 @@ Fin de la parenthèse ;-)
 
 ## Pourquoi un Dell Studio ?
 
-[![Entrée d](/images/2008/12/dell-studio-17-corner-200x300.jpg "Entrée d")](/images/2008/12/dell-studio-17-corner.jpg)
+[![Entrée d](/images/2008/12/dell-studio-17-corner.jpg "Entrée d")](/images/2008/12/dell-studio-17-corner.jpg)
 
 Après plus années passées sur des PC en tour construits à la main avec le plus grand amour, j'ai choisi le silence et le nomadisme avec un Acer Aspire 9410\. Je n'ai pas souhaité renouer avec Acer pour plusieurs raisons :
 
