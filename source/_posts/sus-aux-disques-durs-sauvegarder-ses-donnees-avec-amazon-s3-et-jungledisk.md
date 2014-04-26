@@ -50,7 +50,7 @@ J'ai fait mon calcul pour 20Go à sauvegarder et j'ai vite compris que j'y gagna
 *   données accessibles à tout instant, peu importe où je suis relié au Web
 *   possibilité de **greffer dessus toute sorte d'application**, jusqu'à mon blog par le biais d'[Amazon S3 for Wordpress](http://tantannoodles.com/toolkit/wordpress-s3/)
 
-[![Facture Amazon S3](/images/2008/05/amazon-s3-billing-300x146.png "Facture Amazon S3")](/images/2008/05/amazon-s3-billing.png)
+[![Facture Amazon S3](/images/2008/05/amazon-s3-billing.png "Facture Amazon S3")](/images/2008/05/amazon-s3-billing.png)
 
 Sans remord grâce à l'eurodollar, le choix était fait.
 À noter qu'**Amazon propose de stocker ses données aux États-Unis ou en Europe**. J'ai choisis les États-Unis par radinerie et parce que je n'avais pas de contrainte légale à ce que mes données siègent sur le Vieux Continent. C'est une question que peuvent en revanche se poser plusieurs entreprises fortement encadrées à ce niveau.
@@ -61,7 +61,7 @@ Comme Amazon S3 n'est qu'un conteneur, il me fallait également trouver une solu
 
 [JungleDisk](http://www.jungledisk.com/) est un client de sauvegarde payant (20$ en une fois, utilisable à vie - 30 jours d'essai) pour Amazon S3 compatible Linux, MacOS X et Windows. Je l'utilise aussi bien sous [Ubuntu](http://www.ubuntu-fr.org) que [Debian Testing](http://www.debian.org) pour information, dans un cadre personnel et professionnel.
 
-[![Options de JungleDisk](/images/2008/05/jungledisk-options-300x252.png "Options de JungleDisk")](/images/2008/05/jungledisk-options.png)
+[![Options de JungleDisk](/images/2008/05/jungledisk-options.png "Options de JungleDisk")](/images/2008/05/jungledisk-options.png)
 
 JungleDisk se configure comme on l'aime, **simplement**. Si on pouvait reprocher à la version 1 une interface austère, peu conviviale et limitative, on ne peut en revanche qu'apprécier la version 2 (en beta à l'heure où j'écris ces lignes). Celle-ci propose notamment ces fonctionnalités :
 
@@ -72,7 +72,7 @@ JungleDisk se configure comme on l'aime, **simplement**. Si on pouvait reprocher
 *   conservation de plusieurs versions d'un même fichier/fichier supprimé (utile sur des données très sensibles)
 *   davantage d'options d'automatisation et surtout, l'excellente <q>que faire si l'heure de sauvegarde a été manquée ?</q> (_dès que possible_ ou _attendre la prochaine itération_)
 
-[![Navigateur Jungle Disk](/images/2008/05/jungledisk-browser-300x232.png "Navigateur Jungle Disk")](/images/2008/05/jungledisk-browser.png)
+[![Navigateur Jungle Disk](/images/2008/05/jungledisk-browser.png "Navigateur Jungle Disk")](/images/2008/05/jungledisk-browser.png)
 
 JungleDisk propose également un service supplémentaire payant (_JungleDisk Plus_) que j'affectionne pour ces 3 éléments :
 

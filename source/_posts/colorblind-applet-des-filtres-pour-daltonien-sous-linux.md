@@ -67,11 +67,11 @@ En clair je résumerais comme suit :
 
 Puisqu'une image vaut davantage qu'un long discours (trop tard me direz-vous ;-)), voici une série d'images présentant mon bureau de travail ainsi qu'un navigateur Web ouvert sur la page de [Planète Accessibilité](http://planete-accessibilite.com/).
 
-[![Capture d&#39;écran d&#39;origine](/images/2008/08/original-300x187.jpg "Capture d")](/images/2008/08/original.jpg)
+[![Capture d&#39;écran d&#39;origine](/images/2008/08/original.jpg "Capture d")](/images/2008/08/original.jpg)
 
-[![Filtre réglé sur &quot;Selective Green Desaturation&quot;](/images/2008/08/selective-green-desaturation-300x187.jpg "Filtre réglé sur &quot;Selective Green Desaturation&quot;")](/images/2008/08/selective-green-desaturation.jpg)
+[![Filtre réglé sur &quot;Selective Green Desaturation&quot;](/images/2008/08/selective-green-desaturation.jpg "Filtre réglé sur &quot;Selective Green Desaturation&quot;")](/images/2008/08/selective-green-desaturation.jpg)
 
-[![Filtre réglé sur &quot;Negative Hue Shift&quot;](/images/2008/08/negative-hue-shift-300x187.jpg "Filtre réglé sur &quot;Negative Hue Shift&quot;")](/images/2008/08/negative-hue-shift.jpg)
+[![Filtre réglé sur &quot;Negative Hue Shift&quot;](/images/2008/08/negative-hue-shift.jpg "Filtre réglé sur &quot;Negative Hue Shift&quot;")](/images/2008/08/negative-hue-shift.jpg)
 
 ** Plusieurs choses à noter** :
 

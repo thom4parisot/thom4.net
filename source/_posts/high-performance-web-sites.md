@@ -45,7 +45,7 @@ J'achèterais ce livre si j'étais :
 *   toute personne avare en kilo-octets superflus
 *   toute personne voulant **accélérer les temps de réponse** de son ou ses sites Web
 
-[![YSLow sur Emu Nova : les composants](/images/2008/07/yslow-emunova-components-300x81.png "YSLow sur Emu Nova : les composants")](/images/2008/07/yslow-emunova-components.png)
+[![YSLow sur Emu Nova : les composants](/images/2008/07/yslow-emunova-components.png "YSLow sur Emu Nova : les composants")](/images/2008/07/yslow-emunova-components.png)
 
 ## Les 14 points d'optimisation
 

@@ -56,7 +56,7 @@ Si le temps réel prive du recul, il a l'avantage de favoriser la diffusion de l
 
 La réponse n'est plus si évidente que ça.
 
-[![](/images/2010/02/gulliver-lilliput-300x200.jpg "Gulliver Lilliput")](http://www.gutenberg.org/files/15560/15560-h/15560-h.htm)
+[![](/images/2010/02/gulliver-lilliput.jpg "Gulliver Lilliput")](http://www.gutenberg.org/files/15560/15560-h/15560-h.htm)
 
 Ça me refait penser à la conférence « [réseaux sociaux sur le Web : vers une nouvelle communication](http://www.arts-et-metiers.net/musee.php?P=225&amp;id=381&amp;cycle=101) » organisée en visioconférence par le [Musée des arts et métiers de Paris](http://www.arts-et-metiers.net/) pas plus tard que la semaine dernière. Jean-Pierre Beaudouin évoquait le changement d'équilibres mais aussi et surtout, le syndrome Lilliput. Gulliver est ligoté à l'horizontale par une armada de petits lilliputiens. Il ne parvient à se redresser et **faire face à l'adversité qu'en acceptant l'existence de ces êtres** et en les guidant plutôt que les subissant.
 

@@ -70,7 +70,7 @@ Une remarque intéressante a également émergé de l'atelier : faut-il utiliser
 Je réitère ma réponse : **l'idéal est que tout soit pris en charge le plus tôt possible**. Autrement dit, intégrer les contraintes du _framework_ dès la conception graphique est un gros atout. Le découpage de la maquette n'en sera que facilité et ça évitera tout bricolage.
 Certains outils l'ont d'ailleurs bien compris en proposant des supports pour graphistes au format PSD, Visio, Fireworks etc.
 
-[![Feuilles de dessin pour 960 Grid System](/images/2008/11/960-sketch-sheets-300x232.png "Feuilles de dessin pour 960 Grid System")](/images/2008/11/960-sketch-sheets.png)
+[![Feuilles de dessin pour 960 Grid System](/images/2008/11/960-sketch-sheets.png "Feuilles de dessin pour 960 Grid System")](/images/2008/11/960-sketch-sheets.png)
 
 ## Conclusion
 
