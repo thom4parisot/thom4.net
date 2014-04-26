@@ -4,7 +4,7 @@ date: 2007-10-05 13:00:59
 tags:
 - demission
 categories:
-- Travail 2.0
+- Work & Labour
 ---
 
 Changer de travail c'est signer un nouveau contrat mais aussi casser le contrat existant, s'il y a <acronym title="Contrat à Durée Indéterminée">CDI</acronym>. Je vous livre à présent un exemple de présentation type ainsi que quelques conseils sur ce qui doit ressortir d'une telle lettre.

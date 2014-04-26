@@ -4,7 +4,7 @@ date: 2007-07-17 13:00:25
 tags:
 - licenciement
 categories:
-- Travail 2.0
+- Work & Labour
 ---
 
 J'ai déjà parlé du _travail_ au travers des [entretiens d'embauche](https://oncletom.io/?s=entretien+embauche), de [période d'essai avortée](https://oncletom.io/2006/10/31/21-jours-et-puis-sen-va/), de [<acronym title="Curriculum vitæ">CV</acronym> ratés](https://oncletom.io/2006/05/17/embauche/).

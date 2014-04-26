@@ -13,7 +13,6 @@ tags:
 - réflexion
 - web
 categories:
-- Entrepreneuriat
 - Personnel
 cover: /images/2011/12/DSC_0577-LR.jpg
 ---

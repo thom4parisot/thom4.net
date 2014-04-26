@@ -1,11 +1,11 @@
 title: "Réussir un entretien d'embauche"
 id: 184
 date: 2006-09-14 18:00:00
-tags: 
+tags:
 - conseils
 - entretien d'embauche
-categories: 
-- Travail 2.0
+categories:
+- Work & Labour
 ---
 
 Le travail c'est la santé mais également un peu / beaucoup / passionnément d'argent. Voici une note indispensable pour réussir à tous les coups votre entretien d'embauche. Votre patron n'a qu'à bien se tenir.

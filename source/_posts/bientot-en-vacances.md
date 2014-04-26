@@ -1,10 +1,10 @@
 title: "Bientôt en vacances ?"
 id: 253
 date: 2006-10-25 21:34:07
-tags: 
+tags:
 - vacances
-categories: 
-- Travail 2.0
+categories:
+- Work & Labour
 ---
 
 Je sais bien que je n'ai pas pris de vacances depuis un bon moment (avril 2006) mais lorsqu'on m'a posé cette question hier, en répondant "oui bientôt, en décembre", j'ai suscité l'interrogation ...

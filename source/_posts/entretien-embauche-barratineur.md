@@ -7,7 +7,7 @@ tags:
 - embauche
 - motivation
 categories:
-- Travail 2.0
+- Work & Labour
 ---
 
 Après le [candidat à l'emploi fier et catégorique](https://oncletom.io/2007/entretien-embauche-exces-confiance/), voici venir sa nemesis : celui qui s'y connait, un peu, vraiment pas beaucoup mais qui cherchera (inconsciemment ou pas) à montrer le contraire.

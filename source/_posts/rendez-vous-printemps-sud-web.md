@@ -15,7 +15,6 @@ tags:
 categories:
 - Évènements
 - Développement Web
-- Entrepreneuriat
 cover: /images/2011/01/logo-sudweb.png
 ---
 

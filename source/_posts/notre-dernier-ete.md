@@ -12,7 +12,7 @@ tags:
 - slow life
 categories:
 - Personnel
-- Travail 2.0
+- Work & Labour
 cover: /images/2012/08/5096781001_fb731f1725_b.jpg
 ---
 

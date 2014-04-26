@@ -1,12 +1,12 @@
 title: "Tu fais quoi dans la vie?"
 id: 41
 date: 2006-03-18 09:22:44
-tags: 
+tags:
 - études
 - bts
 - marketing
-categories: 
-- Travail 2.0
+categories:
+- Work & Labour
 ---
 
 Cette question m'a été posée hier par un garçon de 8 ans. S'ensuit alors un petit échange:

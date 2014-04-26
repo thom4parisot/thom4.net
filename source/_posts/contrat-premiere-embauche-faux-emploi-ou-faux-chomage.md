@@ -1,13 +1,13 @@
 title: "Contrat première embauche : faux-emploi ou faux chômage ?"
 id: 61
 date: 2006-01-25 09:25:08
-tags: 
+tags:
 - Au travail
 - cne
 - cpe
 - précarisation
-categories: 
-- Travail 2.0
+categories:
+- Work & Labour
 ---
 
 C'est bien connu, les premiers emplois occupés par une personne sont majoritairement ceux qui seront les plus précaires : salaire faible, travail ingrat et facilité à être "remplacé". Mais quand l'expérience n'est pas là, difficile de faire pression. Bref, on s'écrase. **De Villepin** a décidément réponse à tout et propose le _contrat première embauche_ (<acronym title="Contrat Première Embauche">CPE</acronym>) <del>en digne remplaçant de l'_emploi jeune_</del> (sottise car c'est le <acronym title="Contrat Nouvelle Embauche">CNE</acronym> qui le remplace).

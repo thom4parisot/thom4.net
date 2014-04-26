@@ -11,7 +11,7 @@ tags:
 - valeurs
 categories:
 - Personnel
-- Travail 2.0
+- Work & Labour
 cover: /images/2012/10/DSC_4513_W1280.jpg
 ---
 

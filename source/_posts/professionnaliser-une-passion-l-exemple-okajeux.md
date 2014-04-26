@@ -7,7 +7,7 @@ tags:
 - partenariat
 categories:
 - Projets
-- Travail 2.0
+- Work & Labour
 cover: /images/Emu-Nova/okajeux-logo.png
 ---
 

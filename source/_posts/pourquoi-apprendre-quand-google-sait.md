@@ -10,7 +10,7 @@ tags:
 - le monde
 - mémoire
 categories:
-- Travail 2.0
+- Work & Labour
 ---
 
 ![L](/images/2009/02/aec-actualites.png "L")

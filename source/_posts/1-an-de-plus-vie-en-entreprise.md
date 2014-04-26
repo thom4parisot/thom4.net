@@ -1,10 +1,10 @@
 title: "1 an de + : la vie en entreprise"
 id: 23
 date: 2005-09-16 16:17:40
-tags: 
-categories: 
+tags:
+categories:
 - Personnel
-- Travail 2.0
+- Work & Labour
 ---
 
 Le _13 septembre 2004_ marquait pour moi mon départ dans la vie active avec mon premier <acronym title="Contrat à Durée Indéterminée">CDI</acronym>. Gain immédiat : les sous. Mais au final, ce à quoi on rêve le plus quand on est étudiant, qu'en est-il réellement ? Temps contre argent, ça sera le deal de votre vie.

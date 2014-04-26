@@ -11,7 +11,7 @@ tags:
 - twitter
 - usa
 categories:
-- Travail 2.0
+- Work & Labour
 cover: /images/2010/02/twitter.png
 ---
 

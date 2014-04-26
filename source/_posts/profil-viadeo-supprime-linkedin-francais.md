@@ -7,7 +7,7 @@ tags:
 - reseaux sociaux
 - viadeo
 categories:
-- Travail 2.0
+- Work & Labour
 ---
 
 ![](/images/2008/12/viadeo-logo.png "Logo Viadeo")

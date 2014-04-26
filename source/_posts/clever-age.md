@@ -11,7 +11,7 @@ tags:
 - facebook
 categories:
 - Personnel
-- Travail 2.0
+- Work & Labour
 cover: /images/2007/11/clever_age.png
 ---
 

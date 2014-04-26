@@ -1,10 +1,10 @@
 title: "Recrutement du jour, bonjour !"
 id: 174
 date: 2006-09-06 19:11:00
-tags: 
+tags:
 - entretien d'embauche
-categories: 
-- Travail 2.0
+categories:
+- Work & Labour
 ---
 
 Le mois de septembre est semble-t-il la période idéale pour recruter en entreprise : retour de vacances, jeunes diplômés et récents licenciés sont sur les rangs pour le meilleur et pour le(s) pire(s). Aujourd'hui était une après-midi entièrement remplie (ou presque) de candidats prêts à tout (ou presque) pour gagner décemment (ou presque) leur vie. Il y en aura eu _deux_ qui nous auront bien fait marrer :

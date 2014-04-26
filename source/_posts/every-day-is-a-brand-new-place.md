@@ -8,7 +8,7 @@ tags:
 - transition
 categories:
 - Personnel
-- Travail 2.0
+- Work & Labour
 cover:
   url: /images/2013/06/8497120471_08cbaf3834_c.jpg
 ---
