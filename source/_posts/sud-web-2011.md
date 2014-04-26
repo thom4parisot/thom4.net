@@ -13,7 +13,7 @@ tags:
 categories:
 - Events
 - Développement Web
-- Projets
+- Projects
 cover: /images/2011/01/logo-sudweb.png
 ---
 

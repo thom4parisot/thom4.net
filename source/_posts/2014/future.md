@@ -4,7 +4,7 @@ lang: en-GB
 tags:
 categories:
 - Personal Views
-- Projets
+- Projects
 cover:
   link: http://www.flickr.com/photos/the-jedi/12327903045/
   url: //farm8.staticflickr.com/7346/12327903045_ed0c13ed8f_c_d.jpg

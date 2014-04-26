@@ -8,7 +8,7 @@ tags:
 - rss
 categories:
 - Développement Web
-- Projets
+- Projects
 cover: /images/Emu-Nova/ENES/enes2-index-fr.png
 ---
 

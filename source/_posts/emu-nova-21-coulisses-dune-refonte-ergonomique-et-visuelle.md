@@ -12,7 +12,7 @@ tags:
 - xhtml
 categories:
 - Développement Web
-- Projets
+- Projects
 
 cover: //oncletom.io/images/2008/04/emunova-2010.png
 ---

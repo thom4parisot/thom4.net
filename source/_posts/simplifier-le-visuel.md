@@ -6,7 +6,7 @@ tags:
 - ux
 categories:
 - Développement Web
-- Projets
+- Projects
 cover: /images/Emu-Nova/menu-sousmenu.png
 ---
 

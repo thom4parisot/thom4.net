@@ -8,7 +8,7 @@ tags:
 - rss
 - veille
 categories:
-- Projets
+- Projects
 ---
 
 [Emu Nova](http://www.emunova.net/) figure désormais dans l'_annuaire de flux_ de [Netvibes](http://www.netvibes.com) ([pourquoi j'utilise Netvibes](https://oncletom.io/2007/02/08/netvibes-economiseur-de-temps/)). Direction la rubrique **jeux vidéo** pour ceux qui avaient la flemme d'ajouter le site manuellement.

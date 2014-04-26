@@ -1,9 +1,9 @@
 title: "Emu Nova"
 id: 5
 date: 2005-02-16 20:52:59
-tags: 
-categories: 
-- Projets
+tags:
+categories:
+- Projects
 ---
 
 Sous ce nom pas forcément explicite se cache quelque chose qui est devenu pour moi une passion, un passe-temps, un objet de collection voire même une drogue.

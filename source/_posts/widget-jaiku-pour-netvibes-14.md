@@ -9,7 +9,7 @@ tags:
 - widget
 categories:
 - Développement Web
-- Projets
+- Projects
 ---
 
 ![](/images/2008/06/logo-jaiku.png "Logo Jaiku")

@@ -12,7 +12,7 @@ tags:
 - OpenOffice
 - seo
 categories:
-- Projets
+- Projects
 cover: /images/2008/02/blogcamp-france-logo.png
 ---
 

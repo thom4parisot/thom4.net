@@ -9,7 +9,7 @@ tags:
 - influence
 - livre
 categories:
-- Projets
+- Projects
 cover: /images/2009/08/reussir-son-blog-professionnel-2eme-edition-nq8.png
 ---
 

@@ -12,8 +12,8 @@ tags:
 - rmll
 - valeurs
 categories:
-- Développement Web
-- Projets
+- Personal Views
+- Work & Labour
 ---
 
 > **Remarque** : j'ai initialement intitulé cet article « pourquoi j'ai décidé de devenir indépendant » mais au final, je me suis rendu compte que je ne répondais pas à la question. Ce sera l'objet d'un autre billet, détaillant pourquoi j'ai préféré l'indépendance à un autre employeur.

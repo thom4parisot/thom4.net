@@ -12,8 +12,7 @@ tags:
 - variables
 - WP-LESS
 categories:
-- Développement Web
-- Projets
+- Projects
 - WordPress
 ---
 

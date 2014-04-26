@@ -6,7 +6,7 @@ tags:
 - partenariat
 - twenga
 categories:
-- Projets
+- Projects
 ---
 
 [Emu Nova](http://www.emunova.net/) apparaît depuis ce matin dans les _sites recommandés_ par le [comparateur de prix des jeux vidéo](http://www.twenga.fr/dir-Jeux-video) de [Twenga](http://www.twenga.fr/). D'un autre côté, les visiteurs d'Emu Nova peuvent _comparer les prix_ à partir de chaque test de jeu vidéo publié dans le [projet Veda](http://www.emunova.net/veda/).

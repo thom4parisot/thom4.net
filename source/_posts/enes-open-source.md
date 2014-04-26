@@ -3,7 +3,7 @@ id: 71
 date: 2005-08-02 20:48:28
 tags:
 categories:
-- Projets
+- Projects
 ---
 
 Pour fêter les 2 ans du site **Emu Nova** nous avions dévoilé au public un tout nouveau projet assez inhabituel : <acronym title="Emu Nova Entertainment System">ENES</acronym>. Sous ce nom un peu évocateur se cache en réalité un groupe de dump dont la mission est de sauvegarder les derniers jeux de la NES pour lesquels ça ne serait pas le cas. Il faut savoir que la durée de vie des cartouches est limitée dans le temps à cause de l'usure des composants donc il s'agit d'un défi technique et contre la montre.

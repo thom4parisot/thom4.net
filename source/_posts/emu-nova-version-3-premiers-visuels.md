@@ -6,7 +6,7 @@ tags:
 - ui
 categories:
 - Développement Web
-- Projets
+- Projects
 ---
 
 L'idée d'améliorer [Emu Nova](http://www.emunova.net/) me trotte dans la tête depuis le mois de janvier 2005\. 11 mois et demi plus tard, j'accouche enfin d'un visuel satisfaisant et répondant aux critères que je m'étais fixé : simplicité, exhaustivité et légèreté. Les idées on les a, il ne reste plus qu'à les concrétiser. Comme le disait _Nintendo_, la <q>Révolution aura lieu en 2006</q>...
