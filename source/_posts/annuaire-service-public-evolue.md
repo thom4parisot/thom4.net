@@ -7,7 +7,7 @@ tags:
 - redirection
 - utilisabilité
 categories:
-- Accessibilité
+- a11y
 ---
 
 ![](/images/2008/11/service_public.jpg "Logo Service-public.fr")

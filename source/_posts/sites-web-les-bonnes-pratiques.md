@@ -10,7 +10,7 @@ tags:
 - pro
 - temesis
 categories:
-- Accessibilité
+- a11y
 - Développement Web
 ---
 

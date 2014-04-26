@@ -18,7 +18,7 @@ tags:
 - webdesign
 - yahoo
 categories:
-- Accessibilité
+- a11y
 - Évènements
 - Développement Web
 cover: /images/2010/09/logotype-paris-web.png

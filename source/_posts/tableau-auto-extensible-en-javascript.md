@@ -10,7 +10,7 @@ tags:
 - mootools
 categories:
 - JavaScript
-- Accessibilité
+- a11y
 - Développement Web
 cover: /images/2007/06/articles-autoexpand-mini.png
 ---

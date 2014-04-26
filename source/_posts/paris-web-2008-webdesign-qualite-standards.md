@@ -11,7 +11,7 @@ tags:
 - pw2008
 - qualité
 categories:
-- Accessibilité
+- a11y
 - Évènements
 - Développement Web
 cover:

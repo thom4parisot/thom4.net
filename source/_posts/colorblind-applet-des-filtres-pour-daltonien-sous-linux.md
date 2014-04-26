@@ -13,7 +13,7 @@ tags:
 - logiciels libres
 - ubuntu
 categories:
-- Accessibilité
+- a11y
 ---
 
 ![](/images/2008/08/colorblind-applet-credits.png "Colorblind-applet")
