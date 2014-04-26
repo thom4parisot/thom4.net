@@ -45,15 +45,13 @@ highlight:
 default_category: uncategorized
 category_map:
   JavaScript: javascript
-  Développement Web: web
-  Travail 2.0: travail
-  Évènements: evenements
-  Entrepreneuriat: entrepreunariat
-  Mobile: mobile
-  Projets: projets
-  Accessibilité: a11y
+  WebDev: web
+  Events: events
+  Projects: projects
+  Personal Views: meta
+  Work & Labour: work
   WordPress: wordpress
-  Personnel: personnel
+  a11y: a11y
 tag_map:
 
 # Archives

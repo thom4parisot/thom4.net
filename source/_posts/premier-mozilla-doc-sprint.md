@@ -14,8 +14,6 @@ cover:
 
 Je me suis laissé embarquer dans un [Mozilla Doc Sprint](https://wiki.mozilla.org/MDN/Doc_sprints/2013February) par [David Bruant](https://twitter.com/davidbruant). C'était un samedi, pluvieux de surcroît. Une motivation liée à l'apprentissage et à la découverte de la contribution. C'est quoi contribuer ? Il faut être qui pour contribuer ? Et savoir quoi, surtout.
 
-[![8437521105_2fc987581a_z](/images/2013/02/8437521105_2fc987581a_z-600x396.jpg)](http://www.flickr.com/photos/the-jedi/8437521105/)
-
 <!--more-->
 
 ## _Documenter_ c'est pas sexy
@@ -27,6 +25,8 @@ Je ne sais pas encore si c'est lié à notre époque (consommer est plus facile 
 Pour l'instant dire "on fait un apéro et on parle de <insérer ici un nom de langage de programmation>" réunit plus de monde que "on documente <insérer ici un langage de programmation>". Peut-être est-ce le même fossé entre "développer" et "écrire des tests et développer". Le gain se situe _après_. Après avoir _fait l'effort de_. Y'a des ponts à construire, et de la communication à trouver et effectuer pour inciter les gens à passer d'une rive à l'autre.
 
 Bref, revenons à nos moutons.
+
+[![8437521105_2fc987581a_z](/images/2013/02/8437521105_2fc987581a_z-600x396.jpg)](http://www.flickr.com/photos/the-jedi/8437521105/)
 
 ## Table de compatibilité automatisée
 
