@@ -17,7 +17,7 @@ categories:
 - Events
 ---
 
-![](/images/2008/10/webdeuxconnect_300_250-150x150.jpg "Webdeux.connect")
+![](/images/2008/10/webdeuxconnect_300_250.jpg "Webdeux.connect")
 
 Les mois d'octobre et de novembre seront assurément chargés cette année puisqu'il y aura, entre autre, 3 évènements où il me paraît difficile de ne pas être :
 

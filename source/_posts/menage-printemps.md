@@ -56,7 +56,7 @@ Tout d'abord, qu'est ce qui a changé par rapport à la maquette ?
 *   l'**ajout des pages en lieu et place du fil d'ariane** : j'en avais besoin pour présenter différents contenus statiques ;
 *   **le pied de page** : peu de widgets WordPress offrent un degré de personnalisation suffisant pour arriver à ce résultat. C'est donc temporisé là aussi en attendant de trouver chaussure à mon pied ;-)
 
-[![Aperçu pleine page](/images/2009/04/caseoncle-tomnet-oncletom-wood-150x300.png "caseoncle-tomnet-oncletom-wood")](/images/2009/04/caseoncle-tomnet-oncletom-wood.png)
+[![Aperçu pleine page](/images/2009/04/caseoncle-tomnet-oncletom-wood-301x600.png "caseoncle-tomnet-oncletom-wood")](/images/2009/04/caseoncle-tomnet-oncletom-wood.png)
 
 Pour le reste je me suis fait plaisir avec notamment l'utilisation de coins arrondis (_border-radius_) basés sur les implémentations de Gecko et Webkit. Désolé pour les utilisateurs d'autres navigateurs car j'en ai usé et abusé afin d'éviter l'utilisation d'images.
 

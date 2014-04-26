@@ -40,7 +40,7 @@ En clair on connaissait la durée des conférences mais on ne savait pas du tout
 
 C’était le contrat proposé.
 
-[![Photo de Maurice Svay en CreativeCommons BY-SA.](/images/2012/12/2012-11-30_12-25-33-600x328.jpg "DotJS Venue")](http://svay.com/photos/2012-11-30_dotjs/)
+[![Photo de Maurice Svay en CreativeCommons BY-SA.](/images/2012/12/2012-11-30_12-25-33.jpg "DotJS Venue")](http://svay.com/photos/2012-11-30_dotjs/)
 
 ## Enjeux de la curation pour les organisateurs
 
@@ -83,7 +83,7 @@ Mais ces personnes ont décidé qu’une approche différente pouvait être bén
 
 C’est un choix assumé. Ça peut rater. Je pense à la forme catastrophique de la conférence de [Mr.doob](http://mrdoob.com/) alors que cet homme a su exprimer ses formidables qualités techniques pendant les _workshops_.
 
-[![Photo de Maurice Svay en CreativeCommons BY-SA](/images/2012/12/2012-11-30_17-57-16-600x400.jpg "DotJS Timer")](http://svay.com/photos/2012-11-30_dotjs/)
+[![Photo de Maurice Svay en CreativeCommons BY-SA](/images/2012/12/2012-11-30_17-57-16.jpg "DotJS Timer")](http://svay.com/photos/2012-11-30_dotjs/)
 
 ## Conclusion
 

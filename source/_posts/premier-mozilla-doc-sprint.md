@@ -26,7 +26,7 @@ Pour l'instant dire "on fait un apéro et on parle de <insérer ici un nom de la
 
 Bref, revenons à nos moutons.
 
-[![8437521105_2fc987581a_z](/images/2013/02/8437521105_2fc987581a_z-600x396.jpg)](http://www.flickr.com/photos/the-jedi/8437521105/)
+[![8437521105_2fc987581a_z](/images/2013/02/8437521105_2fc987581a_z.jpg)](http://www.flickr.com/photos/the-jedi/8437521105/)
 
 ## Table de compatibilité automatisée
 
@@ -77,7 +77,7 @@ Au final, une après-midi aura été nécessaire pour compléter 4 pages dans MD
 *   [unload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/unload)
 *   [beforeunload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/beforeunload)
 
-[![6843235730_1cdac9f950_z](/images/2013/02/6843235730_1cdac9f950_z-600x399.jpg)](http://www.flickr.com/photos/the-jedi/6843235730/)
+[![6843235730_1cdac9f950_z](/images/2013/02/6843235730_1cdac9f950_z.jpg)](http://www.flickr.com/photos/the-jedi/6843235730/)
 
 ## Conclusion
 
