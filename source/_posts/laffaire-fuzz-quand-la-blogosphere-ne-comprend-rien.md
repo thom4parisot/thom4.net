@@ -12,7 +12,7 @@ tags:
 - presse-citron
 - responsabilité
 categories:
-- Personnel
+- Personal Views
 ---
 
 ![Campagne de soutien à Presse-citron](/images/2008/04/pressecitron-150x250.gif "Campagne de soutien à Presse-citron")

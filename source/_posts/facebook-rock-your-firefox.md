@@ -9,7 +9,7 @@ tags:
 - mozilla
 - optimisation
 categories:
-- Développement Web
+- WebDev
 cover: /images/2007/08/rock-your-firefox.gif
 ---
 

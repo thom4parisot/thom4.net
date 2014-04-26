@@ -6,7 +6,7 @@ tags:
 - Emu Nova
 - statistiques
 categories:
-- Projets
+- Projects
 cover: http://www.emunova.net/img/emunova.gif
 ---
 

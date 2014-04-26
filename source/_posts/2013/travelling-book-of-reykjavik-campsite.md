@@ -4,7 +4,7 @@ lang: en-GB
 tags:
 - bla
 categories:
-- Personnel
+- Personal Views
 cover:
   url: //farm9.staticflickr.com/8459/8040227564_1f26fa851e_c_d.jpg
   link: http://www.flickr.com/photos/the-jedi/8040227564/

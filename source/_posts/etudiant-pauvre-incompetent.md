@@ -11,8 +11,7 @@ tags:
 - stagiaire
 - twitter
 categories:
-- Développement Web
-- Travail 2.0
+- Work & Labour
 ---
 
 J’ai été contacté récemment par une blogueuse vivant en région parisienne. Elle cherchait à refondre l'esthétique de son blog afin de lui donner un aspect plus professionnel. Une recherche Twitter et un passage sur mon blog plus tard, elle me contacte pour savoir si je peux m’en occuper.

@@ -10,7 +10,7 @@ tags:
 - plugin
 - tinymce
 categories:
-- Développement Web
+- WebDev
 - WordPress
 cover: /images/2009/04/wordpress-badge.png
 ---

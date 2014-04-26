@@ -14,8 +14,7 @@ tags:
 - parisweb
 - performances
 categories:
-- Évènements
-- Développement Web
+- Events
 cover: /images/2010/09/logotype-paris-web.png
 ---
 

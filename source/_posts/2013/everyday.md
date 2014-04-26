@@ -5,8 +5,7 @@ tags:
 - timelapse
 - photographie
 categories:
-- Projets
-- Personnel
+- Projects
 lang: en-GB
 cover:
   url: /images/2013/everyday.jpg

@@ -7,7 +7,7 @@ tags:
 - cpe
 - précaire
 categories:
-- Travail 2.0
+- Work & Labour
 ---
 
 Dans mon premier billet consacré au [<acronym title="Contrat Première Embauche">CPE</acronym>](https://oncletom.io/2006/01/25/contrat-premiere-embauche-faux-emploi-ou-faux-chomage/), j'étais réceptif à ce projet de loi mais sceptique quant à ses limites (période d'essai, licenciement sans motif). Plus j'en discute autour de moi et plus je me rends compte que les arguments "contre" ne sont pas si viables que ça. Et si ça pouvait marcher en fin de compte ?

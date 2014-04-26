@@ -9,8 +9,8 @@ tags:
 - jquery
 - xpath
 categories:
-- Accessibilité
-- Développement Web
+- a11y
+- WebDev
 - JavaScript
 cover: /images/2007/09/javascript.png
 ---

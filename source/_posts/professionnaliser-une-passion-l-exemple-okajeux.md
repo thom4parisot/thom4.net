@@ -6,8 +6,8 @@ tags:
 - Emu Nova
 - partenariat
 categories:
-- Projets
-- Travail 2.0
+- Projects
+- Work & Labour
 cover: /images/Emu-Nova/okajeux-logo.png
 ---
 

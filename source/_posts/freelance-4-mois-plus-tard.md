@@ -10,8 +10,7 @@ tags:
 - stratégie
 - tarif
 categories:
-- Développement Web
-- Entrepreneuriat
+- Work & Labour
 cover: /images/2011/03/logo_cyneticmonkey_standard.png
 ---
 

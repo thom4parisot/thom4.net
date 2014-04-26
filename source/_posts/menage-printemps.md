@@ -13,12 +13,10 @@ tags:
 - webdesign
 - yslow
 categories:
-- Développement Web
-- Personnel
+- WebDev
 - WordPress
+cover: /images/2009/04/wordpress-badge.png
 ---
-
-![WordPress Logo](/images/2009/04/wordpress-badge-138x138.png "WordPress Logo")
 
 Je me décide à passer un coup de peinture sur ce blog quasiment 2 ans après le [CSS Summer Refresh](https://oncletom.io/2007/08/15/css-summer-refresh-2007/) organisé par [Alsacréations](http://alsacreations.com/). À vrai dire, j'avais ce projet dans les cartons depuis septembre 2008 mais le plus difficile a été de trouver le talent graphique. C'était également l'occasion de dire au revoir aux navigateurs Web de seconde zone, à savoir Internet Explorer 7 et moins.
 
@@ -58,7 +56,7 @@ Tout d'abord, qu'est ce qui a changé par rapport à la maquette ?
 *   l'**ajout des pages en lieu et place du fil d'ariane** : j'en avais besoin pour présenter différents contenus statiques ;
 *   **le pied de page** : peu de widgets WordPress offrent un degré de personnalisation suffisant pour arriver à ce résultat. C'est donc temporisé là aussi en attendant de trouver chaussure à mon pied ;-)
 
-[![Aperçu pleine page](/images/2009/04/caseoncle-tomnet-oncletom-wood-150x300.png "caseoncle-tomnet-oncletom-wood")](/images/2009/04/caseoncle-tomnet-oncletom-wood.png)
+[![Aperçu pleine page](/images/2009/04/caseoncle-tomnet-oncletom-wood-301x600.png "caseoncle-tomnet-oncletom-wood")](/images/2009/04/caseoncle-tomnet-oncletom-wood.png)
 
 Pour le reste je me suis fait plaisir avec notamment l'utilisation de coins arrondis (_border-radius_) basés sur les implémentations de Gecko et Webkit. Désolé pour les utilisateurs d'autres navigateurs car j'en ai usé et abusé afin d'éviter l'utilisation d'images.
 

@@ -6,7 +6,7 @@ tags:
 - moeroshop
 - partenariat
 categories:
-- Projets
+- Projects
 cover: /images/2007/01/moeroshop.gif
 ---
 

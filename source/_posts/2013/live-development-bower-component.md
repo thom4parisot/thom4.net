@@ -5,7 +5,7 @@ tags:
 - components
 categories:
 - JavaScript
-- Développement Web
+- WebDev
 lang: en-GB
 cover: /images/2013/08/bower-component.png
 ---
@@ -100,7 +100,7 @@ $ bower link my-bower-component
 bower link /private/tmp/project/bower_components/my-bower-component > /Users/myUser/.local/share/bower/links/my-bower-component
 ```
 
-Now, **your project will benefit from every file change** of the `my-bower-component` component. Exactly what we wanted.  
+Now, **your project will benefit from every file change** of the `my-bower-component` component. Exactly what we wanted.
 The project tree structure is now the following:
 
 ```

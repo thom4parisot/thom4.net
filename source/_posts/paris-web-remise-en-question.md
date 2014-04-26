@@ -11,9 +11,7 @@ tags:
 - parisweb
 - readme
 categories:
-- Évènements
-- Développement Web
-- Personnel
+- Events
 cover: /images/2012/10/A5ogsJmCAAA89Pu.jpg
 ---
 
@@ -61,7 +59,7 @@ AppleTV, Google TV et consors manquent cruellement au programme. Ces nouveaux te
 6.  **L’accessibilité ne sait toujours pas se vendre**
 Je suis assez circonspect de cette difficulté à vendre cette discipline pourtant transversale et pleine de bienfaits pour les utilisateurs et les donneurs d’ordre.
 Quel est le bilan de 7 années de Paris Web intégrant le mot « accessibilité » à la baseline ? Je m’interroge.
-<div>![](/images/2012/10/Capture-d’écran-2012-10-24-à-23.45.41-600x451.png "Extrait de ma conférence sur le RDD")</div>
+<div>![](/images/2012/10/Capture-d’écran-2012-10-24-à-23.45.41.png "Extrait de ma conférence sur le RDD")</div>
 
 ## Ressenti et analyses
 

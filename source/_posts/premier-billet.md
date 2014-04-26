@@ -1,9 +1,9 @@
 title: "Premier billet"
 id: 4
 date: 2005-02-15 16:39:50
-tags: 
-categories: 
-- Personnel
+tags:
+categories:
+- Personal Views
 ---
 
 C'est marrant comme les choses changent. Y'a 2 ou 3 ans je n'aurais pas imaginé ouvrir un blog. Encore que là, c'est beaucoup dire : je me suis plus laissé tenter par les nouveaux modules installés à la demande de [Free](http://www.free.fr) (oui j'aime bien bidouiller ^^).

@@ -8,7 +8,7 @@ tags:
 - x-ua-compatible
 - xhtml
 categories:
-- Développement Web
+- WebDev
 cover: /images/2008/10/logo-ie8.gif
 ---
 

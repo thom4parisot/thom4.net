@@ -11,8 +11,8 @@ tags:
 - ui
 - xhtml
 categories:
-- Développement Web
-- Projets
+- WebDev
+- Projects
 
 cover: //oncletom.io/images/2008/04/emunova-2010.png
 ---
@@ -84,7 +84,7 @@ La transparence est affichée comme du gris. Magnifique. Sauf en utilisant [jQue
 
 ## Emu Nova : carte de chaleurs, avant et après
 
-[![Heatmap d\](/images/2008/04/emunova-2000vs2100-heatmap-294x300.jpg "Heatmap d\")](/images/2008/04/emunova-2000vs2100-heatmap.jpg)
+[![Heatmap d\](/images/2008/04/emunova-2000vs2100-heatmap-588x600.jpg "Heatmap d\")](/images/2008/04/emunova-2000vs2100-heatmap.jpg)
 
 Voici une comparaison des cartes de chaleur à 6 mois d'intervalle.
 

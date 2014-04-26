@@ -3,7 +3,7 @@ id: 154
 date: 2006-03-05 12:30:43
 tags:
 categories:
-- Personnel
+- Personal Views
 ---
 
 Tout le monde, ou presque, en parle est c'est tant mieux. Le projet de loi <acronym title="Droits d'Auteur et Droits Voisins dans la Société de l'Information">DADVSI</acronym> reviendra sur le devant de la scène à partir du 7 mars. Ce billet sera l'occasion de résumer ce que doit apporter la loi, ce qu'elle va au contraire retirer et surtout, comment elle a été achetée par les industriels au pouvoir politique. L'approche du projet a bien mûri en deux mois, surtout du côté des détracteurs; pas du côté gouvernemental qui a préféré mettre en place un [site de propagande](http://www.lestelechargements.com/).

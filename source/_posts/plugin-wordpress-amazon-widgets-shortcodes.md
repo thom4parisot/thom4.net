@@ -11,7 +11,7 @@ tags:
 - tinymce
 - widgets
 categories:
-- Projets
+- Projects
 - JavaScript
 - WordPress
 cover: /images/2008/09/amazon-associates.gif

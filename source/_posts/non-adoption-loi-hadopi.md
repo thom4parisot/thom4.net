@@ -8,7 +8,7 @@ tags:
 - logiciels libres
 - loi
 categories:
-- Projets
+- Personal Views
 cover: /images/Actualite/Derriere-les-barreaux_Legend-of-the-bat.jpg
 ---
 

@@ -1,13 +1,13 @@
 title: "Entretien d'embauche : excès de confiance"
 id: 77
 date: 2007-02-10 13:00:49
-tags: 
+tags:
 - conseils
 - cv
 - embauche
 - motivation
-categories: 
-- Travail 2.0
+categories:
+- Work & Labour
 ---
 
 La semaine dernière je faisais de nouveau passer quelques entretiens d'embauche avec mon collègue <del datetime="2007-02-05T20:03:50+00:00">de Mario Kart</del> de travail. L'occasion de se trouver face à face de quelqu'un ayant oublié la remise en question et l'humilité à la maison.

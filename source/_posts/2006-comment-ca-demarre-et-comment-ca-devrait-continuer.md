@@ -3,7 +3,7 @@ id: 32
 date: 2006-01-13 17:34:10
 tags:
 categories:
-- Personnel
+- Personal Views
 ---
 
 Après le petit interlude "test de jeux vidéo" dont je vous ai fait part récemment avec les tests de [Castlevania : Dawn of Sorrow](https://oncletom.io/2006/01/08/castlevania-dawn-of-sorrow/) et [Phoenix Wright : Ace Attorney](https://oncletom.io/2006/01/09/phoenix-wright-ace-attorney/) tous deux sur **Nintendo DS**, voici un petit bilan de ce qui a occupé mes journées en ce début d'année et surtout, ce qui m'occupera en 2006\. Changements en perspective.

@@ -2,10 +2,16 @@
 RedirectTemp /photos/ http://www.flickr.com/photos/the-jedi/
 RedirectTemp /music/ http://www.last.fm/user/the-jedi/
 RedirectMatch temp /code/(.*) https://github.com/oncletom/$1
-RedirectPermanent /tags/linux/ https://oncletom.io/categorie/logiciels-libres/
-RedirectPermanent /categorie/php/ https://oncletom.io/categorie/developpement-web/
-RedirectPermanent /categorie/mysql/ https://oncletom.io/categorie/developpement-web/
-RedirectMatch Permanent /tags/(.*) https://oncletom.io/categorie/$1
+RedirectPermanent /categories/projets/ https://oncletom.io/categories/projects/
+RedirectPermanent /categories/webdev/ https://oncletom.io/categories/web/
+RedirectPermanent /categories/travail/ https://oncletom.io/categories/work/
+RedirectPermanent /categories/evenements/ https://oncletom.io/categories/events/
+RedirectPermanent /categories/entrepreunariat/ https://oncletom.io/categories/work/
+RedirectPermanent /categories/mobile/ https://oncletom.io/categories/web/
+RedirectPermanent /categories/personnel/ https://oncletom.io/categories/meta/
+RedirectPermanent /tags/linux/ https://oncletom.io/categories/web/
+RedirectPermanent /categorie/php/ https://oncletom.io/categories/web/
+RedirectPermanent /categorie/mysql/ https://oncletom.io/categories/web/
 
 # ##############################################################################
 # # ERRORS                                                                     #

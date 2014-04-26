@@ -5,7 +5,7 @@ tags:
 - reseaux sociaux
 - second life
 categories:
-- Personnel
+- Personal Views
 cover: /images/2007/01/seconde-life-segolene.jpg
 ---
 

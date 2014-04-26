@@ -11,7 +11,7 @@ tags:
 - regex
 - shell
 categories:
-- Développement Web
+- WebDev
 ---
 
 Ce qu'il y a de génial avec les systèmes Unix (dont Linux fait partie), c'est la possibilité d'**interagir avec le système et d'étendre ses possibilités** en jouant avec les programmes à disposition. Je pense qu'il est indispensable pour un développeur Web de connaître les bases de ces systèmes non pas pour frimer mais **pour se simplifier la vie**.

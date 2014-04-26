@@ -1,9 +1,9 @@
 title: "Retour vers le futur"
 id: 227
 date: 2006-10-02 18:00:48
-tags: 
-categories: 
-- Travail 2.0
+tags:
+categories:
+- Work & Labour
 ---
 
 Me voici de retour en région parisienne, à Cergy plus précisément. D'ailleurs, [ça ne faisait qu'une semaine que je m'en étais absenté](https://oncletom.io/2006/09/29/lost-in-cergy/).

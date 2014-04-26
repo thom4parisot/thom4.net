@@ -9,7 +9,7 @@ tags:
 - logiciels libres
 - template
 categories:
-- Développement Web
+- WebDev
 - WordPress
 ---
 

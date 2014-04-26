@@ -7,7 +7,7 @@ tags:
 - opensearch
 - seo
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![Logo OpenSearch](/images/2007/02/opensearch.png)

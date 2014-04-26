@@ -13,7 +13,7 @@ tags:
 - uwa
 - VCUB
 categories:
-- Développement Web
+- WebDev
 ---
 
 C'est la rentrée scolaire. Le moment de reprendre les bonnes habitudes qu'on aurait laissé de côté pendant les vacances. Comme celle de bloguer par exemple ; après 2 mois de pause plus ou moins forcée.

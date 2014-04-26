@@ -1,14 +1,13 @@
 title: "Je suis un fantôme"
 id: 38
 date: 2006-04-21 21:47:54
-tags: 
+tags:
 - étudiant
 - cpam
 - iut
 - salarié
-categories: 
-- Personnel
-- Travail 2.0
+categories:
+- Work & Labour
 ---
 
 Pas de nouvelle, bonne nouvelle.

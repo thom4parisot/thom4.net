@@ -1,12 +1,11 @@
 title: "Quand Internet fait des bulles"
 id: 672
 date: 2007-06-20 22:20:24
-tags: 
+tags:
 - reportage
 - video
-categories: 
-- Personnel
-- Travail 2.0
+categories:
+- Personal Views
 ---
 
 J'ai dévoré cette semaine un excellent documentaire diffusé sur 13ème rue intitulé **Quand Internet fait des bulles**. Il retrace le _parcours des pionniers du Web_ des années 2000 avec l'ascension des start-up et leur descente aux enfers boursiers. Si vous avez toujours voulu savoir comment valoir 20 milliards, comment recevoir 60 millions d'euros au lieu de 6 millions ou _à quel prix acheter un briquet en pleine forêt_, ce documentaire est fait pour vous.

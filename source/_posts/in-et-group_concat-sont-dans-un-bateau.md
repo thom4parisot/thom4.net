@@ -6,7 +6,7 @@ tags:
 - MySQL
 - optimisation
 categories:
-- Développement Web
+- WebDev
 ---
 
 Il m'arrive fréquemment d'avoir à sélectionner des lignes de données à partir d'un ou plusieurs critères. C'est le cas dès que l'on souhaite récupérer une liste. C'est également très pratique pour mettre à jour ces dites-lignes. Seulement voilà, des fois on pourrait éviter quelques boucles et quelques complications avec l'utilisation de deux fonctions magiques de MySQL : [IN()](http://dev.mysql.com/doc/refman/4.1/en/comparison-operators.html) et [GROUP_CONCAT()](http://dev.mysql.com/doc/refman/4.1/en/group-by-functions.html).

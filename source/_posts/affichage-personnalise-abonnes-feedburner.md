@@ -8,11 +8,11 @@ tags:
 - wp-cron
 - xml
 categories:
-- Développement Web
+- WebDev
 - WordPress
 ---
 
-![Compteur d'abonnés](/images/2009/05/compteur-abonnes-feedburner-texte-138x76.png "Compteur d'abonnés")
+![Compteur d'abonnés](/images/2009/05/compteur-abonnes-feedburner-texte.png "Compteur d'abonnés")
 
 Qu'on se le dise : le compteur de lecteurs Feedburner par défaut est sympa mais **s'intègre mal dans n'importe quel design de site Web**. [Lors de la refonte du thème graphique de ce blog](https://oncletom.io/2009/04/15/menage-printemps/), j'ai eu envie de remettre mon compteur d'abonnés Feedburner mais sous forme de texte. Même si le chiffre indiqué peut se révéler inexact, j'estime que c'est un **indicateur intéressant** sur la consultation d'un flux. Je suis également convaincu qu'à partir d'un certain nombre de lecteurs, ça facilite la conversion : si le nombre est élevé, c'est que le site est bien  ... donc je m'abonne.
 
@@ -35,7 +35,7 @@ La première chose à faire est d'**activer l'API Awareness pour votre flux**. C
 
 C'est vraiment simple à utiliser, la [documentation Feedburner Awareness](http://code.google.com/intl/fr/apis/feedburner/awareness_api.html) est complète dans son genre.
 
-![Activation du service Feedburner Awareness](/images/2009/05/feedburner-awareness-activation-300x166.png "Activation du service Feedburner Awareness")
+![Activation du service Feedburner Awareness](/images/2009/05/feedburner-awareness-activation.png "Activation du service Feedburner Awareness")
 
 **Remarque** : cette API s'active par flux Feedburner de manière individuelle et est désactivée par défaut.
 

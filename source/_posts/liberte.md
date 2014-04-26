@@ -14,8 +14,7 @@ tags:
 - valeurs
 - voyage
 categories:
-- Personnel
-- Travail 2.0
+- Personal Views
 ---
 
 J'ai l'impression d'avoir écrit [mon bilan de l'année 2009](https://oncletom.io/2010/01/) il y a une poignée de jours. Je me souviens encore avoir terminé 2009 avec un sentiment de mélancolie ... cette joie teintée de tristesse mais surtout, dans mon cas, d'attente.

@@ -7,7 +7,7 @@ tags:
 - MySQL
 - optimisation
 categories:
-- Développement Web
+- WebDev
 ---
 
 **MySQL**, depuis la version _3.23.6_, permet de déclarer des variables dans ses requêtes. Il est d'ailleurs possible de scripter ses requêtes mais c'est une autre histoire.

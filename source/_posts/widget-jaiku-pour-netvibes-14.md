@@ -8,8 +8,8 @@ tags:
 - release
 - widget
 categories:
-- Développement Web
-- Projets
+- WebDev
+- Projects
 ---
 
 ![](/images/2008/06/logo-jaiku.png "Logo Jaiku")

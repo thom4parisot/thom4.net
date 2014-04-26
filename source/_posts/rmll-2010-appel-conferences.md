@@ -15,8 +15,8 @@ tags:
 - rmll
 - xmpp
 categories:
-- Développement Web
-- Projets
+- Projects
+- Events
 cover: /images/2010/01/1264010146_tux.png
 ---
 

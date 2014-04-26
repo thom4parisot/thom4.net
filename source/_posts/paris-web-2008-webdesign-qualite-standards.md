@@ -11,9 +11,7 @@ tags:
 - pw2008
 - qualité
 categories:
-- Accessibilité
-- Évènements
-- Développement Web
+- Events
 cover:
   url: //farm4.staticflickr.com/3270/3034679191_d551c06a85_b.jpg
   link: http://www.flickr.com/photos/the-jedi/3034679191/in/set-72157609189799718

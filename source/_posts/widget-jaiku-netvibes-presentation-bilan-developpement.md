@@ -14,7 +14,7 @@ tags:
 - widget
 - xhtml
 categories:
-- Développement Web
+- WebDev
 - JavaScript
 cover: /images/2008/06/logo-jaiku.png
 ---

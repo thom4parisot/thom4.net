@@ -7,7 +7,7 @@ tags:
 - reseaux sociaux
 - twitter
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![Logo Twitter](/images/2007/05/twitter.png)

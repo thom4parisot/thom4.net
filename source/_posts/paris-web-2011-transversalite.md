@@ -2,7 +2,7 @@ title: "Paris Web 2011 : transversalité"
 id: 18460
 date: 2011-10-21 11:34:07
 tags:
-- accessibilité
+- a11y
 - communication
 - conférence
 - humanité
@@ -12,11 +12,7 @@ tags:
 - typographie
 - web
 categories:
-- Accessibilité
-- Évènements
-- Développement Web
-- Mobile
-- Travail 2.0
+- Events
 cover: /images/2011/10/shot_1318684180740.jpg
 ---
 

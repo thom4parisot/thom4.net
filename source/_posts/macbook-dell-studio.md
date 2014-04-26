@@ -14,8 +14,8 @@ tags:
 - windows
 - windows vista
 categories:
-- Développement Web
-- Personnel
+- WebDev
+- Personal Views
 cover:
   url: //farm4.static.flickr.com/3121/3148614252_7980e00e12_b_d.jpg
   link: http://www.flickr.com/photos/the-jedi/3148614252/
@@ -46,7 +46,7 @@ Fin de la parenthèse ;-)
 
 ## Pourquoi un Dell Studio ?
 
-[![Entrée d](/images/2008/12/dell-studio-17-corner-200x300.jpg "Entrée d")](/images/2008/12/dell-studio-17-corner.jpg)
+[![Entrée d](/images/2008/12/dell-studio-17-corner.jpg "Entrée d")](/images/2008/12/dell-studio-17-corner.jpg)
 
 Après plus années passées sur des PC en tour construits à la main avec le plus grand amour, j'ai choisi le silence et le nomadisme avec un Acer Aspire 9410\. Je n'ai pas souhaité renouer avec Acer pour plusieurs raisons :
 
@@ -70,7 +70,7 @@ Mais il y'avait Windows Vista.
 
 ## La parenthèse remboursement de Windows Vista
 
-[![CLUF Windows Vista / Dell](/images/2008/12/windows-vista-cluf-300x200.jpg "CLUF Windows Vista / Dell")](/images/2008/12/windows-vista-cluf.jpg)
+[![CLUF Windows Vista / Dell](/images/2008/12/windows-vista-cluf.jpg "CLUF Windows Vista / Dell")](/images/2008/12/windows-vista-cluf.jpg)
 
 Pour la forme, j'ai tenté de titiller le service client afin de me faire **rembourser Windows Vista** parce que :
 
@@ -100,7 +100,7 @@ En clair, on a le droit de ne pas avoir d'ordinateur sans qu'on nous force la ma
 
 ## Ubuntu «Intrepid Ibex» 64 bits
 
-[![Clavier rétro-éclairé](/images/2008/12/dell-studio-17-keyboard-300x200.jpg "Clavier rétro-éclairé")](/images/2008/12/dell-studio-17-keyboard.jpg)
+[![Clavier rétro-éclairé](/images/2008/12/dell-studio-17-keyboard.jpg "Clavier rétro-éclairé")](/images/2008/12/dell-studio-17-keyboard.jpg)
 
 Ce nouveau PC était l'occasion de passer dans le monde des systèmes d'exploitation 64 bits. J'ai installé Ubuntu 8.10 dit _Intrepid Ibex_ depuis le Live CD 64 bits et en toute honnêteté,** je n'ai eu de problème à aucun moment**. Tout a été très fluide ... comme en version 32 bits.
 Vu l'augmentation de matériel, forcément tout répondait plus vite donc difficile de dire s'il y a des gains notables. J'imagine qu'oui et même si c'est pas le cas ... je m'en fiche ?

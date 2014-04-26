@@ -15,7 +15,7 @@ tags:
 - twitter
 - web2
 categories:
-- Travail 2.0
+- Work & Labour
 cover: /images/2008/09/aquitaine-numerique-17-couverture.jpg
 ---
 

@@ -15,7 +15,7 @@ tags:
 - phpdoc
 - symfony
 categories:
-- Développement Web
+- WebDev
 cover: /images/2008/07/sample-php-code.png
 ---
 
@@ -56,7 +56,7 @@ Une chose est sure : quand on a essayé une belle
 
 ## Mes conventions de nommage en PHP
 
-[![Exemple de code PHP dans Eclipse](/images/2008/07/eclipse-php-code-sample-300x207.png "Exemple de code PHP dans Eclipse")](/images/2008/07/eclipse-php-code-sample.png)
+[![Exemple de code PHP dans Eclipse](/images/2008/07/eclipse-php-code-sample.png "Exemple de code PHP dans Eclipse")](/images/2008/07/eclipse-php-code-sample.png)
 
 J'avoue, la notation utilisée dans [symfony](http://www.symfony-project.org/) m'a tellement plu que je la réutilise quasiment partout. Ci-dessus, une illustration montrant du code pour un [plugin Wordpress](https://oncletom.io/code/wordpress/) (en PHP 4 malheureusement ...). Elle en présente un bon aperçu.
 
@@ -120,7 +120,7 @@ L'idéal est de **documenter en même temps qu'on produit le code**. Par princip
 
 ## Mes conventions de nommage en JavaScript
 
-[![Exemple de code JavaScript dans Eclipse](/images/2008/07/eclipse-javascript-code-sample-300x288.png "Exemple de code JavaScript dans Eclipse")](/images/2008/07/eclipse-javascript-code-sample.png)
+[![Exemple de code JavaScript dans Eclipse](/images/2008/07/eclipse-javascript-code-sample.png "Exemple de code JavaScript dans Eclipse")](/images/2008/07/eclipse-javascript-code-sample.png)
 
 Ne vous inquiétez pas, je ne vais pas tout recommencer pour JavaScript ;-) Je suis à peu près la même logique qu'en PHP à part pour les accolades.
 

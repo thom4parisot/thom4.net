@@ -10,8 +10,8 @@ tags:
 - rollover
 - xhtml
 categories:
-- Accessibilité
-- Développement Web
+- a11y
+- WebDev
 cover: /images/2007/12/jquery-logo.png
 ---
 

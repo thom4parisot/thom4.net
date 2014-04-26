@@ -5,7 +5,7 @@ tags:
 - drm
 - Musique
 categories:
-- Personnel
+- Personal Views
 cover: /images/Actualite/coldplay-cd-illisible.jpg
 ---
 

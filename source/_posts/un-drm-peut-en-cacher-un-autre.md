@@ -1,12 +1,12 @@
 title: "Un DRM peut en cacher un autre"
 id: 414
 date: 2007-01-24 13:00:52
-tags: 
+tags:
 - drm
 - hd
 - mtp
-categories: 
-- Personnel
+categories:
+- Personal Views
 ---
 
 En ce moment se tient à Cannes un salon nommé le [MIDEM](http://fr.wikipedia.org/wiki/Midem). Les riches entreprises musicales y décident comment devenir encore plus riches. La tendance ces dernières années étant bien sûr de plus en plus avouable : pigeonner l'indivi... non, le consommateur. L'individu ayant un minimum d'esprit critique et de choix, on parle bien de consommateur à qui on demande de consommer sans être trop regardant sur ce qu'il achète et peut-être écoutera.

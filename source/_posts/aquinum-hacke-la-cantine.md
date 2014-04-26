@@ -8,7 +8,7 @@ tags:
 - paris
 - rendez-vous
 categories:
-- Projets
+- Events
 cover: /images/2011/01/logo-aquinum.png
 ---
 

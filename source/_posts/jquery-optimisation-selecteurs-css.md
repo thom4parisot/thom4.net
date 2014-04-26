@@ -10,7 +10,7 @@ tags:
 - optimisation
 - performances
 categories:
-- Développement Web
+- WebDev
 - JavaScript
 cover: /images/2007/12/jquery-logo.png
 ---

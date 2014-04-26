@@ -1,11 +1,11 @@
 title: "Dotclear 1.2.1, mise à jour un peu ratée"
 id: 13
 date: 2005-05-30 22:46:18
-tags: 
+tags:
 - blog
 - dotclear
-categories: 
-- Personnel
+categories:
+- Personal Views
 ---
 
 Presque aucune mise à jour en presque 2 mois et voilà que pour mon retour je casse tout. Si vous voyez des caractères accentués un peu bizarres pas la peine de prendre peur : tout va être corrigé sous peu.

@@ -6,7 +6,7 @@ tags:
 - app store
 - bordeaux
 - buzz
-- Développement Web
+- WebDev
 - flickr
 - iphone
 - market
@@ -72,7 +72,7 @@ Quand même, je vais citer LA raison qui me fait utiliser une application plutô
 
 Je pourrai quand même citer un excellent contre-exemple : le [site Web mobile de Flickr](http://m.flickr.com/). Sa navigation entièrement en Ajax (pour les mobiles supportant cela) la rend véloce et très agréable à utiliser. Elle est aussi rapide à consulter que l'application Facebook. Elle est même plus rapide en ce qui concerne le chargement d'images.
 
-[![Écran de l](/images/2010/04/bordeaux-agenda-208x300.jpg "Écran de l")](/images/2010/04/bordeaux-agenda.jpg)
+[![Écran de l](/images/2010/04/bordeaux-agenda.jpg "Écran de l")](/images/2010/04/bordeaux-agenda.jpg)
 
 ## Application ou site mobile ? Les deux mon capitaine !
 

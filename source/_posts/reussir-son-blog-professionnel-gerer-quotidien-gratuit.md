@@ -16,7 +16,7 @@ tags:
 - ps2pdf
 - psselect
 categories:
-- Projets
+- Projects
 ---
 
 La semaine dernière, j'ai appris qu'[une de mes photos avait été publiée dans Paris Match](https://oncletom.io/2009/11/08/paris-match-licence-photo/) ... sans me demander la permission. En attendant de recevoir un dédommagement de la part du journal, je me suis finalement dit qu'on se retrouvait finalement dans un cas bien précis évoqué dans «[Réussir son blog professionnel](http://reussir-son-blog.pro/)», à savoir le **respect des obligations légales**.

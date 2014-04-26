@@ -10,8 +10,8 @@ tags:
 - paris
 - rendez-vous
 categories:
-- Évènements
-- Projets
+- Events
+- Projects
 cover: /images/2009/07/reussir-son-blog-professionnel-nq8.png
 ---
 

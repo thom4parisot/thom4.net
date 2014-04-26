@@ -3,7 +3,7 @@ id: 636
 date: 2007-05-23 20:01:48
 tags:
 categories:
-- Projets
+- Projects
 cover: /images/2007/05/mini-card-moo-boite.jpg
 ---
 

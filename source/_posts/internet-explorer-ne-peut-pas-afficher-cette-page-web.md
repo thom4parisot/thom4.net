@@ -6,7 +6,7 @@ tags:
 - erreur
 - internet explorer
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![Internet Explorer ne peut pas afficher cette page Web](/images/2007/07/internet-explorer-ne-peut-pas-afficher-cette-page-web.png)

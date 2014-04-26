@@ -6,15 +6,13 @@ tags:
 - html5
 - mozilla
 categories:
-- Développement Web
+- WebDev
 cover:
   url: /images/2013/02/dino.png
   link: https://wiki.mozilla.org/MDN/Doc_sprints/2013February
 ---
 
 Je me suis laissé embarquer dans un [Mozilla Doc Sprint](https://wiki.mozilla.org/MDN/Doc_sprints/2013February) par [David Bruant](https://twitter.com/davidbruant). C'était un samedi, pluvieux de surcroît. Une motivation liée à l'apprentissage et à la découverte de la contribution. C'est quoi contribuer ? Il faut être qui pour contribuer ? Et savoir quoi, surtout.
-
-[![8437521105_2fc987581a_z](/images/2013/02/8437521105_2fc987581a_z-600x396.jpg)](http://www.flickr.com/photos/the-jedi/8437521105/)
 
 <!--more-->
 
@@ -27,6 +25,8 @@ Je ne sais pas encore si c'est lié à notre époque (consommer est plus facile 
 Pour l'instant dire "on fait un apéro et on parle de <insérer ici un nom de langage de programmation>" réunit plus de monde que "on documente <insérer ici un langage de programmation>". Peut-être est-ce le même fossé entre "développer" et "écrire des tests et développer". Le gain se situe _après_. Après avoir _fait l'effort de_. Y'a des ponts à construire, et de la communication à trouver et effectuer pour inciter les gens à passer d'une rive à l'autre.
 
 Bref, revenons à nos moutons.
+
+[![8437521105_2fc987581a_z](/images/2013/02/8437521105_2fc987581a_z.jpg)](http://www.flickr.com/photos/the-jedi/8437521105/)
 
 ## Table de compatibilité automatisée
 
@@ -77,7 +77,7 @@ Au final, une après-midi aura été nécessaire pour compléter 4 pages dans MD
 *   [unload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/unload)
 *   [beforeunload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/beforeunload)
 
-[![6843235730_1cdac9f950_z](/images/2013/02/6843235730_1cdac9f950_z-600x399.jpg)](http://www.flickr.com/photos/the-jedi/6843235730/)
+[![6843235730_1cdac9f950_z](/images/2013/02/6843235730_1cdac9f950_z.jpg)](http://www.flickr.com/photos/the-jedi/6843235730/)
 
 ## Conclusion
 

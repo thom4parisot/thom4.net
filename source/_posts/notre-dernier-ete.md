@@ -11,8 +11,8 @@ tags:
 - réflexions
 - slow life
 categories:
-- Personnel
-- Travail 2.0
+- Personal Views
+- Work & Labour
 cover: /images/2012/08/5096781001_fb731f1725_b.jpg
 ---
 
@@ -48,7 +48,7 @@ En achetant le plus possible des produits naturels (et réalisés avec des proc�
 En générant le moins de déplacements possibles (quitte à renoncer et accepter ne pas avoir tout ce que je veux).
 En rendant la monnaie, avec un sourire.
 
-![](/images/2012/08/6897228760_c2d023b043_b-300x199.jpg "Au loin")
+![](/images/2012/08/6897228760_c2d023b043_b.jpg "Au loin")
 
 ## Diriger sans commander
 

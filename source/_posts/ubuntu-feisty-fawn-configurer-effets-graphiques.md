@@ -9,7 +9,7 @@ tags:
 - logiciels libres
 - ubuntu
 categories:
-- Développement Web
+- WebDev
 cover: /images/2007/04/ubuntu-desktop-effects.png
 ---
 

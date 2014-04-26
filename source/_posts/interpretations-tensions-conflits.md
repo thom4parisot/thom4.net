@@ -6,7 +6,7 @@ tags:
 - équipe
 - psychologie
 categories:
-- Travail 2.0
+- Work & Labour
 ---
 
 S'il y a bien une chose dont je me doutais mais pour laquelle je n'avais jamais réalisé son ampleur, c'est bien la manière dont est vécu le travail par un individu. Il y'a vraiment de tout :

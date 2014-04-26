@@ -5,7 +5,7 @@ tags:
 - introspection
 - quête
 categories:
-- Personnel
+- Personal Views
 cover:
   link: http://www.flickr.com/photos/the-jedi/8489312830/
   url: //farm9.staticflickr.com/8388/8489312830_17628cc7d5_c_d.jpg
@@ -13,7 +13,7 @@ cover:
 
 2013 has been another year full of destructuring for a better regeneration. **On top of the legacy**, not against it.
 
-[Leaving France to United Kingdom was not part of any plan](/2013/every-day-is-a-brand-new-place/).  
+[Leaving France to United Kingdom was not part of any plan](/2013/every-day-is-a-brand-new-place/).
 But still, it happened. And for the best!
 
 <!--more-->

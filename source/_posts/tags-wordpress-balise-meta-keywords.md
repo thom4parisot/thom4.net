@@ -7,7 +7,7 @@ tags:
 - seo
 - tags
 categories:
-- Développement Web
+- WebDev
 - WordPress
 ---
 

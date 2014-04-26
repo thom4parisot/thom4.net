@@ -10,8 +10,8 @@ tags:
 - pro
 - temesis
 categories:
-- Accessibilité
-- Développement Web
+- a11y
+- WebDev
 ---
 
 ![Sites Web : les bonnes pratiques](/images/2007/02/sites-web-bonnes-pratiques.jpg)

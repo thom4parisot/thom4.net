@@ -8,7 +8,7 @@ tags:
 - bordeaux
 - logiciels libres
 categories:
-- Projets
+- Projects
 - WordPress
 cover: /images/2008/02/blogcamp-france-logo.png
 ---

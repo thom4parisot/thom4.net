@@ -8,7 +8,7 @@ tags:
 - rss
 - veille
 categories:
-- Travail 2.0
+- Work & Labour
 cover: /images/2007/03/google-reader.png
 ---
 

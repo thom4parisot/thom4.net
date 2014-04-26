@@ -6,7 +6,7 @@ tags:
 - Musique
 - reseaux sociaux
 categories:
-- Personnel
+- Personal Views
 cover: //oncletom.io/images/2007/01/lastfm.png
 ---
 

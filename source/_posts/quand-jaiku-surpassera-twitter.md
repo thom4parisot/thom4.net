@@ -10,7 +10,7 @@ tags:
 - pownce
 - twitter
 categories:
-- Développement Web
+- WebDev
 cover: /images/2008/06/logo-jaiku.png
 ---
 
@@ -61,7 +61,7 @@ Malgré tout, Twitter possède une bonne avance, notamment grâce à son énorme
 
 ## Comment Jaiku peut surpasser Twitter
 
-[![Vue d](/images/2008/06/jaiku-overview-300x159.png "Vue d")](/images/2008/06/jaiku-overview.png)
+[![Vue d](/images/2008/06/jaiku-overview.png "Vue d")](/images/2008/06/jaiku-overview.png)
 
 Twitter conserve fonctionnellement pas mal d'avantages qui justifient encore son utilisation et sa forte adoption. C'est en subissant les pannes répétées et en lisant plusieurs articles, dont «[Can Twitter Be Saved](http://www.readwriteweb.com/archives/can_twitter_be_saved.php)» que j'ai sérieusement mis en doute la **capacité à Twitter à accompagner ses utilisateurs** de manière pérenne.
 

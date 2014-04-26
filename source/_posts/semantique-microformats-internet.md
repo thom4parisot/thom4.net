@@ -10,7 +10,7 @@ tags:
 - technorati
 - xhtml
 categories:
-- Développement Web
+- WebDev
 cover: /images/2007/07/logo-microformats.gif
 ---
 

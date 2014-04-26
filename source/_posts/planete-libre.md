@@ -1,13 +1,13 @@
 title: "Qu'est-ce qu'un Planet ?"
 id: 713
 date: 2007-07-18 13:00:31
-tags: 
+tags:
 - aggregation
 - planet
 - rss
 - veille
-categories: 
-- Développement Web
+categories:
+- WebDev
 ---
 
 Sur le Web, un **planet** désigne un agrégat de sites. Cet agrégat permet à partir d'**une seule et même adresse de consulter les dernières publications d'autres sites liés à sa thématique**. Prenons un exemple simple, [Planet Libre](http://www.planet-libre.org/). Ce site regroupe plusieurs sites et plusieurs blogs dont le thème principal ou un des thèmes touche aux logiciels libres.

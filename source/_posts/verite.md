@@ -10,8 +10,7 @@ tags:
 - stratégie
 - voeux
 categories:
-- Entrepreneuriat
-- Personnel
+- Personal Views
 cover:
   url: //farm9.staticflickr.com/8487/8219758779_e0d21f3c5e_c_d.jpg
   link: http://www.flickr.com/photos/the-jedi/8219758779/
@@ -45,7 +44,7 @@ Les choses suivent leur court. Début décembre 2012, [mise en redressement de l
 
 Dans cette histoire, le _code informatique_ n’est rien. Bien indenté, mal indenté, 48 couches d'abstraction ou non, PHP, Python ou JavaScript … il doit surtout pouvoir évoluer au rythme de l’entreprise. **Il doit avant tout être robuste au lieu d’être parfait**. Car il sera jeté et sûrement réécrit à mesure que l'organisme évolue.
 
-[![](/images/2013/01/8206099378_43f3c7e1cb_z-600x404.jpg "Mountain View")](http://www.flickr.com/photos/the-jedi/8206099378/)
+[![](/images/2013/01/8206099378_43f3c7e1cb_z.jpg "Mountain View")](http://www.flickr.com/photos/the-jedi/8206099378/)
 
 ## Retour à la réalité : qui suis-je ?
 
@@ -80,7 +79,7 @@ Des heures de **discussion** avec des personnes brillantes, d’une patience inf
 
 Pour afficher cette cohérence, l’identité du blog a été refondue pour s’intégrer naturellement avec mes prestations professionnelles : **expertise**, **formations** et **conférences**.
 
-![](/images/2013/01/oncletom_-on-Instagram-600x291.png "Same Place, Every Day")
+![](/images/2013/01/oncletom_-on-Instagram.png "Same Place, Every Day")
 
 ## Poursuivre dans mes choix de vie
 

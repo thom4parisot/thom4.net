@@ -1,17 +1,17 @@
 title: "1 an de + : la vie en entreprise"
 id: 23
 date: 2005-09-16 16:17:40
-tags: 
-categories: 
-- Personnel
-- Travail 2.0
+tags:
+categories:
+- Personal Views
+- Work & Labour
 ---
 
 Le _13 septembre 2004_ marquait pour moi mon départ dans la vie active avec mon premier <acronym title="Contrat à Durée Indéterminée">CDI</acronym>. Gain immédiat : les sous. Mais au final, ce à quoi on rêve le plus quand on est étudiant, qu'en est-il réellement ? Temps contre argent, ça sera le deal de votre vie.
 
 <!--more-->
 
-**Mon cursus**
+## Mon cursus
 
 Histoire de mieux vous situer, je vais faire un petit récapitulatif de mon parcours (pas vraiment sans faute puisque j'ai quand même redoublé la seconde, j'y ai quand même gagné mes meilleurs amis cette année là) :
 
@@ -27,7 +27,7 @@ L'avantage de ces 2 ans c'est que je me suis sufisamment ennuyé pour lancer un 
 
 Quant à la licence, rigolade : j'ai rien appris de l'année. Le seul avantage aura été d'avoir dégoté un stage ... en alternance. Premières payes fixes (les p'tits boulots ça comptait pas). C'est ce contrat qui s'est transformé en CDI à la fin du cursus. Veinard donc puisque je n'ai pas (encore) connu le chômage.
 
-* * *
+~~~~
 
 Mais alors, que penser du monde du travail maintenant ? Je l'ai voulu (les études j'en avais marre), je l'ai.
 
@@ -47,16 +47,16 @@ Mais alors, tout travail est-il bon du moment où salaire il y a ? Réponse : **
 
 Ca serait trop facile. Pour ma part, un travail où je n'ai pas liberté d'action, où je dois seulement exécuter ça me fait royalement ch**r. Pour ça que je ne ferai pas de vieux os.
 
-**Comment choisir son emploi ?**
+## Comment choisir son emploi ?
 
 Bonne question mais y'a pas réponse miracle. Ceci dit, les passions sont le meilleur vecteur de motivation : peu importe le boulot, faut pas imaginer qu'on va le garder toute sa vie. Le tout est de bien calculer son coup et d'aller dans la direction que notre coeur nous indique. Ca peut paraître débile mais en prenant mon cas, mon hobby qui est Internet (enfin un de mes hobbies, faut pas déconner non plus) s'est transformé en plaisir, s'est regroupé avec les jeux vidéo. J'ai pris conscience que j'aimais plus les jeux qu'un simple consommateur de bonheur. Par là même, à terme je compte bien arriver dans la filière, que ce soit grâce à Internet ou par le côté rédactionnel. En clair, je me constitue petit à petit un bagage pour aller vers une passion qui m'anime depuis tout jeune.
 
 C'est super parce que ça, on ne nous l'a jamais dis lors des pseudo-phases d'orientation : "_tu veux faire quoi plus tard ?_". Alors oui y'a du bon parce que ça force à réfléchir mais je ne suis pas persuadé que la pédagogie employée pousse à la réflexion mais plutôt à un "_je serai docteur plus tard_ [mais en fait j'en sais rien j'te le dis pour te faire plaisir vieille peau]".
 
-**Professionnaliser une passion mène donc droit au chemin du bonheur ?**
+## Professionnaliser une passion mène donc droit au chemin du bonheur ?
 
 Ben oui mais en fait non : tout dépend comment on aborde la chose. La routine, la non-créativité seront des éléments destructeurs de votre passion vous faisant inconsciemment perdre progressivement votre attachement, pourtant si fort au départ. Une passion peut avoir une fin, naturellement ou artificiellement. Comme pour tout, il y a des hauts et des bas (surtout chez une fille pour ça ^^) et il ne faut pas non plus prendre une période de démotivation pour la fin de tout.
 
-* * *
+## Conclusion
 
 Enfin bref, il faut bien profiter de son temps libre, ne pas le gaspiller et surtout apprendre à le savourer. Les "je m'ennuie en vacances" m'hérissent le poil car il y  a tellement de choses à faire. Bien entendu la curiosité et la soif de connaissances sont des éléments essentiels car une personne se contentant d'écouter du Kyo et de tchater sur MSN ne se trouvera fondamentalement pas de passion ... c'est comme un potager : ça se cultive !

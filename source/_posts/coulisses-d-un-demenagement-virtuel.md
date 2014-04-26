@@ -5,8 +5,8 @@ tags:
 - Emu Nova
 - hébergement
 categories:
-- Développement Web
-- Projets
+- WebDev
+- Projects
 ---
 
 Hier soir, dimanche 15 mai, à 21h s'opérait une opération délicate : basculer l'intégralité des données du site Emu Nova ainsi que ses sites hébergés vers une nouvelle machine davantage apte à supporter la charge incombée par des visites quotidiennes dépassant au minimum les 9000 personnes. On aurait pu tenir encore dessus, certes.

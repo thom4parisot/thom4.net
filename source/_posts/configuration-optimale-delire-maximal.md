@@ -9,7 +9,7 @@ tags:
 - ssl
 - twitter
 categories:
-- Accessibilité
+- a11y
 ---
 
 ![](/images/2008/10/site-optimise-pour.png "Site optimisé pour ...")

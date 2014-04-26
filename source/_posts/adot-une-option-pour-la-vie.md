@@ -6,7 +6,7 @@ tags:
 - don
 - organes
 categories:
-- Personnel
+- Personal Views
 cover: /images/Divers-inclassable/france-adot.gif
 ---
 

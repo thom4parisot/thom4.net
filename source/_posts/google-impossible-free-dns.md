@@ -7,7 +7,7 @@ tags:
 - internet
 - proxy
 categories:
-- Personnel
+- Personal Views
 ---
 
 Visiblement depuis 2 jours, les internautes de Free vivant dans certains quartiers de Mérignac et de Paris n'arrivent plus à accéder à Google, à Yahoo et Internet pédale sévèrement dans la choucroute. En attendant que la [_hotline_ de Free vous propose de formater votre PC](http://www.freenews.fr/forum/viewtopic.php?id=19544), il y a un petit réglage à faire pour vous rendre la vie plus facile : **utiliser un serveur proxy** ([qu'est ce qu'un proxy ?](http://fr.wikipedia.org/wiki/Proxy)), celui de Free en l'occurence.

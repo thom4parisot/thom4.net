@@ -7,7 +7,7 @@ tags:
 - vietnam
 - voyage
 categories:
-- Personnel
+- Personal Views
 cover: //oncletom.io/images/3615-my-life/Ha-Long.jpg
 ---
 

@@ -6,7 +6,7 @@ tags:
 - lik-sang
 - partenariat
 categories:
-- Projets
+- Projects
 cover: /images/Emu-Nova/lik-sang-logo.gif
 ---
 

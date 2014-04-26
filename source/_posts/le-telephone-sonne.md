@@ -1,12 +1,12 @@
 title: "Le téléphone sonne"
 id: 49
 date: 2006-06-18 13:53:29
-tags: 
+tags:
 - conditions
 - stress
 - téléphone
-categories: 
-- Travail 2.0
+categories:
+- Work & Labour
 ---
 
 En ces temps où les gens semblent vouloir être joignables à tout moment (même en pleine nuit ...), entendre une sonnerie de téléphone ou sentir les vibrations sont des signes plus que banals. Je ne sais pas pour vous mais personnellement, ça me gonfle profondément.

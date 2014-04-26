@@ -5,7 +5,7 @@ tags:
 - lodash
 categories:
 - JavaScript
-- Développement Web
+- WebDev
 lang: en-GB
 cover: /images/2013/08/grunt-dynamic-expand.png
 ---
@@ -20,7 +20,7 @@ But what about **writing multiple targets at once** — without add any line of 
 
 ## tl;dr
 
-Some Grunt tasks may last too long *and* you don't want to keep adding targets in your `Gruntfile.js`. Here is a **trick to expand targets automatically**. 
+Some Grunt tasks may last too long *and* you don't want to keep adding targets in your `Gruntfile.js`. Here is a **trick to expand targets automatically**.
 
 ## The Initial Context
 
@@ -190,5 +190,5 @@ While writing this blogpost, I discovered a sentence in the [Inside Grunt Tasks]
 
 > While a task is running, Grunt exposes many task-specific utility properties and methods inside the task function via the this object. This same object is also exposed as grunt.task.current for use in templates.
 
-Some would say [RTFM](http://xkcd.com/293/).  
+Some would say [RTFM](http://xkcd.com/293/).
 I would say **it was worth finding and learning it**.

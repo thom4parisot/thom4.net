@@ -1,12 +1,12 @@
 title: "Prise de pouvoir sur Internet à cause d'une clé de déchiffrage des DVD Haute Définition"
 id: 589
 date: 2007-05-03 13:00:29
-tags: 
+tags:
 - drm
 - dvd
 - hd
-categories: 
-- Personnel
+categories:
+- Personal Views
 ---
 
 Ce qui devait arriver arriva : il y a deux mois, [la clé de déchiffrage de _l'intégralité des media haute définition en circulation_ a été trouvée, dévoilée et publiée un peu partout sur Internet](http://blog.wired.com/gadgets/2007/02/the_new_hddvdbl.html). Chaque media nécessite une clé particulière, laborieuse à déchiffrer mais cette découverte place la barre un cran plus haut en **ouvrant la porte à la haute définition sur tous les supports possibles et imaginables** !
@@ -34,4 +34,4 @@ A l'heure où de plus en plus de plates-formes légales consentent à libérer l
 
 **Les systèmes de protection sont voués à être contournés quoiqu'il arrive**. L'expérience menée par les usagers de Digg en est une excellente et involontaire illustration. On pourra toutefois y réfléchir à deux fois en se disant qu'un jour viendra où une telle situation se reproduira. Qu'adviendra-t-il alors si le mouvement suit la mauvaise direction ? C'est toute la pyramide qui s'effondre.
 
-Où comment le pouvoir du peuple peut également l'auto-détruire s'il ne prend pas garde où il pose son pied. 
+Où comment le pouvoir du peuple peut également l'auto-détruire s'il ne prend pas garde où il pose son pied.

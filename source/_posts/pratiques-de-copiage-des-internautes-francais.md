@@ -5,7 +5,7 @@ tags:
 - drm
 - piratage
 categories:
-- Personnel
+- Personal Views
 ---
 
 ![UFC que Choisir](/images/Actualite/ufc-que-choisir.gif)

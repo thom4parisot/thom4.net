@@ -10,7 +10,7 @@ tags:
 - le monde
 - mémoire
 categories:
-- Travail 2.0
+- Work & Labour
 ---
 
 ![L](/images/2009/02/aec-actualites.png "L")
@@ -61,7 +61,7 @@ Et si on en revient à notre hypothèse de départ, à savoir que la concentrati
 
 ## N'oublions pas la réalité : rien n'est éternel
 
-[![Parterre de téléphones mobiles devant Barrack Obama](/images/2009/02/obama-parterre-photos-300x236.png "Parterre de téléphones mobiles devant Barrack Obama")](http://soupsoup.tumblr.com/post/72097686/put-the-camera-down-and-enjoy-a-moment-for-once)
+[![Parterre de téléphones mobiles devant Barrack Obama](/images/2009/02/obama-parterre-photos.png "Parterre de téléphones mobiles devant Barrack Obama")](http://soupsoup.tumblr.com/post/72097686/put-the-camera-down-and-enjoy-a-moment-for-once)
 
 Ce qui m'amène à citer une fois de plus un article de [ReadWriteWeb](http://www.readwriteweb.com) intitulé "[Technology is Great, but Are We Forgetting to Live?](http://www.readwriteweb.com/archives/technology_is_great_but_are_we_forgetting_to_live.php)". En bon français "La technologie c'est bien mais n'oublions-nous pas de vivre ?".
 

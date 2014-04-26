@@ -3,7 +3,7 @@ id: 159
 date: 2006-07-07 20:58:03
 tags:
 categories:
-- Développement Web
+- WebDev
 ---
 
 Toutes mes excuses pour ce léger relachement dans la fréquence des billets mais en ce moment, c'est l'overdose de boulot ... mais le pire c'est que ça me plait et ne me dérange presque pas de finir tard. A croire que je commence à devenir accro.
