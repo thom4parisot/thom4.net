@@ -2,7 +2,7 @@ title: LXJS 2013 Wrap-Up
 date: 2013-10-07 10:00:00
 lang: en-GB
 categories:
-- Évènements
+- Events
 - JavaScript
 tags:
 - lxjs
@@ -126,7 +126,7 @@ The best “contribute to the Web” talk so far:
 
 ## Thank You as a gift
 
-[I initiated a ritual at Reasons to Be Creative](/2013/they-gave-me-reasons-to-be-creative/), by **offering an instant picture of inspiring people**, a portrait of themselves, speaker or not speaker.  
+[I initiated a ritual at Reasons to Be Creative](/2013/they-gave-me-reasons-to-be-creative/), by **offering an instant picture of inspiring people**, a portrait of themselves, speaker or not speaker.
 A **give away on any kind of ownership** of the picture, expressing my thankfulness and letting them know this gesture.
 
 As there were really too many people to thank for, I randomly decided to attribute the picture to [David Dias](https://twitter.com/daviddias), one of the organiser of the conference.
@@ -137,7 +137,7 @@ A sort of reward as **I really feel enthusiastic thanks to LXJS**. Especially as
 
 **I’ll definitely attend LXJS in 2014**. And submit a topic or two, especially as 20 minutes is a really good format (oh yes, I think I did not get bored even if I was less interested by some talks — which is a good point).
 
-I was glad to meet a couple of new faces, like [Karolis](http://kn8.lt/), [Vyacheslav](http://mrale.ph/) (thanks to a retweet ;-)) and [Jan](http://janmonschke.com/). 
+I was glad to meet a couple of new faces, like [Karolis](http://kn8.lt/), [Vyacheslav](http://mrale.ph/) (thanks to a retweet ;-)) and [Jan](http://janmonschke.com/).
 
 Finally, here are some hints to provide an even better LXJS 2014:
 - **being on time** (especially for the breaks otherwise we are starving)

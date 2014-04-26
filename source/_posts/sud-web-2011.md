@@ -11,7 +11,7 @@ tags:
 - sudweb
 - valeurs
 categories:
-- Évènements
+- Events
 - Développement Web
 - Projets
 cover: /images/2011/01/logo-sudweb.png

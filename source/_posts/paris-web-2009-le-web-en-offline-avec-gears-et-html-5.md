@@ -8,8 +8,7 @@ tags:
 - html5
 categories:
 - JavaScript
-- Évènements
-- Développement Web
+- Events
 cover: //farm3.staticflickr.com/2486/4001304159_20914c5b52_b_d.jpg
 ---
 

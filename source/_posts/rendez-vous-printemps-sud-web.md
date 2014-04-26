@@ -13,7 +13,7 @@ tags:
 - tedx
 - web
 categories:
-- Évènements
+- Events
 - Développement Web
 cover: /images/2011/01/logo-sudweb.png
 ---

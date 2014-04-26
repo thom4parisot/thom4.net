@@ -12,11 +12,7 @@ tags:
 - typographie
 - web
 categories:
-- a11y
-- Évènements
-- Développement Web
-- Mobile
-- Work & Labour
+- Events
 cover: /images/2011/10/shot_1318684180740.jpg
 ---
 

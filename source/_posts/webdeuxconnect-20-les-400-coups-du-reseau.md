@@ -13,8 +13,7 @@ tags:
 - usine
 - webdeux.connect
 categories:
-- Évènements
-- Personnel
+- Events
 cover:
   url: //farm4.staticflickr.com/3242/2934622938_d83079a14c_b_d.jpg
   link: http://www.flickr.com/photos/the-jedi/2934622938/

@@ -8,8 +8,8 @@ tags:
 - sudweb
 - valeurs
 categories:
-- Évènements
-- Développement Web
+- Projects
+- Personal Views
 cover: /images/2011/01/logo-sudweb.png
 ---
 

@@ -11,9 +11,7 @@ tags:
 - parisweb
 - readme
 categories:
-- Évènements
-- Développement Web
-- Personnel
+- Events
 cover: /images/2012/10/A5ogsJmCAAA89Pu.jpg
 ---
 
