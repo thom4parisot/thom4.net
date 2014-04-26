@@ -8,7 +8,7 @@ tags:
 - release
 - widget
 categories:
-- Développement Web
+- WebDev
 - Projects
 ---
 

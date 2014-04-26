@@ -9,7 +9,7 @@ tags:
 - svn
 - trac
 categories:
-- Développement Web
+- WebDev
 ---
 
 J'ai commencé à faire joujou avec [Subversion](http://subversion.tigris.org/) dans le but de versionner mes développements et y adjoindre l'excellent [Trac](http://trac.edgewall.org/) pour gérer les projets, les incidents et la documentation. Seulement voilà, je pars dans une optique où chaque  projet dispose de son _propre dépôt Subversion_ pour me faciliter la vie dans les fusions et autres manipulations amenant à croiser de nombreux fichiers.

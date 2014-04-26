@@ -6,7 +6,7 @@ tags:
 - app store
 - bordeaux
 - buzz
-- Développement Web
+- WebDev
 - flickr
 - iphone
 - market

@@ -14,7 +14,7 @@ tags:
 - windows
 - windows vista
 categories:
-- Développement Web
+- WebDev
 - Personal Views
 cover:
   url: //farm4.static.flickr.com/3121/3148614252_7980e00e12_b_d.jpg

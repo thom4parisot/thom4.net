@@ -4,7 +4,7 @@ tags:
 - Emu Nova
 - experience
 categories:
-- Développement Web
+- WebDev
 - JavaScript
 lang: en-GB
 cover:
@@ -150,7 +150,7 @@ People feel less constraints as they can submit a modification proposal for any 
 
 It is the **[Pull Request Hack](http://felixge.de/2013/03/11/the-pull-request-hack.html) applied to everything**: the frontend, the backend and the data!
 
-[Fearing London buses is not an issue anymore](http://m.bbc.co.uk/news/uk-england-london-22000276). 
+[Fearing London buses is not an issue anymore](http://m.bbc.co.uk/news/uk-england-london-22000276).
 
 ## What’s Next?
 

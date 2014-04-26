@@ -13,7 +13,7 @@ tags:
 - symlink
 - ubuntu
 categories:
-- Développement Web
+- WebDev
 ---
 
 J'ai récemment passé mon poste de développement de Debian Testing vers Ubuntu 8.10\. Comme toute installation _from scratch_, il faut passer par la case configuration.

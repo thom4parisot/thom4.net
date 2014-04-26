@@ -17,7 +17,7 @@ tags:
 - scaffolding
 - symfony
 categories:
-- Développement Web
+- WebDev
 cover: /images/2008/06/couverture-livre-blanc.png
 ---
 

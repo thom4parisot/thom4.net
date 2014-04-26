@@ -8,7 +8,7 @@ tags:
 - logiciels libres
 - ubuntu
 categories:
-- Développement Web
+- WebDev
 ---
 
 C'est ce que j'ai souvent entendu dire (et ce que j'ai pensé un certain temps, révolu depuis je vous rassure). La sortie de **Windows Vista** remet un pied dans un domaine où _MacOS X_ avait la vie belle : _celui de l'interface et des fioritures_ qui servent à rien mais qui en sont pour le coup, totalement indispensables.

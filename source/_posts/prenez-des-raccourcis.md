@@ -7,7 +7,7 @@ tags:
 - clavier
 - optimisation
 categories:
-- Développement Web
+- WebDev
 ---
 
 Quand on utilise régulièrement les mêmes logiciels, on aime à pouvoir gagner du temps tout en se _simplifiant la vie_. Les seuls pré-requis sont 2 doigts et un peu de mémoire. Autant dire que tout le monde (ou presque) est concerné.

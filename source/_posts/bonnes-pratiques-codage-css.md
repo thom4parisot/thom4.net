@@ -16,7 +16,7 @@ tags:
 - logiciels libres
 - optimisation
 categories:
-- Développement Web
+- WebDev
 
 cover: /images/2008/02/css-url-import.png
 ---

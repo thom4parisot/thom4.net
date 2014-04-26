@@ -6,7 +6,7 @@ tags:
 - html5
 - mozilla
 categories:
-- Développement Web
+- WebDev
 cover:
   url: /images/2013/02/dino.png
   link: https://wiki.mozilla.org/MDN/Doc_sprints/2013February

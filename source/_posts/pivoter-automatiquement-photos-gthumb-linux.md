@@ -9,7 +9,7 @@ tags:
 - logiciels libres
 - Photographie
 categories:
-- Développement Web
+- WebDev
 ---
 
 Je prends souvent mes photos à la verticale pour valoriser le sujet. Si le choix est plus ou moins discutable, la photo numérique, elle, est toujours enregistrée dans le même sens. Les photos verticales sont donc inclinées à 90 degrés.

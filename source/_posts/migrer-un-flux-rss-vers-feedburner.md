@@ -9,7 +9,7 @@ tags:
 - rss
 - xml
 categories:
-- Développement Web
+- WebDev
 cover: /images/2007/03/feedburner-logo.gif
 ---
 

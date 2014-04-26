@@ -12,7 +12,7 @@ tags:
 - ubuntu
 - windows
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![Logo Bluetooth](/images/2007/11/bluetooth-logo.gif)

@@ -10,7 +10,7 @@ tags:
 - xpath
 categories:
 - a11y
-- Développement Web
+- WebDev
 - JavaScript
 cover: /images/2007/09/javascript.png
 ---

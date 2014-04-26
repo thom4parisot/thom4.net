@@ -9,7 +9,7 @@ tags:
 - ubuntu
 - wine
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![IE4Linux : Internet Explorer pour Linux](/images/2007/04/ie4linux.png)

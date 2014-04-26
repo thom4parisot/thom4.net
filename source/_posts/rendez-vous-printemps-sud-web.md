@@ -14,7 +14,7 @@ tags:
 - web
 categories:
 - Events
-- Développement Web
+- WebDev
 cover: /images/2011/01/logo-sudweb.png
 ---
 

@@ -14,7 +14,7 @@ tags:
 - VCUB
 - widgets
 categories:
-- Développement Web
+- WebDev
 - JavaScript
 cover: /images/2010/04/uwa-vcub.png
 ---

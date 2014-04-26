@@ -9,7 +9,7 @@ tags:
 - qmail
 - webmin
 categories:
-- Développement Web
+- WebDev
 ---
 
 En constatant que nombre d'entreprises optaient pour des solutions de travail collaboratives en ligne, je me suis dis <q>pourquoi pas moi ?</q> [Emu Nova](http://www.emunova.net) est presque une petite <acronym title="Petite et Moyenne Entreprise">PME</acronym> avec sa quinzaine de collaborateurs dont un noyau dur de 8 personnes. Je souhaitais **faciliter la communication interne**, le **partage de documents**, leur **sécurité** et gagner la tranquilité d'un **antispam performant**.

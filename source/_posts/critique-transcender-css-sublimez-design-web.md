@@ -13,7 +13,7 @@ tags:
 - standards
 - xhtml
 categories:
-- Développement Web
+- WebDev
 - JavaScript
 cover: /images/2007/12/transcencer-css-couverture.jpg
 ---

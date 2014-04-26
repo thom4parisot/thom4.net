@@ -11,7 +11,6 @@ tags:
 - stagiaire
 - twitter
 categories:
-- Développement Web
 - Work & Labour
 ---
 

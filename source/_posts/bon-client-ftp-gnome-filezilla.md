@@ -10,7 +10,7 @@ tags:
 - logiciels libres
 - scp
 categories:
-- Développement Web
+- WebDev
 cover: /images/2007/04/filezilla.png
 ---
 

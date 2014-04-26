@@ -13,7 +13,7 @@ tags:
 - xhtml
 categories:
 - Évènements
-- Développement Web
+- WebDev
 cover: /images/2008/11/blueprint-logo.png
 ---
 

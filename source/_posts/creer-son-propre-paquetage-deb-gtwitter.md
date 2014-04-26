@@ -8,7 +8,7 @@ tags:
 - package
 - ubuntu
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![gTwitter 1.0 logo](/images/2007/06/gtwitter.gif)

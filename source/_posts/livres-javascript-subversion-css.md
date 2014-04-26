@@ -9,7 +9,7 @@ tags:
 - svn
 categories:
 - JavaScript
-- Développement Web
+- WebDev
 cover: /images/2007/04/ppk-javascript-css-mastery-subversion.png
 ---
 

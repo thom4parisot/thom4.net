@@ -5,7 +5,7 @@ tags:
 - Emu Nova
 - ui
 categories:
-- Développement Web
+- WebDev
 - Projects
 ---
 

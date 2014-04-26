@@ -7,7 +7,7 @@ tags:
 - i18n
 - rss
 categories:
-- Développement Web
+- WebDev
 - Projects
 cover: /images/Emu-Nova/ENES/enes2-index-fr.png
 ---

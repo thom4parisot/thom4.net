@@ -11,7 +11,7 @@ tags:
 - ubuntu
 - webservices
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![Logo Amazon Webservices](/images/2008/05/amazon-webservices-logo.gif "Logo Amazon Webservices")

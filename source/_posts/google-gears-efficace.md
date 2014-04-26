@@ -5,7 +5,7 @@ tags:
 - google gears
 - offline
 categories:
-- Développement Web
+- WebDev
 - JavaScript
 ---
 

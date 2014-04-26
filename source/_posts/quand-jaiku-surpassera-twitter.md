@@ -10,7 +10,7 @@ tags:
 - pownce
 - twitter
 categories:
-- Développement Web
+- WebDev
 cover: /images/2008/06/logo-jaiku.png
 ---
 

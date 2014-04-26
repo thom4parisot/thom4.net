@@ -10,7 +10,7 @@ tags:
 - livre
 - sitepoint
 categories:
-- Développement Web
+- WebDev
 
 ---
 

@@ -11,7 +11,7 @@ tags:
 - ui
 - xhtml
 categories:
-- Développement Web
+- WebDev
 - Projects
 
 cover: //oncletom.io/images/2008/04/emunova-2010.png

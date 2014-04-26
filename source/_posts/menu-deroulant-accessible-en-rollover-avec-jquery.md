@@ -11,7 +11,7 @@ tags:
 - xhtml
 categories:
 - a11y
-- Développement Web
+- WebDev
 cover: /images/2007/12/jquery-logo.png
 ---
 

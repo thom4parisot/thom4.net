@@ -11,7 +11,7 @@ tags:
 categories:
 - JavaScript
 - a11y
-- Développement Web
+- WebDev
 cover: /images/2007/06/articles-autoexpand-mini.png
 ---
 

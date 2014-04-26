@@ -12,7 +12,7 @@ tags:
 - valeurs
 categories:
 - Events
-- Développement Web
+- WebDev
 - Projects
 cover: /images/2011/01/logo-sudweb.png
 ---

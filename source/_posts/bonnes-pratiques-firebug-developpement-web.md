@@ -12,7 +12,7 @@ tags:
 - yslow
 categories:
 - JavaScript
-- Développement Web
+- WebDev
 cover: /images/2007/12/firebug-logo.gif
 ---
 
@@ -147,5 +147,5 @@ Enfin on termine sur une partie complémentaire aux stats : les composants (_com
 J'espère avoir éclairé quelques lanternes sur l'utilisation de Firebug. Cette extension est suffisamment puissante pour gagner en confort de développement ; il serait dommage de s'en priver. **On gagne du temps, du confort et surtout, de la qualité de développement**.
 À noter qu'il existe aussi [Firebug Lite](http://getfirebug.com/firebuglite). Il s'agit d'un script JavaScript compatible avec les principaux navigateurs du marché mais comme le _Lite_ l'indique, les fonctionnalités sont plutôt limitées. Seule la console JavaScript persiste.
 
-Enfin, je vous invite à lire [l'histoire de Firebug](http://flailingmonkey.com/web-developer-tools-through-time) : cheminement de vie et inspirations de son créateur, Joe Hewitt.  
-Il sauve la vie de bien des développeurs ! 
+Enfin, je vous invite à lire [l'histoire de Firebug](http://flailingmonkey.com/web-developer-tools-through-time) : cheminement de vie et inspirations de son créateur, Joe Hewitt.
+Il sauve la vie de bien des développeurs !

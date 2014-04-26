@@ -12,7 +12,7 @@ tags:
 - optimisation
 - ubuntu
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![Logo MySQL](/images/2007/08/powered-by-mysql-167x86.png)

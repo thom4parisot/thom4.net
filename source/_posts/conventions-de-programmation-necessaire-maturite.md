@@ -15,7 +15,7 @@ tags:
 - phpdoc
 - symfony
 categories:
-- Développement Web
+- WebDev
 cover: /images/2008/07/sample-php-code.png
 ---
 

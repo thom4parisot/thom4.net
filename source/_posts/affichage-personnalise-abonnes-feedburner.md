@@ -8,7 +8,7 @@ tags:
 - wp-cron
 - xml
 categories:
-- Développement Web
+- WebDev
 - WordPress
 ---
 

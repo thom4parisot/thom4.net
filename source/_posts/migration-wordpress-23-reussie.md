@@ -6,7 +6,7 @@ tags:
 - seo title tag
 - simpletagging
 categories:
-- Développement Web
+- WebDev
 - WordPress
 ---
 

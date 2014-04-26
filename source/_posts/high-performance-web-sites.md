@@ -17,7 +17,7 @@ tags:
 - yahoo
 - yslow
 categories:
-- Développement Web
+- WebDev
 - JavaScript
 cover: /images/2008/07/livre-high-performance-web-sites.jpg
 ---

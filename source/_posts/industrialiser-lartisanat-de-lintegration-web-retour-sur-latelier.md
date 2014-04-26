@@ -14,7 +14,7 @@ tags:
 - temesis
 categories:
 - Events
-- Développement Web
+- WebDev
 cover: /images/2010/10/a4782f1b1a1a45aab40472dd16bf1753_7.jpg
 ---
 

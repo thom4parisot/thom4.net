@@ -14,7 +14,7 @@ tags:
 - vpn
 - xenapp
 categories:
-- Développement Web
+- WebDev
 ---
 
 ![](/images/2008/10/citrix-loading.png "Chargement du serveur de présentation Citrix")
