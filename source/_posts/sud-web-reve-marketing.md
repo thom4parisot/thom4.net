@@ -9,7 +9,6 @@ tags:
 - valeurs
 categories:
 - Projects
-- Personal Views
 cover: /images/2011/01/logo-sudweb.png
 ---
 

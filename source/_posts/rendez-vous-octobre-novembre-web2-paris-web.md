@@ -14,8 +14,7 @@ tags:
 - webdeux.connect
 - yann leroux
 categories:
-- Développement Web
-- Personnel
+- Events
 ---
 
 ![](/images/2008/10/webdeuxconnect_300_250-150x150.jpg "Webdeux.connect")

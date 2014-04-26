@@ -5,7 +5,7 @@ tags:
 - dadvsi
 - drm
 categories:
-- Personnel
+- Personal Views
 cover: /images/Actualite/Derriere-les-barreaux_Legend-of-the-bat.jpg
 ---
 

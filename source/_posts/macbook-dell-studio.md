@@ -15,7 +15,7 @@ tags:
 - windows vista
 categories:
 - Développement Web
-- Personnel
+- Personal Views
 cover:
   url: //farm4.static.flickr.com/3121/3148614252_7980e00e12_b_d.jpg
   link: http://www.flickr.com/photos/the-jedi/3148614252/

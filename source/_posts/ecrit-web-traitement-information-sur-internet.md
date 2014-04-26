@@ -9,7 +9,7 @@ tags:
 - web
 - xhtml
 categories:
-- Personnel
+- WebDev
 cover: /images/2008/01/ecrit-web.jpg
 ---
 

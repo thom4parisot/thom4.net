@@ -15,8 +15,7 @@ tags:
 - symfony
 - voyage
 categories:
-- Personnel
-- Projets
+- Personal Views
 cover:
   url: //farm4.static.flickr.com/3493/3728205591_48db6692ac_b_d.jpg
   link: http://www.flickr.com/photos/the-jedi/3728205591/

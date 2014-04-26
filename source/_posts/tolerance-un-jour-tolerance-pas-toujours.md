@@ -1,12 +1,12 @@
 title: "Tolérance un jour, tolérance (pas) toujours"
 id: 553
 date: 2007-04-12 13:00:54
-tags: 
+tags:
 - actualité
 - religion
 - tolérance
-categories: 
-- Personnel
+categories:
+- Personal Views
 ---
 
 Dernièrement j'ai lu dans le journal [Le Monde](http://www.lemonde.fr/) que [le visage de Mahomet avait été flouté dans un manuel d'histoire-géographie](http://www.lemonde.fr/web/article/0,1-0@2-3224,36-893155@51-893236,0.html).

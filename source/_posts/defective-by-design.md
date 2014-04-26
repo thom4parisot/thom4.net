@@ -3,7 +3,7 @@ id: 158
 date: 2006-06-11 18:20:57
 tags:
 categories:
-- Personnel
+- Personal Views
 cover: /images/Internet/defective-by-design.png
 ---
 

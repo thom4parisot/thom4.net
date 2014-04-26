@@ -10,8 +10,7 @@ tags:
 - stratégie
 - voeux
 categories:
-- Work & Labour
-- Personnel
+- Personal Views
 cover:
   url: //farm9.staticflickr.com/8487/8219758779_e0d21f3c5e_c_d.jpg
   link: http://www.flickr.com/photos/the-jedi/8219758779/

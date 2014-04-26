@@ -3,8 +3,7 @@ id: 10
 date: 2005-03-22 21:57:52
 tags:
 categories:
-- Personnel
-- Work & Labour
+- Personal Views
 ---
 
 Ca fait désormais un petit mois que je me suis lancé dans l'aventure "blog". Je n'avais certes pas envie de raconter ma vie en l'ouvrant, je le faisais dans une optique de partage. J'ai toujours apprécié qu'on me fasse découvrir de nouveaux horizons donc j'essaie de faire de même, tenter la curiosité, éveiller les instincts et surtout, partager. Pas de partage, pas de liens entre les individus (en l'occurence moi) ... que d'ennui. Petite auto-critique de ces 30 derniers jours ;-)

@@ -10,7 +10,7 @@ tags:
 - eclipse
 - facebook
 categories:
-- Personnel
+- Personal Views
 - Work & Labour
 cover: /images/2007/11/clever_age.png
 ---

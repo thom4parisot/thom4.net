@@ -8,7 +8,7 @@ tags:
 - logiciels libres
 - windows
 categories:
-- Personnel
+- Personal Views
 ---
 
 ![Windows Vista Logo](/images/2007/02/windows-vista.gif)

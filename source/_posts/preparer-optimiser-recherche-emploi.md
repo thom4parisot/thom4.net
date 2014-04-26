@@ -10,7 +10,6 @@ tags:
 - linkedin
 - reseaux sociaux
 categories:
-- Personnel
 - Work & Labour
 cover: /images/2007/09/cv-apercu.png
 ---

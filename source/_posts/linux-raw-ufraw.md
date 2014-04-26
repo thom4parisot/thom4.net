@@ -10,7 +10,7 @@ tags:
 - ubuntu
 - ufraw
 categories:
-- Personnel
+- Personal Views
 ---
 
 Si [on compare les fichiers JPG et les RAW](http://www.photo.net/learn/raw/), ce dernier est intéressant car il n'altère pas la photo en fonction de vos réglages : il les stocke et les mets à côté de l'image originale, pure et parfaite.

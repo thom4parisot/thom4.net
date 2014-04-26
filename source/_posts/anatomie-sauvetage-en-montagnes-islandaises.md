@@ -10,8 +10,7 @@ tags:
 - organisation
 - valeurs
 categories:
-- Personnel
-- Work & Labour
+- Personal Views
 cover: /images/2012/10/DSC_4513_W1280.jpg
 ---
 

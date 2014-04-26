@@ -7,8 +7,7 @@ tags:
 - londres
 - transition
 categories:
-- Personnel
-- Work & Labour
+- Personal Views
 cover:
   url: /images/2013/06/8497120471_08cbaf3834_c.jpg
 ---

@@ -1,9 +1,9 @@
 title: "Et si Louis XVI avait créé une startup"
 id: 18541
 date: 2012-10-04 20:37:27
-tags: 
-categories: 
-- Personnel
+tags:
+categories:
+- Personal Views
 ---
 
 Si Louis XVI avait créé une startup, elle aurait peut-être bel et bien connu le même destin que la France.

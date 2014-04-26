@@ -11,7 +11,7 @@ tags:
 - réflexions
 - slow life
 categories:
-- Personnel
+- Personal Views
 - Work & Labour
 cover: /images/2012/08/5096781001_fb731f1725_b.jpg
 ---

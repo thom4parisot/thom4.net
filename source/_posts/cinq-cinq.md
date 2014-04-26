@@ -1,13 +1,13 @@
 title: "Le cinq-cinq"
 id: 496
 date: 2007-03-10 13:00:39
-tags: 
+tags:
 - caousou
 - histoire
 - souvenirs
 - toulouse
-categories: 
-- Personnel
+categories:
+- Personal Views
 ---
 
 De toutes les matières enseignées durant mon cursus scolaire, celle qui m'a le plus marqué fût l'<stron>histoire</strong>. Il faut dire que j'ai quasiment toujours eu des professeurs passionnés et peu regardant quant à leur masse de travail. En cinquième, mon professeur d'histoire / géographie s'appelait _monsieur Antoniol_. Un sacré phénomène caché derrière sa barbe grise et son sac en cuir transportant une odeur de musée.

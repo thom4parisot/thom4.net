@@ -7,7 +7,6 @@ tags:
 - iut
 - salarié
 categories:
-- Personnel
 - Work & Labour
 ---
 

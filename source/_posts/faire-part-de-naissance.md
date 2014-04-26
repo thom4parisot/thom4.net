@@ -6,8 +6,7 @@ tags:
 - eyrolles
 - livre
 categories:
-- Personnel
-- Projets
+- Projects
 cover:
   url: //farm4.staticflickr.com/3098/3303892997_e5f52a6e84_b_d.jpg
   link: http://www.flickr.com/photos/the-jedi/3303892997/

@@ -3,7 +3,7 @@ date: 2014-03-24 10:00:00
 lang: en-GB
 tags:
 categories:
-- Personnel
+- Personal Views
 - Projets
 cover:
   link: http://www.flickr.com/photos/the-jedi/12327903045/
@@ -29,11 +29,11 @@ In this post we will discuss about the combination of the meaning, the time and 
 ## Tale of a Traveller
 
 31st of December 2013. We stand on a rooftop in Lisbon. People are around, waiting for the fireworks. The mild temperature makes the night easy to bear with a tee-shirt. One of the guests shares his story, how he traveled, his memories from those moments and ends on the fact **it is *now* the right moment to settle down**.
- 
-I then asked the following question: 
+
+I then asked the following question:
 > How do you know this is *now* **the right moment** to settle down in your home country after having bounced for 10 years around the world?
 
-He smiles and answers **he had learned *enough***. That there is no point at travelling for travelling or at accumulating visas for the sake of nice landscape photographs albums. 
+He smiles and answers **he had learned *enough***. That there is no point at travelling for travelling or at accumulating visas for the sake of nice landscape photographs albums.
 He can now **bring back this knowledge to his home land** and make an **impact around him** thanks to this experience.
 
 ## To Build a Home

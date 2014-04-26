@@ -7,7 +7,7 @@ tags:
 - hd
 - mtp
 categories:
-- Personnel
+- Personal Views
 ---
 
 Je vous parlais il y'a peu de la [suppression des DRM des plates-formes de téléchargement légal](https://oncletom.io/2007/01/24/un-drm-peut-en-cacher-un-autre/). Je proposais donc 5 choix tous plus "farfelus" les uns que les autres. Farfelus au premier abord, seulement au premier abord. Malheureusement, tout ce qui va suivre n'est que la triste vérité, il va falloir commencer à sérieusement prendre conscience du danger.

@@ -1,11 +1,11 @@
 title: "MSN + MP3 + DRM = DTC"
 id: 152
 date: 2006-11-08 22:35:25
-tags: 
+tags:
 - drm
 - mtp
-categories: 
-- Personnel
+categories:
+- Personal Views
 ---
 
 J'ai déjà pesté contre les [nuisances des <acronym title="Digital Rights Management">DRM</acronym>](https://oncletom.io/2006/03/16/dadvsi-drm-droits-ridicules-et-miserables/) et contre le [bridage volontaire des media numériques](https://oncletom.io/2006/06/11/defective-by-design/).
@@ -34,4 +34,4 @@ Si au départ on peut se dire <cite>ce service a l'air sérieux, il ne risque pa
 
 Mais surtout, dans 10 ans, où serons-nous, où en sera la musique en ligne ? Surement en vie mais très certainement avec des modifications qui auront entrainé d'ici là l'obsolescence de vos fichiers musicaux, envolés dans la nature.
 
-Une fois de plus : pas de musique avec des protections ou vous jetez d'avance votre argent dans la poche du distributeur ... 
+Une fois de plus : pas de musique avec des protections ou vous jetez d'avance votre argent dans la poche du distributeur ...

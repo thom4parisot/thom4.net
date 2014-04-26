@@ -5,7 +5,7 @@ tags:
 - introspection
 - quête
 categories:
-- Personnel
+- Personal Views
 cover:
   link: http://www.flickr.com/photos/the-jedi/12309669015/
   url: //farm8.staticflickr.com/7460/12309669015_1636503337_c_d.jpg
@@ -13,7 +13,7 @@ cover:
 
 I always considered that turning thirty years old would be just a symbolic change. Two beautiful digits and nothing more. A simple **continuity**.
 
-For some reason, it appears to be both a **keystone** in one’s life and an excellent moment **to bounce**. But where? And why? 
+For some reason, it appears to be both a **keystone** in one’s life and an excellent moment **to bounce**. But where? And why?
 
 <!--more-->
 
@@ -121,13 +121,13 @@ I am now aware I love showing the beauty of Nature, the weakness of Humans and e
 
 ## Goals & Motivations
 
-Recently, I’ve started reading *Camera Lucida* from [Roland Barthes](http://en.wikipedia.org/wiki/Roland_Barthes). A guy who liked photography and decided to understand *why* he liked some specific pictures and not other ones. 
+Recently, I’ve started reading *Camera Lucida* from [Roland Barthes](http://en.wikipedia.org/wiki/Roland_Barthes). A guy who liked photography and decided to understand *why* he liked some specific pictures and not other ones.
 
 It’s quite funny to read that state of thinking soon after I ended this same part of the process. After trying to know what to do and how to do it, it was time to understand *why* I did that. Obviously, the supposely conscious choices were not *that* conscious at all.
 
-I am not doing photography because I like looking at my pictures.  
-I am not doing software programming because I like looking at lines of code.  
-I am not doing open source because I like sharing my code.  
+I am not doing photography because I like looking at my pictures.
+I am not doing software programming because I like looking at lines of code.
+I am not doing open source because I like sharing my code.
 I am not hiking in the middle of nowhere because I like to avoid crowded nightclubs.
 
 All my acts are *enablers*. They enable me to reach **new horizons**. New horizons enable me to **understand better** where I come from. New understandings enable me to **connect concepts** together. New concepts enable me to **look differently** existing horizons. **Alternatives**.

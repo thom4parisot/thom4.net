@@ -5,7 +5,7 @@ tags:
 - windows
 - windows vista
 categories:
-- Personnel
+- Personal Views
 cover: /images/2007/04/windows-vista-home-basic.jpg
 ---
 

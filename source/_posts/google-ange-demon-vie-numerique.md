@@ -12,7 +12,7 @@ tags:
 - wine
 - yahoo
 categories:
-- Personnel
+- Personal Views
 cover: //oncletom.io/images/2008/03/google-dont-be-evil.gif
 ---
 

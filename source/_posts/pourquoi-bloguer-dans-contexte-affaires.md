@@ -15,7 +15,7 @@ tags:
 - québec
 - Réseau professionnel
 categories:
-- Personnel
+- Events
 cover:
   url: //farm4.static.flickr.com/3017/2600356326_7ff3c48384_b_d.jpg
   link: http://flickr.com/photos/the-jedi/2600356326/

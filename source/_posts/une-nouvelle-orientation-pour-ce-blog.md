@@ -1,11 +1,11 @@
 title: "Une nouvelle orientation pour ce blog ?"
 id: 428
 date: 2007-01-30 13:11:45
-tags: 
+tags:
 - blog
 - ligne éditoriale
-categories: 
-- Personnel
+categories:
+- Personal Views
 ---
 
 Je réfléchis pas mal en ce moment à ce que je transmets _via_ ce blog. Cela fait bientôt 2 ans que je tiens ce petit journal personnel mais qui le devient de moins en moins.
