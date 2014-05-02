@@ -29,6 +29,8 @@ And you do not have time. But they have the money you want.
 
 The money you do not have is money you do not have.
 
+http://paulgraham.com/ds.html
+
 ## Ignoring Problems
 
 ## Tech Does Not Solve Business Issues
