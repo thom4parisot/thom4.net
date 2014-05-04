@@ -12,7 +12,7 @@ cover:
   url: //farm9.staticflickr.com/8511/8468239532_62c175620a_b_d.jpg
 ---
 
-One would **never expect their startup to fail 6 months after** having raised half a million of Euros. It eventually happened to me, as the CTO of Dijiwan, a former *digital marketing startup* based in *Bordeaux*, France.
+One would **never expect their startup to fail 6 months after** having raised half a million euros from public investors. It eventually happened to me, as the CTO of Dijiwan, a former *digital marketing startup* based in *Bordeaux*, France.
 
 <!--more-->
 
@@ -29,11 +29,9 @@ And Time flows differently whereas you are in a rising or an abyssal phase.
 
 1. We initiated the Dijiwan project around September 2010;
 1. We initiated the Dijiwan startup around September 2011;
-1. Dijiwan raised **0.5M€ in January 2011** to develop its business within a year;
+1. Dijiwan raised **0.5M€ in January 2011** from french public investors to develop its business within a year;
 1. Dijiwan started struggling to emit **paychecks in July 2012**;
-1. Dijiwan requested the bankruptcy protection in September 2012;
-1. Dijiwan bankruptcy protection got accepted in December 2012;
-1. Dijiwan reached the **bankruptcy stage in March 2013**.
+1. Dijiwan requested the bankruptcy protection in September 2012.
 
 Why writing that side of the story a year after the bankruptcy? Why not sooner?
 
@@ -41,6 +39,8 @@ Why writing that side of the story a year after the bankruptcy? Why not sooner?
 Prior to now, I would have put too much emotions in the analysis. It could have been perceived as some sort of revenge or an easy backstab on a rotting corpse.
 
 One needs time to step back and to acknowledge their own failures.
+
+![](/images/2014/05/graph-sources.png)
 
 ## Trust your gut feeling
 
@@ -79,6 +79,8 @@ This is **too much and not enough** at the same time:
 
 One of the failure is clearly the will to *expend all the money* rather than to *spend it wisely*. The primary objective should have been **to generate more revenues** or **to sustain the innovation** — if it broadens the business reach and simplifies customers acquisition.
 
+![](/images/2014/05/dijiwan-letter.jpg)
+
 ## Reckless expenses
 
 Around 600K€ were burnt in 6 months if you consider the revenues and the fundings. For a 10 people company, this is a lot!
@@ -99,6 +101,8 @@ A customer group's fare in Lisbon:
 **I never had access to the accountancy results**. It bothered me but I did nothing because I never thought it could possibly be *that* bad, *that* fast.
 
 The cherry on top: we received a massive LED TV screen *to demo the product to customers* on the same month the first paycheck was rejected.
+
+![](/images/2014/05/summer-bordeaux.jpg)
 
 ## Unbalanced partnerships/contracts ratio
 
@@ -139,6 +143,8 @@ In order to summarise the startup paradox:
 [Dijiwan announced its 1M€ contracts objective for December 2012 whereas it would have signed for less than 100K€](http://pepiniere-ecocreative-bordeaux.fr/2012/05/10/3-questions-a-dijiwan/) (*article in French*). It was in May 2012. The first choke happened only 2 months after.
 
 **The *bigger* the lie is, the more inclined to *believe* it you will be**. Except your potential customers. They will wait. *Their* timescale is not *your* timescale.
+
+![](/images/2014/05/dijiwan-optimus.jpg)
 
 ## The CEO bottleneck
 
@@ -187,6 +193,8 @@ I rather preferred to focus more on the *doing* part of the product, to care eve
 
 **Later is not an answer**. Promising millions is never an answer either. Neither is ignoring the problems, and thus my responsibilities.
 
+![](/images/2014/05/graph-network.png)
+
 ## You need to add value, not complexity
 
 I thought the product we made was worth the customers we were targeting: marketing companies, companies in a need for an online strategy and companies in a need of improving/measuring their online strategy.
@@ -221,7 +229,7 @@ It might be strange coming from an investor but I recon it is a smart advice. In
 
 At the time, we needed money to survive. I did not know it. But it was the case. The investor wanted to see if our idea and working MVP was capable of succeeding in the *real* world. **The world where other companies buy your product**.
 
-Also, customers will not sign a check to a person they do not trust you. I discovered that way too late, when the company collapsed: ancien prospects acknowledged they did not trust our CEO, even if they loved our idea and product. They smelled something wrong.
+Also, customers will not sign a check to a person they do not trust. I discovered that way too late, when the company collapsed: ancien prospects acknowledged they did not trust our CEO, even if they loved our idea and product. They smelled something wrong.
 
 Damn you bottleneck!
 
@@ -250,11 +258,13 @@ If you want your money back? You need to hire a lawyer to a special court. Which
 
 This is *that* timescale.
 
+![](/images/2014/05/dijiwan-kitty.jpg)
+
 ## Where are the public investors?
 
-We also pulled the fire alarm with our investors. We had an emergency meeting. A **meeting where the CEO promised 3M€ of potential contracts**. I can still giggle nervously when I think about it.
+We also pulled the fire alarm with our public investors. We had an emergency meeting. A **meeting where the CEO promised 3M€ of potential contracts**. I can still giggle nervously when I think about it.
 
-We had to send them a report. It has been sent. Hence I do not know about its content as at that time, I have been pulled off the communication channels.
+We had to send them a report. It has been sent. Thus I do not know about its content as at that time, I have been already pulled off the communication channels.
 
 Since then? Well, not much. Apparently **saving a half million of public investment is not worth it**. Not we were requesting money, but just help. To clean the mess and to heal the pain.
 
@@ -279,4 +289,4 @@ What is wrong is how freaking difficult it is to extract yourself from this mud,
 
 What is wrong is that fucked up money thing to make more money for the sake of making more money. Or to ignore the loss of half a million because you know, it is better that a local innovative company dies rather than acknowledging it should have required a little care.
 
-If I had to do it again? **I would do it again**. I would put again my money in the same adventure. [Without the scale in mind](http://paulgraham.com/ds.html). **With the right people**. **For a right balance**.
+If I had to do it again? **I would do it again**, differently. [Without the scale in mind](http://paulgraham.com/ds.html). **Without the wrong people**. **For a right balance**.
