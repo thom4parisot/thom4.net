@@ -51,11 +51,58 @@ I learned about that the second time we met, as I did not recognise him while he
 The dating continued a couple of times more: I was definitely attracted by the innovation of the product (*mining and mapping networks of Web content*).
 I was not convinced by the CEO… but well, as the idea was to raise money, I decided to ignore my gut feeling and to aim at success.
 
-Raising the money equaled building a dream team in ideal conditions. I could not believe it could not work.
+Raising the money equaled building a dream team in ideal conditions. I could not believe it could not work. So **I purposely ignored my judgement**.
 
-## Raising Money Arises Ego Problems
+## A Startup does not need a 10K Cegid Software
 
-> I want to make sure you do not need that money.
+I now wonder why a company without any single customer should aim for such a [heavy software as Cegid](http://www.cegid.co.uk) to run its accountancy.
+Especially as a first self-assigned task. Prior to customer hunting.
+
+**Scale when you need to, not *in case of***.
+
+## Terrible Hiring and Management
+
+Each hiring should be tight to objectives, costs and metrics.
+
+- Is the hiring creating cash, is it creating value or is it  
+- How do I know if the job is properly done?
+- Have we agreed on the contract termination conditions?
+- Is the hiring the result of an internal inefficiency or is it required due to work overload?
+
+We were 2 marketing officers, 2 business developers, 1 strategy analyst, 1 researcher contractor and 4 developers when operating at full speed.
+
+If we analyse the figures:
+- 2 persons had the responsibility to bring money on board;
+- 2 persons had the responsibility to broaden our visibility;
+- 2 persons had the responsibility to deliver customer studies and analysis (1 analyst + 1 researcher);
+- 5 persons had the responsibility to build the innovation (4 devs and 1 researcher).
+
+Alongside the previous numbers, we fired 2 marketing officer, 1 developer and 2 design contractors.
+
+This is **too much and not enough** at the same time:
+- we signed less than 100K€ of contracts;
+- we had too many people to produce content, leading to understaffing;
+- the high marketing turnovers reveals a strong bottleneck and inefficiency.
+
+One of the failure is clearly the *will to expend* all the money rather than to spend it wisely. A primary objective is to generate more revenues or to sustain the innovation — if it broadens the business reach.
+
+## Reckless Expenses
+
+Barcelona's Mobile World Congress 2012.
+I remember seing nice
+
+The cherry on top: we received a massive LED TV screen *to demo the product to customers* on the same month the first paycheck has been rejected.
+
+## Too Many Pilots/Partnerships
+
+
+
+## Wrong Stewardship
+
+
+A stewart is better than a boss or a regular ol'fashioned 
+
+Top down decision no one buys.
 
 ## Big Customers = Lots of Time
 
@@ -64,26 +111,45 @@ And you do not have time. But they have the money you want.
 The money you do not have is money you do not have.
 
 http://paulgraham.com/ds.html
+In May: [1M€ announced for December against the 100K€ of contract signed at the time](http://pepiniere-ecocreative-bordeaux.fr/2012/05/10/3-questions-a-dijiwan/).
 
 ## Ignoring Problems
 
-## Tech Does Not Solve Business Issues
+## You Need to Add Value, Not Complexity
 
 We built a nice piece of software. But it never got any more customer by polishing a line of code or by adding a new feature.
 Because they were never facing people ready to sign a check.
 
-## Choosing The Right Persons
+## Raising Money Arises Ego Problems
+
 
 Customers will not sign a check to a person they do not trust.
 
 And so you cannot make money hence that person believes he does.
 
-## Stewardship
+> I want to make sure you do not need that money.
 
-A stewart is better than a boss or a regular ol'fashioned 
+## Pulling the Fire Alarm
+
+## Promising Millions is not a Solution
+
+## Request for Support
 
 ## Lack of Support
 
 Where are the public funds when a ship is about to crash? Half a million is not enough to care.
 
 They wanted to create jobs. They created pain and let jobs to be destroyed.
+
+## I Eventually Would Have Been Fired
+
+So I got fired twice.
+
+## Conclusion
+
+
+It is easier to write that with a step back than acknowledging those informations *before* and *during* a crisis. I hope it will give you some useful insights, as a startup employee or a co-funder.
+
+The same principle applies equally to other type of businesses: small, medium or big company… or even a government agency.
+
+Feel free to share your own experience, especially if you successfully mitigated similar symptoms in your environment!

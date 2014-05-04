@@ -11,12 +11,21 @@
   context.disqus_shortname = tag.getAttribute("data-disqus-shortname");
   context.disqus_url = tag.getAttribute("href");
 
-  if (document.getElementById("disqus_thread")){
-    var dsq = document.createElement('script');
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('body')[0]).appendChild(dsq);
-  }
+  document.addEventerListener('load', function(){
+    try {
+      Typekit.load();
+    }
+    catch(e){};
+  });
+
+  document.addEventListener('load', function(){
+    if (document.getElementById("disqus_thread")){
+      var dsq = document.createElement('script');
+      dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }
+  });
 
   // Interactive Content
   each(document.querySelectorAll('p.interactive-loading'), function(el){
