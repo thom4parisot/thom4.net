@@ -1,5 +1,5 @@
 ---
-title: Why Our Startup Failed
+title: Why our startup failed
 date: 2014-05-04 10:00:00
 lang: en-GB
 categories:
@@ -62,12 +62,12 @@ Each hiring should be tight to objectives, costs and metrics.
 - Have we agreed on the contract termination conditions?
 - Is the hiring the result of an internal inefficiency or is it required due to work overload?
 
-We had 2 marketing officers, 2 business developers, 1 strategy analyst, 1 researcher contractor and 4 developers when operating at full speed.
+We had 2 marketing officers, 2 business developers, 2 strategy analysts, 1 researcher contractor and 4 developers when operating at full speed.
 
 If we analyse the figures:
 - 2 persons had the responsibility to bring money on board;
 - 2 persons had the responsibility to broaden our visibility;
-- 2 persons had the responsibility to deliver customer studies and analysis (1 analyst + 1 researcher);
+- 3 persons had the responsibility to deliver customer studies and analysis (1 analyst + 1 researcher);
 - 5 persons had the responsibility to build the innovation (4 devs and 1 researcher).
 
 Alongside the previous numbers, we fired 2 marketing officer, 1 developer and 2 design contractors.
