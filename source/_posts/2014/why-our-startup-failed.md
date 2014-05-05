@@ -211,9 +211,9 @@ We should have sold a set of of lists with pictures, a few simplified maps and t
 
 The learning curve of providing useful and high value data is rather low compared to putting all the informations in a powerful and new thus complicated tool.
 
-Most of all: **it would have been easier to understand**. Thus to sell, to grow and to convince. And us to survive.
+Most of all: **it would have been easier to understand**. Thus to sell, to grow and to convince. And for us to survive.
 
-**We built a nice piece of software**. But we never got any more customer by polishing a line of code or by adding a new feature. Because those lines of code never faced anyone willing to sign a check.
+**We built a nice piece of software**. But we never acquired any additional customer by polishing a line of code or by adding a new feature. Because those lines of code never faced anyone willing to sign a check.
 
 ## You do not need money
 
@@ -242,7 +242,7 @@ Surprisingly, a company officially goes wrong only when it can be proven. Which 
 
 As a cofounder, I should have acted quicker. As soon as the first employee notified us about his rejected check. As a bank never blocks an account straight, you can imagine it has been running long enough.
 
-What could I have done? Requesting the CEO to leave? My only evidence is we had run out of money. I still wonder as debunking a problem from the inside is hardly doable on your own, without the consent of a majority.
+What could I have done? Requesting the CEO to leave? My only evidence is we had run out of money. I still wonder if debunking a problem from the inside is doable on your own, without the consent of a majority.
 
 Instead of acting, we have continued trusting the CEO with a lot of suspicions. A very largely tainted trust I admit.
 We eventually waited 2 months before declaring unpaid salaries to the Chamber of Commerce and to the local Job Office.
@@ -251,7 +251,7 @@ Hopefully we got a little help from trade unions, and mostly figured out how com
 When the CEO learned about our action, he anticipated the move smartly: the Chamber of Commerce canceled our audience because… the CEO has requested this very same Chamber's protection!
 A way to prevail bankruptcy by freezing the debts while staying on board. At the time, the ambiance in the office was nasty and no one had any motivation neither trust regarding the CEO.
 
-**We had to push hard to get fired**. Yep, because everybody wanted to leave and to get fired to at least sustain temporarily on government benefits.
+**We had to push hard to get fired**. Yep, because everybody wanted to leave. By being fired, people could at least sustain temporarily on government benefits.
 
 When you have a continuing contract in France, you are bound to it. If you want to break it, you can. However you will not get any government benefit while you seek for a new role; even if it is due to a lack of responsibility of the employer.
 If you want your money back? You need to hire a lawyer to a special court. Which means engaging money to get your money back. A year later.
