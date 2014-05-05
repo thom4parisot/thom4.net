@@ -29,7 +29,7 @@ And Time flows differently whereas you are in a rising or an abyssal phase.
 
 1. We initiated the Dijiwan project around September 2010;
 1. We initiated the Dijiwan startup around September 2011;
-1. Dijiwan raised **0.5M€ in January 2011** from french public investors to develop its business within a year;
+1. Dijiwan raised **0.5M€ in January 2012** from french public investors to develop its business within a year;
 1. Dijiwan started struggling to emit **paychecks in July 2012**;
 1. Dijiwan requested the bankruptcy protection in September 2012.
 
@@ -165,7 +165,7 @@ Can you see the bottleneck here?
 
 The decision process was a top to bottom by authority. The only area out of his scope was the innovation and the technical team.
 
-The CEO of the company did eventually know how to manage a company like a boss. But he did not know about his own product. Therefore he was not convincing neither able when selling it.
+The CEO of the company did eventually know how to manage a company like a boss. But he did not know about his own product. Therefore he was not convincing neither able to sell it. **He was selling carpets rather than the crafted outcome of his soul**.
 
 Because of *that* disconnection.
 
