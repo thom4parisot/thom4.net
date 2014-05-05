@@ -27,6 +27,18 @@
   <meta property="og:locale" content="fr_FR">
   <meta property="og:locale:alternate" content="en_GB">
   <meta property="og:site_name" content="<%= config.title %>">
+  <script>function loadScript(url, onReady){
+          var s = document.createElement('script');
+          s.src = url;
+
+          if (typeof onReady === 'function'){
+              s.onload = onReady;
+          }
+
+          (document.getElementsByTagName('head')[0]).appendChild(s);
+      }
+      loadScript('//use.typekit.net/ydq7bvz.js', function(){ try { Typekit.load(); } catch (e){} });
+  </script>
 </head>
 <body class="home blog">
 
