@@ -8,14 +8,6 @@
       };
   })();
 
-  context.disqus_shortname = tag.getAttribute("data-disqus-shortname");
-  context.disqus_url = tag.getAttribute("href");
-
-  if (document.getElementById("disqus_thread")){
-    // loadScript is defined in the header of the page
-    loadScript('//' + disqus_shortname + '.disqus.com/embed.js');
-  }
-
   // Interactive Content
   each(document.querySelectorAll('p.interactive-loading'), function(el){
       el.style.width = el.getAttribute('data-width') + 'px';

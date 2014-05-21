@@ -1,6 +1,6 @@
 {
   "name": "oncletom.io",
-  "version": "2.5.6",
+  "version": "2.6.0",
   "private": true,
   "engines": {
     "node": ">= 0.10.0",
@@ -11,8 +11,10 @@
     "deploy": "hexo deploy --generate --debug"
   },
   "dependencies": {
-    "hexo": "^2.5.6",
-    "hexo-renderer-less": "0.0.3"
+    "hexo": "^2.6.0",
+    "hexo-renderer-ejs": "^0.1.0",
+    "hexo-renderer-less": "0.0.3",
+    "hexo-renderer-marked": "^0.1.0"
   },
   "devDependencies": {
     "grunt-shell": "~0.3.0",
