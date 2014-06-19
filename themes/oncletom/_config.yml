@@ -8,3 +8,7 @@ links:
   @oncletom: https://twitter.com/oncletom
   GitHub: https://github.com/oncletom
   RSS Feed: /feed/
+
+less:
+  paths:
+    bower_components/bootstrap/less
