@@ -21,6 +21,14 @@
     requestAnimationFrame(raf);
   }
 
+  // Toggle menu
+  var toggleButton = document.getElementById('static-top-navbar-toggle-button');
+  var toggleMenu = document.getElementById(toggleButton.getAttribute('data-target').slice(1));
+
+  toggleButton.addEventListener('click', function(){
+    toggleMenu.classList[toggleMenu.classList.contains('in') ? 'remove' : 'add']('in');
+  });
+
   /**
    * An element is visible if:
    * - a candidate is above the screen
