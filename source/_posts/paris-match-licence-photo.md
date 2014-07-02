@@ -10,6 +10,9 @@ tags:
 categories:
 - Personnel
 - Travail 2.0
+cover:
+  url: //farm4.static.flickr.com/3258/3111920922_4331a3f05f_c_d.jpg
+  cover: https://www.flickr.com/photos/the-jedi/3111920922/
 ---
 
 **Mises à jour** : elles se trouvent en bas de l'article, suite à l'évolution de la situation depuis le moment de publication.
@@ -18,7 +21,8 @@ Le titre est volontairement provocateur (mais non Jacques, Internet c'est bien) 
 
 1.  j'y ai déjà mangé et _beaucoup_ apprécié le décors ainsi que les plats (cf. mon album [Chez Éric Sampietro](http://www.flickr.com/photos/the-jedi/sets/72157611243875576/))
 2.  l'**image de tête de l'article utilisait une de mes photos** ([Éric Sampietro aux commandes](http://www.flickr.com/photos/the-jedi/3111920922/))
-[![Extrait de l](/images/2009/11/parismatch-sampietro-300x273.jpg "Extrait de l")](/images/2009/11/parismatch-sampietro.jpg)
+
+[![Extrait de l](/images/2009/11/parismatch-sampietro-400x250.jpg "Extrait de l")](/images/2009/11/parismatch-sampietro.jpg)
 
 Oncle Tom vs. Paris Match peut commencer ;-)
 
@@ -39,8 +43,6 @@ Les trois critères sont _entièrement_ baffoués :
 2.  l'image a été **recadrée** ;
 3.  quid de l'utilisation commerciale ? L'article apparaît gratuitement sur le site Web de Paris Match. Ça pourrait presque être bon sur ce point si cet article n'avait pas été repris sur la **version papier de Paris Match**, et partagé au format PDF sur le site de la journaliste associée, [Julie Andrieu](http://www.julieandrieu.com/).
 Bref, autant d'arguments qui donneraient envie de tirer à vue sur Paris Match, ou tout du moins la ou les personnes ayant tranquillement utilisé cette photo sans se soucier de sa licence d'utilisation. Après tout c'est la crise, autant réduire le respect autant que les coûts.
-
-[![Éric Sampietro aux commandes](//farm4.static.flickr.com/3258/3111920922_4331a3f05f_m.jpg "Photo originelle")](http://www.flickr.com/photos/the-jedi/3111920922/ "Éric Sampietro aux commandes")
 
 ## Prise de contact avec Paris Match
 

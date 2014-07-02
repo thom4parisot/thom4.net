@@ -9,12 +9,14 @@ categories:
 - WebDev
 ---
 
-![Internet Explorer ne peut pas afficher cette page Web](/images/2007/07/internet-explorer-ne-peut-pas-afficher-cette-page-web.png)
-
 Si l'on en croit la recherche Google [Internet Explorer ne peut pas afficher cette page Web](http://www.google.fr/search?q=probl%C3%A8me+%22Internet+Explorer+ne+peut+pas+afficher+cette+page+Web%22), il semblerait que pas mal de monde soit concerné par un facheux problème. **Internet Explorer 7 affiche sur certains site cette page d'erreur sans raison évidente**. [Ca en a même causé sur les groupes de discussions Microsoft](http://www.microsoft.com/communities/newsgroups/list/en-us/default.aspx?dg=microsoft.public.fr.ie7&tid=57f02485-74c9-4ddb-ad28-5c4b7df4c922&p=1).
 
 Alerté par un client par l'expression sibylline <cite>votre site a plein de bugs</cite> (c'était le seul), j'ai décidé de perdre une heure à trouver une solution au problème. Préparez vos favoris, j'ai trouvé la solution !
+
 <!--more-->
+
+![Internet Explorer ne peut pas afficher cette page Web](/images/2007/07/internet-explorer-ne-peut-pas-afficher-cette-page-web.png)
+
 Il existe en fait 3 solutions :
 
 1.  **revenir à Internet Explorer 6** (ceux qui ont Vista pourront se brosser, vous pouvez aussi revenir à Windows XP)

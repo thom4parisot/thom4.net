@@ -17,14 +17,14 @@ categories:
 - WebDev
 ---
 
-![](/images/2008/10/citrix-loading.png "Chargement du serveur de présentation Citrix")
-
 Pour les besoins du boulot et non plus pour le plaisir, j'ai eu pour impératif de me connecter à un Intranet client via un [VPN Citrix](http://fr.wikipedia.org/wiki/Citrix_Presentation_Server). Je ne sais pas pour vous, mais quand j'entends VPN, je commence à avoir des sueurs froides en me disant que la galère ne fait que commencer.
 
 Et bien pour une fois, je peux dire que je n'ai presque pas ramé. Vous allez voir, c'est **simple et rapide**.
 <!--more-->
 
 ## Citrix Presentation Server en 2 minutes
+
+![](/images/2008/10/citrix-loading.png "Chargement du serveur de présentation Citrix")
 
 Citrix Presentation Server c'est une manière d'offrir une connexion à des applications à distance indépendamment de la machine que l'on utilise. En clair, que l'on soit sous Linux, MacOS X ou Windows, on est censé pouvoir accéder à des applications d'une infrastructure distante.
 

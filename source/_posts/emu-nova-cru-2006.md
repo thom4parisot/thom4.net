@@ -7,7 +7,7 @@ tags:
 - statistiques
 categories:
 - Projects
-cover: http://www.emunova.net/img/emunova.gif
+cover: http://emunova.net/emunova.gif
 ---
 
 Le site d'émulation [Emu Nova](http://www.emunova.net) a tourné une nouvelle page, se rapprochant inexorablement de son cinquième anniversaire. L'année 2006 fût marquée de plusieurs évènements, tous imprévus :

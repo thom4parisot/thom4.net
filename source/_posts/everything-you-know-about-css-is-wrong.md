@@ -16,14 +16,14 @@ categories:
 
 En bon français : "**tout ce que vous savez des CSS est faux** !". L'heure n'est pas à la déprime mais à la lecture de cet ouvrage par le site [SitePoint](http://sitepoint.com). Il est écrit en anglais par Rachel Andrew et Kevin Yank.
 
-![Everything You Know About CSS Is Wrong](/images/2009/01/everything-you-know-about-css-is-wrong.jpg "Everything You Know About CSS Is Wrong")
-
 Ce titre fortement accrocheur à la limite de l'injure annonce la couleur : l'ouvrage est censé vous expliquer que les techniques employées aujourd'hui ne sont que du bricolage et qu'on peut faire la même chose en plus propre et plus simple.
 
 En route pour cette saine lecture ... ou pas.
 <!--more-->
 
 ## Chapitrage
+
+![Everything You Know About CSS Is Wrong](/images/2009/01/everything-you-know-about-css-is-wrong.jpg "Everything You Know About CSS Is Wrong")
 
 [Everything You Know About CSS Is Wrong!](http://www.sitepoint.com/books/csswrong1/) est découpé en 5 chapitres. Cela représente un volume d'une petite centaine de pages. En voici la structure :
 

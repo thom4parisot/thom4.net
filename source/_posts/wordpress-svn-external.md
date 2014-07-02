@@ -15,11 +15,11 @@ tags:
 - wordpress mu
 categories:
 - WordPress
+cover: /images/2008/05/wordpress-logo.png
+
 ---
 
 Mettre à jour Wordpress était pénible jusqu'à l'arrivée de la version 2.7\. On bénéficie désormais de la mise à jour automatique : un clic, ça télécharge et ça déploie.
-
-![](/images/2008/05/wordpress-logo.png "Logo Wordpress")
 
 Il existe cependant une **méthode alternative reposant sur Subversion** (SVN). C'est la méthode idéale pour tout développeur Wordpress ou gestionnaire de blogs. C'est celle que j'emploie depuis la version 2.6 grâce notamment à la constante WP_CONTENT.
 

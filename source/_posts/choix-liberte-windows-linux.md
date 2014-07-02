@@ -11,12 +11,15 @@ categories:
 - Personal Views
 ---
 
-![Windows Vista Logo](/images/2007/02/windows-vista.gif)
 
 Lorsque le premier PC familial a débarqué à la maison, c'était en 1997\. Facile à retenir : c'est cette même année que j'ai redoublé (la classe de seconde, vive le lycée). Trève de bavardage, j'ai donc fait mes armes sur **Windows 95**. Il était pré-installé sur l'ordinateur et mes connaissances de l'époque m'indiquaient qu'à part ça et MS-DOS, je n'avais guère de choix. Les années passèrent puis vinrent _Windows 98_, _Windows 2000_, brièvement _Windows Me_ et _Windows XP_.
 
 Bref, aucune raison de changer.
+
 <!--more-->
+
+![Windows Vista Logo](/images/2007/02/windows-vista.gif)
+
 **Windows XP** a été pour moi un système stable et quasiment dépourvu d'écrans bleus. Une mise en réseau facilitée (terminé les heures passées à configurer / rebooter pour jouer à _Quake II_ en réseau local), une interface simple et des performances de jeux supérieures à Windows 2000.
 
 ## La première expérience Linux

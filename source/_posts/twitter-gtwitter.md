@@ -10,8 +10,6 @@ categories:
 - WebDev
 ---
 
-![Logo Twitter](/images/2007/05/twitter.png)
-
 La première fois que j'ai entendu parler de [Twitter](http://twitter.com), j'ai regardé par curiosité et j'ai ri. J'ai ri parce que _je ne comprenais pas_ comment une jeune pousse (_startup_ pour les anglophones :P) pouvait attirer autant de monde et lever des millions de dollars en ayant bâti un site reposant sur ce principe : **envoyer des messages de 140 caractères de long**.
 
 Vous n'avez rien loupé car c'est vraiment **la seule chose** que permet de faire _Twitter_ : se créer un profil, se flanquer d'un avatar (le fameux [avatar-based marketing](http://www.fredcavazza.net/index.php?2006/07/04/1206-une-conference-virtuelle-sur-le-marketing-des-mondes-virtuels), la _Wii_ nage en plein dedans), balancer de courts messages, lire ceux d'autres personnes, éventuellement les rajouter à sa liste de suivi.

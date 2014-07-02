@@ -12,8 +12,6 @@ categories:
 - WordPress
 ---
 
-![Compteur d'abonnés](/images/2009/05/compteur-abonnes-feedburner-texte.png "Compteur d'abonnés")
-
 Qu'on se le dise : le compteur de lecteurs Feedburner par défaut est sympa mais **s'intègre mal dans n'importe quel design de site Web**. [Lors de la refonte du thème graphique de ce blog](https://oncletom.io/2009/04/15/menage-printemps/), j'ai eu envie de remettre mon compteur d'abonnés Feedburner mais sous forme de texte. Même si le chiffre indiqué peut se révéler inexact, j'estime que c'est un **indicateur intéressant** sur la consultation d'un flux. Je suis également convaincu qu'à partir d'un certain nombre de lecteurs, ça facilite la conversion : si le nombre est élevé, c'est que le site est bien  ... donc je m'abonne.
 
 Bref, j'ai voulu implémenter ça de **manière propre et peu gourmande** avec [WP-Cron](http://codex.wordpress.org/Category:WP-Cron_Functions), l'API [Feedburner Awareness](http://code.google.com/intl/fr/apis/feedburner/awareness_api.html) et la classe [PHP 5 SimpleXML](http://fr.php.net/simplexml). Une poignée de lignes de code suffisent, pourquoi s'en priver ? ;-)
@@ -21,6 +19,8 @@ Bref, j'ai voulu implémenter ça de **manière propre et peu gourmande** avec [
 <!--more-->
 
 ## Le besoin
+
+![Compteur d'abonnés](/images/2009/05/compteur-abonnes-feedburner-texte.png "Compteur d'abonnés")
 
 La plupart des exemples que l'on trouve sur le Web attaquent directement l'API Feedburner Awareness. Autrement dit, votre page ne s'affichera pas tant que l'API n'aura pas été appelée et son résultat interprété. Étant donné que cette valeur change 1 fois par jour, il vaut mieux aborder la chose différemment. C'est pourquoi je voulais :
 

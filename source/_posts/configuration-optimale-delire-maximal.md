@@ -12,8 +12,6 @@ categories:
 - a11y
 ---
 
-![](/images/2008/10/site-optimise-pour.png "Site optimisé pour ...")
-
 Hier [Sébastien Delorme](http://www.tentatives-accessibles.eu/) s'est [fendu d'un petit twit](http://twitter.com/sebcbien/statuses/948211570) qui m'a fait sourire sur le site de vente en ligne [Ooshop](http://ooshop.fr). Cependant après réflexion, je me suis dis que c'était particulièrement grave.
 
 En 2008 on vous demande encore de venir en smoking sur un site Web et qui plus est, avec des recommandations liées à des logiciels <span style="text-decoration: line-through;">périmés, à savoir Internet Explorer 6 et Firefox 1.5</span> à jour ([le site a été mis à jour suite à cet article](https://oncletom.io/2008/10/07/configuration-optimale-delire-maximal/#comment-27861)).
@@ -21,6 +19,8 @@ En 2008 on vous demande encore de venir en smoking sur un site Web et qui plus e
 Entrevue d'une configuration optimale tout sauf accessible et acceptable.
 
 <!--more-->
+
+![](/images/2008/10/site-optimise-pour.png "Site optimisé pour ...")
 
 Avant toute chose, prenez connaissance de cette [fameuse configuration optimale](http://www.ooshop.com/Content/FR/PreHome/Conf.html "la configuration optimale selon Ooshop"). Y'aurait de quoi écrire une thèse dessus.
 

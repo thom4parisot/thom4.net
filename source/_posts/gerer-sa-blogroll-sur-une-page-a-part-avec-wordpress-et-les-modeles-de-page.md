@@ -11,9 +11,8 @@ tags:
 categories:
 - WebDev
 - WordPress
+cover: /images/2008/05/wordpress-logo.png
 ---
-
-![Logo Wordpress](/images/2008/05/wordpress-logo.png "Logo Wordpress")
 
 J'ai récemment lu une astuce pour afficher sa blogroll sur une page à part et ça m'a donné envie de réagir à la solution proposée.
 

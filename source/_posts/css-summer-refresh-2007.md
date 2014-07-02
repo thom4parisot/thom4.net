@@ -9,9 +9,12 @@ categories:
 
 ---
 
+[Le CSS Summer Refresh 2007 est lancé](http://blog.alsacreations.com/2007/08/14/378-cascading-stylesheet-summer-refresh-2007-les-votes). Ce concours met en scène <acronym title="Cascading Style Sheet">CSS</acronym>, <acronym title="HyperText Markup Language">HTML</acronym>, accessibilité et standards du Web. Chaque site inscrit est tenu de proposer un site beau, propre et accessible pour recevoir un maximum de votes positifs.
+
+<!-- more -->
+
 ![Logo Alsacreations](/images/2007/08/logo-alsacreations.gif)
 
-[Le CSS Summer Refresh 2007 est lancé](http://blog.alsacreations.com/2007/08/14/378-cascading-stylesheet-summer-refresh-2007-les-votes). Ce concours met en scène <acronym title="Cascading Style Sheet">CSS</acronym>, <acronym title="HyperText Markup Language">HTML</acronym>, accessibilité et standards du Web. Chaque site inscrit est tenu de proposer un site beau, propre et accessible pour recevoir un maximum de votes positifs.
 
 [La refonte de ce blog](https://oncletom.io/2007/07/27/blog-nouveau-look/) était également _secrètement_ motivée par la participation à ce concours. Je ne brigue pas la première place, loin de là, mais c'est là une occasion de tirer un bout de la couverture vers moi, de montrer qu'une personne de plus sait intelligemment **respecter les standards** ([sémantique au lieu de divite](http://openweb.eu.org/articles/respecter_semantique/)).
 

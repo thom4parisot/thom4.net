@@ -12,7 +12,7 @@ tags:
 - usa
 categories:
 - Work & Labour
-cover: /images/2010/02/twitter.png
+cover: /images/2010/02/gulliver-lilliput.jpg
 ---
 
 Je pense que la première chose que j'ai vu en débarquant dans le quartier de Time Square à New York, c'était une pub géante pour [Twitter](http://twitter.com/). Dans le métro de Montréal, c'était un argument fonctionnel pour des téléphones mobiles : il est compatible Twitter et Facebook. De quoi laisser divaguer son esprit sur la diffusion grand public de l'outil − qui est toute relative, [seuls 4% des internautes américains l'utiliseraient vraiment](http://www.emarketer.com/Article.aspx?R=1007059). Bon, ça fait quand même 6 millions d'utilisateurs.

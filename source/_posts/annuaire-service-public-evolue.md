@@ -10,8 +10,6 @@ categories:
 - a11y
 ---
 
-![](/images/2008/11/service_public.jpg "Logo Service-public.fr")
-
 Je suis tombé nez à nez sur l'[annuaire des sites Internet publics](http://lessites.service-public.fr/) la semaine dernière en cherchant l'adresse de la CPAM de Gironde. Il se trouve que [la page de cette dite organisation](http://lessites.service-public.fr/cgi-bin/annusite/annusite.fcgi/loc7?lang=fr&amp;orga=11712 "CPAM de Gironde sur l") était affublée d'un message explicite ... ou en fait pas vraiment.
 
 Ou comment un message partant d'**un bon sentiment peut ruiner une navigation**.

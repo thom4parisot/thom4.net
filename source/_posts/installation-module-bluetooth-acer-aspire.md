@@ -15,8 +15,6 @@ categories:
 - WebDev
 ---
 
-![Logo Bluetooth](/images/2007/11/bluetooth-logo.gif)
-
 J'ai décidé en 2006 d'**abandonner la bonne vieille et traditionnelle tour de PC** fixe pour le monde nomade de l'**ordinateur portable**. C'est ainsi qu'en juillet 2006 j'ai opté pour un _Acer Aspire 9412_, notamment pour sa carte nVidia avec RAM dédiée, son écran 17 pouces et un pavé numérique.
 La cerise sur le gâteau c'était le Bluetooth car j'envisageais déjà en avance de me trouver une oreillette pour communiquer via Skype ou <acronym title="Session Initiation Protocol">SIP</acronym>.
 
@@ -27,6 +25,8 @@ Pour celles et ceux qui veulent néanmoins bénéficier du Bluetooth sans change
 **Remarque** : méthode mise à jour pour les versions récentes d'Ubuntu ... c'est encore plus facile ;-)
 
 <!--more-->
+
+![Logo Bluetooth](/images/2007/11/bluetooth-logo.gif)
 
 ## Rechercher et installation du module Bluetooth Acer
 

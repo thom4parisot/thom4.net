@@ -12,6 +12,9 @@ tags:
 - twitter
 categories:
 - Work & Labour
+cover:
+  url: //farm6.static.flickr.com/5212/5385820844_758b8d0c23_c_d.jpg
+  link: https://www.flickr.com/photos/the-jedi/5385820844/
 ---
 
 J’ai été contacté récemment par une blogueuse vivant en région parisienne. Elle cherchait à refondre l'esthétique de son blog afin de lui donner un aspect plus professionnel. Une recherche Twitter et un passage sur mon blog plus tard, elle me contacte pour savoir si je peux m’en occuper.
@@ -19,8 +22,6 @@ J’ai été contacté récemment par une blogueuse vivant en région parisienne
 Où comment la recherche d’une personne de bonne volonté m’a ramené au fait qu’après la dure condition du stagiaire-salarié-payé-une-misère il y a aussi celle de l’étudiant, pauvre et incompétent de nature.
 
 Pour les âmes sensibles, **oui** le titre est provocateur et reflète l’inverse de mes pensées (et de mes propos).
-
-[![](//farm6.static.flickr.com/5212/5385820844_758b8d0c23.jpg)](http://www.flickr.com/photos/the-jedi/5385820844/)
 
 <!--more-->
 

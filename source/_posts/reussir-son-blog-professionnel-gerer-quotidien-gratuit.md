@@ -17,15 +17,17 @@ tags:
 - psselect
 categories:
 - Projects
+cover: /images/2009/08/reussir-son-blog-professionnel-2eme-edition-nq8.png
 ---
 
 La semaine dernière, j'ai appris qu'[une de mes photos avait été publiée dans Paris Match](https://oncletom.io/2009/11/08/paris-match-licence-photo/) ... sans me demander la permission. En attendant de recevoir un dédommagement de la part du journal, je me suis finalement dit qu'on se retrouvait finalement dans un cas bien précis évoqué dans «[Réussir son blog professionnel](http://reussir-son-blog.pro/)», à savoir le **respect des obligations légales**.
 
-[![Couverture du chapitre 5 : Gérer son blog au quotidien](/images/2009/11/reussir-son-blog-pro-chap5-nq8-226x300.png "Couverture du chapitre 5 : Gérer son blog au quotidien")](/images/2009/11/reussir-son-blog-pro-chap5-nq8.png)
-
 Je saisis donc l'occasion pour offrir la partie traitant des blogs et des obligations légales. Et même mieux, tout le chapitre dans lequel il est inclus : **gérer son blog au quotidien**. Vous êtes donc à 2 clics de savoir comment gérer un blog sans craindre de représaille juridique :-)
 
 <!--more-->
+
+[![Couverture du chapitre 5 : Gérer son blog au quotidien](/images/2009/11/reussir-son-blog-pro-chap5-nq8-226x300.png "Couverture du chapitre 5 : Gérer son blog au quotidien")](/images/2009/11/reussir-son-blog-pro-chap5-nq8.png)
+
 
 ## Contenu du chapitre offert : gérer son blog au quotidien
 

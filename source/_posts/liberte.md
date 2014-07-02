@@ -15,6 +15,9 @@ tags:
 - voyage
 categories:
 - Personal Views
+cover:
+  url: //farm3.static.flickr.com/2716/4511931016_6c63e42f5f_c_d.jpg
+  link: https://www.flickr.com/photos/the-jedi/4511931016/
 ---
 
 J'ai l'impression d'avoir écrit [mon bilan de l'année 2009](https://oncletom.io/2010/01/) il y a une poignée de jours. Je me souviens encore avoir terminé 2009 avec un sentiment de mélancolie ... cette joie teintée de tristesse mais surtout, dans mon cas, d'attente.
@@ -23,7 +26,6 @@ Cette année, je la commence avec le regard embrumé après un chouette moment, 
 
 Un instant à cheval sur 2 calendriers, et qui conclut ma _quête_ de 2010, effleurée en 2009 : celle du **lien humain**.
 
-[![](//farm3.static.flickr.com/2716/4511931016_6c63e42f5f_m.jpg)](http://www.flickr.com/photos/the-jedi/4511931016/)
 <!--more-->
 
 ## 2010 : l'effet Big Bang

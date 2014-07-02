@@ -15,8 +15,6 @@ categories:
 - WebDev
 ---
 
-![Logo MySQL](/images/2007/08/powered-by-mysql-167x86.png)
-
 L'installation par défaut d'un serveur MySQL est suffisante pour être opérationnel dans la minute qui suit. Elle ne facilite en revanche pas la maintenance en laissant le répertoire contenant vos bases de données et tables hors de portée.
 
 L'intérêt de choisir soi-même l'emplacement de ce répertoire, le _datadir_, est double :

@@ -15,8 +15,6 @@ categories:
 - Personal Views
 ---
 
-![Campagne de soutien à Presse-citron](/images/2008/04/pressecitron-150x250.gif "Campagne de soutien à Presse-citron")
-
 L'[affaire Fuzz](http://www.presse-citron.net/?2008/03/12/3162-bonne-nouvelle-fuzz-rapporte-enfin-beaucoup-d-argent) a fait beaucoup de bruit en plus de 3 semaines. Toute la "blogosphère" a d'ailleurs apporté un soutien plus que massif à ce qui apparaît à première vue comme une injustice totale.
 
 **On ne peut hélas faire beaucoup de bruit et réfléchir en même temps** à en croire tous les moutons de Panurge qui s'indignent du délibéré. La raison ? Ils ont à peu près tous fait l'amalgame entre Fuzz et Presse-citron mais aussi, bien pire, l'amalgame entre liberté d'expression et responsabilité.

@@ -16,14 +16,14 @@ categories:
 - a11y
 ---
 
-![](/images/2008/08/colorblind-applet-credits.png "Colorblind-applet")
-
 J'ai découvert totalement par hasard un jeu de filtres pour daltonien fonctionnant sur l'environnement de bureau Gnome. Son petit nom ? **colorblind-applet**.
 Il est livré en standard sous Debian et [plus péniblement, sous Ubuntu](http://news.softpedia.com/news/How-To-Install-the-Colorblind-Applet-on-GNOME-91323.shtml "installer colorblind-applet sous Ubuntu"). Cette dernière distribution englobe pourtant Gnome Magnifier (paquet _gnome-mag_), le projet père mais allez savoir pourquoi, sans l'applet pour daltonien.
 
 Petit tour du propriétaire et mise en application dans le cas du développement Web.
 
 <!--more-->
+
+![](/images/2008/08/colorblind-applet-credits.png "Colorblind-applet")
 
 ## Présentation rapide du daltonisme
 

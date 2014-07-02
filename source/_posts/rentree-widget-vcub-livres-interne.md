@@ -14,6 +14,9 @@ tags:
 - VCUB
 categories:
 - WebDev
+cover:
+  url: //farm5.static.flickr.com/4135/4931830643_00fd97c26b_c_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/4931830643/
 ---
 
 C'est la rentrée scolaire. Le moment de reprendre les bonnes habitudes qu'on aurait laissé de côté pendant les vacances. Comme celle de bloguer par exemple ; après 2 mois de pause plus ou moins forcée.
@@ -23,8 +26,6 @@ Le remplissage des salles était vraiment aléatoire, avec semblerait-il une lé
 
 Toujours est-il qu'il est temps de revenir à la réalité. J'aurais pu écrire plusieurs articles.
 Par manque de temps (ou plutôt parce que je préfère le consacrer à d'autres choses), je mutualise tout ça dans cet article.
-
-[![Homeless](//farm5.static.flickr.com/4135/4931830643_00fd97c26b.jpg)](http://www.flickr.com/photos/the-jedi/4931830643/ "Homeless")
 
 <!--more-->
 

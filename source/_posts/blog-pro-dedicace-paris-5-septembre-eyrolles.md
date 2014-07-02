@@ -19,6 +19,8 @@ Je serai présent à la librairie Eyrolles le samedi 5 septembre 2009 à partir 
 
 Ce rendez-vous sera l'occasion de présenter l'ouvrage, de répondre à vos questions et de repartir avec,  signé par mes soins ;-)
 
+<!-- more -->
+
 Qui peut venir ? À peu près tout le monde qui s'intéresse au Web, particulier ou entreprise, avec ou sans votre petite famille.
 Il y aura de toutes façons une **réduction offerte **par la librairie à cette occasion.
 

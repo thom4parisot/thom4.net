@@ -14,11 +14,10 @@ tags:
 - ubuntu
 categories:
 - WebDev
+cover: /images/2008/12/php-custom.png
 ---
 
 J'ai récemment passé mon poste de développement de Debian Testing vers Ubuntu 8.10\. Comme toute installation _from scratch_, il faut passer par la case configuration.
-
-![](/images/2008/12/php-custom.png "Configuration PHP personnalisée")
 
 J'ai déjà expliqué comment [modifier l'emplacement des données d'un serveur MySQL](https://oncletom.io/2008/05/04/modifier-emplacement-donnees-serveur-mysql/) mais cette fois-ci on va aller encore plus loin :
 

@@ -14,13 +14,12 @@ tags:
 categories:
 - Projects
 - WordPress
+cover: /images/2009/08/wp-less-repository.png
 ---
 
 [LESS](http://lesscss.org/) est une des briques qu'il manquait à CSS. Ce meta-langage apporte des fonctionnalités jusque là inédites telles que l'**héritage**, l'**injection** et les **variables**. [lessphp](http://leafo.net/lessphp/) porte ces avancées en PHP et ajoute ses propres fonctionnalités.
 
 Cet outil me paraît **indispensable** alors j'ai décidé de l'intégrer à WordPress : [WP-LESS](http://wordpress.org/extend/plugins/wp-less/) est né.
-
-![LESS CSS](/images/2009/08/less-logo.png "LESS CSS")
 
 <!--more-->
 
@@ -70,8 +69,6 @@ De nombreux _hooks_ et _filtres_ sont placées un peu partout dans le code pour 
 Des tas de choses qu'on ne pourrait pas faire en simple PHP4 (message subliminal : WordPress doit abandonner PHP4).
 
 WP-LESS agit en toute **transparence et simplicité**.
-
-[![Arborescence du plugin WP-LESS](/images/2009/08/wp-less-repository.png "Arborescence du plugin WP-LESS")](/images/2009/08/wp-less-repository.png)
 
 ## Quel avenir pour WP-LESS ?
 

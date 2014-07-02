@@ -11,9 +11,8 @@ tags:
 - mémoire
 categories:
 - Work & Labour
+cover: /images/2009/02/obama-parterre-photos.png
 ---
-
-![L](/images/2009/02/aec-actualites.png "L")
 
 Le [débat numérique](http://www.aecom.org/blog/rdv/labels/debat numerique.html) est un évènement bordelais que j'affectionne et auquel j'aime me rendre tous les trimestres. Il confronte un journaliste, un expert et le public sur une thématique choisie pendant 1h30 ... un débat en somme.
 
@@ -60,8 +59,6 @@ On avait droit à des cours d'éducation civique, pourquoi pas des **cours d'éd
 Et si on en revient à notre hypothèse de départ, à savoir que la concentration du savoir sur le Web est dangereuse, on se rend compte qu'au final, c'est la mauvaise utilisation, la non-utilisation et le manque de recul vis à vis de l'information qui sont dangereux ... pas l'étalage des connaissances.
 
 ## N'oublions pas la réalité : rien n'est éternel
-
-[![Parterre de téléphones mobiles devant Barrack Obama](/images/2009/02/obama-parterre-photos.png "Parterre de téléphones mobiles devant Barrack Obama")](http://soupsoup.tumblr.com/post/72097686/put-the-camera-down-and-enjoy-a-moment-for-once)
 
 Ce qui m'amène à citer une fois de plus un article de [ReadWriteWeb](http://www.readwriteweb.com) intitulé "[Technology is Great, but Are We Forgetting to Live?](http://www.readwriteweb.com/archives/technology_is_great_but_are_we_forgetting_to_live.php)". En bon français "La technologie c'est bien mais n'oublions-nous pas de vivre ?".
 

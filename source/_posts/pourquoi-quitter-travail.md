@@ -14,6 +14,9 @@ tags:
 categories:
 - Personal Views
 - Work & Labour
+cover:
+  url: //farm6.static.flickr.com/5041/5226018642_972d32f7e3_c_d.jpg
+  link: http://www.flickr.com/photos/the-jedi/5226018642/
 ---
 
 > **Remarque** : j'ai initialement intitulé cet article « pourquoi j'ai décidé de devenir indépendant » mais au final, je me suis rendu compte que je ne répondais pas à la question. Ce sera l'objet d'un autre billet, détaillant pourquoi j'ai préféré l'indépendance à un autre employeur.
@@ -25,8 +28,6 @@ Le 30 novembre dernier, j'effectuais mon dernier jour chez [Clever Age](http://w
 Pourtant, certaines personnes s'interrogeaient sur ma volonté de _partir_. J'insiste sur le mot _partir_ car c'est ce sur quoi elles se sont arrêtées. Alors que moi, je me focalisais sur ce que j'allais _entreprendre_. Trait culturel ? Se fixer sur ce qui se termine au lieu de **regarder au loin** ?
 
 Peut-être. Dans tous les cas, je vous livre mon point de vue et ce qui me motive à me lancer dans l'aventure et à prendre des risques.
-
-[![about:robots](//farm6.static.flickr.com/5041/5226018642_972d32f7e3_m.jpg "about:robots")](http://www.flickr.com/photos/the-jedi/5226018642/)
 
 <!--more-->
 

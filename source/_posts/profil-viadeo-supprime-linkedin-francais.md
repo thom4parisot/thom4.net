@@ -10,8 +10,6 @@ categories:
 - Work & Labour
 ---
 
-![](/images/2008/12/viadeo-logo.png "Logo Viadeo")
-
 [Viadeo](http://www.viadeo.com) est un **réseau social pour professionnels**. Il sert entre autre à organiser son réseau professionnel en ligne et à augmenter les opportunités de _business_.
 
 Pourtant [j'ai supprimé mon profil Viadeo en septembre 2008](http://twitter.com/oncletom/statuses/925864689) pour diverses raisons. Dont celle de la sécurité. Pourquoi ? Et comment remplacer Viadeo pour réseauter ?

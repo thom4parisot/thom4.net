@@ -10,12 +10,13 @@ categories:
 - WebDev
 ---
 
-![Logo OpenSearch](/images/2007/02/opensearch.png)
-
 Les _navigateurs Web modernes_ intègrent désormais quasiment tous une boîte de texte destinée à effectuer une recherche dans son moteur favori. Ces dits navigateurs permettent également d'ajouter les sites de son choix grâce au format [OpenSearch](http://www.opensearch.org) initié par [A9](http://www.a9.com), filiale d'[Amazon](http://www.amazon.fr).
 
 Armez-vous d'un _éditeur de texte_ et ... c'est tout. Il n'en faut pas plus pour créer son propre module de recherche ;-)
+
 <!--more-->
+
+![Logo OpenSearch](/images/2007/02/opensearch.png)
 
 ## Repérer les sites compatibles OpenSearch
 

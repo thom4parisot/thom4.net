@@ -12,11 +12,11 @@ categories:
 - Projects
 ---
 
-![](/images/2008/06/logo-jaiku.png "Logo Jaiku")
-
 Oyé utilisateurs de [Jaiku](http://jaiku.com) et de [Netvibes](http://www.netvibes.com) (mais aussi [iGoogle](http://www.igoogle.com), [Dashboard](http://www.apple.com/downloads/dashboard/), Windows Vista). J'ai publié hier soir une nouvelle version du widget avec quelques nouveautés cosmétiques et des corrections de bugs casse-pied.
 
 <!--more-->
+
+![](/images/2008/06/logo-jaiku.png "Logo Jaiku")
 
 Au sommaire des changements :
 
