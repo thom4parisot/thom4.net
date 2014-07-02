@@ -1,18 +1,14 @@
 <div class="container">
-    <div class="row">
-        <div class="col-sm-12">
-            <% if(page.archive){ -%><h1 class="title"><small>/</small><%= page.year %></h1><% } -%>
-            <% if(page.category){ -%><h1 class="title"><small>/</small><%= page.category %></h1><% } -%>
-        </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <% if(page.archive){ -%><h2 class="title"><small>@</small><%= page.year %></h2><% } -%>
+      <% if(page.category){ -%><h2 class="title"><small>#</small><%= page.category %></h2><% } -%>
     </div>
-</div>
+  </div>
 
-<%- partial("_blog/post-cover", { post: page.posts.first() }) %>
-
-<div class="container">
-    <div class="row">
-        <% page.posts.each(function(post){ %>
-        <div class="col-sm-12"><%- partial("_blog/post-condensed", {post: post})%></div>
-        <% }); %>
-    </div>
+  <div class="row">
+    <% page.posts.each(function(post){ %>
+    <div class="col-sm-12"><%- partial("_blog/post-condensed", {post: post})%></div>
+    <% }); %>
+  </div>
 </div>

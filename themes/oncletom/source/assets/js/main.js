@@ -8,6 +8,44 @@
       };
   })();
 
+  // Togglable navigation
+  if (typeof requestAnimationFrame === 'function') {
+    var elements = document.querySelectorAll('header.header, footer.footer');
+    var nav = document.querySelector('header.header .navbar');
+
+    var raf = function(){
+      updateElementVisiblityAgainst(nav, elements);
+      requestAnimationFrame(raf);
+    };
+
+    requestAnimationFrame(raf);
+  }
+
+  /**
+   * An element is visible if:
+   * - a candidate is above the screen
+   * OR
+   * - a candidate is below the scren
+   *
+   * @param el {HTMLElement}
+   * @param elements
+   */
+  function updateElementVisiblityAgainst(el, elements){
+    var offsetY = window.scrollY;
+    var outerHeight = window.outerHeight;
+
+    var canBeVisible = Array.prototype.every.call(elements, function checkVisibility(candidate){
+      return (offsetY >= candidate.offsetTop + candidate.clientHeight) || (offsetY + outerHeight <= candidate.offsetTop);
+    });
+
+    if (canBeVisible && !el.classList.contains('visible')) {
+      el.classList.add('visible');
+    }
+    else if (!canBeVisible && el.classList.contains('visible')){
+      el.classList.remove('visible')
+    }
+  }
+
   // Interactive Content
   each(document.querySelectorAll('p.interactive-loading'), function(el){
       el.style.width = el.getAttribute('data-width') + 'px';
