@@ -2,7 +2,7 @@
 <html lang="<%- config.language %>" prefix="og: http://ogp.me/ns#">
 <head>
   <meta charset="utf-8">
-  <%- css(['assets/css/fonts.css', 'assets/css/content.css']) %>
+  <%- css(['assets/css/fonts.css', 'assets/css/core.css']) %>
   <title><%= partial("_title") %></title>
   <meta name="viewport" content="initial-scale=1.0">
   <link rel="apple-touch-icon" type="image/x-icon" href="/assets/avatar.jpg">
@@ -35,7 +35,7 @@
 
 <main role="main"><%- body %></main>
 
-<%- partial("footer") %>
+<%- partial("footer", {}, { cache: true }) %>
 
 <script src="/assets/js/main.js" async></script>
 </body>
