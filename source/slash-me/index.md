@@ -18,4 +18,4 @@ Dans le passé, j'ai été CTO et co-fondateur de la startup **Dijiwan**, consul
 
 Nous aurons sûrement l'occasion dans un _tube_, concert ou exposition à **Londres** au Royaume-Uni ou pendant une conférence Web en **Europe** ou sur un chemin de randonnée **quelque part sur cette planète**.
 
-Sinon, [hop un mail](mailto:&#116;&#104;&#111;&#109;&#097;&#115;&#064;&#111;&#110;&#099;&#108;&#101;&#045;&#116;&#111;&#109;&#046;&#110;&#101;&#116; "Contact") ou [hop un tweet](https://twitter.com/intent/tweet?text=@oncletom%20&related=oncletom) ! Un bon verre de rouge comme _ice breaker_.
+Sinon, [hop un mail](mailto:&#104;&#105;&#064;&#111;&#110;&#099;&#108;&#101;&#116;&#111;&#109;&#046;&#105;&#111; "Contact") ou [hop un tweet](https://twitter.com/intent/tweet?text=@oncletom%20&related=oncletom) ! Un bon verre de rouge comme _ice breaker_.
