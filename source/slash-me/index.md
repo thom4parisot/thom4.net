@@ -1,21 +1,40 @@
-title: Qui est Oncle Tom ?
+---
+title: Hey, I'm Thomas!
 date: 2006-08-16 18:31:46
+updated: 2014-08-24 19:03:00
 cover:
   url: //farm9.staticflickr.com/8044/8147306385_5900f08cb0_c.jpg
   link: http://www.flickr.com/photos/parisweb/8147306385/
 ---
 
-On se croisera sur Internet via mon pseudonyme **Oncle Tom**.
-On se croisera dans le monde physique sous mon nom **Thomas Parisot**.
+**Thomas Parisot** is my full name and people often call me *Tom*.
+Hence my long lasting nickname — *Oncle Tom* — a friendly pun to our *digital slavery*.
 
-Je suis actuellement **ingénieur frontend** pour **BBC R&D** ; co-fondateur et **curateur** des [conférences Sud Web](http://sudweb.fr) ; fondateur de [BordeauxJS](http://www.meetup.com/BordeauxJS/).
+I am a Frenchman in London: **Web Engineer** at [BBC R&D](http://bbc.co.uk/rd), **curator** of [Sud Web](http://sudweb.fr) and **funder** of the popular [Bordeaux JavaScript Meetup](http://www.meetup.com/BordeauxJS/).
 
-Dans le passé, j'ai été CTO et co-fondateur de la startup **Dijiwan**, consultant Web freelance ([CyneticMonkey](http://cyneticmonkey.com)), vacataire en communication digitale à **Sciences-Po Bordeaux**, consultant Web chez [Clever Age](http://clever-age.com) et développeur Web au sein du [groupe Bricodeal](http://bricodeal.com).
+I use Web technologies to *experiment*, to *prototype* and to *empower* people. I fuel that effort with *public speaking*, by organising Sud Web and by publishing content – whether through *words* or through *open source software*.
 
-**Je suis partisan de l'interdisciplinarité, de l'ouverture et de la finitude**.
+## Values
 
-## On peut se voir ?
+I highly believe in **openness**, **craftsmanship** and **sustainability**.
 
-Nous aurons sûrement l'occasion dans un _tube_, concert ou exposition à **Londres** au Royaume-Uni ou pendant une conférence Web en **Europe** ou sur un chemin de randonnée **quelque part sur cette planète**.
+Through my acts, I do not want to create more *unbalance* or to leave a debt behind me. Hence I will do my best to favour **non-profit**, **ethical profit** or **greater good** companies.
 
-Sinon, [hop un mail](mailto:&#104;&#105;&#064;&#111;&#110;&#099;&#108;&#101;&#116;&#111;&#109;&#046;&#105;&#111; "Contact") ou [hop un tweet](https://twitter.com/intent/tweet?text=@oncletom%20&related=oncletom) ! Un bon verre de rouge comme _ice breaker_.
+## Can we get in touch?
+
+Maybe we will meet in the *Tube* by chance.
+Maybe we will meet in an exhibition somewhere in Europe.
+Maybe we will meet in a backpacker hostel somewhere in the World.
+
+Or maybe [we will simply start with an email](mailto:&#104;&#105;&#064;&#111;&#110;&#099;&#108;&#101;&#116;&#111;&#109;&#046;&#105;&#111; "Contact") ;-)
+
+We can definitely break the ice around a glass of wine or a nice meal.
+
+## Professional experience
+
+I have **more than 10 years of professional experience** in the Web industry through various roles and responsibilities:
+
+- *Web developer* in a nation-wide retail company;
+- *Web consultant* at [Clever Age](http://en.clever-age.com/), a renowned French Web engineering agency;
+- *Web consultant* in my own limited company;
+- *CTO* and *co-funder* of [Dijiwan, a startup which failed](/2014/why-our-startup-failed/).
