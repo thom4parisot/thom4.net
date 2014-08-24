@@ -1,13 +1,13 @@
 menu:
-  Blog: /
-  Conférences: /talks
-  Projets Web: /projects
+  "Blog": /
+  "Conférences": /talks
+  Projets Web": /projects
 
 links:
-  Photos: /photos/
-  @oncletom: https://twitter.com/oncletom
-  GitHub: https://github.com/oncletom
-  RSS Feed: /feed/
+  "Photos": /photos/
+  "@oncletom": https://twitter.com/oncletom
+  "GitHub": https://github.com/oncletom
+  "RSS Feed": /feed/
 
 less:
   paths:
