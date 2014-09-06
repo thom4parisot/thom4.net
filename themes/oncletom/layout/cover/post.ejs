@@ -1,0 +1,18 @@
+<div class="post-cover">
+  <%- partial("_hero", { post: post }) %>
+
+  <div class="post-cover__body">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1><%= post.title %></h1>
+
+          <p>
+            <span class="icon-clock"></span>
+            <a href="#more"><%= readingTime(post.content).text %></a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
