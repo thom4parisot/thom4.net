@@ -18,23 +18,25 @@ I use Web technologies to *experiment*, to *prototype* and to *empower* people. 
 
 I highly believe in **openness**, **craftsmanship** and **sustainability**.
 
-Through my acts, I do not want to create more *unbalance* or to leave a debt behind me. Hence I will do my best to favour **non-profit**, **ethical profit** or **greater good** companies.
+Through my acts, I do not want to create more *unbalance* or to leave a debt behind me.
+Hence I will do my best to favour **non-profit**, **ethical** or **greater good** organisations.
+
+## Professional experience
+
+I have **more than 10 years of professional experience** in the Web industry through various roles and responsibilities:
+
+- *Web engineer* at [BBC R&D](http://bbc.co.uk/rd);
+- *CTO* and *co-funder* of [Dijiwan, a startup which failed](/2014/why-our-startup-failed/);
+- *Web consultant* in my own limited company;
+- *Web consultant* at [Clever Age](http://en.clever-age.com/), a renowned French Web engineering agency;
+- *Web developer* in a nation-wide retail group.
 
 ## Can we get in touch?
 
-Maybe we will meet in the *Tube* by chance.
+Maybe we will meet in the *Underground* by chance.
 Maybe we will meet in an exhibition somewhere in Europe.
 Maybe we will meet in a backpacker hostel somewhere in the World.
 
 Or maybe [we will simply start with an email](mailto:&#104;&#105;&#064;&#111;&#110;&#099;&#108;&#101;&#116;&#111;&#109;&#046;&#105;&#111; "Contact") ;-)
 
 We can definitely break the ice around a glass of wine or a nice meal.
-
-## Professional experience
-
-I have **more than 10 years of professional experience** in the Web industry through various roles and responsibilities:
-
-- *Web developer* in a nation-wide retail company;
-- *Web consultant* at [Clever Age](http://en.clever-age.com/), a renowned French Web engineering agency;
-- *Web consultant* in my own limited company;
-- *CTO* and *co-funder* of [Dijiwan, a startup which failed](/2014/why-our-startup-failed/).
