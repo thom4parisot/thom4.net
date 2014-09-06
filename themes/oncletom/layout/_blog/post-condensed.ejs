@@ -9,7 +9,7 @@
   <div class="excerpt"><%- post.excerpt %></div>
 
   <p>
-    <a href="<%= config.root+post.path %>#more" lang="<%= post.lang || "fr" %>" class="btn btn-primary">
+    <a href="<%= config.root+post.path %>" lang="<%= post.lang || "fr" %>" class="btn btn-primary">
       <%= (post.lang || "fr") === "fr" ? "Lire la suite" : "Read more" %>
     </a>
   </p>

@@ -1,8 +1,4 @@
 <article lang="<%= post.lang || 'fr' %>" class="post post-full">
-  <header class="post-header">
-    <h1><%= post.title %></h1>
-  </header>
-
   <div class="row">
     <div class="content col-lg-10">
       <%- post.content %>
@@ -25,13 +21,13 @@
     </div>
 
     <div class="col-sm-4 nav nav-prev"><% if(post.prev){ -%>
-      <a href="<%= post.prev.permalink %>" rel="bookmark">
+      <a href="<%= url_for(post.prev.path) %>" rel="bookmark">
         <span class="icon-left-open">&nbsp;</span><%= post.prev.title %>
       </a>
     <% } -%></div>
 
     <div class="col-sm-4 nav nav-next"><% if(post.next){ -%>
-      <a href="<%= post.next.permalink %>" rel="bookmark">
+      <a href="<%= url_for(post.next.path) %>" rel="bookmark">
         <%= post.next.title %>&nbsp;<span class="icon-right-open">
       </a>
     <% } -%></div>

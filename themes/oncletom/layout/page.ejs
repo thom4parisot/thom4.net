@@ -1,10 +1,12 @@
-<div class="container">
+<%- partial('cover/post', { post: page }) %>
+
+<main class="container" role="main">
     <div class="row">
         <div class="col-sm-12">
             <%- partial("_blog/post-full", { post: page, footer: false }) %>
         </div>
     </div>
-</div>
+</main>
 
 
 

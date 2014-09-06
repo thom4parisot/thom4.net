@@ -1,14 +1,9 @@
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12">
-      <% if(page.archive){ -%><h2 class="title"><small>@</small><%= page.year %></h2><% } -%>
-      <% if(page.category){ -%><h2 class="title"><small>#</small><%= page.category %></h2><% } -%>
-    </div>
-  </div>
+<%- partial('cover/featured', { post: page.posts.first(), archiveType: page.year || page.category }) %>
 
+<main class="container" role="main">
   <div class="row">
     <% page.posts.each(function(post){ %>
     <div class="col-sm-12"><%- partial("_blog/post-condensed", {post: post})%></div>
     <% }); %>
   </div>
-</div>
+</main>

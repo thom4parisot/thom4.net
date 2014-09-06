@@ -1,7 +1,21 @@
-<div class="container">
-  <div class="row">
-    <% page.posts.slice(0, 5).each(function(post){ %>
+<%- partial('cover/hello', { post: page.posts.first() }) %>
+
+<main class="container" role="main">
+  <div class="row" id="most-recent">
+    <div class="col-sm-12">
+      <h3>Featured article</h3>
+    </div>
+
+    <div class="col-sm-12"><%- partial("_blog/post-condensed", {post: page.posts.first() })%></div>
+  </div>
+
+  <div class="row" id="a-bit-older">
+    <div class="col-sm-12">
+      <h3>Previously</h3>
+    </div>
+
+    <% page.posts.slice(1, 5).each(function(post){ %>
     <div class="col-sm-12"><%- partial("_blog/post-condensed", {post: post})%></div>
     <% }); %>
   </div>
-</div>
+</main>

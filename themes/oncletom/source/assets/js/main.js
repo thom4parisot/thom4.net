@@ -10,7 +10,7 @@
 
   // Togglable navigation
   if (typeof requestAnimationFrame === 'function') {
-    var elements = document.querySelectorAll('header.header, footer.footer');
+    var elements = document.querySelectorAll('div.post-cover, footer.footer');
     var nav = document.querySelector('header.header .navbar');
 
     var raf = function(){
