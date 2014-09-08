@@ -20,17 +20,17 @@ What is the *best*? And for *whom*? And for *how long*?
 
 # I want to buy a *baguette*
 
-I recently spent some time in a small village. This village is roughly populated by a thousand of inhabitants. It is not a lot but it is enough to have two bakeries, two *cafés*, ~~one butcher~~ and ~~one Post Office~~.
+I recently spent some time in a small village. This village is populated roughly by a thousand of inhabitants. It is not a lot but it is enough to have two bakeries, two *cafés*, ~~one butcher~~ and ~~one Post Office~~.
 
 One bakery is part of a chain (well, a *franchise*).
-The other one is held by the same family over two or three generations.
+The other one has been held by the same family for over two or three generations.
 
 The franchised bakery sells a slightly better baguette. One would even say it is a *bespoke baguette*: crusty and floured enough to feel some tradition in its making.
 
 If I buy a baguette in the franchised bakery, **I reward my tasting experience** and the effort spent to spread the recipe over the country.
 If I buy a baguette in the family bakery, well, **I have no (immediate) reward**.
 
-In both situations, the bakers are rewarded: they get some money they can spend to open the shop the day after.
+In both situations, the bakers are rewarded: they get some money they can spend to open the shop the next day.
 
 Although one bakery delivers a standardised product, available in any bakery of the same brand.
 Whereas the one bakery has a a local and unique product.
@@ -77,7 +77,7 @@ Thinking of it, I do not remember having seen advertising about *quality* nor *e
 
 # The real cost of a baguette
 
-A lot of money and efforts are thrown into elections. Vote for your hopes. Wait for the worse. And this, is only one time every couple of years, with a very little feedback loop in between.
+A lot of money and efforts are thrown into elections. Vote for your hopes. Wait for the worse. And this is only once every couple years, with a very little feedback loop in between.
 
 Whereas a small amount of money is put a lot of times for our daily needs. The feedback loop is located and available right behind the counter.
 
