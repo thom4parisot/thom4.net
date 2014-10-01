@@ -128,11 +128,12 @@ npm run lint-js -- --version
 ```js
 {
   "scripts": {
-    "build": "npm run cordova -- ",
-    "cordova": "cordova --env ${NODE_ENV || 'production'}"
+    "build": "npm run cordova -- build ios android",
+    "start": "npm run cordova -- serve 8000",
+    "cordova": "cordova --verbose"
   },
   "devDependencies": {
-    "cordova": ""
+    "cordova": "^3.6.0"
   }
 }
 ```
