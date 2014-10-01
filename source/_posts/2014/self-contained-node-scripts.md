@@ -1,3 +1,4 @@
+---
 title: Self-contained Node.js scripts
 date: 2014-10-02 10:00:00
 lang: en-GB
