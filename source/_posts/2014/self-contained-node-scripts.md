@@ -31,9 +31,9 @@ Global install of Node modules is designed for **system-wide command-line applic
 If you request your users to install *additional* and *global* Node modules in order to use your app… well, it works but it is wrong. And please, [don't make Soledad angry](http://soledadpenades.com/2014/08/22/keeping-clean/) ;-)
 
 It is wrong because it adds **extraneous implicit steps** in the install process. And worse, it exposes you to **global version conflicts**.
-If a module asks for `npm install -g browserify@1.0.0` and another one asks for `npm install -g browserify@5.0.0`, you are screwed up in a way or another.
+If a module asks for `npm install -g browserify@1.0.0` and another one asks for `npm install -g browserify@5.0.0`, you are screwed in a way or another.
 
-It is okay to install global modules for **unique executables** (like [npm](https://npmjs.org/npm)) or **global wrappers** (like [grunt-cli](https://npmjs.org/grunt-cli) or [gulp-cli](https://npmjs.org/gulp-cli)).
+It is okay to install global modules for **unique executables** (like [npm](https://npmjs.org/npm)) or **global wrappers** (like [grunt-cli](https://npmjs.org/grunt-cli) or [gulp-cli](https://npmjs.org/gulp-cli)) if they are *non-project specific*.
 
 So what if you want to *provide* executables to your standalone application? Like building, updating data from a registry or whatever? Well, you have two choices:
 - provide an **executable Node module** (in the `./bin` folder of your app for example);
@@ -54,7 +54,7 @@ npm run lint
 We could use [jshint](https://npmjs.org/jshint) to do so. And as  *jshint* exposes an executable, it will be symlinked as `node_modules/.bin/jshint` during the install process.
 In a `package.json` fashion, it would result in:
 
-```js
+```json
 {
   "title": "my-awesome-module",
   "scripts": {
@@ -71,7 +71,7 @@ In other terms, Node will first look for local executables before looking for gl
 
 Our `package.json` can be shortened as:
 
-```js
+```json
 {
   "title": "my-awesome-module",
   "scripts": {
@@ -87,7 +87,7 @@ Neat!
 
 And by keeping npm tasks command simple and explicit, you can *silently upgrade* the underlying process. We could provide HTML linting to our previous command for free:
 
-```js
+```json
 {
   "title": "my-awesome-module",
   "scripts": {
@@ -126,7 +126,7 @@ npm run lint-js -- --version
 
 [Cordova](https://npmjs.org/cordova) users will be happy to enjoy the long-awaited inception:
 
-```js
+```json
 {
   "scripts": {
     "build": "npm run cordova -- build ios android",
@@ -145,7 +145,7 @@ It happens sometimes you cannot even either install a module globally. Or a glob
 
 In that case, enclose your usual global Node executables as local dependencies:
 
-```js
+```json
 {
   // …
   "scripts": {
