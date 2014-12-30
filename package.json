@@ -1,6 +1,6 @@
 {
   "name": "oncletom.io",
-  "version": "3.5.0",
+  "version": "2.8.3",
   "private": true,
   "engines": {
     "node": ">= 0.10.0",

@@ -39,4 +39,8 @@ gm convert +dither -delay 15 -loop 1 *.jpg -colors 128  -resize 500x500 ../$(bas
 
 ## 2014?
 
-**2014 is about a *plan***. I’ll introduce it in *three* blog posts. *BRB*. Mid-January.
+**2014 is about a *plan***:
+
+- [Past](/2014/past/)
+- [Present](/2014/present/)
+- [Future](/2014/future/)
