@@ -22,7 +22,7 @@
   <meta property="og:title" content="<%= page.title || [config.title, config.subtitle].join(' &mdash; ') %>">
   <meta property="og:type" content="article">
   <meta property="og:url" content="<%= config.url + (page.current_url || (page.path && config.root+page.path)) %>">
-  <meta property="og:image" content="<%= coverUrl(page) %>">
+  <meta property="og:image" content="<%= coverUrl(page, config) %>">
   <meta property="og:description" content="<%= partial('_description') %>">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:locale:alternate" content="en_GB">

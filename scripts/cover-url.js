@@ -1,13 +1,13 @@
 'use strict';
 
-hexo.extend.helper.register('coverUrl', function(post){
+hexo.extend.helper.register('coverUrl', function(post, config){
   var url = '';
 
   if (post.cover){
     url = post.cover.url || post.cover || '';
 
     if (url.match(/^\/images/)){
-      url = hexo.extend.helper.store['url_for'](url);
+      url = config.url + hexo.extend.helper.store['url_for'](url);
     }
 
     if (url.match(/^\/\//)){
