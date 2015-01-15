@@ -59,26 +59,24 @@ The `ruby` official image is based on `debian:jessie`. [Debian removed their dep
 
 The quickest solution is to opt in for `C.UTF-8`, the UTF-8 locale provided by `libc-bin`, on Debian at least:
 
+```bash
+$ docker run -ti --rm -e LANG=C.UTF-8 ruby:2.1.5 ruby -e 'puts STDIN.external_encoding'
+UTF-8
+```
+
+Problem solved! Although it is a bit cumbersome to specify that manually. A good and persistent way of doing is to specify that environment variable in any image based on a Ruby one:
+
 ```bash ./Dockerfile
 FROM ruby:2.1.5
 
 ENV LANG C.UTF-8
-ENV LANGUAGE C.UTF-8
-ENV LC_ALL C.UTF-8
 ```
 
-It is a lightweight solution as it does not require to install an `apt` package.
-Building and running this image now defaults Ruby to UTF-8:
-
-```bash
-$ docker build -t ruby-utf8 .
-$ docker run -ti --rm ruby-utf8 ruby -e 'puts STDIN.external_encoding'
-UTF-8
-```
-
-Problem solved!
+*Et voilà* ! It is a lightweight and recommended solution as it does not require to install an `apt` package.
 
 **Knowing about the chain of base images** is very helpful as you can understand how to configure a container. Because the configuration can vary from a base image to another one, **you might want to ensure that all/most of your Docker images inherit from a same consistent base**.
+
+**Notice**: *Node.js* base image is not affected by the system locale, as Node deal with either *Buffers* or UTF-8 encoded strings anyway. 
 
 
 
