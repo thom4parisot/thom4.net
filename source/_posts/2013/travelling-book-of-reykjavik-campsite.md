@@ -19,7 +19,7 @@ Especially the one about the book I left at the [Reykjavík Campsite](http://www
 
 ## tl;dr
 
-Long story made short, **I left a copy of _Le voyageur de l'absolu_ from _Théodore Monod_ on
+Long story made short, **I left a copy of _Le chercheur d'absolu_ from _Théodore Monod_ on
 the main table of the Reykjavík Campsite's reception** between the 30th of August 2012 and the
 1st of September 2012.
 
@@ -47,7 +47,7 @@ As a side note, [I offered him a copy _Introduction à la pensée complexe_](htt
 *June 2012*.
 
 The content of the gift was so inspiring I decided to read more from Monod.
-Hence buying _Le voyageur de l'absolu_, found mostly randomly on a
+Hence buying _Le chercheur d'absolu_, found mostly randomly on a
 shelve of a bookstore (as I can't find anything on my online shopping history related to this title).
 
 This book digs into his life in the desert; he spent around 18 years living and
@@ -83,7 +83,7 @@ days and kilometers later. I even found some connections with people with whom
 we met on the road.
 
 So in a certain way, I will not be so surprised if I am contacted by the next
-owner of _Le voyageur de l'absolu_.
+owner of _Le chercheur d'absolu_.
 
 ## Self-improving
 
