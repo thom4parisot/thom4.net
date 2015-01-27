@@ -21,7 +21,7 @@ While everything is about *scaling up* and *doing more*, I initiated years ago a
 
 # tl;dr
 
-This blog post is about a plan which gradually grew up by itself. From selling my car to reducing the money allocated to live everyday, I collate here what I did to *downscale my needs*: less speed, less possessions, less reasons to spend money.
+This blog post is about a plan which gradually grew up by itself. From selling my car to reducing the money allocated to day to day life, I collate here what I did to *downscale my needs*: less speed, less possessions, less reasons to spend money.
 
 # Phase 1 — hyperlocal
 
@@ -37,7 +37,7 @@ At that stage of my life, I had a beautiful and comfortable flat for myself, mov
 
 # Phase 2 — housing
 
-I moved to London in March 2012. Here, for **£700 per month**, I can only afford a *10m^2 room* in a Zone 2 shared house. For £700 per month in Bordeaux, I could afford a *100m^2 flat* in the historical area of the city.
+I moved in London in March 2012. Here — for **£700 per month** —  I can only afford a *10m^2 room* in a Zone 2 shared house. For £700 per month in Bordeaux, I could afford a *100m^2 flat* in the historical area of the city.
 
 **I cannot complain: I have a job and I can sleep everyday at the same place**, with a solid roof over my head.
 
