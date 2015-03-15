@@ -108,4 +108,4 @@ Even though moving abroad can be tough, the resulting cultural blend is worth it
 
 So please, France, **wake up and stop ranting**. You are really amazing. *Really*.
 
-Remember that most people do not know you struggle.
+I still make typos and grammatical mistakes. What I learnt in two years is to *accept* them.
