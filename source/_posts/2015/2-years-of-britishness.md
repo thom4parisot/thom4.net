@@ -31,29 +31,30 @@ Crumpets, scones, flapjack, BLT, storey, Good Friday, pancake day, Boxing day, h
 
 Sometimes you do not get it **because you do not know** the term.
 Sometimes you do not get it **because a different idiom** would be used in France.
-Sometimes you do not get it **because you have not experienced something as you grew up**, unlikewise most British persons.
+Sometimes you do not get it **because you have not experienced some things as you grew up**, unlikewise most British persons.
 Sometimes you do not get it **because your brain has never been modelled in such a way**, because of habits, because of a Culture (and its subcultures).
 
-I have had the chance to receive a good education, to be able to process most of the english conversations I have heard so far, to be open to learn and to adapt myself to different customs and habits. I would eventually say I have the chance to have the *will* to integrate myself in a new system of culture and habits.
+I have had the chance to receive a good education, to be able to process most of the english conversations I have been part of so far, to be open to learn and to adapt myself to different customs and habits. I would eventually say I have had the chance to have the *will* to integrate myself in a new system of culture and habits.
 
 This is *not enough* though, sometimes.
 Time *and* practice helps.
-Finding a right place to live and to connect helps too.
+Finding a right place to live and to connect helps a lot too.
 
 ![](/images/2015/03/church-community-van.jpg)
 
 # Emi*grant*
 
-I recall some French news statements about foreigners immigrating to France. Blamed for their inability to *integrate* the so-greatful-France. Criticised because they gather as communities. Criticised for not being as French as French people.
+I recall some French news statements about foreigners immigrating to France. Blamed for their inability to *integrate* the so-greatful-France. Criticised because they gathered as communities instead of blending with the Nation. Criticised for not being as French as French people.
 
-When I moved to UK, I thought speaking english was enough to live there. It was already a lot but *not enough* to be British. And I will never become British because I never grew up here. I started to understand *really* what they have to endure and to experience.
+When I moved to UK, I thought speaking english was enough to live there. It was already a lot but *not enough* to be British. And I will never become British because I never grew up here. Period. I started to understand *really* what these emigrants have to endure and to experience. Every day.
 
-I am *like* these emigrants. **I *am* an emigrant**. A son of both an emigrant and a French-born-and-raised individuals who loved themselves more than the distance between their country. I only realised at this time what it is to live in a foreign country and **how easy it is to feel appart** from a different set of ritualised cultural habits that are not yours.
+I am *like* these emigrants. **I *am* an emigrant**. A son of both an emigrant and a French-born-and-raised individuals who loved themselves more than the distance between their country. I only realised at this time what it is to live in a foreign country and **how easy it is to feel appart** from a different set of ritualised cultural habits that have never been yours.
  
-I takes time and effort to embrace, to breathe and to experience a good spectrum of this foreign-not-so-foreign-anymore culture.
+It takes time and effort to embrace, to breathe and to experience a good spectrum of this foreign culture. Not so foreign anymore.
 
 And I am “lucky”: I do not have kids and a wife to feed. I do not have an average job. I do not have to commute two hours back and forth at indecent hours.
-I do have time to experience, to enjoy leisures, to move freely, to integrate local communities, to follow self-development tuitions and to work with (local|digital) natives.
+
+Which means *I have time* : I do have time to experience, to enjoy leisures, to move freely, to integrate local communities, to follow self-development tuitions and to work with (local|digital) natives.
 
 The time *and* the capabilities.
 
