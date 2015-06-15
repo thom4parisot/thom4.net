@@ -1,5 +1,6 @@
 ---
 title: Hey, I'm Thomas!
+lang: en-GB
 date: 2006-08-16 18:31:46
 updated: 2014-08-24 19:03:00
 cover:
