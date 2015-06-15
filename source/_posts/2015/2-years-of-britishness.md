@@ -1,5 +1,6 @@
 title: Two years of Britishness
 date: 2015-03-12 09:00:00
+lang: en-GB
 tags:
 - London
 - cultural differences
