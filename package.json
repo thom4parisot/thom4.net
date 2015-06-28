@@ -8,7 +8,8 @@
   },
   "scripts": {
     "start": "hexo server",
-    "deploy": "hexo deploy --generate --debug",
+    "deploy": "NODE_ENV=production hexo deploy --generate --debug",
+    "new": "hexo new article",
     "test": "jshint themes/oncletom"
   },
   "dependencies": {
