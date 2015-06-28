@@ -50,6 +50,6 @@ I will *continue* to send you *postcards*.
 
 ![](/images/2015/06/rue-du-sermon.jpg)
 
-Farewell grandma. **I wish graves would have a letterbox**.
+Farewell grandma. **I wish graves had a letterbox**.
 
 ![](/images/2015/06/mourning.jpg)
