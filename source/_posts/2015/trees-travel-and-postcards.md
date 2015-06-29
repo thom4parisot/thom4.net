@@ -42,7 +42,7 @@ And **I am happy I am able to *cry*** — this time.
 
 You loved to receive postcards and photographs. You said it was a way for you to travel from your couch. You were delighted by my *creativity*. Ever since I was a *kid*.
 
-This is what I would like to remember. The **trees** and the **green landscapes** you liked to be *surrounded* by. The **postcards** you liked to *receive*.
+This is what I would like *us* to remember. The **trees** and the **green landscapes** you liked to be *surrounded* by. The **postcards** you liked to *receive*.
 
 I will *continue* to send you *postcards*.
 
