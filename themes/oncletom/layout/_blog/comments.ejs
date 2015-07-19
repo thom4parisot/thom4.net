@@ -1,7 +1,7 @@
 <% if (config.disqus_shortname && page.comments){ %>
 <section id="comments">
   <header class="comments-header">
-    <h2>Vos réactions</h2>
+    <h2><%= (page.lang || "fr") === "fr" ? 'Vos réactions' : 'Readers comments' %></h2>
   </header>
 
   <div id="disqus_thread"></div>
