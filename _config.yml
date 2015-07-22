@@ -8,6 +8,7 @@ subtitle: Crafting with Web technologies and human beings.
 description: "Hey, I'm Thomas! A french web engineer living in London and working for BBC R&D. I express my views and interests about Web development, Node.js, Docker and long-term life experiences."
 author: Thomas Parisot
 email: hi@oncletom.io
+default_cover: //farm9.staticflickr.com/8044/8147306385_5900f08cb0_c.jpg
 language: fr
 keywords:
   - javascript

@@ -1,11 +1,13 @@
 'use strict';
 
 hexo.extend.helper.register('coverUrl', function(post, config){
-  var url = '';
+  var url = post.cover ? (post.cover.url || post.cover) : '';
 
-  if (post.cover){
-    url = post.cover.url || post.cover || '';
+  if (!url && config.default_cover) {
+    url = config.default_cover;
+  }
 
+  if (url){
     if (url.match(/^\/images/) && process.env.NODE_ENV === 'production'){
       url = config.url + hexo.extend.helper.store['url_for'](url);
     }

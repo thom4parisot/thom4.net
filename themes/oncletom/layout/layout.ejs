@@ -10,8 +10,7 @@
   <meta name="description" content="<%= partial("_description") %>">
   <meta name="keywords" content="<%= (page.tags && page.tags.toArray().map(function(tag){ return tag.name; }) || []).concat(config.keywords).join(',') %>">
   <link rel="alternate" type="application/rss+xml" title="<%= [config.title, config.subtitle].join(' &mdash; ') %>" href="<%= config.url %>/feed/">
-  <link rel="author" href="<%= config.graph.google_plus %>">
-  <link rel="publisher" href="<%= config.graph.google_plus %>">
+  <link rel="author" href="<%= config.author %>">
   <link rel="canonical" data-disqus-shortname="<%= config.disqus_shortname %>" href="<%= config.url + (page.current_url || (page.path && config.root+page.path) || '') %>">
   <% if ('first' in page && !page.year && !page.category){ -%><link rel="prefetch" href="<%= page.first().permalink %>"><% } %>
   <% if (page.next){ -%><link rel="prefetch" href="<%= page.next.permalink %>"><% } %>
