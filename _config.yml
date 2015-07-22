@@ -5,19 +5,22 @@
 # Site
 title: oncletom.io
 subtitle: Crafting with Web technologies and human beings.
-description: ""
+description: "Hey, I'm Thomas! A french web engineer living in London and working for BBC R&D. I express my views and interests about Web development, Node.js, Docker and long-term life experiences."
 author: Thomas Parisot
-email: thomas@oncle-tom.net
+email: hi@oncletom.io
 language: fr
 keywords:
-  - css3
-  - html5
   - javascript
-  - web
+  - docker
   - node.js
+  - html5
+  - web
   - frontend
   - development
   - entreprise
+  - france
+  - united kingdom
+  - london
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -92,7 +95,7 @@ theme: oncletom
 exclude_generator:
 
 graph:
-  google_plus:    https://plus.google.com/115285777580649204035/
+  google_plus:    ~
   facebook:       ~
   twitter:        oncletom
 
@@ -104,4 +107,4 @@ deploy:
   user: oncletom
   root: ~/
   delete: false
-  exclude: [.ssh, .bash*, .htaccess, images, talks]
+  exclude: [.ssh, .bash*, .htaccess, talks]
