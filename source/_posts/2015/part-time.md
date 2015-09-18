@@ -14,7 +14,7 @@ cover:
   url: /images/2015/09/zuchini-jam.jpg
 ---
 
-This year, I have not asked for a pay rise: **I have asked to work less**. Here are the reasons why and what my plans to use this extra day of *freedom*.
+This year, I have not asked for a pay rise: **I have asked to work less**. Here are the reasons why and what are my plans to use this extra day of *freedom*.
 
 <!--more-->
 
