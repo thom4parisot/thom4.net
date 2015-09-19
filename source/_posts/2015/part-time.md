@@ -68,7 +68,7 @@ I can compensate the money I will not save anymore by cycling to work and by hos
 
 # The productivity hypothesis
 
-I suspect that by by working less, and by focusing even more on what matters to me outside of work, **working less can improve one's *work-life balance***.
+I suspect that by working less, and by focusing even more on what matters to me outside of work, **working less can improve one's *work-life balance***.
 
 I guess I am already happy at work: for the first time ever, I did not want to quit my job after travelling for a month. I am simply happy and curious to try out another route to benefit of free time *on a more regular basis* – a weekly basis – instead of waiting for a year to wander in wild landscapes with a tent and a rucksack.
 
