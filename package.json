@@ -3,24 +3,25 @@
   "version": "2.8.3",
   "private": true,
   "engines": {
-    "node": ">= 0.10.0",
-    "npm": ">= 1.3.0"
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
   },
   "scripts": {
     "start": "hexo server",
     "deploy": "NODE_ENV=production hexo deploy --generate --debug",
     "new": "hexo new article",
-    "test": "jshint themes/oncletom"
+    "test": "jshint themes/oncletom",
+    "watch": "grunt watch"
   },
   "dependencies": {
     "hexo": "^2.7.1",
     "hexo-renderer-ejs": "^0.1.0",
     "hexo-renderer-less": "^0.1.1",
     "hexo-renderer-marked": "^0.1.0",
-    "reading-time": "0.0.1"
+    "reading-time": "^0.1.0"
   },
   "devDependencies": {
-    "hexo-generator-feed": "0.0.10",
-    "jshint": "^2.5.1"
+    "hexo-generator-feed": "^0.0.10",
+    "jshint": "^2.8.0"
   }
 }
