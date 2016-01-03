@@ -16,6 +16,8 @@ What 2014 looked like, **every day**, in picture(s).
 
 <!--more-->
 
+**Every day** is a photography series I started in 2013 in order to fight my fear of having habits. It has been designed as a daily ritual: one picture from a fixed location, **every day I woke up at home** paired with a **written memory**.
+
 # 2014
 
 - **228** days at home
@@ -54,4 +56,4 @@ cat *.jpg | avconv -f image2pipe -r 6 -vcodec mjpeg -i - -vcodec libx264 -compre
 
 **2015 is about *farming* and *fulfillment***.
 
-
+**Every day** in *2014* • [2013](/2013/everyday/).
