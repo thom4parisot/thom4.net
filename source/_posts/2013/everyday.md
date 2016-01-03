@@ -16,6 +16,8 @@ What 2013 looked like, **every day**, in picture(s).
 
 <!--more-->
 
+**Every day** is a photography series I started in 2013 in order to fight my fear of having habits. It has been designed as a daily ritual: one picture from a fixed location, **every day I woke up at home** paired with a **written memory**.
+
 ## 2013
 
 - **283** days at *home*
@@ -39,8 +41,4 @@ gm convert +dither -delay 15 -loop 1 *.jpg -colors 128  -resize 500x500 ../$(bas
 
 ## 2014?
 
-**2014 is about a *plan***:
-
-- [Past](/2014/past/)
-- [Present](/2014/present/)
-- [Future](/2014/future/)
+**2014 is about a *plan***: [Past](/2014/past/) • [Present](/2014/present/) • [Future](/2014/future/).
