@@ -1,6 +1,8 @@
 # Redirection feeds
+RedirectTemp /music http://www.last.fm/user/the-jedi/
 RedirectTemp /music/ http://www.last.fm/user/the-jedi/
 RedirectMatch temp /code/(.*) https://github.com/oncletom/$1
+RedirectPermanent /talks https://oncletom.io/talks/
 RedirectPermanent /categories/projets/ https://oncletom.io/categories/projects/
 RedirectPermanent /categories/webdev/ https://oncletom.io/categories/web/
 RedirectPermanent /categories/travail/ https://oncletom.io/categories/work/
@@ -208,7 +210,7 @@ AddDefaultCharset utf-8
     ExpiresDefault                                      "access plus 1 month"
 
   # CSS
-    ExpiresByType text/css                              "modification plus 1 year"
+    ExpiresByType text/css                              "access plus 1 year"
 
   # Data interchange
     ExpiresByType application/json                      "access plus 0 seconds"
@@ -225,7 +227,7 @@ AddDefaultCharset utf-8
     ExpiresByType text/html                             "access plus 0 seconds"
 
   # JavaScript
-    ExpiresByType application/javascript                "modification plus 1 year"
+    ExpiresByType application/javascript                "access plus 1 year"
 
   # Manifest files
     ExpiresByType application/x-web-app-manifest+json   "access plus 0 seconds"
@@ -349,3 +351,9 @@ AddCharset utf-8 .css .js .xml .json .rss .atom
   RewriteCond %{HTTP:X-Forwarded-Proto} !https
   RewriteRule ^ https://oncletom.io%{REQUEST_URI} [R=301,L]
 </IfModule>
+
+
+SetEnv REGISTER_GLOBALS 0
+SetEnv MAGIC_QUOTES 	0
+SetEnv ZEND_OPTIMIZER	1
+SetEnv PHP_VER 		5
