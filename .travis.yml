@@ -1,0 +1,8 @@
+language: node_js
+node_js: v4
+
+deploy:
+  provider: script
+  script: npm run deploy
+  on:
+    branch: master

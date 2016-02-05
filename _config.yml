@@ -104,7 +104,7 @@ graph:
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
   type: rsync
-  host: oncletom
+  host: ssh-oncletom.alwaysdata.net
   user: oncletom
   root: ~/
   delete: false

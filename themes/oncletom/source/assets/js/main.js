@@ -50,7 +50,7 @@
       el.classList.add('visible');
     }
     else if (!canBeVisible && el.classList.contains('visible')){
-      el.classList.remove('visible')
+      el.classList.remove('visible');
     }
   }
 

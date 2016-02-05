@@ -10,17 +10,18 @@
     "start": "hexo server",
     "deploy": "NODE_ENV=production hexo deploy --generate --debug",
     "new": "hexo new article",
-    "test": "jshint themes/oncletom",
-    "watch": "grunt watch"
+    "postinstall": "bower install",
+    "test": "jshint themes/oncletom"
   },
   "dependencies": {
     "hexo": "^2.7.1",
     "hexo-renderer-ejs": "^0.1.0",
     "hexo-renderer-less": "^0.1.1",
     "hexo-renderer-marked": "^0.1.0",
-    "reading-time": "^0.1.0"
+    "reading-time": "^1.0.2"
   },
   "devDependencies": {
+    "bower": "^1.7.7",
     "hexo-generator-feed": "^0.2.1",
     "jshint": "^2.8.0"
   }
