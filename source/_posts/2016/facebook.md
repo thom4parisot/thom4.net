@@ -14,7 +14,7 @@ cover:
 	url: /images/2016/01/verdon.jpg
 ---
 
-I "permanently" deleted my Facebook account right before attending a 2014 New Year's Eve party. A few minutes after, I realised I have had not written down the address of the venue and faced a sad reality: **I delegated too much of my everyday life to one single actor**. Unconsciously. Gradually. And a bit by denial.
+I "permanently" deleted my Facebook account right before attending 2014 New Year's Eve party. A few minutes after, I realised I have had not written down the address of the venue and faced a sad reality: **I delegated too much of my everyday life to one single actor**. Unconsciously. Gradually. And a bit by denial.
 
 <!--more-->
 
@@ -33,14 +33,16 @@ I do not think it negatively affected my life and rather helped me reduce noise 
 In parallel to my gradual settlement in Albion, I started noticing I obliged myself to *like* statuses and found it harder and harder to *comment* on them. The kind of feeling you experience when you are not truthful to yourself. **I felt culprit of *passive liking***.
 
 I think I was acting like this for two reasons:
-- I knew Facebook privileged surfacing activities of active users and reciprocally, surfaced my activities more with the people I interacted the most;
+- I knew Facebook privileged **surfacing activities of *active* users** and reciprocally, surfaced my activities more with the people I interacted the most;
 - I did not want my less active friends to become out of sight if I was not interacting enough with them.
 
 All this is *self feeding*: you encounter activities of people you interact with, forget a bit about the other ones — the ones with whom you interact less with — so they eventually end up appearing even less frequently in your stream etc.
 
 So wait a minute: **is my social life *that* much in the hands of a tool supposed to help keeping in touch with friends**? — *I do not even talk about growing friendships*.
 
-I felt it was a regression from what I used to like Facebook for. So **I refused** to carry on like this and **decided to actively take over** how I interacted with my friends.
+Even though I thought I was controlling my social life and friendships, I realised **my social life and friendships were actually organised for me**. This is exactly the **difference between *easy* and *simple**. It is *easy* to be on Facebook and carry on. A good friendship is often *simple* — although individuals can be *complex*.
+
+I concluded it was a regression from what I used to like Facebook for. So **I refused** to carry on like this and **decided to actively take over** how I interacted with my friends.
 
 ## Goals
 
@@ -68,7 +70,7 @@ So I had three hypothesis in mind prior to deleting my account.
 
 If I already have genuine friends, why should the move affect how we appreciate each other?
 
-Hunch: *it should not affect negatively our friendships*.
+Hunch: *it would not affect negatively our friendships*.
 
 > I lose — partly or entirely — a great discovery channel.
 
@@ -78,7 +80,7 @@ Hunch: *well, we will see*.
 
 > Some friendships will be less active; our day to day interactions less frequent.
 
-I was quite convinced *this* would definitely happen. By browsing on Facebook every day, it is like gathering at the counter of your local to cheer at each other.
+I was quite convinced *this* would definitely happen. By browsing Facebook every day, it is like gathering at the counter of your *local* (pub or café) to cheer at each other.
 
 Except it is not *really* like being at your local. But it gives a feel like it is. And it is easier 'cause you can get your fingers dirty eating a massive bag of crisps at the same time.
 
@@ -94,7 +96,7 @@ I clearly remember the ~~three~~ two first feelings I experienced:
 2. a pair of days of guilt and fear — *how is it going to turn out*?;
 3. a lighthearted sentiment of relief and freedom — *extra free time and no unintended actions to subdue myself to, yay*!
 
-Small precision though: I generally do not feel a need to talk to plenty of people to feel alive. I also enjoy being and doing stuff on my own. Social interactions are therefore rather on purpose, not by despair.
+Small precision though: I generally do not feel a need to talk to plenty of people to feel alive. I also enjoy being and doing stuff on my own, as well as solitude. Social interactions are therefore rather on purpose and bring me a lot of joy.
 
 I think over the year 2015, I ended up:
 
@@ -105,6 +107,7 @@ I think over the year 2015, I ended up:
 - increasing the time needed to reply to messages — *from days to months*;
 - feeling improved friendships both in London and in France;
 - losing sight of some Facebook non-active friends — especially with those whom I did not have their email addresses;
+- attended less Meetups/conferences/events;
 - not missing out what happened on Facebook — *in the end, I do not know what's going on there so I have no way to know what I missed*;
 - **being happier to see, read and write to friends**.
 
@@ -114,6 +117,15 @@ A tiny tiny fraction thought I did it *against them*, that I still had my accoun
 Most of them did not care much and either tried to find my email or contact me through other means.
 
 In the end, even if email protocols are probably less secure than messenging each other on Facebook, the **communication feels way more intimate via emails** or any other one-to-one communication channel. At least that's how I feel about it.
+
+**Quick note** on the Meetups/conferences/events. It looks like I was tired of *less genuine* physical gatherings too. I was less interested in engaging with people solely to be polite. **I was less interested in events praising complicated and unnecessary tools**. If what they provide is not obviously helping me, this is then not something I *need*.
+  
+Maybe we can call it **consumption fatigue**. Tired of being harangued to try something new, to adopt something which I am told it is better/faster/stronger, to listen to what I have to do to live a better life.
+I felt it was like entering a Tesco for a discounted minute-ready meal which would make my life easier.
+
+I definitely want a simple life. Not an easy one.
+
+And none of the aforementioned incentives intend to *ease up* a *simple* life.
 
 ![](/images/2016/01/bordeaux-street.jpg)
 
