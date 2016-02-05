@@ -1,8 +1,9 @@
 language: node_js
 node_js: v4
+sudo: false
 
 deploy:
   provider: script
-  script: npm run deploy
+  script: node_modules/.bin/hexo deploy --generate
   on:
     branch: master

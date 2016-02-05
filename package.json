@@ -8,7 +8,6 @@
   },
   "scripts": {
     "start": "hexo server",
-    "deploy": "NODE_ENV=production hexo deploy --generate --debug",
     "new": "hexo new article",
     "postinstall": "bower install",
     "test": "jshint themes/oncletom"

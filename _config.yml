@@ -108,4 +108,4 @@ deploy:
   user: oncletom
   root: ~/
   delete: false
-  exclude: [.ssh, .bash*, .htaccess, talks]
+  exclude: [.ssh, .bash*, .htaccess, talks, node_modules, bower_components]
