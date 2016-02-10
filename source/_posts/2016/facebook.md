@@ -22,7 +22,7 @@ I precautiously write the term *permanently* because I have no idea what is kept
 
 # tl;dr
 
-I wanted to permanently delete my Facebook account to experience pre-Facebook area friendships.
+I wanted to permanently delete my Facebook account to experience pre-Facebook era friendships.
 
 I do not think it negatively affected my life and rather helped me reduce noise consumption.
 
@@ -141,7 +141,7 @@ So in addition of deleting the Facebook app on my phone, I did the following as 
 - downgrading my mobile phone plan from *unlimited* to 500MB per month — *also because I refused the 33% price increase of the data plan*;
 - as a result, switching mobile data on/off to save up on phone bandwidth — *plain phone/texts = urgent, rest is asynchronous and not urgent*;
 - removing any kind of notifications — *I kept Twitter DM because they are not that frequent*;
-- deleting my LinkedIn account — *oh Gosh, way less spam of terrible recruiters!*;
+- deleting my LinkedIn account — *oh Gosh, way less spam from terrible recruiters!*;
 - deleting my Google+ account;
 - deleting my Flickr account — *in progress though, there is no easy way to backup its content
 - cancelling Spotify subscription — *rather switched to podcasts synced over Wi-Fi*;
