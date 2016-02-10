@@ -2,8 +2,12 @@ language: node_js
 node_js: v4
 sudo: false
 
+addons:
+  ssh_known_hosts: ssh-oncletom.alwaysdata.net
+
 deploy:
+  skip_cleanup: true
   provider: script
-  script: node_modules/.bin/hexo deploy --generate
+  script: "npm run deploy"
   on:
     branch: master
