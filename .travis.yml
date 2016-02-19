@@ -1,13 +1,15 @@
 language: node_js
 node_js: v4
 sudo: false
-
 addons:
   ssh_known_hosts: ssh-oncletom.alwaysdata.net
 
-deploy:
-  skip_cleanup: true
-  provider: script
-  script: "npm run deploy"
-  on:
-    branch: master
+before_install:
+- openssl aes-256-cbc -K $encrypted_a47c168ad38c_key -iv $encrypted_a47c168ad38c_iv -in id_rsa.enc -out $TRAVIS_BUILD_DIR/id_rsa -d
+
+after_success:
+- if [ $TRAVIS_BRANCH != 'master' ]; then exit 0; fi
+- eval "$(ssh-agent -s)"
+- chmod 600 $TRAVIS_BUILD_DIR/id_rsa
+- ssh-add $TRAVIS_BUILD_DIR/id_rsa
+- npm run deploy
