@@ -147,10 +147,14 @@ My favourite way of deploying is to use the [`deploy` script](https://docs.travi
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync --delete-after --quiet $TRAVIS_BUILD_DIR/dist <ssh-user>@<deploy-host>:path/to/files
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/<dir> <ssh-user>@<deploy-host>:path/to/files
   on:
     branch: master
 ```
+
+`<dir>` is the folder you want to recursively upload remotely. Best is to assemble and copy all the files you want to copy in this folder, like:
+- `$TRAVIS_BUILD_DIR/_dist` if your generator is [Jekyll](jekyllrb.com);
+- `$TRAVIS_BUILD_DIR/public` if your generator is [hexo](https://hexo.io/).
 
 `skip_cleanup` is kind of mandatory otherwise [Travis resets the git directory state](https://docs.travis-ci.com/user/deployment/#Uploading-Files).
 
