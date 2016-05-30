@@ -2,10 +2,9 @@
 title: Hey, I'm Thomas!
 lang: en-GB
 date: 2006-08-16 18:31:46
-updated: 2014-08-24 19:03:00
+updated: 2016-05-30 21:00:00
 cover:
-  url: //farm9.staticflickr.com/8044/8147306385_5900f08cb0_c.jpg
-  link: http://www.flickr.com/photos/parisweb/8147306385/
+  url: /images/thomas-parisot.jpg
 ---
 
 **Thomas Parisot** is my full name and people often call me *Tom*.
