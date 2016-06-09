@@ -27,21 +27,21 @@ Working on a non-profit event project for years was both an experimental lab and
 
 # What is Sud Web?
 
-Sud Web was born in October 2010 in the midst of a [French web conference which taught me so much](http://www.paris-web.fr/). A few folks stood up and asked for help to organise a conference in the South of France. With all to do in less than 6 months. Challenge accepted!
+Sud Web was born in October 2010 in the midst of a [French web conference which taught me so much](http://www.paris-web.fr/). A few folks stood up and asked for help to organise a conference in the South of France. Everything had to be done in less than 6 months. *Challenge* accepted!
   
-At the time, there was not so many web related events happening outside of Paris and we shared that vision of creating something slightly different, less focused on the latest tech nor the latest spec.
+At the time, there were not so many web related events happening outside of Paris. Part of us shared a common vision of creating something slightly different, less focused on the latest tech nor the latest spec.
 
 Sud Web was born like this, as a **yearly conference about web development and web design**, moving from town to town, bathing in the **good spirit of the South of France**.
 
 # Our choices
 
-- XP + testimony
-- petite taille
-- être et faire ensemble
-- editorialisation de la journée
-- valeurs solides
-- créer la conf où on a envie d'aller
-- prendre soin
+We started with implicit choices but strong ones: **favouring feedbacks and experience sharing** rather than listicles (e.g.: *10 ways to be an awesome {developer, designer, etc.}*) and name dropping talks (e.g.: *{React, HTML5, etc.} for the win*) within a **voluntarily small audience** (120 tickets, including discounted fares for students and job seekers).
+
+We wanted to reflect our intuition through the baseline of Sud Web: *savoir-faire et faire savoir* (a pun around *know-how and how to make it known*). We identified our former intuition and transformed them in **explicit values** after two or three editions.
+
+We also wanted to design the conference over two days: one day of talks and one day of workshops based on the [OpenSpace principles](http://www.mindviewinc.com/Conferences/OpenSpaces.html). There is nothing better than enabling and **empowering people to organise hands-on sessions** based on an inspiring first one. - editorialisation de la journée
+
+In the end, **we created and learned to shape the conference we wanted to attend every year**, content and format included.
 
 # From infancy to maturity
 
