@@ -13,6 +13,8 @@ categories:
 - Projects
 - WebDev
 cover:
+  url: https://farm7.staticflickr.com/6179/6132136989_0be219d363_b_d.jpg
+  link: https://www.flickr.com/photos/sudweb/6132136989/in/album-72157627589421910/
 ---
 
 What is better than *50 shades of Grey*? 69 months of conference organisation. Almost **6 years**!
@@ -23,7 +25,7 @@ What is better than *50 shades of Grey*? 69 months of conference organisation. A
 
 # tl;dr
 
-Working on a non-profit event project for years was both an experimental lab and a source of self-awareness.
+Working on a non-profit event project for years was both an experimental lab and a source of self development.
 
 # What is Sud Web?
 
@@ -45,14 +47,46 @@ In the end, **we created and learned to shape the conference we wanted to attend
 
 # From infancy to maturity
 
-- technique -> humain
-- cfp -> curation + cfp
-- 100% organisé -> cadre + auto-organisation
-- XP -> XP + inspiration
-- web -> around the web / interdisciplinarité (prolongement et contenu dans la réalité)
-- être bon au boulot -> être bien dans sa peau (et dans son cerveau)
+We learnt how to work as a distributed team of volunteers but we also *evolved* as part of the non-profit organisation.
+
+We indeed started as a spin-off of a web conference and after two editions, it was clear speaking about newer tools or *better* tools did not solve any of the day to day problems.
+As a consequence, we wanted to put even more emphasis on experience sharing and on topics around the web.
+
+Content diversity is hard to achieve through a *call for speakers* selection process. As a consequence **we started to curate some of the speakers after three editions**. It gave us free hands to identify and give the opportunity to bring on stage people who were not aware of Sud Web and we thought who could bring a tremendous knowledge to the delegates. 
+People found it weird the first time we did it (and because this is France we were obviously flagged as *non-democratic* in our selection process). Now attendees are happily surprised it works so well.
+
+*Curation* itself does not make things better on its own. **We opened the range of topics** covered during the day of conferences: law, arts, psychology, fashion design, digital humanities etc.
+It enabled us to move and recenter from *what we do* to *why do we do it* and *what do I want to be*. Asking more long term questions than giving short term answers. Treating people like evolving individuals rather than hamsters in a wheel.
+
+*Curation* means *more work* but it coincided with the time when the organising team shrinked down to four people and a half, **we leaned towards simplification**. It means we decided to limit the call for speakers to [lightning talks](https://en.wikipedia.org/wiki/Lightning_talk) and workshops, then to *lightning talks* only — thus making the second day facilitated and fully self-organised (instead of being bootstrapped by a few selected workshop proposals).
+
+We experienced that **a focused and responsible organisation of 4 people is more efficient than one of 8 or 10**. It was shockingly surprising how few/none arguments we had nor tension at all we faced during the preparation logistics. Maybe this is when we realised how **spending efforts to empower attendees was more rewarding** than trying to make everything pixel perfect.
+
+When we were only the four of us, we had to focus on the essentials. We realised how much shite pumped our time and energy whereas it was unrelated to the conference itself: the website design and codebase (we moved to plain 'ol HTML pages before switching to an HTML generator), identifying a goodies provider (preferably ethical or involving craftsmanship) etc.
+We made the decision that if we had to add something new, it had to do with the *content*. And a **conference content means what speakers say and what attendees do** (think of *artefacts*).
+
+And in term of *doing*, we started shaking attendees by **introducing hands on talks**:
+
+1. breaking the ice of **drawing** in 2014;
+2. making **pixel art with paper and pencils** in 2015;
+3. making your own **zero waste cable bag** in 2016.
+
+One of the content which evolved the most is the **debate talk format**:
+
+1. a **round table** in 2011;
+2. **open questions** session in 2012;
+3. an **interactive talk** in 2013 — in the beautiful [Avignon pope's palace](https://www.flickr.com/photos/sudweb/9067041107/in/album-72157634180913656/lightbox/);
+4. a **hacked talk** in 2014 — hacked into a giant Q&A about what makes us a *good person*;
+5. a **non-recorded open mic** in 2015 — about how people *feel* about their life at work;
+6. nothing in 2016 as we lacked of time — although we wanted to try **small groups urban perambulation** followed by a retrospective.
+
+**We learned and moved from web technology to goodwill**. And curiously, *bienveillance* is a term which does not translate well into English — which has way better and clear words on so many other aspects of life.
 
 # What I am proud of
+
+I am really proud of what I have been doing over the past 6 years. Proud of all our team work. Proud of all these great times when we gathered to triage the call for speakers submissions or ran the retrospective after the conference ended. Proud of the smiles and signs of well being attendees gathered with them back home. Proud of the speakers who spoke for the first time and received their first and already biggest clapping hands ovation so far. Proud of the people who trusted us, once or many times.
+
+I am also proud of a few twists I delicately (I hope so) injected into the conference DNA.
 
 ## Speaker curation
 
@@ -61,7 +95,7 @@ In the end, **we created and learned to shape the conference we wanted to attend
 
 ![](/images/2016/06/sudweb-tooling-talks.png)
 
-## Open Source attitude
+## Finding a voice
 
 ![](/images/2016/06/sudweb-emailing.png)
 
@@ -93,3 +127,5 @@ Six years ago, I thought I were a web developer.
 Now, I can say with confidence I am good at designing software, innovation and photography. I also enjoy my apprenticeship in bread making, volunteering and permaculture.
 
 I embraced **shifting from a job title to many skills-related activities** — some of them are paid, some of them are unpaid.
+
+Thank you for the past six years.
