@@ -84,22 +84,65 @@ One of the content which evolved the most is the **debate talk format**:
 
 # What I am proud of
 
-I am really proud of what I have been doing over the past 6 years. Proud of all our team work. Proud of all these great times when we gathered to triage the call for speakers submissions or ran the retrospective after the conference ended. Proud of the smiles and signs of well being attendees gathered with them back home. Proud of the speakers who spoke for the first time and received their first and already biggest clapping hands ovation so far. Proud of the people who trusted us, once or many times.
+**I am really proud of what we achieved over the past 6 years**. Proud of all our *team work*. Proud of all these *great social times* when we gathered to triage the call for speakers submissions or ran the retrospective after the conference ended. Proud of the *smiles and signs of well being* attendees gathered with them back home. Proud of the speakers who spoke for the first time and received their first and already biggest clapping hands ovation so far. Proud of the people who *trust* the conference, once or many times.
 
 I am also proud of a few twists I delicately (I hope so) injected into the conference DNA.
 
 ## Speaker curation
 
+From the many conferences I attended, I noticed the **outstanding quality feeling** I got out of them when part of their agenda was curated.
+
+Since day one, I spent most of my efforts to influence the **content of the conference**. Most notably by asking and helping a few people to submit a talk proposal. I was in a good position to offer to try something a bit different by running the curation of the fourth edition in 2014.
+
+I tried as much as I could **to share my motivations for every speaker** I wanted to invite on stage in order to receive a buy-in from the rest of the staff. It happened the Sud Web team always *liked my choices*, even if sometimes they could really be dubious about some of them — fashion design at a web conference really?
+
+I think curation helped us to make **bold statements** (about emotions, about meaningfulness etc.), **to build our very own identity** based on strong values and to *create questioning content* rather than solely broadcasting active speaker minds.
+
+Curation is definitely a great tool **to explore areas of interest** and **to tell a cohesive story** throughout the day via a breadth of topics which help people to think better, to look at things differently or to raise their awareness.
 
 ## Tooling
 
+I was interested in bringing good speakers in order to construct  a good audience. By doing so, I realised my **software development skills could be useful** to improve the organisational side of things.
+
+We started with — and since kept using — Google Forms as a way to submit proposals during the call for speakers. Reviewing hundreds of proposals in Google Spreadsheet is nor white nor black: it is **great to collect** votes but it is **terribly poor to visualise** long paragraphs
+
+I gradually iterated over a *single page app*: it fetches the Spreadsheet data via Google Spreadsheets (undocumented) JSON API and populates a user interface with the submissions. And provides all the needed comfort to work during the yearly submissions review day.
+
 ![](/images/2016/06/sudweb-tooling-talks.png)
+
+Since 2015, Sud Web displays not only the speakers list but the **attendees list** on the website. I wanted to provide a feeling of *belonging* to the attendees, as well as a nice entrypoint to browse the faces of everybody. Conferences also have great people on the audience side, so better to broaden the spotlight to the entire crowd — have you ever been to a conference because of a delegate rather than a speaker?
+
+Well, it happens at Sud Web and it did not require much more than a [combination of `curl` and `jq`](/2016/pipelining-http/) to gather the data from the [ticketing service API](#) and to consume them with a static pages generator system. 
 
 ## Finding a voice
 
+Sending emails to speakers and attendees was part of our tooling needs. We use [Mailchimp](#) for that — and they have been kindly sponsoring Sud Web for five years.
+
+This time I brought some *user experience* by iterating over the content after listening to feedbacks and hearing over conversations in the corridors. A few improvements were brought to the mailings:
+
+- **bare bone layouts for speakers communication**  
+One to one conversation implies a plain text email or slightly formatted HTML email. I moved the fancy template to a monochrome, one logo and one column layout. The idea was to be as close as possible to a conversational email *but* emitted by an organisation which cares about its recipients. The email is broadcasted to a group of people but you read it as an individual.
+- **what is paid by Sud Web and what is not**  
+Some conferences do not include food, some of them offer a round of drinks and some of them do pay for everything — as a speaker it is hard to know what to expect and it is frustrating to have to take out a debit card whereas they were *invited* to a party.  
+- **building a safe zone**  
+I assumed people did not know much about Sud Web when writing emails. Also, as a speaker, you go through quite a stress to think about and write about your talk, even if it is a fives minutes *lightning talk*. I assumed I had to clear every single areas of stress each time a dispatch was sent: what are we doing, when are you going to receive the next message, rehearsal schedules, what do we expect from you etc.  
+As a consequence, *opening ratio* increased and we received more responses thanking us and expressing relief.
+- **print me out**  
+A direct consequence of the previous points, the ultimate email we send contains everything a speaker has to know before boarding on their journey — from home to conference to stage to home again.
+
 ![](/images/2016/06/sudweb-emailing.png)
 
+Emails is the most powerful tool — because of its highly personal consumption experience — I had to use to build confidence between Sud Web and our speakers (and attendees).
+
 # Lessons learnt
+
+Speakers are content.
+Attendees are content.
+Emails are content.
+
+The biggest lesson is a conference is all about content. The crafted experience is the shape of the bridge connecting the various sources of content.
+
+We started as a large group who focused on loads of points — website, SEO, graphic design, goodies, organisational 
 
 - simplifier
 - créer une culture
