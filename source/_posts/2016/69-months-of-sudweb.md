@@ -41,7 +41,7 @@ We started with implicit choices but strong ones: **favouring feedbacks and expe
 
 We wanted to reflect our intuition through the baseline of Sud Web: *savoir-faire et faire savoir* (a pun around *know-how and how to make it known*). We identified our former intuition and transformed them in **explicit values** after two or three editions.
 
-We also wanted to design the conference over two days: one day of talks and one day of workshops based on the [OpenSpace principles](http://www.mindviewinc.com/Conferences/OpenSpaces.html). There is nothing better than enabling and **empowering people to organise hands-on sessions** based on an inspiring first one. - editorialisation de la journée
+We also wanted to design the conference over two days: one day of talks and one day of workshops based on the [OpenSpace principles](http://www.mindviewinc.com/Conferences/OpenSpaces.html). There is nothing better than enabling and **empowering people to organise hands-on sessions** based on an inspiring first one.
 
 In the end, **we created and learned to shape the conference we wanted to attend every year**, content and format included.
 
@@ -140,7 +140,7 @@ A direct consequence of the previous points, the ultimate email we send contains
 
 ![](/images/2016/06/sudweb-emailing.png)
 
-Emails is the most powerful tool — because of its highly **personal consumption experience** — I had to use **to build confidence** between Sud Web and our speakers (and attendees).
+Email is an incredibly powerful tool because of its highly **personal consumption experience**. I used this channel **to build confidence** between Sud Web and our speakers (and attendees).
 
 ![](/images/2016/06/sudweb-2016-workshops.jpg)
 
@@ -182,7 +182,7 @@ We learnt that organising a conference was not about building a website, designi
 
 We organically moved from a siloed organisation to a team of individuals responsible for the tasks they were picking or offering to add to the backlog. One person has a manual task to do in a few amount of time? Two additional people come and help to automate the process.
 
-The conference edition outcomes became a **shared responsibility** — and **shared satisfaction**.
+The outcome of each edition became a **shared responsibility** — and a **shared satisfaction**.
 
 [![](https://farm6.staticflickr.com/5151/14379895233_6d64472232_z_d.jpg)](https://www.flickr.com/photos/sudweb/14379895233)
 
