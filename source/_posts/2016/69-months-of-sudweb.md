@@ -120,11 +120,11 @@ Its source code can be found on [github.com/sudweb/talks](https://github.com/sud
 
 Since 2015, Sud Web displays not only the speakers list but the **attendees list** on the website. I wanted to provide a feeling of *belonging* to the attendees, as well as a nice entrypoint to browse the faces of everybody. Conferences also have great people on the audience side, so better to broaden the spotlight to the entire crowd — have you ever been to a conference because of a delegate rather than a speaker?
 
-Well, it happens at Sud Web and it did not require much more than a [combination of `curl` and `jq`](/2016/pipelining-http/) to gather the data from the [ticketing service API](#) and to consume them with a static pages generator system. 
+Well, it happens at Sud Web and it did not require much more than a [combination of `curl` and `jq`](/2016/pipelining-http/) to gather the data from the [ticketing service API](https://www.weezevent.com/) and to consume them with a static pages generator system. 
 
 ## Finding a voice
 
-Sending emails to speakers and attendees was part of our tooling needs. We use [Mailchimp](#) for that — and they have been kindly sponsoring Sud Web for five years.
+Sending emails to speakers and attendees was part of our tooling needs. We use [Mailchimp](http://mailchimp.com/) for that — and they have been kindly sponsoring Sud Web for five years.
 
 This time I brought some *user experience* by iterating over the content after listening to feedbacks and hearing over conversations in the corridors. A few improvements were brought to the mailings:
 
