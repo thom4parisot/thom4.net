@@ -102,7 +102,7 @@ I tried as much as I could **to share my motivations for every speaker** I wante
 
 I think curation helped us to make **bold statements** (about emotions, about meaningfulness etc.), **to build our very own identity** based on strong values and to *create questioning content* rather than solely broadcasting active speaker minds.
 
-Curation is definitely a great tool **to explore areas of interest** and **to tell a cohesive story** throughout the day via a breadth of topics which help people to think better, to look at things differently or to raise their awareness.
+Curation is definitely a great tool **to explore areas of interest** and **to tell a coherent story** throughout the day via a breadth of topics which help people to think better, to look at things differently or to raise their awareness.
 
 ![](/images/2016/06/sudweb-2014.jpg)
 
