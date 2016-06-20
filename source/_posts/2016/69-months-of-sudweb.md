@@ -167,7 +167,7 @@ Because we never thought in these terms but rather followed the following (and i
 - if we want to experiment something, **let's experiment**;
 - the programme has always been designed with **continuity in mind** — it feels better only **because we carry over** the thoughts gathered back from the conference.
 
-The content of the talks impacts the submissions of the next call for speakers. In parallel, those who did multiple submissions over the years start to understand what works and what does.
+The content of the talks impacts the submissions of the next call for speakers. In parallel, those who did multiple submissions over the years start to understand what works and what doesn't.
 On the other hand, the curation process sets new horizons and topics whilst it **connects or follows up with previous talks**.
 
 I do not think we ever had in mind a strong ambition to create a community. However **we accidentally created a culture**. By gradually shifting from the technicality to what matters to us, people working in the web. **People**. Because our issues and because our dreams are not specific to the web industry.
