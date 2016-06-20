@@ -19,7 +19,7 @@ cover:
 
 What is better than *50 shades of Grey*? 69 months of conference organisation. Almost **6 years**!
 
-**Why leaving** while being one of the founder members? And **what did I learn** throughout our yearly iterations? This is what we will focus on.
+**Why leaving** while being one of the founding members? And **what did I learn** throughout our yearly iterations? This is what we will focus on.
 
 <!--more-->
 
@@ -133,7 +133,7 @@ One to one conversation implies a plain text email or slightly formatted HTML em
 - **what is paid by Sud Web and what is not**  
 Some conferences do not include food, some of them offer a round of drinks and some of them do pay for everything — as a speaker it is hard to know what to expect and it is frustrating to have to take out a debit card whereas they were *invited* to a party.  
 - **building a safe zone**  
-I assumed people did not know much about Sud Web when writing emails. Also, as a speaker, you go through quite a stress to think about and write about your talk, even if it is a fives minutes *lightning talk*. I assumed I had to clear every single areas of stress each time a dispatch was sent: what are we doing, when are you going to receive the next message, rehearsal schedules, what do we expect from you etc.  
+I assumed people did not know much about Sud Web when writing emails. Also, as a speaker, you go through quite a stress to think about and write about your talk, even if it is a five minutes *lightning talk*. I assumed I had to clear every single areas of stress each time a dispatch was sent: what are we doing, when are you going to receive the next message, rehearsal schedules, what do we expect from you etc.  
 As a consequence, [*open rate*](http://kb.mailchimp.com/reports/about-open-tracking) increased and we received more responses thanking us and expressing relief.
 - **print me out**  
 A direct consequence of the previous points, the ultimate email we send contains everything a speaker has to know before boarding on their journey — from home to conference to stage to home again.
