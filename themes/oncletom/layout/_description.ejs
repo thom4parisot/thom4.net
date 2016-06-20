@@ -1,1 +1,1 @@
-<%= strip_html(page.excerpt || config.description).trim().replace(/(\r\n|\n|\r)/gm, "\\n") %>
+<%= strip_html(page.excerpt || config.description).trim().replace(/(\r\n|\n|\r)/gm, "&#10;") %>
