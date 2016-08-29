@@ -32,7 +32,6 @@
   },
   "devDependencies": {
     "bower": "^1.7.7",
-    "hexo-generator-feed": "^0.2.1",
     "jshint": "^2.8.0"
   }
 }

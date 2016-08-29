@@ -26,70 +26,70 @@ I did not know anything about it except from its author — [Brené Brown](http:
 
 I selected a few quotes from the book *I thought it was just me (but it wasn't)* (written by [Brené Brown](http://brenebrown.com/)) **to illustrate and relate to the feeling of shame**.
 
-I think it is a **fairly present and pressurising feeling in France and in the technology industry**. It applies differently to women and men of this world — although both genders have established expectations of each other, which eventually eventually result in shaming or blaming.
+I think shame is a **fairly present and pressurising feeling in France and in the technology industry**. It applies differently to women and men of this world — although both genders have established expectations of each other, which eventually result in shaming or blaming.
 
 # Definition of Shame
 
-Firstly, I would like to define shame by quoting Brené on her definition of *guilt* and *shame*:
+Firstly, I would like **to define shame** by quoting Brené on her definition of *guilt* and *shame*:
 
-> Shame is a focus on self, guilt is a focus on behavior. Shame is, "I am bad." Guilt is, "I did something bad."
+> Shame is a focus on self, guilt is a focus on behavior. **Shame is, "I am bad." Guilt is, "I did something bad."**
 
 She carries on with:
 
-> Shame is the most powerful, master emotion. It’s the fear that we’re not good enough.
+> Shame is the most powerful, master emotion. It’s the **fear that we’re not good enough**.
 
-The *not good enough* bit applies to longstanding and painful episodes of my life although they do not apply uniquely to me: not being good enough at school (*what did I do for you to get such a low mark?*, *I did sail with my parents for a month this summer, what about you?* etc.), not delivering software without bugs (and the feeling of hurting customers expectations by not having understood or helped them in their own business case), not being manly enough, not being tidy enough, not reaching a better ranking in sports, not having dealt with paperwork fast enough etc.
+The *not good enough* bit applies to longstanding and painful episodes of my life although they do not apply uniquely to me: **not being good enough at school** (*what did I do for you to get such a low mark?*, *I did sail with my parents for a month this summer, what about you?* etc.), **not delivering software without bugs** (and the feeling of hurting customers expectations by not having understood or helped them in their own business case), **not being manly enough**, not being tidy enough, not reaching a better ranking in sports, not dealing with paperwork fast enough etc.
 
-And one does not need anyone else to shame themselves: once it is rooted in ourselves, we only need our very own brain to feel we have not been doing well enough. Ending up thinking I am not good enough because I have not managed to do X in a month or 6 months time.
+And one does not need anyone else to shame themselves: **I am good enough to shame myself**. Moving from *knowing* I have not done enough to thinking it happened because *I am* not good enough.
 
-Reading the book made me think of the  [movie _Shame_](http://www.imdb.com/title/tt1723811/): its main character has a sex addiction which relies on a very strong physical appearance but puts him in a lonely situation, filled with self-anger and a shameful situation he cannot share with anybody. In the end, **the judge and victim are the same person** whereas the self-judgement is based on the expected external social reactions to knowing the truth.
+Reading the book made me think of the  [movie _Shame_](http://www.imdb.com/title/tt1723811/): its main character has a sex addiction which relies on a very strong physical appearance but puts him in a lonely situation, filled with self-anger and a shameful situation **he cannot share with anybody**. In the end, **the judge and victim are the same person**. The self-judgement is inflincted based on expected external social reactions to uncover the truth — of **being what you do**.
 
 ![](/images/2016/08/brighton-providence-place.jpg)
 
 # Self-empathy and the Strength Perspective
 
-I highlighted many many paragraphs in this section of the last chapter. Maybe because as Brené wraps up, she ends up putting all the important elements close to each other. I think it also relates a lot to the previous conversations we had, and how we can so easily deprecate ourselves because we keep this insatisfaction in the back of our mind.
+I highlighted many many paragraphs in this section of the last chapter. Maybe because as Brené wraps up, she concludes by mentionning all these important elements close to each other. I think it also relates a lot to the previous conversations we had, and how we can so easily deprecate ourselves **because we keep insatisfactions in the back of our mind**.
 
 > If we want to build shame resilience and cultivate our authenticity, we must learn who to become members of our own connection network. We must learn how to respond to ourselves with empathy and understanding.
-> One way that we can **increase our self-empathy** and the connection of ourselves is to explore and acknowledge our strengths as well as our problems and limitations.
+> One way that we can **increase our self-empathy** and the connection of ourselves is to explore and **acknowledge our strengths** as well as **our problems and limitations**.
 
 And this one too:
 
 > "Sometimes, when I'm feeling very critical of myself, I really question my authenticity."
 
-It is hard to feel we are ourselves when we are not authentic to our own values. I feel like *anger* is a way to artificially strengthen our self-perception whereas we would only need to be kind and accept these nuggets of flaws.
+It is hard to feel I am my own self when I am not authentic, when I do not stick to my values. I feel like ***anger* is a way to artificially strengthen my self-perception** whereas I would only need to be kind to myself and embrace these nuggets of flaws.
 
-I think *being kind to others* is falsely made THE way to buy in kindness towards ourselves whereas we should start by taking care of us, then the others. We are then more rooted and confident in the choice we are making. Then being a "better" and reliable source of support.
+I think *being kind to others* is falsely erected as being THE way to buy in kindness towards ourselves. I found it has more impact when I start by taking care of myself, then the others. I am then more rooted and confident in the choice I make. From then on, I become a "better" and reliable source of support for others. And myself too.
 
 > We cannot change and grow when we are in shame and we can't use shame to change ourselves or others.
 
-If we end up helping to feel better, but come back home feeling worse because we were *not good enough*, how can we indulge ourselves?
+If we end up helping others to feel better, but at the same time we come back home feeling worse because we were *not good enough*, how can we indulge ourselves?
 
-And so often, we then make a scene or start an argument by raising someone else's fault because we feel bad about this exact same point.
+And so often, we then make a scene or start an argument by raising someone else's fault because we feel bad about this exact same point. Whereas it is really about ourselves.
 
 > We focus on our shortcomings and ignore and take our strengths for granted.
 
-And because we feel bad at ourselves, we think we have not a lot to offer. I especially remember feeling crap when I joined the BBC because I thought everybody was so talented, way more at ease than me and then more skilled than me. They would soon see I am not good enough and I was a bad hiring.
+When I feel bad about myself, I think I do not have (a lot) to offer. I especially remember feeling crap when I joined the BBC because I thought everybody was so talented, way more at ease than me and then more skilled than me. They would soon see I am not good enough and I was a bad hiring.
 
-On these words, [Xavier](http://lacot.org/) bounced on me and said I should look back at my writings, at my résumé and reflect how I feel about them.
+On these words, [Xavier](http://lacot.org/) bounced back on me and said I should **look back** at my writings, at my résumé and reflect how I feel about these elements.
 
-I realised I was still proud of writings I authored years ago, including my very first public presentations even though the related technologies are now buried in the graveyard of obsolescence.
+I realised **I was proud** of writings I authored years ago, including my very first public presentations even though the related technologies are now buried in the graveyard of obsolescence.
 
 I equally heard contentment and relief in the voice of [Loic](http://loic.mathaud.fr/) and [Basile](https://basilesimon.fr/) when I helped them reword their résumé and cover letters. They ended up being proud of themselves reading at what they *really* achieved.
 
-I think we can identify back our strengths by rewriting our résumé for good, describing for each role the various projects we have been implied and by summarising some highlights our input was key on. Even if it was just about building an app, designing it and delivering it successfully is still a positive achievement surfacing one or many of our skills.
+I think we can identify back our strengths by rewriting our résumé for good, describing the various projects we have been implied for each role and by **summarising some highlights** our input was key on. Even if it was just about building an app, designing it and delivering it successfully is still a positive achievement surfacing one or many of our skills.
 
 > She might also think about changing her goal from being right, having the right information and knowing more to being honest about her thoughts.
 
 > "If I can always be myself with someone, they're in the connection network.". I think the ability to "be ourselves" is both the heart of the authenticity and the true benefit of building shame resilience.
 
-You and me often mention the *energy* it costs to manage interactions with other people. Some individuals refill us in energy. Some others drain us — sometimes only a little, sometimes a lot.
+You and me often mention the *energy* it costs to manage interactions with other people. Some individuals refill us with energy. Some others drain us — sometimes only a little, sometimes a lot.
 
-You and I need our *alone time* to recover. From hard weeks at work, from weekends out exploring new places, from being in groups of people, from [smalltalk](https://en.wikipedia.org/wiki/Smalltalk).
+You and I need our *alone time* to recover. From hard weeks at work, from being away from the homebase for too long, from being in groups of people, from noisy venues, from [smalltalk](https://en.wikipedia.org/wiki/Smalltalk).
 
 You and I can feel *ourselves* in front of each other. We nurture and refine our individual identities when spending time together.
 
-And it matters we do not have to make efforts to face each other. We do not have to entertain a *shell* to look better than we are. And it is important for us to feel the same with various other persons.
+And it matters **we do not have to make efforts** to face each other. **It simply is effortless**. We do not have to maintain a *shell* to look better than we are. And it is important for us to feel the same with various other persons.
 
 ![](/images/2016/08/chattri-monument.jpg)
 
@@ -102,21 +102,21 @@ Are the [hip coffee shops, stylish Airbnbs and cool Uber drivers](http://www.the
 
 I sometimes feel it is as hard for you than it is for me to take part to *ordinary conversations* because this is where the theatre of socialisation happen. Sharing what you have done this weekend. Sharing your plans for the next weekend. Sharing how cool my holidays were. Or not sharing how painful it can be to be the only one deciding where to pitch the tent, to decide which branch of the hiking trail to take or to rewind a camera film fearing it was not setup properly thus resulting in an accumulation of 36 blank pictures — a week of memories might be gone; might not have existed at all.
 
-It is hard to say something and to feel I am not understood. Why traveling alone while being with someone? [Why not having a Facebook account if I am not against Facebook](/2016/facebook/)? What to answer to the question *where are you from* when I am a Frenchman feeling at home in London?
+**It is hard to feel I am not understood**. Why traveling alone while being with someone? [Why not having a Facebook account if I am not against Facebook](/2016/facebook/)? What to answer to the question *where are you from* when I am a Frenchman feeling at home in London?
 
 > Shame is best defined as the intensely painful feeling or experience of believing we are flawed and therefore unworthy of acceptance and belonging.
 
-I never felt shame with people I value — because they are people I feel myself with. I feel shame when I see in the gaze of a person I have not answered correctly, or because my answer does not make sense with the realm of their life. Living abroad in a flatshare instead of having a comfortable life in my hometown. Saying I do not vote because I feel like I sustain a societal organisation which does not serve my beliefs — but people died to obtain the right to vote!
+**I do not feel shame with people I value** — they are people I feel myself with. I feel shame when I have not answered correctly from observing the gaze of a person, or because my answer does not make sense with the realm of their life. Living abroad in a flatshare instead of having a comfortable life in my hometown. Saying I do not vote because I feel like I sustain a societal organisation which does not serve my beliefs — but people died to obtain the right to vote!
 
-I feel pain when I read mentions about politics, software development or *things we are urged to do* on Twitter. Am I ashamed of myself? Maybe. I am ashamed to be french when politicians express racist ideas under the umbrella of security. I feel pain because I do not recognise myself in statements which encompass my person against my will. I feel pain when I see an advertisement in the underground claiming you can improve your life by having a six pack and a golden watch whereas I feel happier walking in a forest or reading a book in front of quiet river.
+I feel pain when I read mentions about politics, software development or *things we are urged to do* on Twitter. I am ashamed to be french when politicians express racist ideas under the umbrella of security. I am ashamed to live on the British soil when immigrants are said to be stealing jobs. I feel pain because I do not recognise myself in statements which encompass my person against my will. I feel pain when I see an advertisement in the underground claiming I could improve my life by having a six pack and a golden watch whereas I feel happier walking in a forest or reading a book in front of a quiet river.
 
-Knowing the pain comes from shame helped me realise I am mostly damaged by a contextual situations. And not that it is my fault. I cannot change the world. You cannot change the world. But I can and you can decide how we interact with it. With whom.
+Knowing the pain comes from shame helped me realise I am mostly damaged by a contextual situations. I used to think it was my fault. I cannot change the world. You cannot change the world. But I can and you can decide how we interact with it. With whom.
 
-I learned living with my flaws and weaknesses, embracing them rather than fighting them with anger — which can only fuel them rather than solving them.
+**I gradually learned to live with my flaws and weaknesses**, embracing them rather than fighting them with anger — which can only fuel them rather than solving them. It does not work all the time. It is way better though.
 
 > Empathy requires that we practice ordinary courage, compassion and connection.
 
-When you say you liked my presentation, that you liked my encouragement, it clears the fears I initially had. In the end it was worth it and I am glad I did not stop to the fear of not being good enough.
+When you say you liked my presentations, my pictures, my words, it clears the fears and doubts I initially had. In the end it was worth it and I am glad I did not stop to the fear of not being good enough.
 
 These marks of kindness and compassion build the connection between you and me.
 
@@ -124,7 +124,7 @@ These marks of kindness and compassion build the connection between you and me.
 
 # The *Boy World*
 
-There are a lot of conversations going on about feminism. At the same time, I raise some concerns about *masculinism*. *Equitism*. I feel as ashamed by [*debates* about burkini](https://www.theguardian.com/world/2016/aug/24/french-police-make-woman-remove-burkini-on-nice-beach) than by advertisement showing a patriarchal representation of families.
+There are a lot of conversations going on about feminism. At the same time, I raise some concerns about *masculinism*. *Equitism*. I feel as ashamed by [*debates* about burkini](https://www.theguardian.com/world/2016/aug/24/french-police-make-woman-remove-burkini-on-nice-beach) than by an advertisement showing a patriarchal representation of families.
 
 > Our conversation helped me put words to my strong belief that feminism is not just about equality for women, but also about the fight to liberate both men and women from our gender straightjackets.
 > Until both men and women are allowed to be *who we are* rather than *who we are supposed to be*, it will be impossible to achieve freedom and equality.
@@ -147,9 +147,9 @@ This is especially true in a professional environment driven by speed, endless n
 
 I can be shamed because I do not use the latest version of a software; because I have not used the latest library; because I have not read an article published 10 minutes ago; because I do not know what happened two weeks ago.
 
-Does it matter if it is my choice to escape the news bulletins because it feels like poison on tap?
+Does it matter if this is my choice to escape the news bulletins because they feel like poison on tap?
 
-One thing which helped me is not taking it personally. I assume people talk from their perspective, from what reassures them, **from what they think they have to do to protect themselves from shame** — not to shame me.
+One thing which helped me is **not taking it personally**. I assume people talk from their perspective, from what reassures them, **from what they think they have to do to protect themselves from shame**.
 
 It is liberating.
 
@@ -158,12 +158,12 @@ It is liberating.
 
 > Certainly women also shame men above their masculinity and power; however, across the interviews, they seem to have more of a "reinforcing role", whereas men, especially fathers, brothers, peers and coaches tend to do more punishing.
 
-I can clearly recall being the outsider at school, because I was not interested in football, in binge drinking or spending the pocket money I did not have to have fancy clothes.
+I can clearly recall being the outsider at school, because I was not interested in football, in binge drinking or spending the pocket money I did not have on fancy clothes.
 
-I rather enjoyed being with my mates, ordering pizzas at the cyberbase playing [Rainbow Six](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six) or [Starcraft](https://en.wikipedia.org/wiki/StarCraft) for hours.
+I rather enjoyed being with my mates, ordering pizzas at the cyberbase while playing [Rainbow Six](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six) or [Starcraft](https://en.wikipedia.org/wiki/StarCraft).
 
 ![](/images/2016/08/lea-river.jpg)
 
-What I like above all, is I can write to you about this topic without fearing any judgement but compassion, kindness and understanding. I am thankful you took the time reading this even though from my point of view (I refrained myself to write the pun *point of you*), I feel I have written something very ordinary.
+What I like above all, is I can write to you about this topic without fearing any judgement but compassion, kindness and understanding. I am thankful you took the time to read this even though from my point of view (I refrained myself to write the pun *point of you*), I feel I have written something very ordinary.
 
-In the end, I find it way more interesting being ordinary and making my own decisions rather than having to be a superhero and do everything I can to keep this outer shell shiny to the eyes of everybody.
+In the end, I find it way **more interesting being ordinary** and making my own decisions rather than having to be a superhero and do everything I can to keep this outer shell shiny to the eyes of everybody.
