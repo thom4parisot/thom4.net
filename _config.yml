@@ -41,6 +41,7 @@ titlecase: false # Transform title into titlecase
 max_open_file: 100
 filename_case: 1
 highlight:
+  auto_detect: false
   enable: true
   line_number: true
   tab_replace: 2
