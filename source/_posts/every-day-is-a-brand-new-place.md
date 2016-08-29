@@ -75,4 +75,4 @@ Avoir 30 ans en Albion, ça a tout d'un symbole. Le "zéro" de la réinvention, 
 > Le moment du déménagement cristallise plusieurs questions, à plus forte raison quand il est déclenché par des opérations de démolition. Comment les lieux sont investis par les gens qui les habitent ? Que reste-t-il de leur passage au moment où la démolition vient faire table rase ? Comment cela vient-il révéler la nature de leur attachement à ces lieux ?
 >
 >
-> [Déménagements](http://www.annelaureboyer.com/fr/travaux/amenagements.html) — [Anne-Laure Boyer](http://www.annelaureboyer.com/)
+> [Déménagements](http://annelaureboyer.com/demenagements/) — [Anne-Laure Boyer](http://www.annelaureboyer.com/)
