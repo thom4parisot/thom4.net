@@ -3,22 +3,38 @@ node_js: v6
 sudo: false
 addons:
   ssh_known_hosts: ssh-oncletom.alwaysdata.net
-
 before_install:
+<<<<<<< c7d428a37cd6e556dddb743d8d7f8e38bb54036f
+=======
+- openssl aes-256-cbc -K $encrypted_a47c168ad38c_key -iv $encrypted_a47c168ad38c_iv
+  -in id_rsa.enc -out $TRAVIS_BUILD_DIR/id_rsa -d
+>>>>>>> Add Algolia content indexation
 - npm config set production false
-
+- sed -i "s~@@ALGOLIA_ADMIN_API_KEY@@~${ALGOLIA_ADMIN_API_KEY}" _config.yml
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_a47c168ad38c_key -iv $encrypted_a47c168ad38c_iv -in id_rsa.enc -out /tmp/id_rsa -d
 - eval "$(ssh-agent -s)"
+<<<<<<< c7d428a37cd6e556dddb743d8d7f8e38bb54036f
 - chmod 600 /tmp/id_rsa
 - ssh-add /tmp/id_rsa
 
+=======
+- chmod 600 $TRAVIS_BUILD_DIR/id_rsa
+- ssh-add $TRAVIS_BUILD_DIR/id_rsa
+>>>>>>> Add Algolia content indexation
 env:
-- NODE_ENV=production
-
+  matrix:
+  - NODE_ENV=production
+  global:
+    secure: G2cSmoKvg78IA6+3tuKJTjKFkravDy0SVg1wmnhjc1LfRuqodeyzUGttKeGkza57t+y6KdszCKpRfFf5l0yNr75hZbqHFQRJqSySF/P+U/BXg8MZB5YlYdBYHwsyzlnoQDyt8Fej5rquzTAPPL9NsByqhU6MytxmF21Q293cefw=
 deploy:
-  provider: script
+- provider: script
   script: npm run deploy
+  skip_cleanup: true
+  on:
+    branch: master
+- provider: script
+  script: npm run index-content
   skip_cleanup: true
   on:
     branch: master

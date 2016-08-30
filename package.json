@@ -11,6 +11,7 @@
   "scripts": {
     "build": "hexo generate",
     "deploy": "hexo deploy",
+    "index-content": "hexo algolia",
     "start": "hexo server --debug",
     "new": "hexo new post",
     "pretest": "NODE_ENV=production npm run build",
@@ -19,6 +20,7 @@
   "dependencies": {
     "hexo": "^3.2.2",
     "hexo-browsersync": "^0.2.0",
+    "hexo-algolia": "^0.2.0",
     "hexo-cli": "^1.0.2",
     "hexo-deployer-rsync": "^0.1.2",
     "hexo-generator-archive": "^0.1.4",
