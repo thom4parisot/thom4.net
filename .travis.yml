@@ -10,7 +10,7 @@ before_install:
   -in id_rsa.enc -out $TRAVIS_BUILD_DIR/id_rsa -d
 >>>>>>> Add Algolia content indexation
 - npm config set production false
-- sed -i "s~@@ALGOLIA_ADMIN_API_KEY@@~${ALGOLIA_ADMIN_API_KEY}" _config.yml
+- sed -i "s~@@ALGOLIA_ADMIN_API_KEY@@~${ALGOLIA_ADMIN_API_KEY}~" _config.yml
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_a47c168ad38c_key -iv $encrypted_a47c168ad38c_iv -in id_rsa.enc -out /tmp/id_rsa -d
 - eval "$(ssh-agent -s)"
