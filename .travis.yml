@@ -12,6 +12,9 @@ before_deploy:
 - chmod 600 $TRAVIS_BUILD_DIR/id_rsa
 - ssh-add $TRAVIS_BUILD_DIR/id_rsa
 
+env:
+- NODE_ENV=production
+
 deploy:
   provider: script
   script: npm run deploy
