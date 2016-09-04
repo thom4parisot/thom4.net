@@ -1,9 +1,0 @@
-<%- partial('cover/featured', { post: page.posts.first(), archiveType: page.year || page.category }) %>
-
-<main class="container" role="main">
-  <div class="row">
-    <% page.posts.each(function(post){ %>
-    <div class="col-sm-12"><%- partial("_blog/post-condensed", {post: post})%></div>
-    <% }); %>
-  </div>
-</main>

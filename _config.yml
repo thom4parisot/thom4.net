@@ -4,7 +4,7 @@
 
 # Site
 title: oncletom.io
-subtitle: Crafting with Web technologies and human beings.
+subtitle: A blog about *Web technologies* and *human experience*.
 description: "Hey, I'm Thomas! A french web engineer living in London and working for BBC R&D. I express my views and interests about Web development, Node.js, Docker and long-term life experiences."
 author: Thomas Parisot
 email: hi@oncletom.io
@@ -93,8 +93,8 @@ disqus_shortname: oncletom
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: oncletom
-exclude_generator:
+theme: ../node_modules/hexo-theme-oncletom
+layout: blog
 
 graph:
   google_plus:    ~

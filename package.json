@@ -30,7 +30,7 @@
     "hexo-renderer-less": "^0.2.0",
     "hexo-renderer-marked": "^0.2.11",
     "hexo-server": "^0.2.0",
-    "reading-time": "^1.0.2"
+    "hexo-theme-oncletom": "github:oncletom/hexo-theme"
   },
   "devDependencies": {
     "bower": "^1.7.7",
