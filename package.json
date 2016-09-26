@@ -15,7 +15,7 @@
     "start": "hexo server --debug",
     "new": "hexo new article",
     "pretest": "NODE_ENV=production npm run build",
-    "test": "jshint themes/oncletom"
+    "test": "exit 0"
   },
   "dependencies": {
     "hexo": "^3.2.2",
@@ -30,8 +30,5 @@
     "hexo-renderer-marked": "^0.2.11",
     "hexo-server": "^0.2.0",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme"
-  },
-  "devDependencies": {
-    "jshint": "^2.8.0"
   }
 }
