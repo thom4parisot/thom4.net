@@ -14,7 +14,6 @@
     "deploy": "hexo deploy",
     "start": "hexo server --debug",
     "new": "hexo new article",
-    "postinstall": "bower install",
     "pretest": "NODE_ENV=production npm run build",
     "test": "jshint themes/oncletom"
   },
@@ -33,7 +32,6 @@
     "hexo-theme-oncletom": "github:oncletom/hexo-theme"
   },
   "devDependencies": {
-    "bower": "^1.7.7",
     "jshint": "^2.8.0"
   }
 }

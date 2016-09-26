@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-bower_components
 db.json
 public/*
 *.log
