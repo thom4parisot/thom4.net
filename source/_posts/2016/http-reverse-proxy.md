@@ -8,9 +8,8 @@ tags:
   - nginx
   - reverse proxy
   - letsencrypt
-# cover: /images/2016/~
-cover: http://placekitten.com/1024/768
-date: 2016-10-09 09:00:00
+cover: /images/2016/10/organic-lea-outdoor.jpg
+date: 2016-10-10 09:00:00
 ---
 
 I have taken the habit to use a **single domain** as an umbrella for **multiple websites**. Which in short means we can benefit from different software stacks being hosted on different platforms.
@@ -21,7 +20,7 @@ As a bonus, we can use a [custom domain on GitHub Pages](https://help.github.com
 
 # tl;dr
 
-Apache `ProxyPass` and `ProxyPassReverse` are our best friend to mount an external URL (and its descendants) onto a folder of our very own domain.
+[Apache httpd](https://httpd.apache.org/) `ProxyPass` and `ProxyPassReverse` are our best friend to mount an external URL (and its descendants) onto a folder of our very own domain.
 
 # Why using a reverse proxy?
 
@@ -32,7 +31,7 @@ I use reverse proxies for various reasons:
 1. **to isolate components**
   So instead of putting everything in a larger and larger monolithic website, we can manage them as **different git repositories** and have a **different build process** as well (like `/photography` and `/talks` on this website)
 1. **to manage different stacks**
-  In the case of a conference with a yearly edition or so, we can iterate over the software stack and change accordingly to our needs **without having to upgrade legacy editions** nor to keep continuing them because you feel obliged to.
+  In the case of a conference with a yearly edition or so, we can iterate over the software stack and change accordingly to our needs **without having to upgrade legacy editions** nor to keep continuing them because we feel obliged to.
 1. **to provide a transparent experience to our users**
   We can host content in different places and still provide a coherent experience to a user without having them to feel the spread of our infrastructure.
 1. **to upgrade individual components**
@@ -42,9 +41,11 @@ I use reverse proxies for various reasons:
 
 It is a good way to hide complex and purposeful components under a same and apparently unique domain. This is for example how websites like the [BBC](https://www.bbc.co.uk/) **feel like one** website whereas they are in reality composed of dozens and **dozens of different websites** developed by *independent* teams.
 
+![](/images/2016/10/farmers-market.jpg)
+
 # How does it work?
 
-An HTTP request to your hosting provider will usually look like the following examples:
+An HTTP request directed to our hosting provider will usually look like the following examples:
 
 ```
 # Root
@@ -59,7 +60,7 @@ example.com/doc/index.html → VirtualHost → /var/www/example.com/doc/index.ht
 
 By default we assume the folders `/cheese` and `/doc` are contained in the same directory as the root of the website.
 
-Let's say we actually have decided to opt in for a whitelabeled content provider for a part of the website and moved another part of it to a static website hosted on GitHub. The above example would evolve into:
+Let's say we actually have decided to opt in for a _whitelabeled content provider_ for a part of the website and moved another part of it to a _static website_ hosted on [GitHub Pages](https://pages.github.com/). The above example would evolve into:
 
 ```
 # Root
@@ -76,7 +77,7 @@ It should be clear enough so let's dive a bit more in how to achieve this.
 
 # Configuring ProxyPass
 
-The configuration of a reverse mainly relies on a declaration of `ProxyPass` for each path (and its descendants) you would like to host elsewhere:
+The configuration of a reverse mainly relies on a declaration of Apache `ProxyPass` for each path (and its descendants) we would like to host elsewhere:
 
 ```
 <VirtualHost *>
@@ -97,13 +98,15 @@ The configuration of a reverse mainly relies on a declaration of `ProxyPass` for
 
 And that's pretty much it!
 
+![](/images/2016/10/cucumbers.jpg)
+
 # Configuring Proxy directives
 
-I found [Apache `ProxyPass`](https://httpd.apache.org/docs/current/mod/mod_proxy.html#proxypass) documentation to be quite clear actually (or maybe I spent too much time reading it). We can manage to exclude folders from the proxying or match only specific patterns with `ProxyPassMatch`. I guess all we need is a use case before starting to use them 😊.
+I found [Apache `ProxyPass` documentation](https://httpd.apache.org/docs/current/mod/mod_proxy.html#proxypass) to be quite clear actually (or maybe I spent too much time reading it). We can manage to exclude folders from the proxying or match only specific patterns with `ProxyPassMatch`. I guess all we need is a use case before starting to use them 😊.
 
 ## `ProxyPreserveHost`
 
-This setting has an influence on how your VirtualHost proxy server will advertise the `Host` HTTP header to the client.
+This setting has an influence on how our VirtualHost proxy server will advertise the `Host` HTTP header to the client.
 
 With `ProxyPreserveHost On`:
 
@@ -127,7 +130,7 @@ So in general we will want to have it set to `Off`, especially in the case of we
 
 This *reverse* directive indicates Apache how to treat *location* headers emitted by the backend of the proxy.
 
-In other words, if the backend emits some headers like `Location` and  `Content-Location`, your proxy will *rewrite* them to match your VirtualHost.
+In other words, if the backend emits some headers like `Location` and  `Content-Location`, our proxy will *rewrite* them to match our VirtualHost.
 
 Without `ProxyPassReverse`:
 
@@ -147,17 +150,19 @@ Location: http://example.com/cheese/new-uri
 
 ## `ProxyPassReverseCookieDomain`
 
-This is exactly the same principle as `ProxyPassReverse` but for any `Cookie` header emitted by the backend.
+This is exactly the same principle as `ProxyPassReverse` but to rewrite the hostnames contained in any `Cookie` header emitted by the backend.
 
 ## `SSLProxyEngine`
 
-This one will enable the proxy module to deal with HTTPS requests. You could definitely have an HTTP to HTTPS or, better, HTTPS to HTTP – to secure insecure parts of your website. Or to secure them… with a different SSL certificate.
+This one will enable the proxy module to deal with signed requests. We could definitely have an HTTP to HTTPS or, better, HTTPS to HTTP – to secure insecure parts of our website. Or to secure them… with a different SSL certificate.
 
-And that's precisely one advantage to use a reverse proxy in front of GitHub Pages to use your custom domain and your own certificate.
+And that's precisely one advantage to use a reverse proxy in front of GitHub Pages to use our custom domain and our own certificate.
+
+![](/images/2016/10/autumn-squash.jpg)
 
 # Reverse Proxy over HTTPS
 
-GitHub serves every [GitHub Page website over HTTPS](https://help.github.com/articles/securing-your-github-pages-site-with-https/) only if they have been created after *June 15<sup>th</sup> 2016*. So you will have to make sure both your server can talk over SSL with GitHub by enabling `mod_ssl`.
+GitHub serves every [GitHub Pages websites over HTTPS](https://help.github.com/articles/securing-your-github-pages-site-with-https/) if they have been created after *June 15<sup>th</sup> 2016*. So we will have to make sure both our server can talk over SSL with GitHub by enabling `mod_ssl`.
 
 ```
 # ∨∨∨∨∨∨ We add this line
@@ -174,25 +179,30 @@ LoadModule ssl_module /wherever/is/apache2/modules/mod_ssl.so
     SSLProxyEngine On
     # ∧∧∧∧∧∧
 
-    # ∨∨∨∨∨∨ Look, the backend URL now is over the https scheme!
+    # ∨∨∨∨∨∨ Look, the backend URL now uses the https scheme!
     ProxyPass /doc https://example.github.io/site-doc
     ProxyPassReverse /doc https://example.github.io/site-doc
   </IfModule>
 </VirtualHost>
 ```
 
-As an alternative, you can also run the following to globally enable `mod_ssl` :
+As an alternative, we can also run the following to globally enable `mod_ssl` :
 
 ```bash
 $ a2enmod mod_ssl
 ```
 
-By doing so, you do not need to write the `LoadModule` line.
+By doing so, we do not need to write the `LoadModule` line.
 
-If you cannot enable `mod_ssl`, well you are screwed so eventually as your hosting service provider if there is a way to enable it.
+If we cannot enable `mod_ssl`, well we are screwed so best is to raise a support ticket to our hosting service provider if there is a way to enable it.
+
+![](/images/2016/10/horsetail-tea.jpg)
 
 # Conclusion
 
-Ngninx: https://www.nginx.com/resources/admin-guide/reverse-proxy/
-Varnish: https://varnish-cache.org/
-Node Express HTTP Proxy: https://www.npmjs.com/package/express-http-proxy
+Is the *reverse proxy* technique limited to [Apache httpd](https://httpd.apache.org/)? Of course not:
+
+- **Nginx** has [proxy_pass](http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_pass) and a [good reverse proxy tutorial](https://www.nginx.com/resources/admin-guide/reverse-proxy/);
+- **Varnish** is more *powerful* but [slightly harder to dive into its documentation](https://varnish-cache.org/docs/5.0/);
+- **Node.js** [express-http-proxy](https://www.npmjs.com/package/express-http-proxy) package will help mount proxy routes in our [Express application](https://expressjs.com/).
+  I personally use it to _proxy authentication at the app level_ and query internal APIs.
