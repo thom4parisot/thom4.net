@@ -3,8 +3,7 @@
   "version": "2.8.4",
   "private": true,
   "engines": {
-    "node": ">= 4.0.0",
-    "npm": ">= 3.0.0"
+    "node": ">= 4.0.0"
   },
   "hexo": {
     "version": "3.2.2"
@@ -13,7 +12,7 @@
     "build": "hexo generate",
     "deploy": "hexo deploy",
     "start": "hexo server --debug",
-    "new": "hexo new article",
+    "new": "hexo new post",
     "pretest": "NODE_ENV=production npm run build",
     "test": "exit 0"
   },
