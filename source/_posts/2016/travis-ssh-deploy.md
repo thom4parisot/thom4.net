@@ -100,7 +100,7 @@ rm -f deploy_rsa deploy_rsa.pub
 git add deploy_rsa.enc .travis.yml
 ```
 
-Great! 
+Great!
 
 ![](/images/2016/05/estonia-hara.jpg)
 
@@ -117,15 +117,15 @@ In a nutshell, your `.travis.yml` should contain these lines (in addition to you
 ```yaml
 addons:
   ssh_known_hosts: <deploy-host>
-  
-before_install:
-  openssl aes-256-cbc …
-  
+
 before_deploy:
+- openssl aes-256-cbc aes-256-cbc -K $encrypted_<...>_key -iv $encrypted_<...>_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
 - eval "$(ssh-agent -s)"
-- chmod 600 $TRAVIS_BUILD_DIR/deploy_rsa
-- ssh-add $TRAVIS_BUILD_DIR/deploy_rsa
+- chmod 600 /tmp/deploy_rsa
+- ssh-add /tmp/deploy_rsa
 ```
+
+**Notice**: we do extract the `deploy_rsa` in Travis `/tmp` folder to avoid deploying the decrypted key by any mean.
 
 [Travis build lifecycle steps](https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle) are thoroughly documented.
 
