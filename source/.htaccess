@@ -344,13 +344,6 @@ AddCharset utf-8 .css .js .xml .json .rss .atom
 
 <IfModule mod_rewrite.c>
   RewriteRule ^feed/?$ /atom.xml [L]
-
-  RewriteCond %{HTTP_HOST} .oncle-tom.net$ [NC]
-  RewriteRule ^/?(.*) https://oncletom.io/$1 [L,R=301,NE]
-
-#  RewriteCond %{HTTP_HOST} ^case.oncle-tom.net$ [NC]
-  RewriteCond %{HTTP:X-Forwarded-Proto} !https
-  RewriteRule ^ https://oncletom.io%{REQUEST_URI} [R=301,L]
 </IfModule>
 
 
