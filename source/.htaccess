@@ -339,7 +339,7 @@ AddCharset utf-8 .css .js .xml .json .rss .atom
 # Uncomment the following lines to use this feature.
 
 <IfModule mod_headers.c>
-    Header set Strict-Transport-Security max-age=16070400;
+    Header set Strict-Transport-Security max-age=63072000; includeSubDomains; preload
 </IfModule>
 
 <IfModule mod_rewrite.c>
