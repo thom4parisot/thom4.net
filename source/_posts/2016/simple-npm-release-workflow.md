@@ -2,7 +2,7 @@
 layout: article
 title: A simple npm release workflow
 lang: en-GB
-date: 2015-07-23 10:00:00
+date: 2016-11-28 10:00:00
 categories:
 - JavaScript
 tags:
@@ -14,7 +14,7 @@ cover:
   url: /images/2015/07/south-downs.jpg
 ---
 
-**Releasing an npm package can be error prone**. It might involve *git tagging*, updating a `CHANGELOG`, *compiling* assets, *bumping version* number etc.
+**Releasing a package to the npm registry can be error prone**. It might involve *git tagging*, updating a `CHANGELOG`, *compiling* assets, *bumping version* number etc.
 
 Plus, it can happen *multiple times* a week and the *logic must be shared* with your collaborators.
 
@@ -39,7 +39,8 @@ As a reminder, the `npm` command can be leveraged through the `scripts` field of
   "main": "index.js",
   "scripts": {
     "lint": "eslint ./src",
-    "test": "tape tests.js"
+    "test": "tape tests.js",
+    "posttest": "npm run lint"
   },
   "devDependencies": {
     "eslint": "^1.0.0",
@@ -50,7 +51,7 @@ As a reminder, the `npm` command can be leveraged through the `scripts` field of
 
 This way, executing `npm run lint` will apply [eslint](http://eslint.org/) to your `src` folder. No need for grunt or gulp plugin.
 
-*Remember*: `npm run` expands the scope of `$PATH` by prepending  `node_modules/.bin` to it (like `PATH="./node_modules/.bin:$PATH" npm run lint` would do). This way you can **run any executables provided by locally scoped dependencies**.
+*Remember*: `npm run` expands the scope of `$PATH` by prepending  `node_modules/.bin` to it (like `PATH="./node_modules/.bin:$PATH" npm run lint` would do). This way you can **run any executables provided by _local_ dependencies**.
 
 Documentation is available under the [`run-script`](https://docs.npmjs.com/cli/run-script) section of the `npm` cli. Also, consider reading my previous post about [self contained Node.js scripts](/2014/self-contained-node-scripts) for a more in depth coverage of this topic.
 
