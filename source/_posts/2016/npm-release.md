@@ -43,17 +43,17 @@ As a reminder, the `npm` command can be leveraged through the `scripts` field of
     "posttest": "npm run lint"
   },
   "devDependencies": {
-    "eslint": "^1.0.0",
+    "eslint": "^3.0.0",
     "tape": "^4.0.0"
   }
 }
 ```
 
-This way, executing `npm run lint` will apply [eslint](http://eslint.org/) to your `src` folder. No need for grunt or gulp plugin.
+This way, executing `npm run lint` will execute [eslint](http://eslint.org/) to against your `src` folder. No need for grunt or gulp plugin.
 
-*Remember*: `npm run` expands the scope of `$PATH` by prepending  `node_modules/.bin` to it (like `PATH="./node_modules/.bin:$PATH" npm run lint` would do). This way you can **run any executables provided by _local_ dependencies**.
+*Remember*: `npm run` expands the [scope of `$PATH`](https://en.wikipedia.org/wiki/PATH_(variable)) by prepending  `$PWD/node_modules/.bin` to it (like `PATH="./node_modules/.bin:$PATH" npm run lint` would do). This way you can **run any executables provided by _local_ dependencies**.
 
-Documentation is available under the [`run-script`](https://docs.npmjs.com/cli/run-script) section of the `npm` cli. Also, consider reading my previous post about [self contained Node.js scripts](/2014/self-contained-node-scripts) for a more in depth coverage of this topic.
+Documentation is available under the [`run-script` section](https://docs.npmjs.com/cli/run-script) of the `npm` cli. Also, consider reading my previous post about [self contained Node.js scripts](/2014/self-contained-node-scripts) for a more in depth coverage of this topic.
 
 # npm version {major,minor,patch}
 
