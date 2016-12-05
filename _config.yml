@@ -9,6 +9,7 @@ description: "Hey, I'm Thomas! A french web engineer living in London and workin
 author: Thomas Parisot
 email: hi@oncletom.io
 default_cover: https://oncletom.io/images/thomas-parisot.jpg
+external_link: true
 language: fr
 keywords:
   - javascript
