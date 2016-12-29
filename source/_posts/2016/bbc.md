@@ -21,9 +21,9 @@ For the readers and for my future self.
 
 # tl;dr
 
-Resigning is tougher than expected, especially when one still continue to believe in their employer's project and mission.
+Resigning is tougher than expected, especially when one still continues to believe in their employer's project and mission.
 
-I found that **best is to share honest emotions** and to keep the **door open for further collaborations**.
+I found that **best is to share honest emotions** and to keep the **door open for further collaboration**.
 
 ![](/images/2016/12/bbc-interview-notes.jpg)
 
@@ -108,16 +108,16 @@ Finally, I sent an email to inform why we should go for a pint. I twisted the tr
 > Hi there,
 >
 > As you may know, I am off the BBC at the end of December for pastures new after almost 4 years — 4 years! I thought I would never be good enough to stay even a month.
-> This is sad but this is nonetheless a good time for us to both cheer up and to celebrate the upcoming winter > holidays.
-> This is a good time to see each other’s face, for the pleasure to talk and to relate to some nostalgic stories > or whatever — stories always come with a pint or two.
+> This is sad but this is nonetheless a good time for us to both cheer up and to celebrate the upcoming winter holidays.
+> This is a good time to see each other’s face, for the pleasure to talk and to relate to some nostalgic stories or whatever — stories always come with a pint or two.
 >
 > I will try to summon a few slides during our Section meeting and recap what I learned, in general, since I started living on the British soil — roughly 2 days before my first day of work at the Beeb !
 >
 > Beyond the December 29th, you can reach me on Twitter ([@oncletom](https://twitter.com/oncletom)), by email ([see contact](/slash-me/)), by snail mail (from March and onwards).
-> Keep posted on https://dtc-innovation.org/ — hopefully I will manage to get some nice stuff done with my partners > <del>in crime</del>.
+> Keep posted on https://dtc-innovation.org/ — hopefully I will manage to get some nice stuff done with my partners <del>in crime</del>.
 >
 > I have had a tremendous pleasure to be part of, what is to me, a true public service company.
-> Leaving is also a way to infuse and to echo my learnings > elsewhere.
+> Leaving is also a way to infuse and to echo my learnings elsewhere.
 >
 > See you next Thursday, or later!
 >
@@ -133,17 +133,27 @@ I wanted to convey these learnings and to highlight how beneficial they have bee
 Here is a selection of these happy discoveries – in no specific order:
 
 - it feels good to work in an **inclusive organisation** – being a foreigner in a public service company sounds like a blessing to me;
-- it feels even better **to be valued for what I do** rather than being told the mistakes and imperfections I created at first – in opposition to the French _blame culture_;
+- it feels even better **to be valued for what I do** (anglo-saxon culture) instead of being met with criticism (French culture);
 - _ask for forgiveness_ > _ask for permission_ (but not always, you shall accept the consequences);
 - **multidisciplinary teams are a great standard**;
 - it feels equally great **to be an engineer** and to be able to act upon **design** and **user experience** decisions – persons can span across multiple disciplines;
 - user research and rapid prototyping are so helpful to confront reality instead of building ideals in an ivory tower;
-- being an introvert allergic to paperwork makes it hard to make my way in nonsensical processes;
-- likewise when I have to deal with dismissive politeness;
+- ephemeral embedded teams can be utterly efficient thanks to their proximity;
+- being an introvert allergic to paperwork makes it hard to make my way in complex corporate processes;
 - cycling to work;
 - where I fit in the [Five-Factor Model](http://www.personalityresearch.org/bigfive.html);
 - work/life balance by [moving part-time](/2015/part-time/);
 - **it is okay to be vulnerable** – the best advice I received continues to bring joy to my life everyday;
+- Computer software and language skills:
+  - continuous integration/delivery/deployment
+  - PostgreSQL
+  - Redis
+  - Elasticsearch
+  - AWS
+  - Ansible
+  - Docker
+  - ECMAScript 2015 / Node.js v0.10 to v6
+  - Python and Ruby
 - British delights:
   - mince pies
   - pigs in blankets
@@ -178,17 +188,6 @@ Here is a selection of these happy discoveries – in no specific order:
 - sourdough bread making;
 - **permaculture**;
 - my love for **hiking and strolling in Nature**;
-- ephemeral embedded teams can be utterly efficient thanks to their proximity;
-- Computer software and language skills:
-  - continuous integration/delivery/deployment
-  - PostgreSQL
-  - Redis
-  - Elasticsearch
-  - AWS
-  - Ansible
-  - Docker
-  - ECMAScript 2015 / Node.js v0.10 to v6
-  - Python and Ruby
 - watched my **first Star Trek** movie ever (never too late);
 - developed my first analog film – I took 1500+ analog pictures since 2013.
 
@@ -200,12 +199,12 @@ None of this contains the trace of my emotions when I had to speak in front of m
 
 I had a hard time announcing I was leaving the BBC. It has been such a helpful moment _to rebuild my self-confidence_ [after our startup died](/2014/why-our-startup-failed/) – people valued me because I was at the BBC. Would it still be the same if I did not belong to it anymore?
 
-Despite all the bad and the ugly things, I think the BBC is a model of public service. I am definitely **proud and thankful for having been part of it**… this is now my longest professional experience.
+With all the good, the bad and the ugly, I think the BBC is a model of public service. I am definitely **proud and thankful for having been part of it**… this is now my longest professional experience.
 
 Two questions need an answer:
 
-1. _where's next?_ I will remain based in London;
-2. _what's next?_ This, requires a more ample answer but in the meantime, keep posted on [dtc-innovation.org](https://dtc-innovation.org).
+1. _where to next?_ I will remain based in London;
+2. _what next?_ This, requires a more ample answer but in the meantime, keep an eye on [dtc-innovation.org](https://dtc-innovation.org).
 
 I will now take a **two weeks break** before resuming my work on [my french Node.js book](/node.js) during a nomad residency.
 
