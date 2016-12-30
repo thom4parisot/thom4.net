@@ -10,7 +10,7 @@ tags:
 - lessons learnt
 - post mortem
 cover: /images/2016/12/bbc-broadcasting-house.jpg
-date: 2016-12-31 08:00:00
+date: 2016-12-30 14:35:00
 ---
 
 **My last day at the BBC** as an employee is December 31<sup>st</sup> 2016. I handed my resignation letter on September 13<sup>th</sup> and thought I would share a few artifacts of my resignation.
