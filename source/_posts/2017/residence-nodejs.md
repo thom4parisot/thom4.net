@@ -24,7 +24,7 @@ cover: /images/2017/01/villa-cavrois-chairs.jpg
 date: 2017-01-11 10:00:00
 ---
 
-Cela fait plusieurs ~~mois~~ années que j'écris un [livre en français à propos de Node.js][repo]. Sans avoir jamais pu le terminer — en vrai, je trouve ça éprouvant d'écrire tout seul dans mon coin.
+Cela fait plusieurs ~~mois~~ années que j'écris un [livre en français à propos de Node.js][repo]. Sans avoir jamais pu le terminer — en vrai, je trouve ça éprouvant d'écrire tout seul dans mon coin.
 
 Alors j'ai renversé le problème en organisant une **résidence d'écriture itinérante à travers la France** de *mi-janvier à mi-mars 2017*.
 
