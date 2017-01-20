@@ -2,7 +2,7 @@
 title: Hey, I'm Thomas!
 lang: en-GB
 date: 2006-08-16 18:31:46
-updated: 2016-06-12 17:00:00
+updated: 2017-01-10 12:00:00
 cover:
   url: /images/thomas-parisot.jpg
 ---
@@ -10,7 +10,9 @@ cover:
 **Thomas Parisot** is my full name and people often call me *Tom*.
 Hence my long lasting nickname — *Oncle Tom* — a friendly pun to our *digital slavery*.
 
-I am a Frenchman in London working as a **Senior web engineer** at [BBC R&D](http://bbc.co.uk/rd), volunteer at [Organic Lea farm](#) and *bread maker* apprentice.
+I am a Frenchman in London [dtc innovation](https://dtc-innovation.org) co-op co-founder and **Senior web engineer**, volunteer at [Organic Lea farm](https://www.organiclea.org.uk) and *bread maker* apprentice.
+
+I used to work at [BBC R&D](http://bbc.co.uk/rd) and to co-organise and curate the [Sud Web](https://sudweb.fr/) event.
 
 Overall, I use web technologies to *prototype*, to *empower* and to *design* for great user experiences and for a better civic society.
 
@@ -26,6 +28,7 @@ Hence I will do my best to favour **non-profit**, **ethical** or **greater good*
 
 I have **more than 10 years of professional experience** in the web industry through various roles and responsibilities:
 
+- *Senior web engineer* at [dtc innovation](https://dtc-innovation.org) co-op;
 - *Senior web engineer* at [BBC R&D](http://bbc.co.uk/rd);
 - *CTO* and *co-founder* of [Dijiwan, a startup which failed](/2014/why-our-startup-failed/);
 - *Web consultant* in my own limited company;
