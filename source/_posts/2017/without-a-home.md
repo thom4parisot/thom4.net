@@ -173,7 +173,7 @@ Because it involves extra travelling cost, we would keep things simple: strolls 
 # Conclusion
 
 We are now mid-April 2017 and have I finished writing the _Node.js book_? Of course… _not_ 🙄 (I am slightly too ambitious sometimes).
-Unexpected things happened and in a good way: I re·connected with my voice and tone, gained confidence about the book content, found myself productive and intuitively [practiced open documentation][nodebook-daily], a practrice that I have been missing for too long.
+Unexpected things happened and in a good way: I re·connected with my voice and tone, gained confidence about the book content, found myself productive and intuitively [practiced open documentation][nodebook-daily], a practice that I have been missing for too long.
 
 The _open documentation_ approach sparked business inquiries, some blog posts (both in _french_: [writing a book in 2017](https://www.quaternum.net/2017/03/07/ecrire-un-livre-en-2017/) and [a web-based publishing platform](https://www.quaternum.net/2017/03/13/une-chaine-de-publication-inspiree-du-web/)) and an insightful meeting with _arts and design students_ about their [pluridisciplinary magazine](https://fr-fr.facebook.com/Revue-Mandarine-194245834387251/).
 
