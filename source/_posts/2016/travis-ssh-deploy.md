@@ -56,13 +56,13 @@ Here is what happens during the build:
 
 The deploy strategy can be:
 
-- **scp all the things!**  
+- **scp all the things!**
 Nice but limited in term of features, especially if you need to prevent certain files to be transferred (*it is all or nothing*);
 - **rsync**
 The recommended way to transfer assets over the wire, mostly because of the various local to remote file comparison mechanisms – by using content fingerprinting, date changes, file deletion etc;
-- **solid archive upload**  
+- **solid archive upload**
 Can be handy if you don't trust the wire and fancy untarring a PGP encrypted archive, assessing a tarball checksum after a successful transfer etc;
-- **a combination of these and others**  
+- **a combination of these and others**
 Which is perfect if you want to push static files as well as to index their content in a remote database with *secured write credentials*.
 
 With any of the strategies, you can upload to the remote folder, or to a *temporary folder* and *swap* them out once the transfer is complete. Which can be useful to **prevent UI or service disruptions** – because some assets calls are not in sync anymore. (eg: an updated page refering to a CSS file which has not been transfered yet).
@@ -92,7 +92,7 @@ So let's recap what we need to do to **securely prepare** our SSH tunnel between
 Which translates into:
 
 ```bash
-ssh-keygen -t rsa -b 4096 -C '<repo>@travis-ci.org' -f ./deploy_rsa
+ssh-keygen -t rsa -b 4096 -C 'build@travis-ci.org' -f ./deploy_rsa
 travis encrypt-file deploy_rsa --add
 ssh-copy-id -i deploy_rsa.pub <ssh-user>@<deploy-host>
 
@@ -112,14 +112,14 @@ We still need to setup a few things before we are able to enact anything:
 2. **Decrypting** the encrypted SSH private key;
 3. **Adding the key** to the current `ssh-agent` to make any SSH-based command agnostic to the private key location.
 
-In a nutshell, your `.travis.yml` should contain these lines (in addition to your existing config):
+The result of the previous `travis encrypt-file` call will generate a content similar to this in our `.travis.yml`:
 
 ```yaml
 addons:
   ssh_known_hosts: <deploy-host>
 
 before_deploy:
-- openssl aes-256-cbc aes-256-cbc -K $encrypted_<...>_key -iv $encrypted_<...>_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
+- openssl aes-256-cbc -K $encrypted_<...>_key -iv $encrypted_<...>_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_rsa
 - ssh-add /tmp/deploy_rsa
