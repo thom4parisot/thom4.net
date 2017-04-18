@@ -42,7 +42,7 @@ What is the biggest monthly expense and what is useless when we are out of town?
 
 I initially envisioned the journey to be the following:
 
-* _2 weeks_ break to explore [Venice](/photograghy/venice/) and Israel;
+* _2 weeks_ break to explore [Venice](/photography/venice/) and Israel;
 * _3 weeks_ in Bordeaux to bootstrap [our co-op][dtc] and to visit my relatives;
 * _6 weeks_ in 9 different cities in France to write the book.
 
