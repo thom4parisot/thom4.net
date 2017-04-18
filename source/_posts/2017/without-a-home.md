@@ -13,9 +13,9 @@ cover: /images/2017/04/rye-field.jpg
 date: 2017-04-18 14:00:00
 ---
 
-These days people ask me "_where_ are you at the moment?" rather than "_what_ are you up to?" and for a good reason: I have not had a home between January and April 2017.
+These days people ask me "_where_ are you at the moment?" rather than "_what_ are you up to?" and for a good reason: I have not had a home since January 2017 (up until April).
 
-This experience helped me tame something I have feared for a while: living without a home and without an income but a 30 litres backpack.
+This experience helped me tame something I have feared for a while: living without a home and an income but with a 30 litres backpack.
 
 <!--more-->
 
@@ -46,7 +46,7 @@ I initially envisioned the journey to be the following:
 * _3 weeks_ in Bordeaux to bootstrap [our co-op][dtc] and to visit my relatives;
 * _6 weeks_ in 9 different cities in France to write the book.
 
-(Now I read these lines I realise how short the writing period was and no wonder why I did not finish the book…)
+(Now I read these lines I realise how short the writing period was and no wonder I did not finish the book…)
 
 The _vacation time_ helped me to stress test the content of my backpack. I remember removing a few items I never used over the 2 weeks time. And feeling ready to tackle the next 9 weeks.
 
@@ -59,7 +59,7 @@ Here is what happened during the _writing_ period:
 * I spoke at _3 meetups_ (Grenoble, Montpellier and Toulouse);
 * I discovered _4 co-operative coworking venues_ ([La Myne](https://twitter.com/lamyne_) in Villeurbanne/Lyon, [la Coop](http://www.la-coop.net/) in Grenoble, [la Cordée](http://www.la-cordee.net/cordee/lyon/la-cordee-liberte-guillotiere/) in Lyon, le [Yelloworking](http://yelloworking.com/) in Aix-en-Provence);
 * I worked in _7 office locations_ ([beta.gouv.fr](https://beta.gouv.fr/), [Jolicode](https://jolicode.com/), [Matlo](https://www.matlo.com/), [ByteClub](http://byteclub.fr/), [Clever Cloud](https://www.clever-cloud.com/), [Alwaysdata](https://www.alwaysdata.com/), [/ut7](https://ut7.fr/));
-* its costed me _309.40€ of train tickets_ between January and March to move around (slighlty less than 2 months of [London Zone 1-3 Monthly Travelcard](https://tfl.gov.uk/fares-and-payments/fares/tube-dlr-lo-fares#on-this-page-0)).
+* it cost me _309.40€ of train tickets_ between January and March to move around (slightly less than 2 months of [London Zone 1-3 Monthly Travelcard](https://tfl.gov.uk/fares-and-payments/fares/tube-dlr-lo-fares#on-this-page-0)).
 
 The nomadic residency was not all about work. It was also about **spending quality time with the hosts** who kindly offered me a few nights at their place, from an overnight stay to a week-end with some strolls and cooking time in common. The vast majority of my accomodations happened via _spontaneous offers_.
 It was not far different from using [CouchSurfing](https://www.couchsurfing.com/) if we think about it.
@@ -67,7 +67,7 @@ It was not far different from using [CouchSurfing](https://www.couchsurfing.com/
 ![](/images/2017/04/myne.jpg)
 
 I initially envisionned to settle back in London after _having finished the book in 9 weeks_ (🙄) — mid-March it is — except I had to extend the journey.
-It happened [we][dtc] had to run a 3 weeks of _web development training_ in Algeria with [BBC Media Action](http://www.bbc.co.uk/mediaaction/). I also needed some time to recover from the journey, to celebrate a friend's birthday and to honour a birthday outing gift as well.
+It happened [we][dtc] had to run a 3 weeks of _web development training_ in Algeria with [BBC Media Action](http://www.bbc.co.uk/mediaaction/). I also needed some time to recover from the journey, to celebrate a friend's birthday and to honour a surprise birthday gift as well.
 
 It added an extra _4 weeks_ to the journey:
 
@@ -117,9 +117,9 @@ I would usually have a weekly washing machine at friend's places or at the neare
 
 ## Connecting (with) People
 
-The most notable fact is **communities are rather static** geographically speaking. Bouncing between cities helped both _connecting to_ their communities. I have been introduced several time to _local groups_ and I have been happily surprised how easy it is to reach the core of these communities in just a few days/local events.
+The most notable fact is **communities are rather static** geographically speaking. Bouncing between cities helped both _connecting to_ their communities. I have been introduced several times to _local groups_ and I have been happily surprised how easy it is to reach the core of these communities in just a few days/local events.
 
-Being hosted overnight by someone is like **writing a page of a story altogether**. I guess you can truly get to who are people when you zip the sleeping bag for a night on their sofa. Travelling is also just an excuse to experience this.
+Being hosted overnight by someone is like **writing a page of a story together**. I guess you can truly get to who are people when you zip the sleeping bag for a night on their sofa. Travelling is also just an excuse to experience this.
 
 **French communities are great and welcoming**. Not that I doubted about it but this is now a _confirmation_.
 
@@ -184,6 +184,8 @@ There are certainly even cheaper ways to travel but I experienced a **good balan
 Finally, I wish this write-up can feed the conversation with [Vincent](http://vinyll.github.io/) at [MiXiT](https://mixitconf.org/), in regard of his [_digital nomad_ presentation](https://mixitconf.org/en/2017/developpeur-sans-domicile-fixe).
 
 (and hopefully the book should be ready for July 😋)
+
+PS: many many people should be thanked for their help during this journey and well, this is exactly the intent of a [foreword](https://oncletom.io/node.js/foreword/preamble.html#_remerciements) isn't it?
 
 ![](/images/2017/04/bonne-retraite.jpg)
 
