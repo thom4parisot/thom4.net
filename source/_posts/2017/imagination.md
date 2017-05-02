@@ -36,8 +36,7 @@ Ce livre écrit en 1967 raconte comment [John Berger][berger] suit les traces du
 
 Un passage du livre m'interpelle et m'évoque _ce moment précis_ des élections.
 Ces injonctions, ces évidences de voter pour l'un·e ou pour l'autre.
-
-Ce passage dont je recopie quelques extraits ci-après, ce passage me fait alors penser que les **programmes sont des imaginaires**, incarnés par une personne puis mis en application par des milliers d'autres, les ouvriers de la machine-État.
+Il me fait penser que les **programmes sont des imaginaires**, incarnés par une personne puis mis en application par des milliers d'autres, les ouvriers de la machine-État.
 
 Après avoir décrié et débattu le _vote utile_, voilà maintenant le _vote barrage_. Il n'y a qu'un choix (le bon), il nous sauvera du Mal et nous protègera pendant 5 ans.
 
@@ -57,7 +56,7 @@ Les extraits ici recopiés m'évoquent ces élections, d'autres élections et to
 
 Quand je lis qu'il faut faire _barrage contre_, la haine ou le capital, je ne peux m'empêcher de penser que l'intention de vote est manipulée selon un imaginaire qui fait peur.
 
-Les offensives médiatiques ont fait dériver les ballots vers des territoires rassurants que j'assimile aux _sharewares_ des années 1990 : c'est gratuit mais on en paie le prix une fois installé.
+Les offensives médiatiques ont fait dériver les bulletins de vote vers des territoires rassurants que j'assimile aux _sharewares_ des années 1990 : c'est gratuit mais on en paie le prix une fois installé.
 
 Au diable les programmes qui ne jouaient pas d'imagination mais qui étaient ancrés dans la réalité. Dans _les_ réalités. Celles des plus aux moins fortunés, des villes aux campagnes, de la métropole aux territoires d'outre-mer.
 
@@ -100,7 +99,7 @@ Ils me faisaient bien envie ces programmes qui parlaient de nous et non de l'ent
 
 Là, on devrait faire confiance à une personne qui demandera alors à la machine-État de nous accorder un peu plus de confiance et un peu plus de rigueur : on pourra démissionner (quitter son travail) de plein droit une fois tous les 5 ans. Qui reste (heureux·se) dans un même travail pendant plus de 5 ans ?
 
-Absente la réflexion sur le besoin de fournir un travail à tous les sujets du royaume. On reste dans reste un imaginaire malhonnête.
+Absente la réflexion sur le besoin de fournir un travail à tous les sujets du royaume. On reste dans un imaginaire malhonnête.
 Personne n'a atteint le plein emploi depuis 50 ans ; atteint par hasard quand une guerre massacra des millions grâce au labeur d'autres millions. Tandis que l'automatisation est un processus qui n'a fait que s'accélérer depuis que l'espèce humaine a été en mesure d'altérer la nature pour transformer le silex en outil de survie.
 
 > **Les certitudes, c'était s'installer sur la terre ferme**.
