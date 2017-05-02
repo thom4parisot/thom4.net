@@ -8,33 +8,50 @@ tags:
   - Joseph Conrad
   - choix
   - imagination
-cover: /images//~
-date: 2017-04-29 20:00:00
+cover: /images/2017/05/lighthouse-mirrors.jpg
+date: 2017-05-02 13:00:00
 ---
 
-À une semaine du second tour des élections présidentielles en France, pour qui voter quand on ne sait pas vers où l'on navigue, individuellement ou collectivement ?
+À moins d'une semaine du second tour des élections présidentielles en France, **pour qui voter quand on ne se reconnait dans aucun des candidats** et pire, quand on les trouve dangereux ?
 
-Je mets en relation des citations du livre _Un métier idéal_ de [John Berger][berger] avec ce choix à venir, cornélien ou évident selon notre modèle de pensée.
+Mais au fait, depuis combien de temps nous demande-t-on de faire confiance et de sauver les meubles ?
 
 <!--more-->
 
 # tl;dr
 
-Le vote du second tour stimule un imaginaire de ce qu'est ou pourrait être la réalité. La pensée de [Joseph Conrad][conrad] exposée dans le livre _Un métier idéal_ m'évoque ce dilemme, cet imaginaire.
+Nous demander de voter pour une _personne_ ou un _programme_ revient à voter pour un _imaginaire_. La lecture du livre _Un métier idéal_ (_A Fortunate Man_) de [John Berger][berger] m'évoque le dilemme de l'imaginaire.
 
 # La rencontre
 
 Je trouve souvent des réponses quand je me perds. Je me perds quand je ne sais plus où je vais. Je me perds quand je vais volontairement là où je n'ai rien à faire. Je me perds quand j'évolue dans un environnement que je ne comprends pas.
 
-Samedi 29 avril 2017, je me mets en selle pour assister à une [table-ronde sur les machines utopiques](http://acces-s.org/agenda/355/machines-utopiques). Je me perds en cherchant une boutique d'objets de cuisine, tombe nez-à-nez avec une librairie, repense à un [livre d'Alice Miller](https://www.alice-miller.com/cest-pour-ton-bien/) (tl;dr : des méfaits de l'éducation traditionnelle), aperçois une couverture de [John Berger][berger] et notamment _Un métier idéal_.
+Samedi 29 avril 2017, je me mets en selle pour assister à une [table-ronde sur les machines utopiques](http://acces-s.org/agenda/355/machines-utopiques). Je me perds en cherchant une boutique d'objets de cuisine, tombe nez-à-nez avec une librairie, repense à un [livre d'Alice Miller](https://www.alice-miller.com/cest-pour-ton-bien/) dont m'avait parlé [Noémie](https://twitter.com/noeems) (tl;dr : des méfaits de l'éducation traditionnelle), aperçois une couverture de [John Berger][berger] et notamment _Un métier idéal_.
 
-Ce livre écrit en 1967 raconte comment _Berger_ suit les traces d'un médecin de campagne britanique : _John Sassal_. Ce n'est pas un livre sur la politique. C'est un livre d'observation qui questionne. C'est ce qui le rend politique à mes yeux.
+Ce livre écrit en 1967 raconte comment [John Berger][berger] suit les traces du médecin de campagne britanique _John Sassal_.
 
-Un passage décrit l'influence qu'a eu l'écrivain britannique [Joseph Conrad][conrad] sur _Sassal_, notamment ses descriptions des marins, rudes et taciturnes.
+![](/images/2017/05/dungeness-roads.jpg)
 
-Certains paragraphes m'ont fait penser à totalement autre chose. Aux élections. À nous. À toi.
+# Programmes imaginaires
 
-# Imagination électorale
+Un passage du livre m'interpelle et m'évoque _ce moment précis_ des élections.
+Ces injonctions, ces évidences de voter pour l'un·e ou pour l'autre.
+
+Ce passage dont je recopie quelques extraits ci-après, ce passage me fait alors penser que les **programmes sont des imaginaires**, incarnés par une personne puis mis en application par des milliers d'autres, les ouvriers de la machine-État.
+
+Après avoir décrié et débattu le _vote utile_, voilà maintenant le _vote barrage_. Il n'y a qu'un choix (le bon), il nous sauvera du Mal et nous protègera pendant 5 ans.
+
+Quand on suit un parti/idéologie et qu'il est représenté, tant mieux. Le choix est simple.
+
+Quand les choix proposés ne semble pas compatibles avec ses propres valeurs, quand les imaginaires proposés ne rejoignent pas notre propre imaginaire. Que faire ?
+
+
+![](/images/2017/05/sussex-shipwrecks.jpg)
+
+
+# L'imagination électorale
+
+Les extraits ici recopiés m'évoquent ces élections, d'autres élections et tout l'imaginaire qu'elles véhiculent.
 
 > La qualité contre laquelle [Conrad][conrad] ne cesse de mettre en garde est celle-là même à laquelle il fait appel : la **qualité de l'imagination**. C'est à  l'imagination que la mer fait appel, mais pour l'affronter dans sa fureur inimaginable, pour relever le défi qu'elle lance, **il faut renoncer à l'imagination, car elle conduit au repli sur soi et à la peur**.
 
@@ -50,7 +67,7 @@ Je n'aime ni l'un ni l'autre.
 Pourtant on ne me demande qu'une chose : celle de **choisir**.
 De choisir un imaginaire.
 
-> À l'époque, l'image que Sassal avait d'un médecin était la suivante : "Un homme omniscient à l'air défait. Un jour, un docteur est venu au milieu de la nuit et j'ai pu constater qu'il lui arrivait à lui aussi de dormir—le bas de son pyajama dépassait de son pantalon. Mais surtout, **je me souviens qu'il était maître de la situation et parfaitement calme**—alors que tout le monde autour de lui s'énervait et s'agitait."
+> À l'époque, l'image que Sassal avait d'un médecin était la suivante : "Un homme omniscient à l'air défait. Un jour, un docteur est venu au milieu de la nuit et j'ai pu constater qu'il lui arrivait à lui aussi de dormir—le bas de son pyjama dépassait de son pantalon. Mais surtout, **je me souviens qu'il était maître de la situation et parfaitement calme**—alors que tout le monde autour de lui s'énervait et s'agitait."
 
 Tout le monde s'agite. Tente de convaincre. De projeter son imaginaire.
 
@@ -68,7 +85,7 @@ La confrontation à la situation assez peu. Où est le recul ? Où est l'ethnolo
 
 Cette élection dépasse le vote pour un·e candidat·e. C'est un vote pour la reconduction d'un système de représentations. Système qui ne demande qu'à survivre et donc à lui faire confiance, de lui renouveler notre confiance le temps de déposer un papier dans une urne.
 
-Si j'étais honnête, je dirais que je ne veux ni d'Emmanuel ni de Marine ni du système d'exploitation souverain associé : [je voudrais une organisation de société plus collectiviste](http://sites.arte.tv/anarchisme/fr), où les richesses bénéficient à notre enrichissement mutuel plutôt qu'à l'enrichissement des possesseurs de richesses.
+Si j'étais honnête, je dirais que je ne veux ni d'Emmanuel ni de Marine ni du système d'exploitation souverain associé : [je voudrais une organisation de société qui nous profite davantage](http://sites.arte.tv/anarchisme/fr), où les richesses bénéficient au collectif plutôt qu'à les voir se concentrer au-delà de nos regards.
 
 Notre richesse c'est nos mains, notre cœur et notre temps.
 
@@ -78,7 +95,7 @@ Notre richesse c'est nos mains, notre cœur et notre temps.
 
 Le public appelé à voter change lui aussi.
 
-Les choix qui offraient se sortir de notre imagination ne sont plus disponibles.
+Les choix qui offraient de sortir de notre imagination ne sont plus disponibles.
 Ils me faisaient bien envie ces programmes qui parlaient de nous et non de l'entretien de l'État.
 
 Là, on devrait faire confiance à une personne qui demandera alors à la machine-État de nous accorder un peu plus de confiance et un peu plus de rigueur : on pourra démissionner (quitter son travail) de plein droit une fois tous les 5 ans. Qui reste (heureux·se) dans un même travail pendant plus de 5 ans ?
@@ -98,18 +115,28 @@ L'imaginaire du vote est déployée pour faire adhérer à quelque chose qui ser
 Je ne vois aucune évidence. Aucune.
 Tout m'évoque l'inconnu.
 
+![](/images/2017/05/dungeness-lighthouse.jpg)
+
 # Et alors ?
 
-J'ai envie de sortir de cet imaginaire, la projection de ce que seront les 5 prochaines années en France et de tenter d'avoir les pieds sur terre—attention, les certitudes 😉
+**J'ai envie de sortir de cet imaginaire**, de la projection de ce que seront les 5 prochaines années en France.
 
-L'économie néolibérale est apolitique. Elle est en revanche intégrée au(x) système(s) politique(s) et l'impacte. Et nous impacte. On oublie un peu rapidement qu'on l'impacte avec notre porte-monnaie.
+J'ai envie de **sortir du choix du non-choix**. Je n'ai pas envie que mon vote serve à abonder un mécanisme pérpétuant une classe peu représentative de la majorité des habitants de ce pays.
 
-Cette élection est inscrite dans un flux. C'est une décision ponctuelle qui n'invite pas à penser à un choix en continu—du _cycle en V_ à la micro-itération.
+Le monde ne s'effondrera pas si on ne se sent pas de voter pour l'un·e ou l'autre des candidat·e·s. Ça a l'avantage de dire la **vérité**. De révéler la faiblesse de l'offre plutôt que d'accentuer la dette (poly)technique pour 5 ans encore.
+
+Les [élections législatives](https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_en_France) ont un enjeu bien plus grand. Le choix de l'envie pourra à nouveau s'y opérer. Celui de la diversité. Des régions. Des parlementaires. Des contre-pouvoirs.
+
+En attendant.
 
 Je vote en [partageant mon outil de travail](https://dtc-innovation.org).
 Je vote en choisissant de [créer des richesses partagées](https://fr.wikipedia.org/wiki/Open_source).
-Je vote en [donnant mon argent directement à producteurs de légumes](http://agriculture.gouv.fr/consommation-manger-local-partout-en-france) travaillant dans un respect de la nature.
+Je vote en [donnant mon argent directement à celles et ceux qui m'alimentent](http://agriculture.gouv.fr/consommation-manger-local-partout-en-france).
+Je vote en [m'inscrivant dans des actions locales](https://twitter.com/ParisEnSelle/status/859106896929751040).
 
+Et de citer à nouveau :
+
+> (…) il est nécessaire, afin de demeurer honnête, de se confronter à soi et de juger d’un nouveau point de vue.
 
 [berger]: https://fr.wikipedia.org/wiki/John_Berger
 [conrad]: https://fr.wikipedia.org/wiki/Joseph_Conrad
