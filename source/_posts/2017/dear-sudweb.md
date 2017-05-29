@@ -51,18 +51,24 @@ An uncomfortable feeling started growing a few years ago when I had to describe 
 
 As a direct result, I have been able to direct my energy in learning a few things more:
 
-* the [**fishbowl technique**](https://en.wikipedia.org/wiki/Fishbowl_(conversation))  
+* the [**fishbowl technique**](https://en.wikipedia.org/wiki/Fishbowl_(conversation) 
 A brilliant way to distribute a conversation amongst a group of people. It feels fairer to me as it drastically reduces speech monopoly and encourages a more diverse range of participants to express themselves.
 * **typography-based design**  
 A few conversations and Open Forum sessions made me realise I was into _grid and typography based design_. It calls for diving more into the subject thanks to all the freshly collected resources — now reading [On Web Typography](https://abookapart.com/products/on-web-typography) by _Jason Santa Maria_.
 * **travelling opens up our cultural acceptance**  
 Reading _Poverty and experience_ by Walter Benjamin as well as listening to the talk _A Journey in India_ by [Marie Terrier][marie] and a conversation with [Stéphane Langlois][pointbar] made me realise I travel in different ways: by reading books, by living abroad, by travelling in unknown locations, by embracing a nomadic lifestyle every now and then. Explorers bring new stories home and stimulate imagination. Innovation is about taking new paths to reach out for answers. Innovation is about exploring as well.
 
-![an example of fishbowl at Sud Web 2017]()
+[![an example of fishbowl at Sud Web 2017](/images/2017/05/fishbowl.jpg "Image courtesy of http://www.marcelvanhove.com/visual-facilitation-fishbowl/")](http://www.marcelvanhove.com/visual-facilitation-fishbowl/)
 
 The _fishbowl technique_ has been a must because experiencing it once was enough to reuse it straight away in a workshop I offered to facilitate: "Mostly Developer". This session was inspired by an answer during a Q&A as well as a tweet from Sud Web urging to make a decision about defining ourselves with a single label.
 
-Notes and thoughts about **the multi-potential question** will be written down in an upcoming blog post — there is a lot.
+{% blockquote @sudweb https://twitter.com/SudWeb/status/865715482179010561 %}
+On cherche toujours à comprendre ce concept de "plutôt dev"
+{% endblockquote %}
+
+Notes and thoughts about **the multi-potential question** will be written down in an upcoming blog post — there is a lot to say about how we deal with it.
+
+![](/images/2017/05/le-petit-travers-plage.jpg)
 
 # What Sud Web Has Changed in my Life?
 
@@ -92,6 +98,8 @@ Some talks highlighted fundamental concepts:
 
 Not to mention the hilarious talk of [Bruno Heridet](http://delapouite.com/): if all English technical terms were to be translated in French 😂.
 
+![](/images/2017/05/le-petit-travers-couchant.jpg)
+
 # A Missed Aix-perience
 
 It is now time to dive into what worked less in this 7th instalment of the _Sud Web_ conference. (Rephrased par rapport au point de vue dans l'audience avec experience)
@@ -119,6 +127,8 @@ This problem is not new and it can easily be transposed to other gaps such as as
 
 Speaking about it with Marie, she acknowledged having been pulled in different directions during the rehearsals with the organisers. It might have led to some confusion.
 
+![](/images/2017/05/les-bienveillantes.jpg)
+
 # Conclusion
 
 With a few people leaving the Sud Web non-profit organisation, there is an opportunity **to focus on what matters**: the community which reunites around Sud Web values and where the community is driven to.
@@ -133,7 +143,7 @@ Maybe the talks do not need to last for a day. Maybe the Conference (Half) Day s
 
 Sud Web still has a lot of potential to remain the safe space where we go **to assert** our values, **to realise** we are not alone but ~~a community~~ communities and **to wonder** what we should do to start the week after.
 
-See you next year!
+See you next year from the back seat!
 
 PS: a grateful _thank you_ to [Noémie](http://noemiegirard.co/) for proofreading this article, for contributing to make it clearer and for sacrificing two nights of [The Art of Design](https://www.netflix.com/title/80057883) in order to help me.
 
