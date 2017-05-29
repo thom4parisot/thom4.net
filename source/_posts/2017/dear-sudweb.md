@@ -104,7 +104,7 @@ Not to mention the hilarious talk of [Bruno Heridet](http://delapouite.com/): if
 
 It is quite refreshing to attend a conference after having organised it for 6 years: I can now fully get **how things are lived from an attendee perspective, with an organiser mindset**.
 
-Let's dive into what worked less in this 7th instalment of the _Sud Web_ conference. A few things felt out of place, mostly during the Conference Day:
+Let's dive into _what worked less well_ in this 7th instalment of the _Sud Web_ conference. A few things felt out of place, mostly during the Conference Day:
 
 * **organisers not reacting** to a non-working speaker microphone — thankfully Boris ran from the other room to help;
 * **transitions between talks were clumsy** and not well prepared — it felt like a bad cargo cult from the past edition;
