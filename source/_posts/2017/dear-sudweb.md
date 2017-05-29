@@ -102,9 +102,9 @@ Not to mention the hilarious talk of [Bruno Heridet](http://delapouite.com/): if
 
 # A Missed Aix-perience
 
-It is now time to dive into what worked less in this 7th instalment of the _Sud Web_ conference. (Rephrased par rapport au point de vue dans l'audience avec experience)
+It is quite refreshing to attend a conference after having organised it for 6 years: I can now fully get **how things are lived from an attendee perspective, with an organiser mindset**.
 
-A lot of things felt out of place, mostly during the Conference Day:
+Let's dive into what worked less in this 7th instalment of the _Sud Web_ conference. A few things felt out of place, mostly during the Conference Day:
 
 * **organisers not reacting** to a non-working speaker microphone — thankfully Boris ran from the other room to help;
 * **transitions between talks were clumsy** and not well prepared — it felt like a bad cargo cult from the past edition;
