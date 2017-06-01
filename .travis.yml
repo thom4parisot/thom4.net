@@ -14,11 +14,19 @@ before_deploy:
 - ssh-add /tmp/id_rsa
 
 env:
-- NODE_ENV=production
+  matrix:
+  - NODE_ENV=production
+  global:
+    secure: "c5gAW/tPNCNh5DgfYU/WMErx3OFVcEt/BeIWJZRf08M02IKtnPQqxxoCm5PF8mFxdWrIPnZPN0GO6yhKWTsxKZYkPelKareROu3KaRmAzMEoZLYipZ95O6kd1eR98N4iE5BylLMM1trGzUfCuSBDmBWNXjf5TwQJ+ewmDV4iEjQ="
 
 deploy:
-  provider: script
+- provider: script
   script: npm run deploy
+  skip_cleanup: true
+  on:
+    branch: master
+- provider: script
+  script: npm run index-content
   skip_cleanup: true
   on:
     branch: master

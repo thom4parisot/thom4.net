@@ -102,6 +102,14 @@ graph:
   facebook:       ~
   twitter:        oncletom
 
+# Content Indexing
+## See https://www.npmjs.com/package/hexo-algolia
+algolia:
+  applicationID: 'QIP7Z1PL3B'
+  apiKey: '5caf0f682ba8349e8a67872b9edde3f3'
+  indexName: 'prod_blog'
+  chunkSize: 5000
+
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
