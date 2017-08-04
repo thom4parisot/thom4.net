@@ -102,6 +102,15 @@ graph:
   facebook:       ~
   twitter:        oncletom
 
+markdown:
+  plugins:
+  - markdown-it-abbr
+  - markdown-it-attrs
+  - markdown-it-footnote
+  - markdown-it-ins
+  - markdown-it-sub
+  - markdown-it-sup
+
 # Content Indexing
 ## See https://www.npmjs.com/package/hexo-algolia
 algolia:
