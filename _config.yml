@@ -103,6 +103,9 @@ graph:
   twitter:        oncletom
 
 markdown:
+  render:
+    html: true
+    xhtmlOut: false
   plugins:
   - markdown-it-abbr
   - markdown-it-attrs
