@@ -8,8 +8,8 @@ lang: fr
 authors:
 - Walter Benjamin
 description: |
-  Depuis la Première Guerre mondiale, l'expérience a perdu de sa valeur, ce que l'on a soi-même vécu n'est quasiment plus mis en mots et transmis d'une génération à l'autre. 
-Benjamin livre là une poignante réflexion sur la beauté de ce qui disparaît, le sens de l'histoire et notre attitude ambiguë vis-à-vis du passé.
+  Depuis la Première Guerre mondiale, l'expérience a perdu de sa valeur, ce que l'on a soi-même vécu n'est quasiment plus mis en mots et transmis d'une génération à l'autre.
+  Benjamin livre là une poignante réflexion sur la beauté de ce qui disparaît, le sens de l'histoire et notre attitude ambiguë vis-à-vis du passé.
 ---
 
 > La diffusion du roman n'est possible qu'avec l'invention de l'imprimerie. Ce qui se transmet oralement, la marchandise de l'épopée est d'une tout autre nature que ce qui constitue le fond du roman. Le roman se détache de toutes les autres formes de littérature en prose — les contes, les légendes, et même les nouvelles — par le fait qu'il ne provient pas de la tradition orale ni ne vise à s'y intégrer. Mais il se distingue avant tout de l'acte de raconter.
