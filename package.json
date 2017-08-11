@@ -30,6 +30,7 @@
     "hexo-renderer-less": "^0.2.0",
     "hexo-renderer-markdown-it": "^3.4.1",
     "hexo-server": "^0.2.0",
+    "hexo-tag-soundcloud": "^1.0.1",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme",
     "hexo-util": "^0.6.0",
     "markdown-it-attrs": "^0.9.0"
