@@ -28,7 +28,7 @@ Faire ce que l'on sait faire le mieux : marcher.
 
 Faire ce que l'homme sait faire le mieux : appréhender le flou et l'inconnu ; en l'occurrence, le  sol imparfait.
 
-Selon les endroits, le sol est tantôt recouvert de mousses épaisses imbibées d'eau (sensation de marcher sur des éponges gorgées de ce liquide), tantôt arride, tantôt bombé par des amas de végétations. On n'a pas le choix, on marche. Coordonner les yeux et les mouvements à la recherche de la sortie, du chemin du retour et des piquets du sentier y menant.
+Selon les endroits, le sol est tantôt recouvert de mousses épaisses imbibées d'eau (sensation de marcher sur des éponges gorgées de ce liquide), tantôt aride, tantôt bombé par des amas de végétations. On n'a pas le choix, on marche. Coordonner les yeux et les mouvements à la recherche de la sortie, du chemin du retour et des piquets du sentier y menant.
 
 À ce moment (pourquoi ce moment là ?), un pied glisse, un pied s'incurve, des craquements s'entendent.
 
