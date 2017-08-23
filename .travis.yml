@@ -1,6 +1,7 @@
 language: node_js
 node_js: v8
 sudo: false
+dist: trusty
 addons:
   ssh_known_hosts: ssh-oncletom.alwaysdata.net
 
