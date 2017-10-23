@@ -12,6 +12,8 @@ tags:
   - fulfilment
 cover: /images/2017/10/39070001.jpg
 date: 2017-10-23 11:00:00
+thanks_to: |-
+  [Frank](https://frank.taillandier.me) and [Noémie](http://noemiegirard.co) for their help and guidance during the writing process.
 ---
 
 I often felt it was **hard for me to find my place in a work environment**. [Even at the BBC](/2016/bbc/). Earlier in May, [Frank][] introduced me to the [Multipotentiality][] notion.
@@ -148,6 +150,7 @@ I haven't found a job title yet but I certainly have found a way to craft my job
 ![](/images/2017/10/29410012.jpg)
 
 [Frank]: https://frank.taillandier.me/
+[Noémie]: http://noemiegirard.co/
 [Multipotentiality]: https://en.wikipedia.org/wiki/Multipotentiality
 [Sud Web]: https://sudweb.fr/
 [Sud Web 2017]: https://sudweb.fr/2017/
