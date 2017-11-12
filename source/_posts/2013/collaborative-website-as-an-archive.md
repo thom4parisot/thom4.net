@@ -1,5 +1,6 @@
 title: Collaborative Website as an Archive
 date: 2013-10-16 10:00:00
+updated: 2017-11-12 12:00:00
 tags:
 - Emu Nova
 - experience
@@ -7,9 +8,7 @@ categories:
 - WebDev
 - JavaScript
 lang: en-GB
-cover:
-  url: //farm4.staticflickr.com/3776/10162068324_2cf2d69dc6_c_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/10162068324/
+cover: /images/2013/10/10162068324_f9c3836f8c_b.jpg
 ---
 
 The 15th of October 2002, I transferred a PHP/MySQL website via FTP. On the first domain name I ever bought.
@@ -19,6 +18,9 @@ The 14th of October 2013, I committed 17 000 files on a `gh-pages` branch. After
 Wait. **7 years**?
 
 <!--more-->
+
+- **October 2013**: initial publication
+- **November 2017 Update**: [website is now built with Hugo](#november-2017-update)
 
 ## About Emu Nova
 
@@ -152,6 +154,20 @@ It is the **[Pull Request Hack](http://felixge.de/2013/03/11/the-pull-request-ha
 
 [Fearing London buses is not an issue anymore](http://m.bbc.co.uk/news/uk-england-london-22000276).
 
+## November 2017 Update
+
+The website is now built with Hugo.
+
+Builds are automated with [Travis CI][]. They last 8 minutes:
+
+- 25 sec to assemble the website with [Hugo][];
+- 3 minutes to generate thumbnails with [sharp][];
+- 3 minutes to redeploy with `rsync`.
+
+This is serious improvement. It took roughly 30 minutes prior to this migration. Hugo _development server_ makes local development way easier.
+
+Details of the migration can be found in this [Pull Request](https://github.com/oncletom/emunova.net/pull/52).
+
 ## What’s Next?
 
 Common patterns are diffused among those 10 years. **Sharing**. **Caring**. **Contributing**. It connected me to job **opportunities**, to **people**, to **knowledge**.
@@ -170,3 +186,7 @@ Anyway, a couple of things will be interesting to explore:
 - eventually evolving as a Web-based peer to peer retrogaming open  platform (let's be super ambitious again)
 
 I hope it **gave you inspiration to craft your ideas** to your own domain, using this shared experience :-)
+
+[Hugo]: https://gohugo.io/
+[Travis CI]: https://travis-ci.org/oncletom/emunova.net/builds
+[sharp]: https://npmjs.com/sharp
