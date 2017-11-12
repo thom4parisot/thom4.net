@@ -113,6 +113,12 @@ markdown:
   render:
     html: true
     xhtmlOut: false
+  anchors:
+    level: 2
+    collisionSuffix: 'v'
+    permalink: false
+    permalinkClass: header-anchor
+    # permalinkSymbol: ¶
   plugins:
   - markdown-it-abbr
   - markdown-it-attrs
