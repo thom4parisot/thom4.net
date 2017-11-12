@@ -6,7 +6,7 @@
     "node": ">= 8.0.0"
   },
   "hexo": {
-    "version": "3.3.9"
+    "version": "3.4.0"
   },
   "scripts": {
     "build": "hexo generate",
