@@ -14,9 +14,7 @@ tags:
 categories:
 - Personal Views
 - Work & Labour
-cover:
-  url: //farm6.static.flickr.com/5041/5226018642_972d32f7e3_c_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/5226018642/
+cover: /images/2010/12/robot-cover.jpg
 ---
 
 > **Remarque** : j'ai initialement intitulé cet article « pourquoi j'ai décidé de devenir indépendant » mais au final, je me suis rendu compte que je ne répondais pas à la question. Ce sera l'objet d'un autre billet, détaillant pourquoi j'ai préféré l'indépendance à un autre employeur.
@@ -62,7 +60,7 @@ Combien parmi vous se sont déjà sentis sous-exploités, car vous savez en fair
 
 J'ai été définitivement convaincu de ça le jour où je n'ai pas été défendu face au client, et que le seul **argument du client payeur** cautionnait le fait qu'il s'essuie les pieds sur moi. Ce jour là, le divorce était consommé : je n'étais plus consultant, _j'étais une ressource_.
 
-[![](//farm5.static.flickr.com/4151/5155103053_876a5b8df6_m.jpg "We are not clowns")](http://www.flickr.com/photos/the-jedi/5155103053/)
+![](/images/2010/12/5155103053.jpg "We are not clowns")
 
 ## Parce que je me suis senti prêt
 
@@ -96,7 +94,7 @@ C'est sur ces fondements que reposera mon activité : un travail de qualité, so
 Je suis convaincu que l'implication est le facteur premier de la réussite.
 La frustration a ça de bénéfique : elle pousse à la liberté.
 
-[![](//farm6.static.flickr.com/5005/5210196928_a7ffcd5266_m.jpg "End of Line")](http://www.flickr.com/photos/the-jedi/5210196928/)
+![](/images/2010/12/5210196928.jpg "End of Line")
 
 ## Et la suite ?
 
@@ -107,4 +105,4 @@ Rien ne démarrera avant 2011, je me laisse encore le temps d'y réfléchir et d
 > **Nota bene** : pour éviter toute confusion, je n'ai aucun regret à avoir passé 3 ans de ma vie chez Clever Age. Sans cette étape, sans les gens que j'y ai cotoyé et sans ce que j'y ai appris, je n'aurais peut-être pas franchi le pas. Ce n'est pas un règlement de compte, ou un tir à boulet rouge. C'est un constat.
 >
 >
-> **Nota bene **_again_ : à celles et ceux qui pensent qu'il s'agit d'un billet plein de rancune contre mon ancien employeur, relisez le titre. J'aime mes anciens collègues, ils sont bons et motivés. Ils ont été et sont une famille à mes yeux. Mais ne lisez pas entre les lignes : je partage un ressenti, c'est personnel et lié à ma personne.
+> **Nota bene _again_** : à celles et ceux qui pensent qu'il s'agit d'un billet plein de rancune contre mon ancien employeur, relisez le titre. J'aime mes anciens collègues, ils sont bons et motivés. Ils ont été et sont une famille à mes yeux. Mais ne lisez pas entre les lignes : je partage un ressenti, c'est personnel et lié à ma personne.
