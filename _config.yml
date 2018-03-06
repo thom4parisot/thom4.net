@@ -5,7 +5,12 @@
 # Site
 title: oncletom.io
 subtitle: A blog about *Web technologies* and *human experience*.
-description: "Hey, I'm Thomas! A french web engineer living in London and working for BBC R&D. I express my views and interests about Web development, Node.js, Docker and long-term life experiences."
+description: |
+  Hey, I'm **Thomas** Parisot, a french **software designer**.
+
+  Recently, I have been up to writing a book, team facilitation, Node.js programming and user research.
+
+  I am **nomadic at the moment** • been a Londoner for 5 years and a Bordeaux chap for almost 20 years.
 author: Thomas Parisot
 email: hi@oncletom.io
 default_cover: https://oncletom.io/images/thomas-parisot.jpg
