@@ -5,12 +5,6 @@
 # Site
 title: oncletom.io
 subtitle: A blog about *Web technologies* and *human experience*.
-description: |
-  Hey, I'm **Thomas** Parisot, a french **software designer**.
-
-  Recently, I have been up to writing a book, team facilitation, Node.js programming and user research.
-
-  I am **nomadic at the moment** • been a Londoner for 5 years and a Bordeaux chap for almost 20 years.
 author: Thomas Parisot
 email: hi@oncletom.io
 default_cover: https://oncletom.io/images/thomas-parisot.jpg
