@@ -21,7 +21,7 @@ Si je trouve l'installation de base de cette plateforme de rédaction plus qu'ab
 
 Tous les plugins qui suivent ne vous seront pas indispensables (notamment si vous ne jouez pas avec [Flickr](http://www.flickr.com) ni [Google Analytics](http://www.google.com/analytics/)) mais peut-être que la lecture de ce billet vous en apprendra davantage et créer des envies ;-)
 
-**Remarque** : ceci est un vieux billet. Certains plugins sont peut-être obsolètes, disparus ou abandonnés. Je vous recommande la lecture de [Alternatives to 66 of Your Favorite Dead WordPress Plugins](https://www.whoishostingthis.com/compare/) pour des équivalents.
+**Remarque** : ceci est un vieux billet. Certains plugins sont peut-être obsolètes, disparus ou abandonnés. Je vous recommande la lecture de [Alternatives to 66 of Your Favorite Dead WordPress Plugins](https://www.whoishostingthis.com/compare/wordpress/dead-plugins/) pour des équivalents.
 
 ## [Akismet](https://wordpress.org/plugins/plugins/akismet/)
 
