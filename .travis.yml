@@ -13,6 +13,7 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/id_rsa
 - ssh-add /tmp/id_rsa
+- cp -r  source/.well-known public/.well-known
 
 env:
   matrix:
