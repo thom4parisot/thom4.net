@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: oncletom.io
+Token: 6bcd7e76eeb551a33c20e3cf5027c8e432c0ea595d0ebc6cc30b0d605b677b10 
