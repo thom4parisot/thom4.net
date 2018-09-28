@@ -101,6 +101,7 @@ graph:
   facebook:       ~
   twitter:        oncletom
   pgp:            "https://keybase.io/oncletom/pgp_keys.asc?fingerprint=46637e267871df7f255788ee893c87dfb3335e7e"
+  mastodon:       https://framapiaf.org/@oncletom
 
 webmentions:
   url: https://webmention.io/oncletom.io
