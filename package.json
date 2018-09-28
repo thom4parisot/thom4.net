@@ -18,8 +18,8 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "hexo": "^3.6.0",
-    "hexo-algolia": "^1.2.4",
+    "hexo": "^3.7.1",
+    "hexo-algolia": "^1.2.5",
     "hexo-cli": "^1.1.0",
     "hexo-deployer-rsync": "^0.1.2",
     "hexo-generator-archive": "^0.1.4",
