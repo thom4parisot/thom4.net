@@ -3,6 +3,7 @@ title: Hey, I'm Thomas!
 lang: en-GB
 date: 2006-08-16 18:31:46
 updated: 2017-01-10 12:00:00
+alias: /slash-me/
 cover:
   url: /images/thomas-parisot.jpg
 ---
