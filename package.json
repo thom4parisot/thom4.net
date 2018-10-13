@@ -15,7 +15,9 @@
     "start": "hexo server",
     "new": "hexo new post",
     "pretest": "NODE_ENV=production npm run build",
-    "test": "exit 0"
+    "test": "exit 0",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "hexo": "^3.7.1",
@@ -33,6 +35,8 @@
     "hexo-tag-soundcloud": "^1.0.2",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme",
     "hexo-util": "^0.6.3",
-    "markdown-it-attrs": "^1.2.1"
-  }
+    "markdown-it-attrs": "^1.2.1",
+    "snyk": "^1.103.4"
+  },
+  "snyk": true
 }
