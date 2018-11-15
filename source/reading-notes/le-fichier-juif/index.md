@@ -1,6 +1,6 @@
 ---
 layout: reading-note
-isbn: "2259185525"
+isbn: "9782259238403"
 publication_year: 1996
 title: Le «fichier juif»
 authors:
@@ -38,13 +38,13 @@ description: |
 
 > Ces fiches allaient servir à mener un travail spécifiquement policier qui n'avait que des rapports assez lointains avec-les enquêtes d'aryanisation qui auraient être en principe le lot commun de ces inspecteurs.
 
-> Pour compléter leurs informations, les directions régionales pouvaient tabler sur une aide partielle apportée par la police nationale voire par la gendarmerie puisque leurs inspecteurs étaient autorisés à « consulter certains procès-verbaux (…) ».  
+> Pour compléter leurs informations, les directions régionales pouvaient tabler sur une aide partielle apportée par la police nationale voire par la gendarmerie puisque leurs inspecteurs étaient autorisés à « consulter certains procès-verbaux (…) ».
 > Pour accroître leur d'action, ils n'eurent de cesse d'être autorisés « dans but purement révolutionnaire >> à arrêter les juifs, en les mettant « à Ia disposition » des commissaires, comme cela se pratiquait en zone Nord.
 > Pour mener des enquêtes, ils avaient, semble-t-il, un accès direct aux fichiers de Ia préfecture (…).
 
 > René Carmille, contrôleur général des armées, nourrissait depuis le milieu des années trente de grands projets assis sur la mécanographie pour ermettre, à ses yeux, de transformer toute la vie administrative française. Le principe général consistait à remplacer les dénombrements anonymes et globaux par la collecte de renseignements individuels, continûment vérifiés et portés sur une fiche appropriée.
 > Si l'on en croit un certain nombre de témoignages question 10 et 11 (« Etes-vous de race juive? ») aurait subi un traitement manuel séparé à la direction régionale de Clermont-Ferrand.
 
-> Le seul résultat, semble-t-il, de ce travail d'exploitation est un état anonyme par sexe et par département et par activité professionnelle, le nombre de personnes appartenant à chaque catégorie étant évidemment très faible et souvent égal à 1. 
+> Le seul résultat, semble-t-il, de ce travail d'exploitation est un état anonyme par sexe et par département et par activité professionnelle, le nombre de personnes appartenant à chaque catégorie étant évidemment très faible et souvent égal à 1.
 
 > Nous comprenons que le fichier du recensement d'octobre 1940 aurait pu représenter un enjeu d'une grande importance symbolique. Qu'il nous soit permis de dire, au bout de notre enquête, qu'**il nous paraît à bien des égards encore plus important qu'aient pu être conservés par les pouvoirs publics, et sous leur contrôle, des fichiers de la douleur, de la souffrance et du calvaire des juifs** ; et notamment le fichier si pathétique de Drancy.

@@ -1,6 +1,6 @@
 ---
 layout: reading-note
-isbn: "2213616299"
+isbn: "9782757842119"
 title: La convivialité
 in: "Oeuvres complètes, tome 1"
 publication_year: 1973
