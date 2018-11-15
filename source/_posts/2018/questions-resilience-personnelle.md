@@ -36,7 +36,7 @@ Je propose des ateliers de boulangerie, pour faire du pain et repartir avec à l
 
 J'entame ma troisième thérapie avec une psychologue pour comprendre, accepter et changer de regard sur des failles qui me font peur ou qui me font perpétuer des oppressions.
 
-# Comment utilisez-vous votre métier pour ce&nbsp;faire&nbsp;?
+# Comment utilisez-vous votre métier pour ce faire&nbsp;?
 
 Je fais en sorte que les productions facturées soient ouvertes, librement accessibles, voire deviennent des communs.
 
@@ -50,7 +50,7 @@ Je propose du temps libre à des projets et organisations en phase avec mes vale
 
 ![](/images/2018/10/64290003.jpg)
 
-# Quels sont les freins que vous&nbsp;avez&nbsp;?
+# Quels sont les freins que vous avez&nbsp;?
 
 Je n'ai plus l'impression d'avoir de freins :
 
@@ -62,13 +62,13 @@ En ce moment, j'ai l'impression que les opportunités s'ouvrent de plus en plus,
 
 Enfin si, un frein c'est le temps disponible : j'ai davantage d'envies que de temps. Je dois faire des choix pour ne pas trop me disperser. C'est dur.
 
-# Quels sont les étapes que vous souhaitez&nbsp;franchir&nbsp;?
+# Quels sont les étapes que vous souhaitez franchir&nbsp;?
 
 J'aimerais prendre davantage part au mouvement de mise en relation des producteurs et des consommateurs, peu importe les formes (vente directe, AMAP, épicerie coopérative).
 
 J'aimerais travailler davantage avec les acteurs ruraux, mettre en commun et renforcer leurs connexions.
 
-# Comme il n'y a pas d'issue, comment, intellectuellement, anticipez-vous et vivez-vous cet effondrement&nbsp;à&nbsp;venir&nbsp;?
+# Comme il n'y a pas d'issue, comment, intellectuellement, anticipez-vous et vivez-vous cet effondrement à venir&nbsp;?
 
 Je pense souvent à la mort, à ma propre mort. C'est ce qui m'aide à me focaliser sur ce que j'ai envie de faire, sur ce qui a du sens pour la vie que je souhaite avoir.
 
@@ -78,7 +78,7 @@ J'ai récemment découvert un mot qui illustre mon ressenti vis à vis de ce dé
 Finalement je ne cherche pas à anticiper un effondrement mais à faire en sorte de me synchroniser avec mon environnement immédiat.
 Pour l'instant, ça me guide vers un environnement de vie plus naturel, plus rural et moins exposé aux villes.
 
-# Nous serons peut-être parmi les dernières générations d'humains, que reste-t-il encore à créer pour ces dernières&nbsp;générations&nbsp;?
+# Nous serons peut-être parmi les dernières générations d'humains, que reste-t-il encore à créer pour ces dernières générations&nbsp;?
 
 Je me dis régulièrement que ce n'est pas le futur qui est à inventer, mais le présent qui est à soigner, au sens de bien traiter, regénérer.
 

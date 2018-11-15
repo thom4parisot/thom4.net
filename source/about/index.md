@@ -6,6 +6,7 @@ updated: 2017-01-10 12:00:00
 alias: /slash-me/
 cover:
   url: /images/thomas-parisot.jpg
+cover_type: full
 ---
 
 **Thomas Parisot** is my full name and people often call me *Tom*.
