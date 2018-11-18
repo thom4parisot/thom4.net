@@ -84,27 +84,11 @@ time_format: H:mm:ss
 per_page: 0
 pagination_dir: page
 
-# Disqus
-disqus_shortname: oncletom
-
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 theme: ../node_modules/hexo-theme-oncletom
 layout: blog
-
-graph:
-  google_plus:    ~
-  facebook:       ~
-  twitter:        oncletom
-  pgp:            "https://keybase.io/oncletom/pgp_keys.asc?fingerprint=46637e267871df7f255788ee893c87dfb3335e7e"
-  mastodon:       https://framapiaf.org/@oncletom
-
-webmentions:
-  url: https://webmention.io/oncletom.io
-  features:
-    pingback:   xmlrpc
-    webmention: webmention
 
 markdown:
   render:
