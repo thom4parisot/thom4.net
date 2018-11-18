@@ -73,7 +73,7 @@ Puisqu'une image vaut davantage qu'un long discours (trop tard me direz-vous ;-)
 
 [![Filtre réglé sur &quot;Negative Hue Shift&quot;](/images/2008/08/negative-hue-shift.jpg "Filtre réglé sur &quot;Negative Hue Shift&quot;")](/images/2008/08/negative-hue-shift.jpg)
 
-** Plusieurs choses à noter** :
+**Plusieurs choses à noter** :
 
 *   les teintes blanches sont épargnées
 *   les autres couleurs changent en revanche du tout au tout en fonction du type de daltonisme

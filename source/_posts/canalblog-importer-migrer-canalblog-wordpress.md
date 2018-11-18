@@ -14,7 +14,6 @@ tags:
 - xpath
 categories:
 - WordPress
-cover: /images/2010/02/canalblog.png
 ---
 
 [Canalblog](http://www.canalblog.com/), en 2010, c'est près de 700 000 blogs et près de 17 millions d'articles publiés depuis l'année 2003\. À ce stade, difficile de considérer cette plateforme comme négligeable puisqu'elle a bénéficié d'une capacité d'attraction suffisante pour séduire plusieurs centaines de millier d'utilisateurs.
