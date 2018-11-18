@@ -1,9 +1,7 @@
 ---
-title: Hey, I'm Thomas!
+title: Hello, I'm Thomas
 lang: en-GB
 date: 2006-08-16 18:31:46
-updated: 2017-01-10 12:00:00
-alias: /slash-me/
 cover:
   url: /images/thomas-parisot.jpg
 cover_type: full
@@ -12,43 +10,54 @@ cover_type: full
 **Thomas Parisot** is my full name and people often call me *Tom*.
 My long lasting nickname *Oncle Tom* is a friendly pun to our *digital slavery*.
 
-I am a french _Software Designer_, part of the [dtc innovation][] co-op.
-We created this small and safe environment to design valuable projects with our customers. We help making these projects _open source_ and _open data_ compliant.
-
-My body of work revolves around challenging project briefs, collaborating on web softwares and engaging with audiences to design meaningful projects.
-
-I used to work at [BBC R&D][]. I used to be a volunteer at [Organic Lea farm][]. And I used to co-organise the [Sud Web][] event.
-
+I design web software — its code, its governance, its usage — as part of the [dtc innovation][] co-op.
+We created this small and safe environment to design valuable projects with our customers.
 
 ## Values
 
-I highly believe in **empowerment**, **kindness** and **openness**.
+I have discovered **four foundational values**. Violating them makes me feel I'm doing the wrong thing.
 
-Hence I will do my best to favour **non-profit**, **ethical** or **greater good** projects and organisations.
+* **Nature** is a call for observation, peace, life and what prevails above all;
+* **Love** drives a generosity and tenderness towards animals and persons I encounter;
+* **Autonomy** is what I look for for myself — understanding and being able to accomplish — I also want it for the persons I work with to deflect a dependency on me;
+* **Commons** are the result of a shared work, governance and right of use of a software, its data and its documented history.
 
+Thus, I will do my best to favour **non-profit**, **ethical** or **greater good** projects and organisations.
 
-## Professional experience
+## Paid Work
 
-I have **more than 10 years of professional experience** in the web industry through various roles and responsibilities:
+I have **more than 15 years of professional experience**, self-taught with the help of the many people I met on my way.
 
-- *Software designer* at [dtc innovation][] co-op;
-- *Senior web engineer* at [BBC R&D][];
-- *CTO* and *co-founder* of [Dijiwan, a startup which failed](/2014/why-our-startup-failed/);
-- *Web consultant* in my own limited company;
-- *Web consultant* at [Clever Age][], a renowned French Web engineering agency;
-- *Web developer* in a nation-wide retail group.
+- Software designer at [dtc innovation][];
+- Senior web engineer at [BBC R&D][];
+- CTO and co-founder of [Dijiwan, a startup which failed](/2014/why-our-startup-failed/);
+- Web consultant in my own limited company;
+- Web consultant at [Clever Age][], a renowned French Web engineering agency;
+- Web developer in a nation-wide retail group.
+
+## Generous Work
+
+I do volunteering work and **give away time to organisations I would like to contribute**. I use this as a way to learn and explore but also as a way to defuse return on investment expectations.
+
+Here are some organisations I have spent time with
+
+- [Revue S!lence](http://revuesilence.net/)
+- [Les Pains de Beaufort](http://www.painsdebeaufort.com/)
+- [Festival Printemps d'InPACT](https://latelierpaysan.org/Le-printemps-d-InPACT-2018)
+- [Sud Web][]
+- [Organic Lea farm][]
 
 
 ## Can we get in touch?
 
-You can [drop me a line at anytime][email], even if we never met before 😊
+You can [drop me a line at anytime][email], although I can be slow to reply when things get agitated on my side of things.
 
-I'm happy to talk to you by email, videochat (Skype, appear.in) or in person if we happen to be at the same place at the same time.
+I'm happy to meet you in person if we happen to be at the same place at the same time. It does not have to be good match. Life is life.
 
-If you're not sure, [ask me anyway][email] 🙂
+If you're unsure or think you are not legitimate, feel free [to send me a short email][email] 🙂
 
 [email]: mailto:&#104;&#105;&#064;&#111;&#110;&#099;&#108;&#101;&#116;&#111;&#109;&#046;&#105;&#111;
-[BBC R&D]: https://bbc.co.uk/rd
+[BBC R&D]: https://www.bbc.co.uk/rd/people/thomas-parisot
 [Clever Age]: http://www.clever-age.com/
 [dtc innovation]: https://dtc-innovation.org
 [Sud Web]: https://sudweb.fr/

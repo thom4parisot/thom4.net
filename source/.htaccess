@@ -14,6 +14,7 @@ RedirectPermanent /categories/personnel/ https://oncletom.io/categories/meta/
 RedirectPermanent /tags/linux/ https://oncletom.io/categories/web/
 RedirectPermanent /categorie/php/ https://oncletom.io/categories/web/
 RedirectPermanent /categorie/mysql/ https://oncletom.io/categories/web/
+RedirectPermanent /slash-me/ https://oncletom.io/about/
 
 # ##############################################################################
 # # ERRORS                                                                     #
