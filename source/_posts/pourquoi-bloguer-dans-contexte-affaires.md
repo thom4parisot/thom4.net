@@ -34,7 +34,7 @@ Je reviens sur cette journée si particulière, celle qui m'a permis de prendre 
 Il faut le savoir, le prétexte de cette journée était un livre, écrit à 20 mains (10 personnes donc ;-)), exclusivement par des professionnels québecois.
 Chacun de ces auteurs a une affinité particulière avec l'utilisation des blogs. L'écriture de ce livre était l'occasion pour eux de **synthétiser leur expérience des blogs en milieu professionnel**.
 
-![Pourquoi Bloguer dans un contexte d](/images/2008/08/pourquoi-bloguer-couverture.jpg "Pourquoi Bloguer dans un contexte d\")
+![Pourquoi Bloguer dans un contexte d'affaires](/images/2008/08/pourquoi-bloguer-couverture.jpg)
 
 Ce livre s'est axé sur 10 idées, une par blogueur :
 
@@ -78,7 +78,7 @@ Il y a 1 siècle, les avancées technologiques mettaient plusieurs générations
 
 Ainsi on passe d'un modèle où les parents apprennent aux enfants à un modèle inversé, où les enfants apprennent aux parents. Il n'aura jamais été aussi facile d'être un parent ringard qu'aujourd'hui.
 
-Une journée magique comme j'en aimerais tant d'autres. D'autres personnes ont déjà donné leur ressenti dont [Isabelle Juppé](http://www.lafemmedigitale.fr/non-classe/vive-le-quebec-digital/), le [blog du Club AEC](http://www.aecom.org/blog/rdv/2008/06/pourquoi-bloguer-dans-un-contexte.html) et [Vanessa de Proxima Créative](http://blog.proximacreative.fr/2008/06/04/bloguer-dans-un-contexte-daffaires-episode-1/).
+Une journée magique comme j'en aimerais tant d'autres. D'autres personnes ont déjà donné leur ressenti dont [Isabelle Juppé](http://www.lafemmedigitale.fr/non-classe/vive-le-quebec-digital/), le [blog du Club AEC](http://www.aecom.org/Vous-informer/Actualites/Bloguer-dans-un-contexte-d-affaires) et [Vanessa de Proxima Créative](http://blog.proximacreative.fr/2008/06/04/bloguer-dans-un-contexte-daffaires-episode-1/).
 
 ## Bloguer en entreprise : vérités et contre-vérités
 
