@@ -1,6 +1,8 @@
+---
 title: "BordeauxJS"
 id: 18556
 date: 2012-10-29 13:09:19
+lang: fr
 tags:
 - afterwork
 - bordeaux

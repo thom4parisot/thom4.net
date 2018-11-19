@@ -41,11 +41,11 @@ I do volunteering work and **give away time to organisations I would like to con
 
 Here are some organisations I have spent time with
 
-- [Revue S!lence](http://revuesilence.net/)
-- [Les Pains de Beaufort](http://www.painsdebeaufort.com/)
-- [Festival Printemps d'InPACT](https://latelierpaysan.org/Le-printemps-d-InPACT-2018)
-- [Sud Web][]
-- [Organic Lea farm][]
+- [Revue S!lence](http://revuesilence.net/){lang=fr}
+- [Les Pains de Beaufort](http://www.painsdebeaufort.com/){lang=fr}
+- [Festival Printemps d'InPACT](https://latelierpaysan.org/Le-printemps-d-InPACT-2018){lang=fr}
+- [Sud Web][]{lang=fr}
+- [Organic Lea farm][]{lang=en}
 
 
 ## Can we get in touch?
