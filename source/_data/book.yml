@@ -1,0 +1,15 @@
+title: Node.js • Apprendre par la pratique
+lang: fr
+cover: /images/publications/nodejs-cover.png
+description: |
+  Un ouvrage de 450 pages pour (re)découvrir
+  le développement JavaScript, les modules Node.js et npm.
+  Approfondis ta compréhension de la création d'applications web,
+  d'outils en ligne de commande et l'outillage front-end avec plus de 500 exemples.
+
+  [Lecture gratuite sur le web](/node.js/)<br>
+  [Trouver le livre en librairie](https://www.placedeslibraires.fr/livre/9782212139938)
+  {.read-more}
+testimonies:
+- J’ai bien aimé la façon dont on passe de la théorie à la pratique et la façon dont les infos importantes sont transmises.
+- J'ai appris pas mal de chose sur la genèse de Node, sa "structure", sur npm, les exemples et le texte sont clair (…) c'est limpide jusqu'ici 👍
