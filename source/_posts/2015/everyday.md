@@ -35,7 +35,7 @@ The figures denote I woke up at home *4 days less* compared to 2014.
 It also surfaces I have been to fewer places in England and in Europe although I travelled to a more diverse set of locations in France. First time in Normandy. First time in Brittany.
 
 <video height="500" width="500" poster="/images/2015/12/2015-thumbnail.jpg" loop controls muted>
- <source src="https://dl.dropboxusercontent.com/u/14916101/everyday/2015.mp4" type="video/mp4">
+ <source src="https://www.dropbox.com/s/5a154bi96j3tq3v/2015.mp4?dl=1" type="video/mp4">
 </video>
 
 *Note*: Instagram silently **removed the grid lines** camera feature on Android at some point. It took me a couple of days/weeks to refine the process and eventually end up using the normal Android camera first, then Instagram to edit and publish.
@@ -54,5 +54,3 @@ The [video is assembled exactly as in 2014](/2014/everyday#How_I_made_it).
 2016 is about **going beyond** and **pace**.
 
 **Every day** in *2015* • [2014](/2014/everyday/) • [2013](/2013/everyday/).
-
-

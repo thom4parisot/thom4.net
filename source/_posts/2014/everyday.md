@@ -26,11 +26,7 @@ What 2014 looked like, **every day**, in picture(s).
 - lived in **1** place
 
 <video height="500" width="500" poster="/images/2014/12/2014-thumbnail.jpg" loop controls muted>
- <source src="https://dl.dropboxusercontent.com/u/14916101/everyday/2014.mp4" type="video/mp4">
-
-  <p class="interactive-loading" data-width="500" data-height="500" data-src="https://dl.dropboxusercontent.com/u/14916101/everyday/2014.gif">
-  2014's Timelapse (30MB GIF) — [direct link](https://dl.dropboxusercontent.com/u/14916101/everyday/2014.gif).
-</p>
+ <source src="https://www.dropbox.com/s/25ada0v0p506p9g/2014.mp4?dl=1" type="video/mp4">
 </video>
 
 

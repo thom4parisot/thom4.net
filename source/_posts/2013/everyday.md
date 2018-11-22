@@ -26,9 +26,9 @@ What 2013 looked like, **every day**, in picture(s).
 - lived in **2** different cities
 - lived in **5** different places
 
-<p class="interactive-loading" data-width="500" data-height="500" data-src="https://dl.dropboxusercontent.com/u/14916101/everyday/2013.gif">
-  2013's Timelapse (40MB GIF) — [direct link](https://dl.dropboxusercontent.com/u/14916101/everyday/2013.gif).
-</p>
+<video height="500" width="500" poster="/images/2013/12/2013-thumbnail.jpg" loop controls muted>
+ <source src="https://www.dropbox.com/s/85ygpx78snc5dap/2013.mp4?dl=1" type="video/mp4">
+</video>
 
 ## The Technique
 
