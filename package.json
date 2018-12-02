@@ -29,10 +29,10 @@
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-less": "^1.0.0",
     "hexo-renderer-markdown-it": "^3.4.1",
-    "hexo-server": "^0.2.2",
+    "hexo-server": "^0.3.3",
     "hexo-tag-soundcloud": "^1.0.2",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme#next",
     "hexo-util": "^0.6.3",
-    "markdown-it-attrs": "^1.2.1"
+    "markdown-it-attrs": "^2.3.2"
   }
 }
