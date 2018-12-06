@@ -4,7 +4,7 @@ lang: en-GB
 date: 2006-08-16 18:31:46
 cover:
   url: /images/thomas-parisot.jpg
-cover_type: full
+  type: full
 ---
 
 **Thomas Parisot** is my full name and people often call me *Tom*.
