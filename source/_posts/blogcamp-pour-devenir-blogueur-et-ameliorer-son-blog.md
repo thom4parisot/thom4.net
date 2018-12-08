@@ -1,3 +1,4 @@
+---
 title: "BlogCamp : pour devenir blogueur et améliorer son blog"
 id: 863
 date: 2008-02-05 07:00:53
@@ -40,7 +41,7 @@ Les stéréotypes parlons-en. Ils gravitent autour de 2 expressions phares :
 
 C'est pour ça que **BlogCamp s'adresse à celles et ceux qui ont un blog ou qui n'en ont pas** mais qui souhaiteraient en avoir un.
 
-[![Présentation BlogCamp ergonomie et usabilité](//farm3.static.flickr.com/2353/2222147955_7a84df9e7a.jpg)](http://www.flickr.com/photos/22239045@N03/2222147955/)
+[![Présentation BlogCamp ergonomie et usabilité](/images/2008/02/2222147955_7a84df9e7a_z.jpg)](https://www.flickr.com/photos/blogcamp/2222147955/)
 
 ## Le contenu et les conversations au cœur des rendez-vous
 

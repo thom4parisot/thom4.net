@@ -1,3 +1,4 @@
+---
 title: Live Development of a Bower Component
 date: 2013-08-15 10:00:00
 tags:
@@ -70,7 +71,7 @@ These dependencies are managed as following thanks to the `bower.json` file:
     "tests"
   ],
   "dependencies": {
-    "my-bower-component": "~1.33.7”,
+    "my-bower-component": "~1.33.7",
     "semicolon.js": "https://github.com/madrobby/semicolon.js.git"
   }
 }
@@ -78,7 +79,7 @@ These dependencies are managed as following thanks to the `bower.json` file:
 
 This is neat but it also means **we rely on remote repositories to receive new updates**. The only way to receive updates in `my-bower-component` is to bump a version upper to `1.33.7` (like `1.33.8`, `1.33.10` or more). It is suitable for a production use, but what if we want to use a local development version of `my-bower-component` at the same time?
 
-[![Number Fourteen](http://farm8.staticflickr.com/7446/9284896914_f15e7272a2_z_d.jpg)](http://www.flickr.com/photos/the-jedi/9284896914/)
+![Number Fourteen](/images/2013/08/9284896914_061aa85475_z.jpg)
 
 ## Enters Bower Link
 

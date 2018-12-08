@@ -1,3 +1,4 @@
+---
 title: "L’étudiant est pauvre et incompétent"
 id: 18449
 date: 2011-06-15 15:46:05
@@ -13,8 +14,8 @@ tags:
 categories:
 - Work & Labour
 cover:
-  url: //farm6.static.flickr.com/5212/5385820844_758b8d0c23_c_d.jpg
-  link: https://www.flickr.com/photos/the-jedi/5385820844/
+  url: /images/2011/06/5385820844_4bfe6ae7da_b.jpg
+  type: full
 ---
 
 J’ai été contacté récemment par une blogueuse vivant en région parisienne. Elle cherchait à refondre l'esthétique de son blog afin de lui donner un aspect plus professionnel. Une recherche Twitter et un passage sur mon blog plus tard, elle me contacte pour savoir si je peux m’en occuper.

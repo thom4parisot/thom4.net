@@ -1,3 +1,4 @@
+---
 title: "2011 : l'année du #fail personnel"
 id: 18470
 date: 2011-12-21 18:49:29
@@ -21,7 +22,7 @@ Après un éclat de rire, détendu, je lâche à un ami "on s'est bien vautré c
 
 Et de continuer à savourer de plus belle les discussions et autres flacons présents sur la table de banquet.
 
-[![Dongxinlianzi Hutong](//farm7.staticflickr.com/6154/6186924596_1b82668227.jpg)](http://www.flickr.com/photos/the-jedi/6186924596/ "Dongxinlianzi Hutong by Oncle Tom, on Flickr")
+![Dongxinlianzi Hutong](/images/2011/12/6186924596_ec5cb83135_z.jpg)
 
 <!--more-->
 
@@ -49,7 +50,7 @@ Idem dans le choix des sujets où plus ça va, et moins l'aspect technique me pa
 
 Fatalement, coder sur des projets personnels en dehors des heures de travail a subi la même cure d'amaigrissement : cela s'est traduit par des petites livraisons sur des projets déjà existants. De tête, rien de neuf … mis à part une implémentation [HTML du Game of Life de Conway](http://oncletom.github.com/html-game-of-life/).
 
-**S'il fallait créer, ce fût avec des images** puisqu'en [2011, je capturais une photo tous les 3 jours, en moyenne](http://www.flickr.com/photos/the-jedi/archives/date-taken/2011/calendar/) ; en numérique et en argentique.
+**S'il fallait créer, ce fût avec des images** puisqu'en 2011, je capturais une photo tous les 3 jours, en moyenne ; en numérique et en argentique.
 
 ## La solitude quotidienne du freelance
 
@@ -80,7 +81,7 @@ D'un autre côté, tout ceci a eu pour effet de renforcer le **désir de singula
 
 **Pour rendre un développeur heureux, il faudrait finalement passer plus de temps avec lui**, à parler, qu'à choisir l'architecture de code la plus abstraite car la plus évolutive possible.
 
-[![Peer to Peer](//farm8.staticflickr.com/7025/6393687987_7762280d60.jpg)](http://www.flickr.com/photos/the-jedi/6393687987/ "Peer to Peer by Oncle Tom, on Flickr")
+![Peer to Peer](/images/2011/12/6393687987_02afb2552d_z.jpg)
 
 ## L'aventure humaine
 
@@ -92,7 +93,7 @@ Ces gens qui te rencontrent et 1 an plus tard, tels des **mousquetaires**, signe
 
 Et c'est là où je me dis que travailler chez soi, c'est du gâchis social.
 
-[![The Conflict](//farm7.staticflickr.com/6238/6314643648_e2f57e248b.jpg)](http://www.flickr.com/photos/the-jedi/6314643648/ "The Conflict by Oncle Tom, on Flickr")
+![The Conflict](/images/2011/12/6314643648_1dab7a1435_z.jpg)
 
 ## Conclusion
 

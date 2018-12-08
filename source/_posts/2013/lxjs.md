@@ -1,3 +1,4 @@
+---
 title: LXJS 2013 Wrap-Up
 date: 2013-10-07 10:00:00
 lang: en-GB
@@ -9,9 +10,7 @@ tags:
 - npm
 - nodejs
 - firefox-os
-cover:
-  url: //farm6.staticflickr.com/5327/10121241273_589d0dcf84_c_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/10121241273/
+cover: /images/2013/10/10121241273_1800cb8e28_b.jpg
 ---
 
 [LXJS 2013](http://2013.lxjs.org) is the second edition of English conference located in Lisbon, Portugal. LXJS is an *all-inclusive single track JavaScript* conference spanned on two days.
@@ -147,4 +146,3 @@ Finally, here are some hints to provide an even better LXJS 2014:
 - a small detail but I had to throw 90% of the goodies except the T-shirt and a couple of stickers, because the rest was redundant (and was not fitting in my travel bag)
 
 Oh and yes, [the videos of LXJS 2013 are already available](http://www.youtube.com/channel/UCiCGpqnkj9oRzPsJBql7pGw)!
-

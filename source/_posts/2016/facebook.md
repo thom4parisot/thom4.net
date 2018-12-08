@@ -119,7 +119,7 @@ Most of them did not care much and either tried to find my email or contact me t
 In the end, even if email protocols are probably less secure than messenging each other on Facebook, the **communication feels way more intimate via emails** or any other one-to-one communication channel. At least that's how I feel about it.
 
 **Quick note** on the Meetups/conferences/events. It looks like I was tired of *less genuine* physical gatherings too. I was less interested in engaging with people solely to be polite. **I was less interested in events praising complicated and unnecessary tools**. If what they provide is not obviously helping me, this is then not something I *need*.
-  
+
 Maybe we can call it **consumption fatigue**. Tired of being harangued to try something new, to adopt something which I am told it is better/faster/stronger, to listen to what I have to do to live a better life.
 I felt it was like entering a Tesco for a discounted minute-ready meal which would make my life easier.
 
@@ -143,7 +143,7 @@ So in addition of deleting the Facebook app on my phone, I did the following as 
 - removing any kind of notifications — *I kept Twitter DM because they are not that frequent*;
 - deleting my LinkedIn account — *oh Gosh, way less spam from terrible recruiters!*;
 - deleting my Google+ account;
-- deleting my Flickr account — *in progress though, there is no easy way to backup its content
+- deleting my Flickr account — in progress although there is no easy way to backup its content
 - cancelling Spotify subscription — *rather switched to podcasts synced over Wi-Fi*;
 - cancelling the monthly Oyster payment — *rather paying for a weekly travel card if I feel there will be a lot of commute*;
 - buying a bike and therefore cycling to work — *£50 a month for a bike you own instead of £140 monthly travel card you will never see again, what do you choose?*;

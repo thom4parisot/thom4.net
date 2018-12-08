@@ -1,3 +1,4 @@
+---
 title: "Freelance, 4 mois plus tard"
 id: 18428
 date: 2011-05-03 10:00:50
@@ -43,7 +44,7 @@ Côté facturation et émission de devis, je m'en tiens à [Cedarloop](http://ce
 Enfin, une micro-instance [Amazon EC2](http://aws.amazon.com/ec2/) et un certificat SSL plus tard, Redmine était déployé sur du Nginx et Passenger. Il cohabite avec git (via [gitolite](https://github.com/sitaramc/gitolite)) ce qui me permet de créer des dépôts à la volée depuis Redmine, de fonctionner avec une authentification par certificat et d'éviter la contrainte de la création manuelle de dépôt.
 Je me sers pour l'instant des fonctionnalités par défaut, des _milestones_ au suivi du temps (estimé et passé) ... encore une fois tellement pratique puisque piloté par les commits.
 
-[![](//farm6.static.flickr.com/5017/5515047854_9c3d2912f7.jpg "Bloody Crime Scene")](http://www.flickr.com/photos/the-jedi/5515047854/)
+![](/images/2011/05/5515047854_3b53e6458c_z.jpg)
 
 ## Formalités administratives
 

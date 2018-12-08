@@ -1,3 +1,4 @@
+---
 title: "Mon nouveau MacBook s'appelle Dell Studio"
 id: 1226
 date: 2008-12-30 07:00:56
@@ -17,11 +18,11 @@ categories:
 - WebDev
 - Personal Views
 cover:
-  url: //farm4.static.flickr.com/3121/3148614252_7980e00e12_b_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/3148614252/
+  url: /images/2008/12/3148614252_967f73a6e1_b.jpg
+  type: full
 ---
 
-L'utilisation intensive d'[OpenOffice](http://fr.openoffice.org) et le Go de RAM de mon ancien ordinateur portable ACER aidant, je me suis rapidement motivé un dimanche après-midi à changer de machine. J'ai un instant hésité à sombrer du côté obscur de la Force en optant pour un [MacBook](http://www.apple.com/fr/macbook/) avec clavier rétro-éclairé mais non, la raison m'a rattrapé.
+L'utilisation intensive d'[OpenOffice](https://www.openoffice.org/fr/) et le Go de RAM de mon ancien ordinateur portable ACER aidant, je me suis rapidement motivé un dimanche après-midi à changer de machine. J'ai un instant hésité à sombrer du côté obscur de la Force en optant pour un [MacBook](https://www.apple.com/fr/macbook/) avec clavier rétro-éclairé mais non, la raison m'a rattrapé.
 
 J'ai **finalement opté pour un [Dell Studio 17](http://www1.euro.dell.com/content/products/productdetails.aspx/laptop_studio_17)** ... et tenté de me faire rembourser Windows Vista !
 
@@ -29,7 +30,7 @@ J'ai **finalement opté pour un [Dell Studio 17](http://www1.euro.dell.com/conte
 
 ## Pourquoi pas de MacBook ?
 
-[![Clavier rétro-éclairé du Dell Studio 17](//farm4.static.flickr.com/3224/3148616128_4487b7536a_m.jpg)](http://www.flickr.com/photos/the-jedi/3148616128/ "Clavier rétro-éclairé du Dell Studio 17")
+![Clavier rétro-éclairé du Dell Studio 17](/images/2008/12/3148616128_d6722c87db_z.jpg)
 
 Le MacBook m'a tenté pour plusieurs raisons :
 
@@ -46,7 +47,7 @@ Fin de la parenthèse ;-)
 
 ## Pourquoi un Dell Studio ?
 
-[![Entrée d](/images/2008/12/dell-studio-17-corner.jpg "Entrée d")](/images/2008/12/dell-studio-17-corner.jpg)
+![](/images/2008/12/dell-studio-17-corner.jpg)
 
 Après plus années passées sur des PC en tour construits à la main avec le plus grand amour, j'ai choisi le silence et le nomadisme avec un Acer Aspire 9410\. Je n'ai pas souhaité renouer avec Acer pour plusieurs raisons :
 

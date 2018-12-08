@@ -1,3 +1,4 @@
+---
 title: Back from Write the Docs Europe 2014
 lang: en-GB
 date: 2014-04-09 19:10:00
@@ -8,9 +9,7 @@ tags:
 - readme
 categories:
 - Events
-cover:
-  link: https://www.flickr.com/photos/the-jedi/13588247484/
-  url: //farm8.staticflickr.com/7082/13588247484_4529ca2814_c_d.jpg
+cover: /images/2014/04/13588247484_0be20394fe_b.jpg
 ---
 
 [Write the Docs EU 2014](http://conf.writethedocs.org/eu/2014/) is now over. Attending this conference has been a great opportunity to discover a new community: **technical writers** and **documentarians**.
@@ -97,7 +96,7 @@ On the other hand, **I would not call GitHub a free product anymore**: if GitHub
 
 ## My Talk: README Driven Development
 
-[![](//farm3.staticflickr.com/2829/13544554865_b9b581beb8_z_d.jpg)](https://www.flickr.com/photos/an3ssen/13544554865/in/set-72157643227881314)
+[![](/images/2014/04/13544554865_b9b581beb8_z.jpg)](https://www.flickr.com/photos/an3ssen/13544554865/in/set-72157643227881314)
 
 I have been pleased to perform my first public speaking outside of France and UK: [README Driven Development](https://oncletom.io/talks/2014/writethedocs/). [Bryan Villarin from Automattic wrote a live summary of it](http://allnarfedup.com/2014/03/31/write-the-docs-eu-readme-driven-development/). A video should be available sometime in the future.
 

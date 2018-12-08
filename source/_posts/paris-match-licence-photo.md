@@ -1,3 +1,4 @@
+---
 title: "Si à 30 ans, on ne s'est pas fait piquer une photo par Paris Match, c'est qu'on a quand même raté sa vie !"
 id: 1463
 date: 2009-11-08 20:56:42
@@ -11,20 +12,20 @@ categories:
 - Personnel
 - Travail 2.0
 cover:
-  url: //farm4.static.flickr.com/3258/3111920922_4331a3f05f_c_d.jpg
-  cover: https://www.flickr.com/photos/the-jedi/3111920922/
+  url: /images/2009/11/3111920922_d9518e781d_b.jpg
+  type: portrait
 ---
 
 **Mises à jour** : elles se trouvent en bas de l'article, suite à l'évolution de la situation depuis le moment de publication.
 
 Le titre est volontairement provocateur (mais non Jacques, Internet c'est bien) mais cette après-midi, ça m'a fait tout bizarre de voir une note sur Facebook mentionnant un article de Paris Match. Il est intitulé [Éric Sampietro, la cuisine du mousquetaire](http://www.parismatch.com/Conso-Match/Gastronomie/Actu/Eric-Sampietro-la-cuisine-du-mousquetaire-141329/). Cet article a attiré ma curiosité pour 2 raisons :
 
-1.  j'y ai déjà mangé et _beaucoup_ apprécié le décors ainsi que les plats (cf. mon album [Chez Éric Sampietro](http://www.flickr.com/photos/the-jedi/sets/72157611243875576/))
-2.  l'**image de tête de l'article utilisait une de mes photos** ([Éric Sampietro aux commandes](http://www.flickr.com/photos/the-jedi/3111920922/))
+1.  j'y ai déjà mangé et _beaucoup_ apprécié le décors ainsi que les plats
+2.  l'**image de tête de l'article utilisait une de mes photos**
 
-[![Extrait de l](/images/2009/11/parismatch-sampietro-400x250.jpg "Extrait de l")](/images/2009/11/parismatch-sampietro.jpg)
+![Extrait de l](/images/2009/11/parismatch-sampietro-400x250.jpg)
 
-Oncle Tom vs. Paris Match peut commencer ;-)
+Oncle Tom vs. Paris Match peut commencer.
 
 <!--more-->
 

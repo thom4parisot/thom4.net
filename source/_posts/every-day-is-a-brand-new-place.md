@@ -26,7 +26,7 @@ En tête, cette **admiration envers les gens qui quittent tout**, partent à l�
 
 À ces [nomades](https://larlet.fr/david/biologeek/archives/20110112-resolutions-decouvrir-concretiser-et-transmettre/) sans racine (mais un peu quand même), quand je leur pose la question “c’est où chez toi ?”, ces voyageurs répondent invariablement “la maison familiale/là où j’ai grandi/là où je me suis construit”. Même s’ils en sont partis depuis 5, 10 ou 20 ans. **Des fondations sur lesquelles on s'appuie** de manière instinctive.
 
-[![Guardian of Nowhere. Of Everywhere.](/images/2013/06/8721964504_6ec83240fb_c.jpg)](http://www.flickr.com/photos/the-jedi/8721964504/)
+![Guardian of Nowhere. Of Everywhere.](/images/2013/06/8721964504_6ec83240fb_c.jpg)
 
 ## Réinventer les habitudes
 

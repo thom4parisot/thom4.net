@@ -1,3 +1,4 @@
+---
 title: "Paris-Web 2008 : au nom du webdesign, de la qualité et des standards"
 id: 1203
 date: 2008-11-20 07:00:13
@@ -12,9 +13,7 @@ tags:
 - qualité
 categories:
 - Events
-cover:
-  url: //farm4.staticflickr.com/3270/3034679191_d551c06a85_b.jpg
-  link: http://www.flickr.com/photos/the-jedi/3034679191/in/set-72157609189799718
+cover: /images/2008/11/3034679191_dc655cee3e_b.jpg
 ---
 
 J'ai _enfin_ pu assister à mon premier [Paris-Web](http://www.paris-web.fr/) à Paris du 13 au 15 novembres 2008 inclus. C'était bien, très bien mais que dis-je : excellent ! J'ai rarement eu aussi peu envie de rentrer chez moi après cette multitude de rencontres dans un état d'esprit des plus respectueux.
@@ -36,7 +35,7 @@ Les [conférences de Paris-Web 2008](http://www.paris-web.fr/2008/-programme-) �
 *   IE8 et les standards du Web
 *   **Performances côté client**
 
-[![Stéphane Deschamps](//farm4.static.flickr.com/3237/3034676683_5eedcfdbb4.jpg)](http://www.flickr.com/photos/the-jedi/3034676683/ "Stéphane Deschamps")
+![Stéphane Deschamps](/images/2008/11/3034676683_83557a498c_z.jpg)
 
 Ce qu'il faut retenir c'est que désormais, nous sommes dans une époque où nombre d'outils sont à notre disposition. Il faut **maximiser l'utilisation d'outils déjà existants** et s'en servir pour bâtir nos applications, interfaces et présentations.
 
@@ -49,7 +48,7 @@ Mieux vaut beaucoup de sites accessibles à 60% qu'une infime proportion de site
 Bon nombre de conseils sur l'optimisation des sites Web étaient déjà cités dans l'excellentissime [livre High Performances Websites](https://oncletom.io/2008/07/15/high-performance-web-sites/). L'équipe _Exceptional Performance_ de Yahoo! s'est toutefois penchée à fond sur l'optimisation des images.
 J'y reviendrai d'ailleurs car j'ai découvert _pngnq_ et _pngcrush_. Ces 2 programmes sont d'une utilité redoutable pour compresser et optimiser vos PNG, notamment pour faciliter la transparence IE6 sans douleur.
 
-[![Chris Wilson](//farm4.static.flickr.com/3135/3043455147_016c2baa1d.jpg)](http://www.flickr.com/photos/the-jedi/3043455147/ "Chris Wilson")
+![Chris Wilson](/images/2008/11/3043455147_c987a62922_z.jpg)
 
 On terminera également avec une perspective du futur.
 Daniel Glazman a fait un show exceptionnel sur les **nouveautés de CSS3** avec tout plein de bonnes choses. J'ai vraiment hâte qu'on puisse jouer avec ... peut-être dans pas si longtemps que ça vu que les navigateurs intègrent ces nouveautés par anticipation.
@@ -78,11 +77,11 @@ Conseil : charger ses slides ne rend pas pour autant l'information digeste. C'es
 C'était néanmoins intéressant pour le raisonnement et la satisfaction de mettre en place son propre validateur. Toutefois en production autant utiliser de l'existant. Il y a des _plugins_ pour tous les bons frameworks JavaScript qui se respectent.
 
 Je passe sur l'atelier des **frameworks CSS** puisque je l'animais. J'y reviendrai dans un prochain article pour appuyer ma présentation et fournir des explications à ceux qui n'ont pas pu y assister.
-J'étais en revanche étonné qu'ils soient si peu connus. J'ai par contre été enchanté de les voir cités à plusieurs reprises dans mes conférences préférées ;-)
+J'étais en revanche étonné qu'ils soient si peu connus. J'ai par contre été enchanté de les voir cités à plusieurs reprises dans mes conférences préférées.
 
 Rien à redire sur **RDFa vs. Microformats** même si on aurait pu éjecter les microformats rapidements et plonger encore plus loin dans la pratique de RDFa. Ça sera prétexte à une suite plus technique l'an prochain ;-)
 
-[![Amélie Boucher](//farm4.static.flickr.com/3175/3035518848_5670eddbfa.jpg)](http://www.flickr.com/photos/the-jedi/3035518848/ "Amélie Boucher")
+![Amélie Boucher](/images/2008/11/3035518848_dd3bdbbb24_z.jpg)
 
 ## Sans oublier les gens !
 
@@ -108,4 +107,4 @@ Les tables rondes étaient également exceptionnelles ... désolé ça frise le 
 
 C'est l'**effet Paris-Web**. Rendez-vous est pris.
 
-[![François Yergeau nous parle d](//farm4.static.flickr.com/3020/3039040472_65bfdecfbd.jpg)](http://www.flickr.com/photos/the-jedi/3039040472/ "François Yergeau nous parle d")
+![](/images/2008/11/3039040472_8e72f53a89_z.jpg)

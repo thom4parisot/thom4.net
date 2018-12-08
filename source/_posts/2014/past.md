@@ -1,3 +1,4 @@
+---
 title: Past — Year of the Truth
 date: 2014-01-30 10:00:00
 lang: en-GB
@@ -6,9 +7,7 @@ tags:
 - quête
 categories:
 - Personal Views
-cover:
-  link: http://www.flickr.com/photos/the-jedi/8489312830/
-  url: //farm9.staticflickr.com/8388/8489312830_17628cc7d5_c_d.jpg
+cover: /images/2014/01/8489312830_74c5bf0184_b.jpg
 ---
 
 2013 has been another year full of destructuring for a better regeneration. **On top of the legacy**, not against it.
@@ -118,7 +117,7 @@ This is a relief.
 
 ## Photography
 
-My [flickr archives stats](http://www.flickr.com/photos/the-jedi/archives/) confirmed the doubts: I really started making pictures again in August. Coincidentely when I really settled down and started travelling again. Well, that’s not a coincidence. It’s an incidence.
+My flickr archives stats confirmed the doubts: I really started making pictures again in August. Coincidentely when I really settled down and started travelling again. Well, that’s not a coincidence. It’s an incidence.
 
 Iceland stroke back with [Tiina Burton](http://tiinateaspoon.tumblr.com/), the amazing and always smiling photographer from Cambridge. Developping my own films sounded very difficult to me: the chemicals, manipulating the negative without damaging it, the tooling etc.
 
@@ -155,4 +154,3 @@ Have you **found patterns** in this blog post? ;-)
 Now we have a context, what led us to that point, I’ll write next about the **now**.
 
 **Capabilities**. **Resilience**. **Envisionning again**.
-

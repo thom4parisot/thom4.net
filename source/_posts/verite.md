@@ -1,3 +1,4 @@
+---
 title: "2013 sera Vérité"
 id: 18901
 date: 2013-01-02 11:25:36
@@ -11,9 +12,7 @@ tags:
 - voeux
 categories:
 - Personal Views
-cover:
-  url: //farm9.staticflickr.com/8487/8219758779_e0d21f3c5e_c_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/8219758779/
+cover: /images/2013/01/8219758779_5d90bba462_b.jpg
 ---
 
 L’année débute tout juste. La fatigue du réveillon n’éclipse pas l’envie de prendre la plume pour dresser un bilan et orienter le regard vers l’avenir, vers demain.
@@ -44,7 +43,7 @@ Les choses suivent leur court. Début décembre 2012, [mise en redressement de l
 
 Dans cette histoire, le _code informatique_ n’est rien. Bien indenté, mal indenté, 48 couches d'abstraction ou non, PHP, Python ou JavaScript … il doit surtout pouvoir évoluer au rythme de l’entreprise. **Il doit avant tout être robuste au lieu d’être parfait**. Car il sera jeté et sûrement réécrit à mesure que l'organisme évolue.
 
-[![](/images/2013/01/8206099378_43f3c7e1cb_z.jpg "Mountain View")](http://www.flickr.com/photos/the-jedi/8206099378/)
+![](/images/2013/01/8206099378_43f3c7e1cb_z.jpg)
 
 ## Retour à la réalité : qui suis-je ?
 
@@ -99,16 +98,16 @@ Une **révélation** : [Edward Hopper au Grand Palais](http://www.grandpalais.fr
 
 Ça aura été l’année de mes premières séries :
 
-*   [Bohème](http://www.flickr.com/photos/the-jedi/sets/72157630182421278/) — 5 photos argentiques, moyen format en noir et blanc ;
-*   [Hitchhicking in Iceland](http://www.flickr.com/photos/the-jedi/sets/72157631666463641/) — 22 photographies numériques sur le voyage en Islande en auto-stop (on devrait importer leur gentillesse, leur simplicité et leur [prévenance](https://larlet.fr/david/thoughts/#caring)) ;
-*   _Living Animals_ — instantanés numériques sur des animaux morts ;
-*   [Same Place, Every Day](http://instagram.com/oncletom_) — instantanés numériques d’un même lieu, chaque jour de l’année (25ème cliché en ce 2 janvier).
+* _Bohème_ — 5 photos argentiques, moyen format en noir et blanc ;
+* _Hitchhicking in Iceland_ — 22 photographies numériques sur le voyage en Islande en auto-stop (on devrait importer leur gentillesse, leur simplicité et leur [prévenance](https://larlet.fr/david/thoughts/#caring)) ;
+* _Living Animals_ — instantanés numériques sur des animaux morts ;
+* [Same Place, Every Day](https://oncletom.io/photography/everyday/) — instantanés numériques d’un même lieu, chaque jour de l’année (25ème cliché en ce 2 janvier).
 
 **Plusieurs publications** aussi : une affiche d’évènement, quelques illustrations de livres et ma première exposition. Je constitue mes propres cartes postales quand cela s’y prête ; signe d’auto-satisfaction … d’acceptation ?
 
 Je ressens aussi le besoin de rompre l’isolement. [J’ai rejoins un collectif fort sympathique](https://www.facebook.com/OpusBoheme) et ça me fait déjà le plus grand bien ; entre autre parce que sont des gens biens, **stimulants** et _sains_.
 
-[![](/images/2013/01/8099301942_74feed9455_z-424x600.jpg "Dyrhólaey to Somewhere — Lin &amp; Unknown")](http://www.flickr.com/photos/the-jedi/8099301942/)
+![](/images/2013/01/8099301942_74feed9455_z.jpg)
 
 ## Conclusion
 

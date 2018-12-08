@@ -1,3 +1,4 @@
+---
 title: "Faire-part de naissance"
 id: 1324
 date: 2009-02-24 07:00:00
@@ -7,9 +8,7 @@ tags:
 - livre
 categories:
 - Projects
-cover:
-  url: //farm4.staticflickr.com/3098/3303892997_e5f52a6e84_b_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/3303892997/
+cover: /images/2009/02/3303892997_f5ac538fba_b.jpg
 ---
 
 Comme je ne savais plus quoi faire de mes journées, j'ai tenté le coup.

@@ -1,3 +1,4 @@
+---
 title: The 55 Commits Syndrome
 date: 2013-12-17 17:30:00
 lang: en-GB
@@ -11,9 +12,7 @@ tags:
 - open source
 categories:
 - Développement Web
-cover:
-  link: http://www.flickr.com/photos/the-jedi/11297889644/
-  url: //farm8.staticflickr.com/7439/11297889644_9a33b0e03e_c_d.jpg
+cover: /images/2013/12/11297889644_85abe26f17_b.jpg
 ---
 
 Earlier this year, I’ve spent a sprint of two weeks in the [BBC Responsive News team](http://responsivenews.co.uk), learning from their experience and tinkering with my knowledge.
@@ -66,7 +65,7 @@ A notification pops in. Imager. I click on the issue. **Closed**. Not merged. **
 
 ![Imager.js initial Pull Request closed](/images/2013/12/imager-pr-failure.jpg)
 
-How could it have happened? Have I done something wrong? Seriously? 
+How could it have happened? Have I done something wrong? Seriously?
 
 ## Rage Quit
 
@@ -132,7 +131,7 @@ The work started on each feature after the maintainers’ agreement. **It is slo
 
 Some proposals were good enough since the beginning. Some other benefited from the discussion with the maintainers. Because **contributing is doing the best for the project**, not to do the impossible to sell your sole point of view.
 
-Honestly it has been a perfect workflow: instead of a 100% failure ratio with 1 Pull Request, I had a **100% success ratio with 11 Pull Requests**. 
+Honestly it has been a perfect workflow: instead of a 100% failure ratio with 1 Pull Request, I had a **100% success ratio with 11 Pull Requests**.
 
 ![Imager.js aggregated Pull Request successfully merged](/images/2013/12/imager-pr-success.jpg)
 
@@ -167,5 +166,3 @@ I can only be thankful not to have forked the project **due to  a communication 
 ![Imager.js as a trending project on Github](/images/2013/12/imager-github-fame.png)
 
 Team work. **Team work and community**. They are much more important than our individual proudness/selfishness. This is about talking. The code is just a glue connecting our ideas and making them physical. The code is just one part of the discussion. Not everything.
-
-

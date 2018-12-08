@@ -1,3 +1,4 @@
+---
 title: "Pourquoi bloguer dans un contexte d'affaires ?"
 id: 935
 date: 2008-08-05 07:00:48
@@ -16,9 +17,7 @@ tags:
 - Réseau professionnel
 categories:
 - Events
-cover:
-  url: //farm4.static.flickr.com/3017/2600356326_7ff3c48384_b_d.jpg
-  link: http://flickr.com/photos/the-jedi/2600356326/
+cover: /images/2008/08/2600356326_44191d8b7b_b.jpg
 ---
 
 2 mois plus tard, il n'est jamais trop tard.

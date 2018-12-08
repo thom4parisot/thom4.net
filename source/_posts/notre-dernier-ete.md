@@ -38,7 +38,7 @@ Je constate souvent le même motif se répéter : le lycée, savoir ce qu'on veu
 
 Avant quoi ? Quand on regardait quoi ? Ou plutôt, **quand on ne voyait pas** quoi ?
 
-[En accentuant ma pratique de la photo](http://www.flickr.com/photos/the-jedi/), je me rends compte avoir acquis un regard sur ce qui m'entoure, m'obligeant à me détacher et à interpréter comme nouveau toute image se formant dans mon cerveau. 2011 m'aura été favorable en ce point, apprendre à déconstruire les symboles et les situations. **Rien n'est acquis**. **Rien n'est normal**.
+[En accentuant ma pratique de la photo](/photography/), je me rends compte avoir acquis un regard sur ce qui m'entoure, m'obligeant à me détacher et à interpréter comme nouveau toute image se formant dans mon cerveau. 2011 m'aura été favorable en ce point, apprendre à déconstruire les symboles et les situations. **Rien n'est acquis**. **Rien n'est normal**.
 
 ## Renouer le lien
 
@@ -96,7 +96,7 @@ Tout ceci manque cruellement de passion.
 
 ## Anecdote quand même
 
-La photo illustrant l'article s'appelle [Forest Couch](http://www.flickr.com/photos/the-jedi/5096781001/). Elle représente [l'appartement dans les bois](http://www.annelaureboyer.com/fr/travaux/lappartement-dans-les-bois.html), une œuvre éphémère d'Anne-Laure Boyer.
+La photo illustrant l'article s'appelle _Forest Couch_. Elle représente [l'appartement dans les bois](http://www.annelaureboyer.com/fr/travaux/lappartement-dans-les-bois.html), une œuvre éphémère d'Anne-Laure Boyer.
 
 Son travail a consisté à agréger des biens et souvenirs d'habitants d'immeubles candidats au dynamitage, pour être remplacés par des pavillons. Malgré des conditions de salubrité pas forcément génialissimes, l'attachement des habitants au lieu était certain.
 

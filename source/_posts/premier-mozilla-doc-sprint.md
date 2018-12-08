@@ -26,7 +26,7 @@ Pour l'instant dire "on fait un apéro et on parle de <insérer ici un nom de la
 
 Bref, revenons à nos moutons.
 
-[![8437521105_2fc987581a_z](/images/2013/02/8437521105_2fc987581a_z.jpg)](http://www.flickr.com/photos/the-jedi/8437521105/)
+![](/images/2013/02/8437521105_2fc987581a_z.jpg)
 
 ## Table de compatibilité automatisée
 
@@ -72,12 +72,12 @@ Mais aussi de devoir [écrire du code](http://jsbin.com/ijikic/6) pour comprendr
 
 Au final, une après-midi aura été nécessaire pour compléter 4 pages dans MDN :
 
-*   [<span style="line-height: 13px;">onunload</span>](https://developer.mozilla.org/en-US/docs/DOM/window.onunload)
-*   [onbeforeunload](https://developer.mozilla.org/en-US/docs/DOM/window.onbeforeunload)
-*   [unload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/unload)
-*   [beforeunload](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/beforeunload)
+* [`onunload`](https://developer.mozilla.org/en-US/docs/DOM/window.onunload)
+* [`onbeforeunload`](https://developer.mozilla.org/en-US/docs/DOM/window.onbeforeunload)
+* [`unload`](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/unload)
+* [`beforeunload`](https://developer.mozilla.org/en-US/docs/Mozilla_event_reference/beforeunload)
 
-[![6843235730_1cdac9f950_z](/images/2013/02/6843235730_1cdac9f950_z.jpg)](http://www.flickr.com/photos/the-jedi/6843235730/)
+![](/images/2013/02/6843235730_1cdac9f950_z.jpg)
 
 ## Conclusion
 

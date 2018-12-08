@@ -12,7 +12,9 @@ tags:
 categories:
 - Events
 - JavaScript
-cover: /images/2012/10/logo.js_badge_512.png
+cover:
+  url: /images/2012/10/logo.js_badge_512.png
+  type: full
 ---
 
 [Sud Web 2012](http://sudweb.fr/2012/) : une discussion autour d'un [bon poulet à Toulouse](http://www.pategrain.com/) avec [Frank](http://frank.taillandier.me/) et compagnie.
@@ -26,7 +28,7 @@ Je réalise qu'il n'est **pas si compliqué que ça d'organiser** des évènemen
 
 On m'a souvent demandé "mais quand est-ce tu en organises un autre ?". J'explique pourtant que je n'ai pas fait grand chose à part tweeter qu'on se retrouvait à telle heure, dans tel lieu pour lever le coude en buvant un coup … la gestion minimaliste est encore _trop_ pour inciter à _faire_ ;-)
 
-[![Vue du Node, espace de coworking à Bordeaux.](//farm9.staticflickr.com/8448/8000078497_21a8fc9ed0.jpg "Vue du Node à Bordeaux")](http://www.flickr.com/photos/node-bordeaux/8000078497/)
+[![Vue du Node, espace de coworking à Bordeaux.](/images/2012/10/8000078497_21a8fc9ed0_z.jpg)](http://www.flickr.com/photos/node-bordeaux/8000078497/)
 
 ## Envie et réflexion
 

@@ -1,3 +1,4 @@
+---
 title: "Paris-Web 2009 : le Web en offline avec Gears et HTML 5"
 id: 1460
 date: 2009-10-07 12:00:42
@@ -9,7 +10,7 @@ tags:
 categories:
 - JavaScript
 - Events
-cover: //farm3.staticflickr.com/2486/4001304159_20914c5b52_b_d.jpg
+cover: /images/2009/10/4001304159_e40951b56b_b.jpg
 ---
 
 [Paris-Web](http://www.paris-web.fr/) est LE rendez-vous Web de l'année pour tous les professionnels intéressés par le webdesign, la qualité et l'accessibilité. [L'édition 2008](http://www.paris-web.fr/2008/) (la première à laquelle j'assistais) m'a particulièrement plu alors je rempile cette année, à la fois en tant que spectacteur et orateur d'atelier technique.

@@ -1,3 +1,4 @@
+---
 title: "The Travelling Book of Reykjavík Campsite"
 date: 2013-07-14 11:00:00
 lang: en-GB
@@ -5,9 +6,7 @@ tags:
 - bla
 categories:
 - Personal Views
-cover:
-  url: //farm9.staticflickr.com/8459/8040227564_1f26fa851e_c_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/8040227564/
+cover: /images/2013/07/8040227564_5559acabef_b.jpg
 ---
 
 Campgrounds have the privilege to _travel by remaining at their exact same location_.
@@ -62,7 +61,7 @@ Lies and propaganda mostly.
 **This is frightening**, because it's not lying in the past.
 It is still how we are manipulated by words nowadays.
 
-[![An Ode to the Camper](//farm9.staticflickr.com/8353/8385329193_6456a7bf4a_z_d.jpg)](http://www.flickr.com/photos/the-jedi/8385329193/)
+![An Ode to the Camper](/images/2013/07/8385329193_4e3caf7726_z.jpg)
 
 ## Drying Paper
 

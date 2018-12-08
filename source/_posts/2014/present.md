@@ -1,3 +1,4 @@
+---
 title: Present — Self-awareness Thirties
 date: 2014-02-07 10:00:00
 lang: en-GB
@@ -7,8 +8,8 @@ tags:
 categories:
 - Personal Views
 cover:
-  link: http://www.flickr.com/photos/the-jedi/12309669015/
-  url: //farm8.staticflickr.com/7460/12309669015_1636503337_c_d.jpg
+  url: /images/2014/02/12309669015_497fe0a91c_b.jpg
+  type: full
 ---
 
 I always considered that turning thirty years old would be just a symbolic change. Two beautiful digits and nothing more. A simple **continuity**.
@@ -57,7 +58,7 @@ At thirty years old, I now admit this feeling of freedom, the freedom of choosin
 
 That’s not *grandiose* neither poetic but realistically, it made me making decisions with ease and fluency; only understanding later the *real* ins and outs of them. Like the pleasure I have playing videogames, writing software, travelling or even making pictures with a camera.
 
-[![Cabot Tower: Second Floor](//farm8.staticflickr.com/7431/11212525283_7e47f00f9e_c.jpg)](http://www.flickr.com/photos/the-jedi/11212525283/)
+![Cabot Tower: Second Floor](/images/2014/02/11212525283_8ed51168f2_z.jpg)
 
 ## Self & Someone
 
@@ -137,4 +138,3 @@ All my acts are *enablers*. They enable me to reach **new horizons**. New horizo
 1. from 20 to 30 y/o: discovering **how** to do.
 
 I am now aware of **why** I am doing that. **Where** to accomplish **that** is another question. **The next question**.
-

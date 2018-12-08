@@ -1,3 +1,4 @@
+---
 title: "Rentrée en vrac : widget VCUB, livres et Internet"
 id: 17469
 date: 2010-09-09 11:00:39
@@ -15,8 +16,8 @@ tags:
 categories:
 - WebDev
 cover:
-  url: //farm5.static.flickr.com/4135/4931830643_00fd97c26b_c_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/4931830643/
+  url: /images/2010/09/4931830643_26e74290b7_b.jpg
+  type: full
 ---
 
 C'est la rentrée scolaire. Le moment de reprendre les bonnes habitudes qu'on aurait laissé de côté pendant les vacances. Comme celle de bloguer par exemple ; après 2 mois de pause plus ou moins forcée.
@@ -78,7 +79,7 @@ Et éviter une rivalité inutile entre CUB et Mairie de Bordeaux.
 
 Bref, j'y participe et j'ai hâte de voir cette agence tous risques à l'œuvre ;-)
 
-[![How I Met a Good Moment − Again](//farm5.static.flickr.com/4102/4871868747_448ba41195.jpg)](http://www.flickr.com/photos/the-jedi/4871868747/ "How I Met a Good Moment − Again")
+![How I Met a Good Moment − Again](/images/2011/01/4871868747_4e9299bb25_z.jpg)
 
 ## Paris-Web 2010
 

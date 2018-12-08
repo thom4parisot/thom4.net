@@ -1,3 +1,4 @@
+---
 title: Future — The Plan
 date: 2014-03-24 10:00:00
 lang: en-GB
@@ -5,9 +6,7 @@ tags:
 categories:
 - Personal Views
 - Projects
-cover:
-  link: http://www.flickr.com/photos/the-jedi/12327903045/
-  url: //farm8.staticflickr.com/7346/12327903045_ed0c13ed8f_c_d.jpg
+cover: /images/2014/03/12327903045_d941460d62_b.jpg
 
 ---
 When we think about it, it takes quite a time to figure out obvious things such as where we come from, who we really are and why we are acting that way.

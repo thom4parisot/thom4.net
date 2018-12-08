@@ -1,3 +1,4 @@
+---
 title: They Gave Me Reasons To Be Creative
 date: 2013-09-11 14:00:00
 tags:
@@ -5,9 +6,7 @@ tags:
 - Brighton
 categories:
 - Events
-cover:
-	url: //farm4.staticflickr.com/3773/9676470682_3d418eeb40_c_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/9676470682/
+cover: /images/2013/09/9676470682_cf9c7dde43_b.jpg
 ---
 
 [Reasons to be Creative 2013](http://reasons.to/) is over. This was my first time. Attending this conference. Going to Brighton. Camping and hiking there.
@@ -35,7 +34,7 @@ And being surrounded by stormy-thinking people does not help to rest.
 
 I left the laptop at home. Turned off the phone. Bought a map and walked for hours on sparsely crowded trails. **It gave me the mood to make pictures**. A thing which never happens to me in London.
 
-[Since I travelled to Iceland](http://www.flickr.com/photos/the-jedi/sets/72157631659580458/), it seems I also became picky on my satisfaction at capturing landscape. Again, I realise how beautiful *every single angle* from any viewpoint was.
+Since I travelled to Iceland, it seems I also became picky on my satisfaction at capturing landscape. Again, I realise how beautiful *every single angle* from any viewpoint was.
 
 On monday morning, **I was already rested** and ready to enjoy people talking and sharing their knowledge.
 

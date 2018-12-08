@@ -151,7 +151,7 @@ module.exports = function (grunt) {
 };
 ```
 
-[![](http://farm8.staticflickr.com/7325/9308903255_6f68f6ddbe_z.jpg)](http://www.flickr.com/photos/the-jedi/9308903255/)
+![](/images/2013/08/9308903255.jpg)
 
 ## The Bay Watcher
 

@@ -12,9 +12,7 @@ tags:
 categories:
 - Projects
 - WebDev
-cover:
-  url: https://farm7.staticflickr.com/6179/6132136989_0be219d363_b_d.jpg
-  link: https://www.flickr.com/photos/sudweb/6132136989/in/album-72157627589421910/
+cover: /images/2016/06/6132136989_0be219d363_b.jpg
 ---
 
 What is better than *50 shades of Grey*? 69 months of conference organisation. Almost **6 years**!
@@ -30,7 +28,7 @@ Working on a non-profit event project for years was both an experimental lab and
 # What is Sud Web?
 
 Sud Web was born in October 2010 in the midst of a [French web conference which taught me so much](http://www.paris-web.fr/). A few folks stood up and asked for help to organise a conference in the South of France. Everything had to be done in less than 6 months. *Challenge* accepted!
-  
+
 At the time, there were not so many web related events happening outside of Paris. Part of us shared a common vision of creating something slightly different, less focused on the latest tech nor the latest spec.
 
 Sud Web was born like this, as a **yearly conference about web development and web design**, moving from town to town, bathing in the **good spirit of the South of France**.
@@ -54,7 +52,7 @@ We learnt how to work as a distributed team of volunteers but we also *evolved* 
 We indeed started as a spin-off of a web conference and after two editions, it was clear speaking about newer tools or *better* tools did not solve any of the day to day problems.
 As a consequence, we wanted to put even more emphasis on experience sharing and on topics around the web.
 
-Content diversity is hard to achieve through a *call for speakers* selection process. As a consequence **we started to curate some of the speakers after three editions**. It gave us free hands to identify and give the opportunity to bring on stage people who were not aware of Sud Web and we thought who could bring a tremendous knowledge to the delegates. 
+Content diversity is hard to achieve through a *call for speakers* selection process. As a consequence **we started to curate some of the speakers after three editions**. It gave us free hands to identify and give the opportunity to bring on stage people who were not aware of Sud Web and we thought who could bring a tremendous knowledge to the delegates.
 People found it weird the first time we did it (and because this is France we were obviously flagged as *non-democratic* in our selection process). Now attendees are happily surprised it works so well.
 
 *Curation* itself does not make things better on its own. **We opened the range of topics** covered during the day of conferences: law, arts, psychology, fashion design, digital humanities etc.
@@ -120,7 +118,7 @@ Its source code can be found on [github.com/sudweb/talks](https://github.com/sud
 
 Since 2015, Sud Web displays not only the speakers list but the **attendees list** on the website. I wanted to provide a feeling of *belonging* to the attendees, as well as a nice entrypoint to browse the faces of everybody. Conferences also have great people on the audience side, so better to broaden the spotlight to the entire crowd — have you ever been to a conference because of a delegate rather than a speaker?
 
-Well, it happens at Sud Web and it did not require much more than a [combination of `curl` and `jq`](/2016/pipelining-http/) to gather the data from the [ticketing service API](https://www.weezevent.com/) and to consume them with a static pages generator system. 
+Well, it happens at Sud Web and it did not require much more than a [combination of `curl` and `jq`](/2016/pipelining-http/) to gather the data from the [ticketing service API](https://www.weezevent.com/) and to consume them with a static pages generator system.
 
 ## Finding a voice
 
@@ -128,14 +126,14 @@ Sending emails to speakers and attendees was part of our tooling needs. We use [
 
 This time I brought some *user experience* by iterating over the content after listening to feedbacks and hearing over conversations in the corridors. A few improvements were brought to the mailings:
 
-- **bare bone layouts for speakers communication**  
+- **bare bone layouts for speakers communication**
 One to one conversation implies a plain text email or slightly formatted HTML email. I moved the fancy template to a monochrome, one logo and one column layout. The idea was to be as close as possible to a conversational email *but* emitted by an organisation which cares about its recipients. The email is broadcasted to a group of people but you read it as an individual.
-- **what is paid by Sud Web and what is not**  
-Some conferences do not include food, some of them offer a round of drinks and some of them do pay for everything — as a speaker it is hard to know what to expect and it is frustrating to have to take out a debit card whereas they were *invited* to a party.  
-- **building a safe zone**  
-I assumed people did not know much about Sud Web when writing emails. Also, as a speaker, you go through quite a stress to think about and write about your talk, even if it is a five minutes *lightning talk*. I assumed I had to clear every single areas of stress each time a dispatch was sent: what are we doing, when are you going to receive the next message, rehearsal schedules, what do we expect from you etc.  
+- **what is paid by Sud Web and what is not**
+Some conferences do not include food, some of them offer a round of drinks and some of them do pay for everything — as a speaker it is hard to know what to expect and it is frustrating to have to take out a debit card whereas they were *invited* to a party.
+- **building a safe zone**
+I assumed people did not know much about Sud Web when writing emails. Also, as a speaker, you go through quite a stress to think about and write about your talk, even if it is a five minutes *lightning talk*. I assumed I had to clear every single areas of stress each time a dispatch was sent: what are we doing, when are you going to receive the next message, rehearsal schedules, what do we expect from you etc.
 As a consequence, [*open rate*](http://kb.mailchimp.com/reports/about-open-tracking) increased and we received more responses thanking us and expressing relief.
-- **print me out**  
+- **print me out**
 A direct consequence of the previous points, the ultimate email we send contains everything a speaker has to know before boarding on their journey — from home to conference to stage to home again.
 
 ![](/images/2016/06/sudweb-emailing.png)
@@ -184,7 +182,7 @@ We organically moved from a siloed organisation to a team of individuals respons
 
 The outcome of each edition became a **shared responsibility** — and a **shared satisfaction**.
 
-[![](https://farm6.staticflickr.com/5151/14379895233_6d64472232_z_d.jpg)](https://www.flickr.com/photos/sudweb/14379895233)
+[![](/images/2016/06/14379895233_6d64472232_z.jpg)](https://www.flickr.com/photos/sudweb/14379895233)
 
 # Why now?
 

@@ -1,3 +1,4 @@
+---
 title: "6 changements pour 2010"
 id: 1483
 date: 2010-01-05 14:31:53
@@ -16,15 +17,13 @@ tags:
 - voyage
 categories:
 - Personal Views
-cover:
-  url: //farm4.static.flickr.com/3493/3728205591_48db6692ac_b_d.jpg
-  link: http://www.flickr.com/photos/the-jedi/3728205591/
+cover: /images/2010/01/3728205591_87b766c486_b.jpg
 ---
 
-Il s'en est passé des choses en 2009\. Pour une année de crise, c'était avant tout une année on ne peut plus remplie, pleine de projets, de rencontres et de changements.
+Il s'en est passé des choses en 2009. Pour une année de crise, c'était avant tout une année on ne peut plus remplie, pleine de projets, de rencontres et de changements.
 Ce fût à mes yeux une **excellente année** et si 2010 continue sur cette lancée, le résultat n'en sera que meilleur.
 
-C'est l'occasion de dresser un **rapide bilan de l'année** et de parler de [6 Changes](http://6changes.com/), une méthode sympathique qui m'a plu et assez facile à mettre en œuvre.
+C'est l'occasion de dresser un **rapide bilan de l'année** et de parler de [6 Changes](https://6changes.com/), une méthode sympathique qui m'a plu et assez facile à mettre en œuvre.
 
 <!--more-->
 
@@ -32,7 +31,7 @@ C'est l'occasion de dresser un **rapide bilan de l'année** et de parler de [6 C
 
 En 2009, j'ai repris goût au voyage. Ou plutôt, le virus m'est revenu. Ce fût une excellente année dans le domaine du Web avec des évènements de qualité et une consolidation de mon réseau.
 
-1.  **janvier** : [séjour en Pologne](http://www.flickr.com/photos/the-jedi/sets/72157612800546826/) et première expérience de [CouchSurfing](http://couchsurfing.org/) ! − j'aime le café !
+1.  **janvier** : séjour en Pologne et première expérience de [CouchSurfing](https://couchsurfing.com/) ! − j'aime le café !
 2.  **février** : [teasing sur un projet de livre](https://oncletom.io/2009/faire-part-de-naissance/)
 3.  **mars** : mon premier quart de siècle prend fin − la fin d'une époque, le début d'une autre
 4.  **avril** : refonte graphique du blog ... il en avait besoin
@@ -40,11 +39,12 @@ En 2009, j'ai repris goût au voyage. Ou plutôt, le virus m'est revenu. Ce fût
 6.  **juin** : je suis officiellement auto-entrepreneur
 7.  **juillet** : annonce officielle de la sortie du livre « [Réussir son blog professionnel](http://reussir-son-blog.pro/) » − derniers ajustements dans la rédaction
 8.  **août** : trêve estivale − photos, sorties &amp; cie
-9.  **septembre** : sortie de mon livre « [Réussir son blog professionnel](http://reussir-son-blog.pro/) » − [séjour au Canada](http://www.flickr.com/photos/the-jedi/sets/72157594569683157/), en Corse, à [Bayonne](http://www.flickr.com/photos/the-jedi/sets/72157623046822656/) et [Yulbiz Montréal](http://yulbiz.org/) !
-10.  **octobre** : [Paris-Web 2009](http://paris-web.fr/2009/) ! Excellente cuvée dont je n'ai pas parlé − est-il trop temps d'en parler ? − [séjour à New York](http://www.flickr.com/photos/the-jedi/sets/72157623046665232/)
+9.  **septembre** : sortie de mon livre « [Réussir son blog professionnel](http://reussir-son-blog.pro/) » − séjour au Canada, en Corse, à Bayonne et Montréal !
+10.  **octobre** : aller-retour à New York City depuis Montréal — [Paris-Web 2009](http://paris-web.fr/2009/) ! Excellente cuvée dont je n'ai pas encore parlé
 11.  **novembre** : 2 ans chez [Clever Age](http://www.clever-age.com/) ; le temps passe vite, chaque année est différente avec de nouveaux défis
 12.  **décembre** : retouche graphique du blog, décompression, réveillon − plein de bons moments avec des gens que j'aime
-[![Benches. Alone. Fall.](//farm3.static.flickr.com/2629/4103189447_b906e33a31.jpg)](http://www.flickr.com/photos/the-jedi/4103189447/ "Benches. Alone. Fall.")
+
+![Benches. Alone. Fall.](/images/2010/01/4103189447_e3e6fd896e_z.jpg)
 
 ## 6 changements
 
