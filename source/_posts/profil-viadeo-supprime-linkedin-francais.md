@@ -1,5 +1,6 @@
 title: "Profil Viadeo supprimé, LinkedIn traduit en français"
 id: 1136
+lang: fr
 date: 2008-12-02 07:00:24
 tags:
 - données personnelles

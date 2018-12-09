@@ -1,5 +1,6 @@
 title: "Wordpress en tant que dépendance SVN"
 id: 1237
+lang: fr
 date: 2008-12-23 07:00:59
 tags:
 - bonne pratique
@@ -15,8 +16,6 @@ tags:
 - wordpress mu
 categories:
 - WordPress
-cover: /images/2008/05/wordpress-logo.png
-
 ---
 
 Mettre à jour Wordpress était pénible jusqu'à l'arrivée de la version 2.7\. On bénéficie désormais de la mise à jour automatique : un clic, ça télécharge et ça déploie.

@@ -1,5 +1,6 @@
 title: "Plugin Wordpress Amazon Widgets Shortcodes"
 id: 1123
+lang: fr
 date: 2008-09-23 07:00:44
 tags:
 - amazon
@@ -14,7 +15,6 @@ categories:
 - Projects
 - JavaScript
 - WordPress
-cover: /images/2008/09/amazon-associates.gif
 ---
 
 J'ai publié il y a quelques jours la version 1.2 du plugin [Amazon Widgets Shortcodes](http://wordpress.org/extend/plugins/amazon-widgets-shortcodes/). Cette version suit plusieurs autres publications plus intimistes, à des fins de tests grandeur nature. Ce fût en tous cas suffisant pour commencer à attirer l'attention de traducteurs.

@@ -1,5 +1,6 @@
 title: "Mes rendez-vous d'octobre/novembre : Web2, Paris-Web & cie"
 id: 1152
+lang: fr
 date: 2008-10-03 22:30:30
 tags:
 - blogcamp
@@ -17,15 +18,15 @@ categories:
 - Events
 ---
 
-![](/images/2008/10/webdeuxconnect_300_250.jpg "Webdeux.connect")
-
 Les mois d'octobre et de novembre seront assurément chargés cette année puisqu'il y aura, entre autre, 3 évènements où il me paraît difficile de ne pas être :
 
 *   [Le Diagnostic de l'Aquitaine Numérique](http://www.aecom.org/blog/rdv/2008/09/un-nouvel-outil-de-gouvernance-des-tic.html)
 *   [Webdeux.Connect](http://fr.amiando.com/webdeux-connect.html)
 *   [Paris-Web 2008](http://www.paris-web.fr/2008/)
 
-Bref, 2 évènements à Paris, 1 à Bordeaux et beaucoup de contacts en perspective :-)<!--more-->
+Bref, 2 évènements à Paris, 1 à Bordeaux et beaucoup de contacts en perspective :-)
+
+<!--more-->
 
 ## Diagnostique de l'Aquitaine Numérique
 

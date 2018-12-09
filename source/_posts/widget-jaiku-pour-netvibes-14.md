@@ -1,5 +1,6 @@
 title: "Widget Jaiku pour Netvibes 1.4"
 id: 1147
+lang: fr
 date: 2008-09-25 07:00:16
 tags:
 - jaiku

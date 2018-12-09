@@ -1,5 +1,6 @@
 title: "La génération Y bouscule le monde du travail"
 id: 1125
+lang: fr
 date: 2008-09-16 07:00:19
 tags:
 - aec
@@ -16,7 +17,9 @@ tags:
 - web2
 categories:
 - Work & Labour
-cover: /images/2008/09/aquitaine-numerique-17-couverture.jpg
+cover:
+  url: /images/2008/09/aquitaine-numerique-17-couverture.jpg
+  type: full
 ---
 
 La [Génération Y](http://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_Y) semble être sur toutes les lèvres comme l'expression en passe de remplacer le Web 2.0\. Un **glissement générationnel est en cours** et bouleverse petit à petit les règles du jeu dans les entreprises.

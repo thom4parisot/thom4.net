@@ -1,5 +1,6 @@
 title: "Configuration d'Apache, MySQL et PHP à base de liens symboliques"
 id: 1198
+lang: fr
 date: 2008-12-11 07:00:50
 tags:
 - apache
@@ -14,7 +15,6 @@ tags:
 - ubuntu
 categories:
 - WebDev
-cover: /images/2008/12/php-custom.png
 ---
 
 J'ai récemment passé mon poste de développement de Debian Testing vers Ubuntu 8.10\. Comme toute installation _from scratch_, il faut passer par la case configuration.

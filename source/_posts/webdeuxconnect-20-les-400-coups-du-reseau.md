@@ -84,10 +84,10 @@ La toute timide mais charmante _business developper_ chez Whosegame, la platefor
 Bref, une journée excellente. Certes la place était à 100€ mais étant donné la qualité des personnes sur place (et j'en ai raté), ça aurait été bien dommage de s'en priver.
 
 Le _networking_ est essentiel pour développer son business, augmenter les opportunités de collaboration et même recruter. C'est une occasion de faire le point sur ses projets, les partager avec les autres (et on a bien vendu [BlogCamp](http://blogcamp.fr) avec [Lesly](http://leslyg.com) ;-)).
-J'aurais quand même bien aimé parler avec [Éric Dupin](http://presse-citron.fr) ou [Jacques Froissant](http://altaide.typepad.com) mais ça sera pour une prochaine fois ;-)
+J'aurais quand même bien aimé parler avec [Éric Dupin](https://www.presse-citron.net/) ou [Jacques Froissant](http://altaide.typepad.com) mais ça sera pour une prochaine fois ;-)
 
 J'invite d'ailleurs les participants à alimenter le [groupe Webdeux.connect sur Flickr](https://www.flickr.com/groups/webdeux-connect/).
 
-![Éric Dupin](source/images/2008/10/2939245570_07bd17d7fa_z.jpg)
+![Éric Dupin](/images/2008/10/2939245570_07bd17d7fa_z.jpg)
 
 PS : d'autres [avis de _networkeurs_ sur Wikio avec le tag _webdeux.connect_](http://www.wikio.fr/blogs/search/webdeux.connect).

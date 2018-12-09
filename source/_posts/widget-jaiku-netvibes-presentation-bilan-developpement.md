@@ -1,5 +1,6 @@
 title: "Widget Jaiku pour Netvibes : présentation et bilan du développement"
 id: 1070
+lang: fr
 date: 2008-08-20 07:00:37
 tags:
 - css
@@ -16,7 +17,6 @@ tags:
 categories:
 - WebDev
 - JavaScript
-cover: /images/2008/06/logo-jaiku.png
 ---
 
 J'ai publié il y a quelques semaines un [widget Jaiku](http://eco.netvibes.com/widgets/241591/jaiku "widget Jaiku pour Netvibes") dans l'[écosystème Netvibes](http://eco.netvibes.com). Autrement dit, on peut désormais interagir avec le sous-employé Jaiku depuis son compte Netvibes en levant à peine le petit doigt.

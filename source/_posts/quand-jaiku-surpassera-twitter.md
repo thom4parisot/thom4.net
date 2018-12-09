@@ -1,5 +1,6 @@
 title: "Quand Jaiku surpassera Twitter"
 id: 934
+lang: fr
 date: 2008-06-24 07:00:04
 tags:
 - api
@@ -11,7 +12,6 @@ tags:
 - twitter
 categories:
 - WebDev
-cover: /images/2008/06/logo-jaiku.png
 ---
 
 [Cela fait maintenant plus d'1 an que j'utilise Twitter](https://oncletom.io/2007/06/01/twitter-gtwitter/). Passée l'appréhension du gadget puéril, je l'ai finalement converti en **outil de communication**, de **réseautage** et de **veille** ... comme beaucoup de ses utilisateurs d'ailleurs.

@@ -1,5 +1,6 @@
 title: "High Performance Web Sites"
 id: 943
+lang: fr
 date: 2008-07-15 07:00:15
 tags:
 - apache
@@ -19,7 +20,9 @@ tags:
 categories:
 - WebDev
 - JavaScript
-cover: /images/2008/07/livre-high-performance-web-sites.jpg
+cover:
+  url: /images/2008/07/livre-high-performance-web-sites.jpg
+  type: full
 ---
 
 [High Performance Web Site](http://www.amazon.fr/dp/0596529309/), sous-titré _Essential Knowledge for Frontend Engineers_, est ce genre de **livre à lire au moins une fois** à défaut de le posséder. Il résume en à peu près 120 pages 14 points d'optimisation d'un site Web.

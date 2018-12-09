@@ -1,5 +1,6 @@
 title: "L'annuaire Service-Public (r)évolue !"
 id: 1192
+lang: fr
 date: 2008-11-04 07:00:55
 tags:
 - communication

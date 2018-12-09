@@ -1,6 +1,7 @@
 ---
 title: "Paris-Web 2008 : au nom du webdesign, de la qualité et des standards"
 id: 1203
+lang: fr
 date: 2008-11-20 07:00:13
 tags:
 - bonnes pratiques

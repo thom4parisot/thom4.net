@@ -1,6 +1,7 @@
 ---
 title: "Si à 30 ans, on ne s'est pas fait piquer une photo par Paris Match, c'est qu'on a quand même raté sa vie !"
 id: 1463
+lang: fr
 date: 2009-11-08 20:56:42
 tags:
 - flickr
@@ -23,7 +24,7 @@ Le titre est volontairement provocateur (mais non Jacques, Internet c'est bien) 
 1.  j'y ai déjà mangé et _beaucoup_ apprécié le décors ainsi que les plats
 2.  l'**image de tête de l'article utilisait une de mes photos**
 
-![Extrait de l](/images/2009/11/parismatch-sampietro-400x250.jpg)
+![Extrait de l](/images/2009/11/parismatch-sampietro.jpg)
 
 Oncle Tom vs. Paris Match peut commencer.
 
@@ -81,7 +82,7 @@ On pourrait imaginer que je n'ai plus à faire valoir mes droits sur la photo vu
 *   [la photo se trouve toujours physiquement sur leur serveur](http://photo.parismatch.com/media/photos2/4.-photos-conso/gastronomie/eric-sampietro/1070657-1-fre-FR/4-photos-conso-gastronomie-Eric-Sampietro-Eric-Sampietro_articlephoto.jpg) (merci à mon cache pour en avoir gardé une trace − je m'attends toutefois à ce qu'elle soit supprimée après qu'une personne de Paris Match l'apprenne, disons par ce présent article)
 *   la photo se trouve toujours sur le [PDF de l'article](http://www.julieandrieu.com/images/ilsontdit/210.pdf) ... ainsi que dans la version papier
 
-[![Extrait de l](/images/2009/11/parismatch-sampietro-extrait-papier-300x263.jpg "Extrait de l")](/images/2009/11/parismatch-sampietro-extrait-papier.jpg)
+![Extrait](/images/2009/11/parismatch-sampietro-extrait-papier.jpg)
 
 ## Un cheminement compliqué
 

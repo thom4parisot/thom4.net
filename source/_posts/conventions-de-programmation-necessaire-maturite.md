@@ -1,5 +1,6 @@
 title: "Conventions de programmation : la nécessaire maturité"
 id: 1014
+lang: fr
 date: 2008-07-23 07:00:04
 tags:
 - bonnes pratiques
@@ -16,7 +17,9 @@ tags:
 - symfony
 categories:
 - WebDev
-cover: /images/2008/07/sample-php-code.png
+cover:
+  url: /images/2008/07/sample-php-code.png
+  type: full
 ---
 
 Tout développeur, que ce soit à l'école ou en apprenant sur le tas, écrit du code. J'espère n'avoir perdu personne à ce stade de l'explication ;-)

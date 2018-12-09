@@ -1,5 +1,6 @@
 title: "Widget Netvibes VCUB"
 id: 7989
+lang: fr
 date: 2010-04-14 10:00:45
 tags:
 - git

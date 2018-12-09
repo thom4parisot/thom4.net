@@ -1,5 +1,6 @@
 title: "Ajouter TinyMCE dans un plugin WordPress"
 id: 1297
+lang: fr
 date: 2009-02-03 07:00:39
 tags:
 - api
@@ -12,7 +13,6 @@ tags:
 categories:
 - WebDev
 - WordPress
-cover: /images/2009/04/wordpress-badge.png
 ---
 
 J'ai eu besoin récemment d'inclure un éditeur visuel dans un plugin Wordpress. Je pensais que c'était une tâche aisée sans chercher sur Google : il n'y avait qu'à faire comme les développeurs de Wordpress !

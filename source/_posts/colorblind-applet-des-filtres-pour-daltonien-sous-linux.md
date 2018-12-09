@@ -1,5 +1,6 @@
 title: "colorblind-applet : des filtres pour daltonien sous Linux"
 id: 1038
+lang: fr
 date: 2008-08-12 07:00:25
 tags:
 - applet

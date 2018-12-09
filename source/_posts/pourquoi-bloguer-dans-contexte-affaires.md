@@ -2,6 +2,7 @@
 title: "Pourquoi bloguer dans un contexte d'affaires ?"
 id: 935
 date: 2008-08-05 07:00:48
+lang: fr
 tags:
 - évènement
 - blogcamp
@@ -17,7 +18,9 @@ tags:
 - Réseau professionnel
 categories:
 - Events
-cover: /images/2008/08/2600356326_44191d8b7b_b.jpg
+cover:
+  url: /images/2008/08/2600356326_44191d8b7b_b.jpg
+  type: full
 ---
 
 2 mois plus tard, il n'est jamais trop tard.

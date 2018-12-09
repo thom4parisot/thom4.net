@@ -1,5 +1,6 @@
 title: "Configuration optimale, délire maximal"
 id: 1159
+lang: fr
 date: 2008-10-07 07:00:19
 tags:
 - carton rouge

@@ -1,5 +1,6 @@
 title: "Ménage de printemps"
 id: 1345
+lang: fr
 date: 2009-04-15 20:06:59
 tags:
 - blueprint
@@ -15,7 +16,6 @@ tags:
 categories:
 - WebDev
 - WordPress
-cover: /images/2009/04/wordpress-badge.png
 ---
 
 Je me décide à passer un coup de peinture sur ce blog quasiment 2 ans après le [CSS Summer Refresh](https://oncletom.io/2007/08/15/css-summer-refresh-2007/) organisé par [Alsacréations](http://alsacreations.com/). À vrai dire, j'avais ce projet dans les cartons depuis septembre 2008 mais le plus difficile a été de trouver le talent graphique. C'était également l'occasion de dire au revoir aux navigateurs Web de seconde zone, à savoir Internet Explorer 7 et moins.

@@ -1,5 +1,6 @@
 title: "Livre blanc sur les frameworks PHP : présentation et explications"
 id: 926
+lang: fr
 date: 2008-06-18 07:00:55
 tags:
 - admin generator

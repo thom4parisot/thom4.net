@@ -1,5 +1,6 @@
 title: "X-UA-Compatible : danger ou opportunité ?"
 id: 1174
+lang: fr
 date: 2008-10-21 07:00:42
 tags:
 - clever age
@@ -9,7 +10,6 @@ tags:
 - xhtml
 categories:
 - WebDev
-cover: /images/2008/10/logo-ie8.gif
 ---
 
 {% repost http://www.clever-age.com/veille/blog/x-ua-compatible-danger-ou-opportunite.html "X-UA-Compatible : danger ou opportunité ?" %}
