@@ -7,7 +7,7 @@ tags:
 - reseaux sociaux
 categories:
 - Personal Views
-cover: //oncletom.io/images/2007/01/lastfm.png
+cover: /images/2007/01/lastfm.png
 ---
 
 

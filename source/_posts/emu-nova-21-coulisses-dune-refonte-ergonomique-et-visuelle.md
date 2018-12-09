@@ -14,7 +14,7 @@ categories:
 - WebDev
 - Projects
 
-cover: //oncletom.io/images/2008/04/emunova-2010.png
+cover: /images/2008/04/emunova-2010.png
 ---
 
 Mon premier grand fait d'armes sur le Web aura été le lancement d'[Emu Nova](http://www.emunova.net/) en octobre 2002\. Les grandes lignes du site ont toujours été **jeux vidéo rétro**, **émulation** et **aide aux utilisateurs**.

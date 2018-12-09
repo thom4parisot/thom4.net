@@ -1,5 +1,6 @@
 title: "Créer une vignette d'un PDF avec Image Magick"
 id: 1374
+lang: fr
 date: 2009-06-03 07:00:24
 tags:
 - image
@@ -10,7 +11,7 @@ tags:
 - php
 categories:
 - WebDev
-cover: //oncletom.io/images/2009/06/pdf-sample-cover.png
+cover: /images/2009/06/pdf-sample-cover.png
 ---
 
 Les PDF c'est chouette pour transmettre des documents non-modifiables. Mais parfois, c'est aussi pratique de pouvoir en suggérer leur contenu. C'est d'autant plus pertinent si vous en proposez à télécharger et que la couverture alléchante dispose d'un fort pouvoir de conviction.

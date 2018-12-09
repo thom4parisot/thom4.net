@@ -13,7 +13,7 @@ tags:
 - yahoo
 categories:
 - Personal Views
-cover: //oncletom.io/images/2008/03/google-dont-be-evil.gif
+cover: /images/2008/03/google-dont-be-evil.gif
 ---
 
 [Google](http://www.google.com/) est une société à la fois adulée et pointée du doigt. La moindre nouveauté résonne sur l'étendue du Web, louée par ses défenseurs, critiquée par ses détracteurs.
