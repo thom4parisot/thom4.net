@@ -9,7 +9,7 @@ categories:
 lang: en-GB
 cover:
   url: /images/2014/everyday.jpg
-  link: http://everyday.oncletom.io
+  type: full
 ---
 
 What 2014 looked like, **every day**, in picture(s).

@@ -60,7 +60,7 @@ tag_map:
 ## 2: Enable pagination
 ## 1: Disable pagination
 ## 0: Fully Disable
-archive: 1
+archive: 0
 category: 1
 tag: 0
 

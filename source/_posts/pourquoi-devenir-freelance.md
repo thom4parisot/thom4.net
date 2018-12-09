@@ -1,5 +1,7 @@
+---
 title: "Pourquoi j'ai décidé de devenir indépendant ?"
 id: 17868
+lang: fr
 date: 2011-03-08 10:30:21
 tags:
 - business
@@ -11,7 +13,9 @@ tags:
 - sarl
 categories:
 - Work & Labour
-cover: /images/2011/03/logo_cyneticmonkey_standard.png
+cover:
+  url: /images/2011/03/logo_cyneticmonkey_standard.png
+  type: full
 ---
 
 On ne décide pas de [quitter son travail ou de tourner dos au salariat](https://oncletom.io/2010/pourquoi-quitter-travail/ "Pourquoi j’ai décidé de quitter mon travail") du jour au lendemain. Est-ce parce que l'herbe est plus verte ailleurs ? Qu'on cherche à changer d'air, d'orientation ou afin de percevoir une rémunération mieux adaptée à son travail ?
