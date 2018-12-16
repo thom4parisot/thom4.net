@@ -1,7 +1,7 @@
 title: Node.js • Apprendre par la pratique
 lang: fr
 url: /node.js/
-cover: /images/publications/nodejs-cover.png
+image: /images/publications/nodejs-cover.png
 description: |
   Un ouvrage de 450 pages pour (re)découvrir
   le développement JavaScript, les modules Node.js et npm.

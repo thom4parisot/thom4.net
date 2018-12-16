@@ -12,7 +12,7 @@
     "build": "hexo generate",
     "deploy": "hexo deploy",
     "index-content": "hexo algolia --layouts page,reading-note",
-    "start": "hexo server",
+    "start": "hexo server --config _config.yml,_config.dev.yml",
     "new": "hexo new post",
     "pretest": "NODE_ENV=production npm run build",
     "test": "exit 0"

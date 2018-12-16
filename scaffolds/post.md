@@ -3,19 +3,16 @@ title: {{ title }}
 date: {{ date }}
 lang: en-GB
 categories:
-- ~
+- x
 tags:
-- ~
-cover: /images/{{ year }}/~
+- x
+cover: /images/xx/~
 ---
 
 ~
 
 <!--more-->
 
-# tl;dr
-
-~
 
 # ~
 
