@@ -10,7 +10,7 @@ categories:
 
 Je réfléchis pas mal en ce moment à ce que je transmets _via_ ce blog. Cela fait bientôt 2 ans que je tiens ce petit journal personnel mais qui le devient de moins en moins.
 
-Contrairement à ce que l'on peut croire, on ne peut pas raconter tout et n'importe quoi, comme bon nous semble. Il faut se méfier lorsqu'on **dit du mal** (ne pas critiquer une personne mais plutôt exprimer une désaprobation ou une divergence d'opinion), on ne sait pas non plus **qui nous lit** (la famille, les collègues du boulot, les amants, son chien (!)) surtout avec la puissance des moteurs de recherche actuels. On retrouve facilement n'importe qui à partir d'un pseudo, d'une page Web ou de son nom. [Y'en a qui ont perdu leur boulot à cause de ça](http://maitre.eolas.free.fr/journal/index.php?2006/07/18/404-petite-anglaise-viree-pour-son-blog).
+Contrairement à ce que l'on peut croire, on ne peut pas raconter tout et n'importe quoi, comme bon nous semble. Il faut se méfier lorsqu'on **dit du mal** (ne pas critiquer une personne mais plutôt exprimer une désaprobation ou une divergence d'opinion), on ne sait pas non plus **qui nous lit** (la famille, les collègues du boulot, les amants, son chien (!)) surtout avec la puissance des moteurs de recherche actuels. On retrouve facilement n'importe qui à partir d'un pseudo, d'une page Web ou de son nom. [Y'en a qui ont perdu leur boulot à cause de ça](http://www.maitre-eolas.fr/post/2006/07/18/404-petite-anglaise-viree-pour-son-blog).
 <!--more-->
 Bref, ayant quelques projets sur le feu, je ne veux pas cette année les repousser pour le simple plaisir de raconter mes pensées ici. C'est pourquoi je préfère savoir si certains d'entre vous préfèrent que je traite de tel ou tel sujet. Exemple de suggestions :
 
