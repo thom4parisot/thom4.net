@@ -65,4 +65,4 @@ La lecture de l'ouvrage sur le web est gratuite et enrichie d'exemples interacti
 [eyrolles-numerique]: https://www.eyrolles.com/Informatique/Livre/node-js-9782212139938/#achat-numerique
 [amazon-papier]: https://amzn.to/2E58PEw
 [amazon-kindle]: https://amzn.to/2BUbNu0
-[près de chez moi]: https://placedeslibraires.fr/livre/9782212139938
+[près de chez moi]: https://www.placedeslibraires.fr/livre/9782212139938
