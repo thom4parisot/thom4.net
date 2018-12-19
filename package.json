@@ -11,7 +11,7 @@
   "scripts": {
     "build": "hexo generate",
     "deploy": "hexo deploy",
-    "index-content": "hexo algolia --layouts page,reading-note",
+    "index-content": "hexo algolia --layouts page,reading-note --config _config.yml",
     "start": "hexo server --config _config.yml,_config.dev.yml",
     "new": "hexo new post",
     "pretest": "NODE_ENV=production npm run build",
