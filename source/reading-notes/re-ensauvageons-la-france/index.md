@@ -21,7 +21,7 @@ En forêt, je n'ai pas besoin de grand chose. Et ça me régénère davantage qu
 
 > La reconstruction de la faune primitive est donc un acte parfaitement moderne et progressiste. <cite>Robert Hainard</cite>
 
-> À l'heure où l'on ne sait plus à quel sait se vouer pour faire revenir la croissance et ses richesses, nous allons démontrer que favoriser le retour de la nature sauvage dans notre pays est un excellent moyen de créer des emplois et des opportunités économiques.
+> À l'heure où l'on ne sait plus à quel saint se vouer pour faire revenir la croissance et ses richesses, nous allons démontrer que favoriser le retour de la nature sauvage dans notre pays est un excellent moyen de créer des emplois et des opportunités économiques.
 
 > (…) avec la protection la plus étendue possible aux territoires et aux espèces, nous devrions retrouver la proximité, l'intimité naturelle et originelle qui nous fait tant de bien.
 > <mark>Diversité, abondance et proximité sont les trois piliers</mark> d'un rapport inédit à la nature.
