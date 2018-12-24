@@ -15,7 +15,7 @@ description: |
   Favoriser le retour de la nature sauvage est un excellent facteur de développement. Cette richesse naturelle est renouvelable et non-délocalisable. C'est l'enjeu économique de demain.
 ---
 
-> J'irai jusqu'à penser que cet amour désintéressé de la nature est le plus beau fruit de la civilisation technique, puisqu'il mesure notre délivrance des besoins immédiats. <cite>Robert Hainard</cite>
+> J'irai jusqu'à penser que cet amour désintéressé de la nature est le plus beau fruit de la civilisation technique, puisqu'il mesure <mark>notre délivrance des besoins immédiats</mark>. <cite>Robert Hainard</cite>
 
 En forêt, je n'ai pas besoin de grand chose. Et ça me régénère davantage qu'une journée en ville.
 
@@ -57,7 +57,9 @@ Est-ce qu'on instaurera un "crime contre la Nature" ?
 > ### La révolution de 1976
 > Le grand tournant fut le vote du 25 juin 1976 à l'Assemblée Nationale à l'unanimité moins une voix de la Protection de la nature (…), les parlementaires ont voté la protection de tous les oiseaux, à l'exception de quelques espèces gibier. <mark>Du jour au lendemain, tous les rapaces furent ainsi protégés</mark>. C'est à se demander s'ils réalisaient ce qu'ils faisaient, tellement le coup est énorme.
 
-> Le revers de la médaille, c'est que la nature ordinaire qu'on observait il y a cinquante ans est en passe de disparaître. (…) Les espèces les plus menacées aujourd'hui ne sont plus les baleines, les lynx ou les aigles mais les moineaux, les hirondelles, les papillons et les abeilles.
+Le contenu originel de la [loi du 10 juillet 1976](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000684998&categorieLien=id) se télécharge en PDF, page par page.
+
+> Le revers de la médaille, c'est que la nature ordinaire qu'on observait il y a cinquante ans est en passe de disparaître. (…) Les espèces les plus menacées aujourd'hui ne sont plus les baleines, les lynx ou les aigles mais <mark>les moineaux, les hirondelles, les papillons et les abeilles</mark>.
 
 Ça me rappelle un moment, dans un parc parisien. Une personne montre une perruche dans un arbre, et explique à son enfant qu'il n'y a pas d'oiseaux aux alentours car la perruche les chasse.
 
@@ -93,13 +95,17 @@ Je suis émerveillé par la capacité d'auto-régulation d'un écosystème natur
 > Pelouse pâturée : 5 espèces [végétales], dont le nard raide et la fétuque paniculée.
 > Pelouse non pâturée : 125 espèces [végétales], dont le lis martagon, le lis de saint Bruno , le lis orangé, 3 espèces d'anémones, etc.
 
-> (…) pour qu'une forêt s'enrichisse et s'embellisse, il faut qu'elle vieillisse tranquillement. Pour cela, la recette est extrêmement simple : il ne faut rien faire, la laisse évoluer librement, à son rythme.
+> (…) pour qu'une forêt s'enrichisse et s'embellisse, il faut qu'elle vieillisse tranquillement. Pour cela, la recette est extrêmement simple : <mark>il ne faut rien faire</mark>, la laisse évoluer librement, à son rythme.
 
 Ceci ne demande pas de subvention.
 
 > Nos voisins européens qui ont des territoires plus petits et des densités humaines plus grandes accueillent paradoxalement des populations animales plus importantes (2 millions de chevreuils en France et 8 millions en Allemagne). L'intense pression de chasse est un problème typiquement français, lié en partie à la crainte d'être envahis par des hordes d'animaux sauvages hors de tout contrôle.
 
 > On apprend toujours à l'école que les crues du Nil enrichissaient chaque année les champs de l'Égypte antique mais il se passait à peu près la même chose en France jusqu'à la fin du XIX^e^ siècle. À cette époque, le Rhône déborde et inonde les champs de Limony au sud de Lyon. Il (…) permet aux paysans de cultiver sans engrais pendant quarante ans.
+
+En sachant cela, je trouve difficile de comprendre pourquoi on a autant bétonné les rivières… à part pour augmenter la surface de terrain constructible et de zones habitables ? Les zones nouvellement habitables le sont grâce à des digues. C'est précaire.
+
+Je trouve ça beau d'apprendre le rôle naturel des crues. Par le seul biais des journaux télévisés, je m'imaginais que les crues étaient forcément néfastes.
 
 > Le castor et la rivière sont ainsi des alliés formidables qui s'entendent à merveille pour étendre la ripisylve[^1] à son maximum. En divaguant hors de son lit principal, la rivière crée des bras secondaires et dépose des argiles imperméables propices à la création de zones humides.
 
