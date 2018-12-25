@@ -1,5 +1,4 @@
 ---
-layout: article
 title: A selection of my favourite podcasts
 date: 2016-11-24 12:15:00
 lang: en-GB
@@ -12,8 +11,7 @@ tags:
 - curation
 - learning
 - content
-cover:
-  url: /images/2016/11/brighton-kiosk-edge.jpg
+cover: /images/2016/11/brighton-kiosk-edge.jpg
 ---
 
 I have been late in the game: I started to listen to podcasts only since summer 2014.

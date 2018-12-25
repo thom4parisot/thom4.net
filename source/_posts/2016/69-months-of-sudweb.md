@@ -1,5 +1,4 @@
 ---
-layout: article
 title: 69 months of Sud Web
 lang: en-GB
 date: 2016-06-20 09:00:00

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: npm-based release workflow
 lang: en-GB
 date: 2016-12-06 08:00:00
@@ -13,8 +12,7 @@ tags:
 - node.js
 - travis ci
 - automation
-cover:
-  url: /images/2016/12/south-downs.jpg
+cover: /images/2016/12/south-downs.jpg
 ---
 
 **Releasing a package to the npm registry can be error prone**. It involves *git tagging*, to update a `CHANGELOG` file, to *compile* assets, to *version bump* etc.

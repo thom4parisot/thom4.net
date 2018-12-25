@@ -1,5 +1,4 @@
 ---
-layout: article
 lang: en-GB
 title: I deleted my Facebook account one year ago
 date: 2016-01-23 14:00:00
@@ -10,8 +9,7 @@ tags:
 - accounts
 - social pressure
 - friendships
-cover:
-	url: /images/2016/01/verdon.jpg
+cover: /images/2016/01/verdon.jpg
 ---
 
 I "permanently" deleted my Facebook account right before attending 2014 New Year's Eve party. A few minutes after, I realised I have had not written down the address of the venue and faced a sad reality: **I delegated too much of my everyday life to one single actor**. Unconsciously. Gradually. And a bit by denial.

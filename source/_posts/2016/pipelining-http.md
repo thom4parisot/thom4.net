@@ -1,5 +1,4 @@
 ---
-layout: article
 title: 'HTTP to HTTP with bash, curl and jq'
 lang: en-GB
 date: 2016-04-21 10:00:00
@@ -14,8 +13,7 @@ tags:
 - pipelining
 categories:
 - WebDev
-cover:
-  url: /images/2016/04/crossness.jpg
+cover: /images/2016/04/crossness.jpg
 ---
 
 **Mapping** an interface to another one and **chaining** the dots altogether are systematic needs in data processing. We end up writing loads of lines of code just to map and transfer these data.
@@ -62,7 +60,7 @@ Let's take this fictional JSON response object:
   "blogPost": {
     "title": "...",
     "textBody": "...",
-    "htmlBody": "<div>...</div>" 
+    "htmlBody": "<div>...</div>"
   }
 }
 ```
@@ -233,7 +231,7 @@ cat users.json \
 ## Assembling a JSON payload
 
 bash does not provide any secure way to manipulate JSON. We can concatenate strings and make JSON-ish strings… but we should not really: we want to be able to deal with character encoding and character escaping issues.
-  
+
 It happens than `jq` is actually a pretty neat candidate to build JSON payloads from scratch:
 
 ```bash
@@ -334,4 +332,3 @@ This approach is **good to prototype**. To prototype datasets. To prototype a da
 This is also great if you need to **interface various APIs** from a shell access only.
 
 And finally, there is **no *hype* involved**: just long lasting and solid *bash/fish/zsh/wtfsh* programming knowledge.
-

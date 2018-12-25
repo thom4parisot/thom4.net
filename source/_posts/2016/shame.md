@@ -1,5 +1,4 @@
 ---
-layout: article
 lang: en-GB
 title: Shame
 date: 2016-08-30 10:00:00
@@ -12,8 +11,7 @@ tags:
 - masculinity
 - femininity
 - society
-cover:
-  url: /images/2016/08/fountayne-road.jpg
+cover: /images/2016/08/fountayne-road.jpg
 ---
 
 I wanted to write you about a book I found in [Tattered Cover Book Store](http://www.tatteredcover.com/) (Denver, CO): [I thought it was just me (but it wasn't)](https://www.amazon.co.uk/Thought-Was-Just-Isnt-Perfectionism/dp/1592403352/).
@@ -153,7 +151,7 @@ One thing which helped me is **not taking it personally**. I assume people talk 
 
 It is liberating.
 
-> Men are under tremendous pressure to appear tough, strong, stoic, powerful, successful, fearless, in-control and able.  
+> Men are under tremendous pressure to appear tough, strong, stoic, powerful, successful, fearless, in-control and able.
 > These are the social-community expectations that form their valued identities. While women have the impossible task of balancing, negotiating and traversing expectations that are unattainable and often conflicting, men are suffocating under the tremendous pressure of always appearing "strong, fearless and powerful" — which is equally unattainable.
 
 > Certainly women also shame men above their masculinity and power; however, across the interviews, they seem to have more of a "reinforcing role", whereas men, especially fathers, brothers, peers and coaches tend to do more punishing.

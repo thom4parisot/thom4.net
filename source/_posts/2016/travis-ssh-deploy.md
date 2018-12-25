@@ -1,5 +1,4 @@
 ---
-layout: article
 title: SSH deploys with Travis CI
 lang: en-GB
 date: 2016-05-13 17:00:00

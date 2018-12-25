@@ -1,5 +1,5 @@
 ---
-layout: article
+
 title: 'Trees, travel and postcards'
 date: 2015-06-28 08:00:00
 lang: en-GB

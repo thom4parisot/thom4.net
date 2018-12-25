@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Four days a week
 lang: en-GB
 date: 2015-09-14 09:00:00
