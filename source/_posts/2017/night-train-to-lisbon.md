@@ -9,7 +9,9 @@ tags:
   - trenhotel
   - intercontinental
   - walter benjamin
-cover: /images/2017/08/paris-lisbon.png
+cover:
+  url: /images/2017/08/paris-lisbon.png
+  type: full
 date: 2017-08-18 12:05:00
 ---
 
@@ -134,7 +136,7 @@ This essay written by _Walter Benjamin_ is short but gave me strong takeaways. _
 
 **Being available**, being able **to listen** and being able **to onboard** someone into something they have no idea how to get started **is more transformative** than ~~mansplaining~~ giving a bunch of advice. Just by showing it is doable, and even enjoyable.
 
-Another example of a transformative shared experience is how people get started with cycling. For a couple of years I would not cycle in London "because it was dangerous". One day someone introduced me to cycling in South London and I ended up buying a bike a few weeks after.  
+Another example of a transformative shared experience is how people get started with cycling. For a couple of years I would not cycle in London "because it was dangerous". One day someone introduced me to cycling in South London and I ended up buying a bike a few weeks after.
 Months later, I introduced [Noémie](http://noemiegirard.co/) to cycling in Paris. **We would go at her pace with no time pressure**. She eventually bought a bike ([thank you Leboncoin](https://www.leboncoin.fr/)) and started cycling in London. A colleague of hers was feeling underwhelmed by her commute by bus. They shared a bike ride together and I let you guess what will happen to this person, bike wise 🤓
 
 You can find more [reading notes of the Storyteller][notes-storyteller] — they are written in French though. _Reading Notes_ is a _new section_ over here I intend to develop as a way to share my notes in the margin of the books I read. They are living documents which will evolve over time as I make connections betweens thoughts and readings.
@@ -143,7 +145,7 @@ You can find more [reading notes of the Storyteller][notes-storyteller] — they
 
 # Conclusion
 
-Now I understand what you found in _Santa Apolonia_. You got your space, you got your time to think and came back with a tune to remember this experience for a very long time.  
+Now I understand what you found in _Santa Apolonia_. You got your space, you got your time to think and came back with a tune to remember this experience for a very long time.
 This is a way for us to face ourselves, our fears; to look at them, to look into our own eyes, to view through our fears.
 
 **Travelling with a bike can be a total mess**. Most of the inconvenience is due to uneven bike facilities on board of the trains. Each service has a **different communication** (when they _dare_ advertising bicycle informations — _wink wink_ [Renfe](http://www.renfe.com/)), **different acceptance** (bike bags, unpredictable carriage equipments) and **different booking options**: Renfe requires you to book _an entire sleeper cabin_ (to bloody store a bike!) whereas you cannot even buy a complementary bike reservation on a TGV service beyond the initial booking.
