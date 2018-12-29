@@ -139,5 +139,41 @@ J'aimerais retrouver les données des rivières labellisées [Rivières Sauvages
 > [La Touques] est long de 110 kilomètres. Pas moins de 33 ouvrages ont été supprimés et les 38 restants ont été équipés de passes à poissons. La surface de la rivière accessible à la truite de mer est ainsi passé <mark>de 15% avant travaux à 86% après travaux</mark> et ses effectifs sont passés de 2500 en 2001 à 10000 par an en 2009.
 > (…) il faut donc saluer la belle continuité des services de l'État.
 
+> Au début de l'Holocène, tout le pays était envahi par des arbres. Tout le pays, vraiment ? Non, pas tout à fait. (…) <mark>près de 30% du territoire français était à l'origine constitué de marais</mark> et de zones humides.
+
+Je n'avais pas saisi l'importance des zones humides. D'après [cet article de Reporterre](https://reporterre.net/Cinq-questions-cinq-reponses-pour-comprendre-les-zones-humides), <q>près de 67 % des zones humides métropolitaines ont disparu depuis le début du XXe siècle dont la moitié entre 1960 et 1990.</q> et elles jouent un rôle dans l'absorption des crues (tiens donc), et leur impact positif sur les innondations.
+
+[Cet autre article](https://reporterre.net/La-zone-humide-maillon-discret-mais-essentiel-des-cycles-de-l-eau-et-du-vivant) couvre d'autres détails sur ce maillon invisibilisé du vivant.
+
+> Certains marais s'assèchent progressivement car ils sont coupés des cours d'eau qui les alimentent (…) ils pourraient être à nouveau être alimentés par les crues du [Rhône].
+
+> L'essentiel des marais de l'intérieur a été drainé, asséché, mise en culture ou urbanisé. (…) les hommes ont aménagé des étangs pour la pisciculture. Ces zones qui ont tout l'air d'être naturelles sont en réalité <mark>artificialisées depuis le Moyen Âge</mark>.
+
+J'ai aimé apprendre que le façonnage de la nature a commencé il y a bien longtemps. Que nous vivons surtout une accélération de l'appropriation de la nature par des techniques extractives.
+
+> (…) on constate qu'une bonne partie de ces tourbières sont en réalité le fruit du travail des castors du début de l'Holocène. Elles se seraient développées dans les anciennes retenues provoquées par leurs barrages.
+
+> Pour l'économie de la contemplation, les chiffres sont sans appel. Aux États-Unis, le tourisme lié à l'observation de la faune sauvage a généré 43 milliards de dollars en 2011. C'est l'activité extérieure n°1 depuis 2006, devant la chasse et la pêche réunies.
+
+J'ai découvert l'expression "économie de la contemplation" dans une [réaction de Loïc](https://mamot.fr/@loicm/101297955694375637). Une activité qui contribue à préserver la nature, tout en alimentant l'économie locale, je dis oui !
+
+## Petit bréviaire à l'usage des décideurs
+
+> - Mieux encadrer les pratiques de chasse, sortir du vieux schéma de la chasses régulatrice des populations animales.
+> - Redéfinir le statut d'espèce-gibier / Supprimer le statut d'espère nuisible.
+> - Donner un véritable <mark>statut juridique d'être sensible à l'animal sauvage</mark> et libre.
+
+J'aime l'idée que l'on mette le vivant au même niveau que l'humain. Je vois ça comme un pas pour faire reconnaître qu'on partage le même monde, que nous n'avons pas un droit divin sur les "ressources naturelles" et ce sur quoi notre regard se pose.
+
+> - Donner les mêmes droits à l'observation de la nature qu'au prélèvement.
+> - Accepter le principe de la non-gestion.
+
+C'est véritablement progressiste : aller moins vite, accepter d'intervenir moins, que les impacts dépasseront peut-être le cours de notre vie. Se poser à côté, créer un cadre d'épanouissement.
+
+> - Ne pas hésiter à revenir sur les aménagements devenus inutiles (enrochements, barrages, digues de polders…)
+> - Penser la connexion fonctionnelle et la continuité écologique à l'échelle européenne (…)
+
+Voilà des choses qui se piloteraient bien avec de la donnée publique.
+
 
 [^1]: "La forêt riveraine est l'ensemble des formations boisées, buissonnantes et herbacées présentes sur les rives d'un cours d'eau" — [via Wikipédia](https://fr.wikipedia.org/wiki/Ripisylve)
