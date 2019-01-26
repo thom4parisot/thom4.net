@@ -69,3 +69,38 @@ LSD + arbres + microbiologie des sols
 ça m'évoque le fait que nous, êtres humains, sommes des descendants des bactéries accumulées sous forme calcaire au fond des océans, puis revenus à la surface des eaux. Des êtres vivants constitués sur des millions d'années.
 
 > Si l'unité dans la diversité est un des principes fondamentaux de l'écologie, l'inépuisable richesse de la flore et de la faune contenue dans un arpent de terre nous amène à un autre postulat écologique de base : la nécessité de laisser à la nature une grande marge de spontanéité.
+
+> Il faut donc laisser à la spontanéité de la nature une part considérable de jeu — afin qu'agissent les multiples forces biologiques qui donnent naissance à une situation écologique diversifiée.
+
+> "Travailler avec la nature" nous oblige à favoriser la variété biotique résultant du développement spontané des phénomènes naturels.
+
+> Ce que nous pouvons espérer de l'écologie, celle de la nature comme celle de la société, c'est qu'elle nous apprenne à découvrir les courants et à comprendre leurs mouvements.
+
+> <mark>Ce qui confère à la conception écologique son caractère extraordinairement libérateur (…), c'est sa remise en cause des notions classiques de hiérarchie</mark>.
+
+> Il existe déjà une littérature florissante qui montre à quel point le mutualisme symbiotique est un facteur important en faveur de la stabilité écologique et de l'évolution biologique.
+
+> On constate, chez les animaux et chez les plantes, <mark>une adaptation permanente qui leur permet de s'apporter (…) une aide réciproque</mark> (que ce soit par l'échange de fonctions biochimiques mutuellement bénéfiques ou dans le cas toujours spectaculaire d'une assistance physique) ; une perspective entièrement nouvelle s'ouvre ainsi sur la nature des écosystèmes, sur leur stabilité et leur développement.
+
+> <mark>Plus une chaîne alimentaire est complexe et moins elle perd de sa stabilité lorsqu'une ou plusieurs espèces en sont retirées</mark>. D'où l'immense importance qu'il faut accorder à la complexité et à la diversité entre espèces à l'intérieur d'un système pris dans son ensemble.
+
+## Transposer notre société dans la nature
+
+> Beaucoup de gens font preuve d'une touchante crédulité dans la manière qu'ils ont de considérer la nature comme une dimension de la société.
+> Les grondements de l'animal ne le rendent pas "méchant" ou "sauvage", pas plus qu'il ne se "conduit mal" ou qu'il ne "mérite" une punition simplement parce qu'il ne réagit pas de façon appropriée à certains stimuli.
+
+> En jugeant ainsi les phénomènes naturels d'un point de vue anthropomorphique, on dénie à la nature sa dimension propre.
+
+> Plus sinistre encore est l'emploi de concepts hiérarchiques pour conférer aux phénomènes naturels "ordre" et "intelligibilité". Ce procédé a pour effet de renforcer les hiérarchies humaines en justifiant la domination des hommes et des femmes comme étant un trait inhérent à "l'ordre naturel".
+>
+> La supériorité de l'espèce humaine se voit transcrite dans le code génétique en tant que réalité biologique immuable — de même que la subordination des enfants aux adultes, des femmes aux hommes, des hommes à d'autres hommes.
+
+> La "reine" des abeilles ignore qu'elle est reine. L'activité fondamentale d'une ruche vise la reproduction, et la "division du travail" qu'on peut y voir, n'a aucun sens, s'agissant d'un vaste organe sexuel qui n'accomplit aucune fonction économique véritable. Une ruche sert à produire de nouvelles abeilles.
+
+> L'analogie entre la ruche et la société, qui a paru irrésistible à tant de théoriciens, illustre de façon frappante à quel point nos vues sur la nature sont modelées par des intérêts sociaux qui nous sont propres.
+
+> Ce qui apparaît comme un harem, avec son "patriarche", peut n'être qu'une configuration sexuelle aussi floue qu'une maison de tolérance, selon que telle ou telle femelle soit en rut, que des changements se soient produits dans le milieu, ou que le primate "patriarche" manifeste simplement son embarras devant la situation dans son ensemble.
+
+(où ai-je entendu/lu que des études sur les singes males polygames était un biais sexiste, car l'inverse se révélait vrai mais n'avait pas été sujet à l'attention des chercheurs hommes, c'étaient des femmes qui s'en étaient aperçues ; merci les nouvelles générations !)
+
+> Qui voudrait ressembler aux gibbons, paisibles, végétariens partageant leur nourriture chez qui les pères, lorsqu'il s'agit d'élever les enfants, y prennent une aussi grande part que les mères, et où chacun vit en petits groupes familiaux en dehors desquels on ne s'assemble guère ?
