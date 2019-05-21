@@ -10,7 +10,9 @@ tags:
   - skills
   - role
   - fulfilment
-cover: /images/2017/10/39070001.jpg
+cover:
+  type: full
+  url: /images/2017/10/39070001.jpg
 date: 2017-10-23 11:00:00
 thanks_to: |-
   [Frank](https://frank.taillandier.me) and [Noémie](http://noemiegirard.co) for their help and guidance during the writing process.
@@ -50,7 +52,7 @@ My plan was to **learn how people envisioned and defined themselves** by providi
 
 The _one hour_ session attracted a dozen of people. I facilitated it as follows:
 
-* the room was arranged to host a [fishbowl][]: 
+* the room was arranged to host a [fishbowl][]:
 	* one outer circle of people sitting and listening;
 	* one inner circle of three chairs with two people sitting and able to speak;
 * I opened the session by asking everyone to complete the "I feel like I am…" sentence, in sequence;
@@ -127,7 +129,7 @@ Various people are interviewed. They are asked what makes their work life misera
 
 # Conclusion
 
-A few conversations with [Stéphane](https://twitter.com/langlois_s), [Érick](https://twitter.com/newick) and [Frank](https://twitter.com/DirtyF) helped me realise we can formulate more satisfying answers to the job title question by: 
+A few conversations with [Stéphane](https://twitter.com/langlois_s), [Érick](https://twitter.com/newick) and [Frank](https://twitter.com/DirtyF) helped me realise we can formulate more satisfying answers to the job title question by:
 
 * **describing a project we are working on**, and our implication in it (<q>I do X on project Y</q>, <q>My main background is X and at the moment I combine it with Y with Z</q>);
 * **listing what we are learning** (<q>I learn X in company Y which deos Z and Z'</q>);

@@ -9,7 +9,9 @@ tags:
   - javascript
   - browser scripting
   - automation
-cover: /images/2018/03/markfield-road.jpg
+cover: 
+  type: full
+  url: /images/2018/03/markfield-road.jpg
 date: 2018-03-24 13:34:18
 ---
 
