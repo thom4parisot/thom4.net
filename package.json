@@ -3,7 +3,7 @@
   "version": "3.3.3",
   "private": true,
   "engines": {
-    "node": ">= 10.0.0"
+    "node": ">= 12.0.0"
   },
   "hexo": {
     "version": "3.8.0"
@@ -14,6 +14,7 @@
     "index-content": "hexo algolia --layouts page,reading-note --config _config.yml",
     "start": "hexo server --config _config.yml,_config.dev.yml",
     "new": "hexo new post",
+    "new:journal": "./bin/new-journal-entry",
     "pretest": "NODE_ENV=production npm run build",
     "test": "exit 0"
   },
@@ -33,6 +34,9 @@
     "hexo-tag-soundcloud": "^1.0.2",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme#next",
     "hexo-util": "^0.6.3",
-    "markdown-it-attrs": "^2.3.2"
+    "markdown-it-attrs": "^2.3.4"
+  },
+  "devDependencies": {
+    "promptly": "^3.0.3"
   }
 }
