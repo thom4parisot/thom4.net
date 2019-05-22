@@ -2,17 +2,22 @@
 
 const {choose, prompt, confirm} = require('promptly')
 const H = require('hexo')
+const { slugize } = require('hexo-util')
+const moment = require('moment')
 const hexo = new H(process.cwd(), {})
-
-const optional = (value) => value || ''
 
 hexo.init().then(async () => {
   const title = await prompt('Title: ')
-  const lang = await choose('Lang: ', ['fr-FR', 'en-GB'], {default: 'fr-FR'})
-  const categories = ['Journal'].concat((await prompt('Categories: ', {validator: [optional]})).split(','))
+  const lang = await choose('Lang [fr-FR]: ', ['fr-FR', 'en-GB'], {default: 'fr-FR'})
+  const categories = ['Journal']
+    .concat((await prompt('Categories []: ', {default: ''})).split(','))
+    .filter(c => c)
   const content = await prompt('Body: ')
 
-  return {title, content, categories, lang}
+  const now = moment()
+  const permalink = `${now.format('YYYY[/]MM')}/${slugize(title.toLocaleLowerCase()}`
+
+  return {title, content, categories, lang, permalink}
 })
 .then(async (initialData) => {
   const data = { ...initialData, layout: 'journal' }
