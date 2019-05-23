@@ -15,7 +15,7 @@ hexo.init().then(async () => {
   const content = await prompt('Body: ')
 
   const now = moment()
-  const permalink = `${now.format('YYYY[/]MM')}/${slugize(title.toLocaleLowerCase()}`
+  const permalink = `${now.format('YYYY[/]MM')}/${slugize(title.toLocaleLowerCase())}`
 
   return {title, content, categories, lang, permalink}
 })
