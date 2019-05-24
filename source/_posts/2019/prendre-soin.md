@@ -1,6 +1,6 @@
 ---
 title: Être présent·e et prendre soin
-lang: en-FR
+lang: fr-FR
 layout: journal
 categories:
   - Journal

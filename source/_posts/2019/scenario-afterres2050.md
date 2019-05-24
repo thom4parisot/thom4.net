@@ -1,6 +1,6 @@
 ---
 title: Scénario Afterres2050
-lang: en-GB
+lang: fr-FR
 layout: journal
 categories:
   - Journal

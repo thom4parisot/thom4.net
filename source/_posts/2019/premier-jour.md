@@ -1,6 +1,6 @@
 ---
 title: Premier jour
-lang: en-GB
+lang: fr-FR
 layout: journal
 categories:
   - Journal

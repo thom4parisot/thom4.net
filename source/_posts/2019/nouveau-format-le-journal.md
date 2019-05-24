@@ -1,6 +1,6 @@
 ---
 title: 'Nouveau format : le journal'
-lang: en-GB
+lang: fr-FR
 layout: journal
 categories:
   - Journal
