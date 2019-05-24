@@ -8,6 +8,7 @@ const hexo = new H(process.cwd(), {})
 
 hexo.init().then(async () => {
   const title = await prompt('Title: ')
+  const slug = await prompt(`Slug [${slugize(title.toLocaleLowerCase())}]`, {default: slugize(title.toLocaleLowerCase())})
   const lang = await choose('Lang [fr-FR]: ', ['fr-FR', 'en-GB'], {default: 'fr-FR'})
   const categories = ['Journal']
     .concat((await prompt('Categories []: ', {default: ''})).split(','))
@@ -15,15 +16,11 @@ hexo.init().then(async () => {
   const content = await prompt('Body: ')
 
   const now = moment()
-  const permalink = `${now.format('MM[/]DD')}/${slugize(title.toLocaleLowerCase())}`
+  const permalink = `${now.format('MM[/]DD')}/${slug}`
 
-  return {title, content, categories, lang, permalink}
+  return {title, content, categories, lang, permalink, layout: 'journal'}
 })
-.then(async (initialData) => {
-  const data = { ...initialData, layout: 'journal' }
-
-  return hexo.post.create(data, {replace: false})
-})
+.then((data) => hexo.post.create(data, true))
 .catch(error => {
   // manually cancelled prompts do no throw
   if (error.message.match('canceled')) {
