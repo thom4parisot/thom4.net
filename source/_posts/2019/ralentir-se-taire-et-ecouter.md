@@ -6,7 +6,8 @@ categories:
 tags:
   - écoute active
   - silence
-  -
+  - non-violence
+  - accueil
 cover:
   url: /images/2019/02/51460003.jpg
   legend: Clissold Park (Londres, Royaume-Uni) en automne

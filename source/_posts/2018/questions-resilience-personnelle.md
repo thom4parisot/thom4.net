@@ -10,7 +10,9 @@ tags:
 - éthique
 - consensus
 - consentement
-cover: /images/2018/10/64290001.jpg
+cover:
+  type: full
+  url: /images/2018/10/64290001.jpg
 date: 2018-10-30
 written_in: Lyon, France
 ---
