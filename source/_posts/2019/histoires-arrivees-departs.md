@@ -79,7 +79,7 @@ Une graîne a été semée pendant la lecture de « [L'art de conter nos expér
 
 > Ces histoires issues d'expériences collectives ont pour effet de donner du sens à ce que les personnes ont vécu ensemble, que ce soit dans le but de se créer du commun ou de le (re)questionner tout au long de l'expérience.
 
-Cet [article sur le départ](https://adactio.com/journal/15126) de Jérémy Keith a été le deuxième déclic. Celui qui a rendu normal cette tristesse. Une partie de moi était en résistance jusqu'alors, je m'accrochais à ce qui restait de l'idée de départ, de l'idée que je me faisais de la première itération de dtc.
+Cet [article sur le départ d'une collègue](https://adactio.com/journal/15126) de [Jérémy Keith][] a été le deuxième déclic. Celui qui a rendu normal cette tristesse. Une partie de moi était en résistance jusqu'alors, je m'accrochais à ce qui restait de l'idée de départ, de l'idée que je me faisais de la première itération de dtc.
 
 Le troisième déclic a réchauffé le sol — je ne me souviens plus de la question exacte, mais elle m'a ramené à _mes_ raisons d'avoir démarré l'aventure [dtc][], à _mon_ histoire.
 
@@ -132,3 +132,4 @@ J'arrive à nouveau à écrire !
 [bec-hellouin]: /photography/2015/ferme-du-bec-hellouin/
 [consent]: https://github.com/dtc-innovation/dtc-innovation.org/pull/42
 [france-fi]: https://www.gironde.fr/un-budget-au-service-des-solidarites-humaine-et-territoriale
+[Jeremy Keith]: https://adactio.com
