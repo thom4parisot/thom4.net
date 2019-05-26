@@ -1,11 +1,9 @@
 ---
-title: Premier jour
+title: Sit Spot
 lang: fr-FR
 layout: journal
 categories:
   - Journal
-  - Exploration
-  - Sit Spot
 date: 2019-05-21 19:00:00
 permalink: 05/21/premier-jour
 ---
