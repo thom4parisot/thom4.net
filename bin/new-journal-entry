@@ -17,8 +17,9 @@ hexo.init().then(async () => {
 
   const now = moment()
   const permalink = `${now.format('MM[/]DD')}/${slug}`
+  const path = `${now.format('YYYY[/]MM')}/${slug}`
 
-  return {title, content, categories, lang, permalink, layout: 'journal'}
+  return {title, content, categories, lang, permalink, path, layout: 'journal'}
 })
 .then((data) => hexo.post.create(data, true))
 .catch(error => {
