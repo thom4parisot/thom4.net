@@ -17,8 +17,7 @@ cover:
 date: 2019-05-26
 ---
 
-Quand [David][] a annoncé son intention de partir de [dtc][], une partie de mon
-monde s'est effondrée. J'ai ressenti de la tristesse, de la culpabilité et du désespoir — de la colère, aussi.
+Quand [David][] a annoncé son intention de partir de [dtc][], une partie de mon monde s'est effondrée. J'ai ressenti de la tristesse, de la culpabilité et du désespoir — de la colère, aussi.
 
 Le chemin qu'il choisit d'emprunter est le sien, celui qui lui convient le mieux. Je dois apprendre à vivre avec, ou plutôt, _sans_.
 
