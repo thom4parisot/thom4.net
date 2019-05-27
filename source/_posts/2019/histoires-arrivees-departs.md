@@ -14,7 +14,7 @@ tags:
 cover:
   type: full
   url: /images/2019/05/15030006.jpg
-date: 2019-05-26
+date: 2019-05-26 22:30:00
 ---
 
 Quand [David][] a annoncé son intention de partir de [dtc][], une partie de mon monde s'est effondrée. J'ai ressenti de la tristesse, de la culpabilité et du désespoir — de la colère, aussi.
