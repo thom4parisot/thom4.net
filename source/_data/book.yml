@@ -8,10 +8,11 @@ description: |
   Approfondis ta compréhension de la création d'applications web,
   d'outils en ligne de commande et l'outillage front-end avec plus de 500 exemples.
 
-  [Lire le livre gratuitement](/node.js/)<br>
-  [Trouver le livre en librairie](https://www.placedeslibraires.fr/livre/9782212139938)<br>
-  [Me soutenir en faisant un don](https://opencollective.com/nodebook)
-  {.read-more}
+  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#book"/></svg> [Lire le livre en ligne (gratuit)](/node.js/)
+  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#buy"/></svg> [Acheter le livre en librairie](https://www.placedeslibraires.fr/livre/9782212139938)
+  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#donate"/></svg> [Soutenir l'écriture avec un don](https://opencollective.com/nodebook)
+  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#html-tag"/></svg> [Parcourir le code source](https://github.com/oncletom/nodebook)
+  {.read-more .is-discrete}
 testimonies:
 - J’ai bien aimé la façon dont on passe de la théorie à la pratique et la façon dont les infos importantes sont transmises.
 - J'ai appris pas mal de chose sur la genèse de Node, sa "structure", sur npm, les exemples et le texte sont clair (…) c'est limpide jusqu'ici 👍
