@@ -12,36 +12,24 @@ lang: fr
 
 L'intention de cet ouvrage est d'être votre base de départ pour comprendre ce qu'il se passe dans cet écosystème en perpétuel mouvement. Il devrait vous permettre de faire des choix techniques durables et de vous rendre opérationnel·le sur LA plate-forme JavaScript, le langage le plus populaire du monde selon GitHub.
 
-## Node.js v10 et npm v6
+## Se mettre à jour pour Node.js v10 et npm v6{#versions}
 
 **Node.js v10** et **npm v6** sont au cœur de la première édition de l'ouvrage.
 
 Certaines fonctionnalités expérimentales sont couvertes afin de mieux comprendre dans quelle direction la plate-forme s'oriente.
 
-<!-- La deuxième édition concernera **Node.js v12**. -->
+## À qui s'adresse cet ouvrage ?{#audience}
 
-## À qui s'adresse cet ouvrage ?
-
-- Aux développeurs et développeuses qui veulent se reconvertir depuis un autre langage de programmation comme Perl, PHP ou Ruby
-- Aux développeurs et développeuses qui cherchent à tirer parti de l'outillage npm front-end
+- Aux développeur·ses qui veulent se reconvertir depuis un autre langage de programmation comme Perl, PHP ou Ruby
+- Aux développeur·ses qui cherchent à tirer parti de l'outillage npm front-end
 - Aux personnes qui se débrouillent dans leur coin et qui aimeraient renforcer leurs compétences en programmation web
 
-## Ce qu'ils et elles en pensent
 
-{% for testimony in site.data.book.testimonies %}
-<blockquote>{{ testimony.text or testimony }}</blockquote>
-{% endfor %}
+## Chapitrage et contenu du livre{#chapitres}
 
-## Se procurer le livre et l'e-book
-
-« Node.js • Apprendre par la pratique » s'achète en ligne, en librairies[^1] et avec un abonnement Kindle :
-
-* **Livre papier** (32€) : [près de chez moi][] • [Eyrolles][eyrolles-papier] • [Fnac][fnac-papier] • [Amazon][amazon-papier]
-* **e-book** (22€) : [Eyrolles][eyrolles-numerique] [^2] • [Fnac][fnac-numerique] • [Amazon Kindle][amazon-kindle]
-
-## Apprendre Node.js, gratuitement et en ligne
-
-La lecture de l'ouvrage est gratuite sur le web. Cette édition est enrichie d'exemples interactifs.
+Démarrez avec le chapitre de votre choix.
+Les textes sont illustrés avec de nombreux exemples didactiques pour apprendre
+à votre rythme, pas à pas.
 
 - [Avant-propos](./foreword/preamble.html)
 - **Chapitre 1** : [Histoire, écosystème et gouvernance](./chapter-01/)
@@ -55,14 +43,49 @@ La lecture de l'ouvrage est gratuite sur le web. Cette édition est enrichie d'e
 - **Chapitre 9** : [Créer une application front-end](./chapter-09/)
 - **Annexe A** : [Sélection de modules npm](./appendix-a/)
 
-Le [module npm][npm-module] offre une lecture hors-ligne et rend les exemples exécutables dans votre terminal.
-Le [code source de l'ouvrage][source] est hébergé sur GitHub.
+<ul class="is-discrete read-more">
+  <li>
+    <a href="https://opencollective.com/nodebook" class="read-more">
+      <svg><use xlink:href="/assets/icons.svg#donate"/></svg>
+      Faire un don pour soutenir l'écriture de la version gratuite
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/oncletom/nodebook" class="read-more">
+      <svg><use xlink:href="/assets/icons.svg#html-tag"/></svg>
+      Code source de l'ouvrage
+    </a>
+  </li>
+</ul>
+
+## Acheter le livre Node.js{#acheter}
+
+« Node.js • Apprendre par la pratique » s'achète en ligne, en librairies[^1] et avec un abonnement Kindle :
+
+* **Livre papier** (32€) : [près de chez moi][] • [Eyrolles][eyrolles-papier] • [Fnac][fnac-papier] • [Amazon][amazon-papier]
+* **e-book** (22€) : [Eyrolles][eyrolles-numerique] [^2] • [Fnac][fnac-numerique] • [Amazon Kindle][amazon-kindle]
+* **en ligne** (gratuit) : [cf. chapitrage](#chapitres) • édition enrichie d'exemples interactifs
+* **Node.js** (gratuit) : [module npm][npm-module] • lecture hors-ligne, depuis votre terminal
+
+## Témoignages de lectrices et de lecteurs{#testimonies}
+
+{% for testimony in site.data.book.testimonies %}
+<blockquote>{{ testimony.text or testimony }}</blockquote>
+{% endfor %}
+
+<p>
+  <a href="https://github.com/oncletom/nodebook/issues/new" class="read-more">
+    <svg><use xlink:href="/assets/icons.svg#reactions"/></svg>
+    Dire merci, signaler un problème ou demander un nouveau contenu
+  </a>
+</p>
 
 [^1]: En France métropolitaine en tous cas.
 [^2]: Formats PDF et ePub, sans DRM.
 
 [source]: https://github.com/oncletom/nodebook
 [npm-module]: https://www.npmjs.com/package/nodebook
+[donate]: https://opencollective.com/nodebook
 [eyrolles-papier]: https://www.eyrolles.com/Informatique/Livre/node-js-9782212139938/
 [eyrolles-numerique]: https://www.eyrolles.com/Informatique/Livre/node-js-9782212139938/#achat-numerique
 [fnac-papier]: https://livre.fnac.com/a7796744/T-Parisot-Node-JS
