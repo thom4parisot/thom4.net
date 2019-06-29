@@ -35,7 +35,7 @@ J'ai envie que cette rupture se passe bien… mais qui voudra encore de moi ?
 Est-ce qu'on me parlera moins parce qu'on préfère David ?
 
 Pendant la phase de deuil, je réalise que sans m'en rendre compte - ou sans vouloir sortir du déni — j'ai compensé, je me suis mis à l'abri, derrière lui, derrière le collectif.
-J'ai suivi sur des choses qui me mettaient mal à l'aise, j'ai eu peur de la rétorique puis je me suis démotivé. Je comptais sur ses connaissances poussées en code — _jamais_ je n'envisageais d'être bloqué dans un projet.
+J'ai suivi sur des choses qui me mettaient mal à l'aise, j'ai eu peur de la rhétorique puis je me suis démotivé. Je comptais sur ses connaissances poussées en code — _jamais_ je n'envisageais d'être bloqué dans un projet.
 
 Je ne ne questionnais pas notre _association_, elle allait durer pour toujours. Parce que je ne voyais pas ce que j'aurais fait après, je ne voyais pas quelle autre meilleure forme que celle-ci, pour moi.
 
