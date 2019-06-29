@@ -35,7 +35,7 @@ J'ai envie que cette rupture se passe bien… mais qui voudra encore de moi ?
 Est-ce qu'on me parlera moins parce qu'on préfère David ?
 
 Pendant la phase de deuil, je réalise que sans m'en rendre compte - ou sans vouloir sortir du déni — j'ai compensé, je me suis mis à l'abri, derrière lui, derrière le collectif.
-J'ai suivi sur des choses qui me mettaient mal à l'aise, j'ai eu peur de la rétorique puis je me suis démotivé. Je comptais sur ses connaissances poussées en code — _jamais_ je n'envisageais d'être bloqué dans un projet.
+J'ai suivi sur des choses qui me mettaient mal à l'aise, j'ai eu peur de la rhétorique puis je me suis démotivé. Je comptais sur ses connaissances poussées en code — _jamais_ je n'envisageais d'être bloqué dans un projet.
 
 Je ne ne questionnais pas notre _association_, elle allait durer pour toujours. Parce que je ne voyais pas ce que j'aurais fait après, je ne voyais pas quelle autre meilleure forme que celle-ci, pour moi.
 
@@ -78,7 +78,7 @@ Une graîne a été semée pendant la lecture de « [L'art de conter nos expér
 
 > Ces histoires issues d'expériences collectives ont pour effet de donner du sens à ce que les personnes ont vécu ensemble, que ce soit dans le but de se créer du commun ou de le (re)questionner tout au long de l'expérience.
 
-Cet [article sur le départ d'une collègue](https://adactio.com/journal/15126) de [Jérémy Keith][] a été le deuxième déclic. Celui qui a rendu normal cette tristesse. Une partie de moi était en résistance jusqu'alors, je m'accrochais à ce qui restait de l'idée de départ, de l'idée que je me faisais de la première itération de dtc.
+Cet [article sur le départ d'une collègue](https://adactio.com/journal/15126) de [Jeremy Keith][] a été le deuxième déclic. Celui qui a rendu normal cette tristesse. Une partie de moi était en résistance jusqu'alors, je m'accrochais à ce qui restait de l'idée de départ, de l'idée que je me faisais de la première itération de dtc.
 
 Le troisième déclic a réchauffé le sol — je ne me souviens plus de la question exacte, mais elle m'a ramené à _mes_ raisons d'avoir démarré l'aventure [dtc][], à _mon_ histoire.
 
