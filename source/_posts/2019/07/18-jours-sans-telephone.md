@@ -14,7 +14,7 @@ date: 2019-07-04 10:08:10
 
 J'ai (re)gagné en capacité de concentration et d'observation. Je me prépare mieux. Je fais davantage appel aux ressources environnantes pour m'orienter (demander aux gens, les plans des transports en commun) — ça me rappelle [ma planification de randonnée en Estonie](/photography/2016/estonia/), hors-ligne et au carnet de poche.
 
-Et comme je n'ai plus l'heure sur moi, le temps est devenu plus "long" ; des fois j'arrive avec 5 minutes de retard, des fois avec 20 minutes d'avance. J'y prends beaucoup de plaisir à me laisser porter ainsi.
+Et comme je n'ai plus l'heure sur moi, le temps est devenu plus "long" ; des fois j'arrive avec 5 minutes de retard, des fois avec 20 minutes d'avance. Je prends beaucoup de plaisir à me laisser porter ainsi.
 
 Difficultés rencontrées :
 - certain·es de mes interlocuteurices sont plus réactif·ves au téléphone que par e-mail ;
