@@ -16,7 +16,9 @@
     "new": "hexo new post",
     "new:journal": "./bin/new-journal-entry",
     "pretest": "NODE_ENV=production npm run build",
-    "test": "exit 0"
+    "test": "exit 0",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "hexo": "^3.9.0",
@@ -34,9 +36,11 @@
     "hexo-tag-soundcloud": "^1.0.2",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme#v2.5.0",
     "hexo-util": "^0.6.3",
-    "markdown-it-attrs": "^2.4.1"
+    "markdown-it-attrs": "^2.4.1",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "promptly": "^3.0.3"
-  }
+  },
+  "snyk": true
 }
