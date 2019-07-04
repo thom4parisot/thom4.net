@@ -12,6 +12,10 @@ date: 2019-07-04 10:08:10
 
 [Découverte via Olivier](https://mamot.fr/@aspyrine/102336641624894651) : [1Password gère les jetons éphémères](https://support.1password.com/one-time-passwords/) — j'utilisais le smartphone pour ça (via Authenticator puis Yubikey Authenticator+clé physique).
 
+J'ai (re)gagné en capacité de concentration et d'observation. Je me prépare mieux. Je fais davantage appel aux ressources environnantes pour m'orienter (demander aux gens, les plans des transports en commun) — ça me rappelle [ma planification de randonnée en Estonie](/photography/2016/estonia/), hors-ligne et au carnet de poche.
+
+Et comme je n'ai plus l'heure sur moi, le temps est devenu plus "long" ; des fois j'arrive avec 5 minutes de retard, des fois avec 20 minutes d'avance. J'y prends beaucoup de plaisir à me laisser porter ainsi.
+
 Difficultés rencontrées :
 - certain·es de mes interlocuteurices sont plus réactif·ves au téléphone que par e-mail ;
 -  je n'ai pas pu confirmer une réservation en auberge de jeunesse lors de l'étape [3D Secure par SMS](https://fr.wikipedia.org/wiki/3-D_Secure).
