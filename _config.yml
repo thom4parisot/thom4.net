@@ -95,11 +95,11 @@ markdown:
     html: true
     xhtmlOut: false
   anchors:
-    level: 2
+    level: 1
     collisionSuffix: 'v'
-    permalink: false
+    permalink: true
     permalinkClass: header-anchor
-    # permalinkSymbol: ¶
+    permalinkSymbol: §
   plugins:
   - markdown-it-abbr
   - markdown-it-attrs
