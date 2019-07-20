@@ -1,6 +1,10 @@
 #!/usr/bin/env node
 
 const {choose, prompt, confirm} = require('promptly')
+const {spawnSync} = require('child_process')
+const {tmpdir} = require('os')
+const {join} = require('path')
+const {mkdtemp, readFile, open:openFile} = require('fs').promises
 const H = require('hexo')
 const { slugize } = require('hexo-util')
 const moment = require('moment')
@@ -13,7 +17,12 @@ hexo.init().then(async () => {
   const categories = ['Journal']
     .concat((await prompt('Categories []: ', {default: ''})).split(','))
     .filter(c => c)
-  const content = await prompt('Body: ')
+  const content = await mkdtemp(join(tmpdir(), 'oncletom-journal'))
+    .then(async (folder) => {
+      await openFile(`${folder}/${slug}.md`, 'w+')
+      spawnSync('open', ['--wait-apps', `${folder}/${slug}.md`], {shell: true, stdio: 'ignore'})
+      return readFile(`${folder}/${slug}.md`, 'utf8')
+    })
 
   const now = moment()
   const permalink = `${now.format('MM[/]DD')}/${slug}`
