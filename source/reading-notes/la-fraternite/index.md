@@ -1,6 +1,6 @@
 ---
 layout: reading-note
-isbn: "9782757842119"
+isbn: "9782330124144"
 title: La Fraternité, pourquoi ?
 publication_year: 2019
 lang: fr
