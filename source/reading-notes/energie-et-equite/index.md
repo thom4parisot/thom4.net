@@ -62,3 +62,71 @@ C'est intéressant car je n'avais pas réalisé que l'expression **crise de l'é
 > <mark>Une vitesse élevée est le facteur critique qui fait des transports un instrument d'exploitation sociale</mark>.
 >
 > Entre des hommes libres, des rapports sociaux productifs vont à l'allure d'une bicyclette, et pas plus vite.
+
+# 2. L'industrie et la circulation
+
+> La dépendance forcée à l'égard de l'automobile dénie à une société de vivants cette mobilité dont la mécanisation des transports était le but premier. L'esclavage de la circulation commence.
+
+> Vite expédié, sans cesse véhiculé, l'homme ne peut plus marcher, cheminer, vagabonder, flâner, aller à l'aventure ou en pèlerinage. Pourtant il doit être sur pied aussi longtemps que grand-père.
+
+Je le vois même dans une petite ville qu'est Crest : circuler en vélo est une anormalité, c'est au mieux du loisir. Se balader à pied est une condition au tourisme.
+
+> Dès que les machines ont consacré à chaque voyageur plus qu'une certaine puissance en chevaux-vapeur, cette industrie a diminué l'égalité entre les gens, restreint leur mobilité en leur imposant un réseau d'itinéraires obligés produits industriellement, engendré un manque de temps sans précédent.
+
+Si on veut se soustraire à la voiture dans la vallée de la Drôme, les horaires de bus sont risibles. Leurs horaires et trajets forcent à l'usage de la voiture. Même sur un axe horizontal de 100km qui emmène à l'autre bout de la vallée, sens de circulation quasi-naturel.
+
+> [Aux États-Unis] les quatre cinquièmes des distances parcourues en avion chaque année pour des congrès ou des voyages de vacances le sont par 1.5% de la population, c'est-à-dire par ceux que privilégient leur niveau de revenus et leur formation professionnelle.
+> <mark>Plus rapide est le véhicule emprunté, plus forte est la prime versée</mark> par ce mode de taxation dégressive.
+
+# 3. Le gel de l'imagination
+
+> L'usager ne voit pas l'absurdité d'une mobilité fondée sur le transport. Sa perception traditionnelle de l'espace, du temps et du rythme propre a été déformée par l'industrie. Il a perdu la liberté de s'imaginer dans un autre rôle que celui d'usager du transport.
+
+C'est [une des revendications intéressantes](/2019/08/11/et-maintenant-on-fait-quoi/) d'une des franges des Gilets Jaunes : demander autre chose qu'une réduction du prix de l'essence à la pompe. Je les vois en train d'imaginer autre chose.
+
+> Il a perdu confiance dans le pouvoir politique qui lui vient de la capacité de pouvoir marcher et parler. Il croit que l'activité politique consiste à réclamer une plus large consommation de ces services qui l'assimilent à une simple marchandise.
+
+> Il ne demande pas plus de liberté pour des citoyens autonomes, mais de meilleurs services pour des clients soumis.
+
+Les ateliers-vélos, les bricothèques et autres tiers-lieux autogérés (et non institutionnalisés/gérés par un tiers) sont des repaires qui mènent vers cette autonomie.
+
+# 4. Le prix du temps
+
+> Tout surcroît de vitesse d'un véhicule augmente son coût de propulsion, le prix des voies de circulation nécessaires et, ce qui est plus grave, la largeur de l'espace que son mouvement dévore.
+> (…)
+> <mark>Entre l'égalité des chances et la vitesse, il y a corrélation inverse</mark>.
+
+Et travailler près de chez soi devient un luxe.
+
+> Plus on a la possibilité d'être transporté, plus on manque temps. Passé un seuil critique, l'industrie du transport fait perdre plus de temps qu'elle n'en fait gagner.
+
+Je vois le même paradigme avec l'instantéité numérique. Plus tout est rapidement accessible, plus on manque de temps.
+
+> On tient leur existence pour un préliminaire nécessaire pour que la prospérité de la population tout entière puisse augmenter, ou bien on y voit l'instrument de rehaussement du standing d'une minorité défavorisée.
+> (…)
+> À long terme, l'accélération du transport n'apporte aucun de ces bénéfices. Elle n'engendre qu'une demande universelle de transport motorisé et qu'une séparation des groupes sociaux par niveau de privilèges en creusant écarts inimaginables jusque-là.
+
+Un tiers de la population active de Crest se déplace tous les jours de 35km pour aller travailler à Valence.
+
+> Passé un certain point, plus d'énergie signifie moins d'équité. Au rythme du plus rapide moyen de transport, on voit gonfler le traitement de réservé à quelques-uns aux frais des autres.
+
+
+# 5. La vitesse mangeuse de temps
+
+> Certaines dépenses sautent aux yeux actuellement, par exemple la destruction de l'environnement ou l'exploitation, avec l'aide des militaires, de matières premières disponibles en quantités limitées.
+
+> Le temps qu'une société dépense en transport augmente proportionnellement à la vitesse du moyen de transport public le plus rapide.
+
+> La part du budget social consacrée au transport est déterminée par l'ordre de grandeur de la vitesse de pointe permise par ledit système de transport.
+
+# 6. Le monopole radical de l'industrie
+
+> Le transport est un mode de circulation sur l'utilisation intensive du capital, et le transit, sur un recours intensif au travail du corps.
+
+> Les conflits suscités par insuffisance du transport prennent la forme d'un jeu où l'un gagne ce que l'autre perd.
+
+> Dès que la vie quotidienne dépend transport motorisé, l'industrie contrôle la circulation.
+
+> La circulation nous offre l'exemple d'une loi économique générale: <mark>tout produit industriel dont la consommation par personne dépasse un niveau donné exerce un monopole radical sur la satisfaction d'un besoin</mark>. Passé un certain seuil, l'école obligatoire ferme l'accès au savoir, le système de soins médicaux détruit les sources non thérapeutiques de la santé, le transport paralyse la circulation.
+
+> Une industrie n'exerce pas sur toute une société un monopole radical grâce à la rareté des biens produits ou grâce à son habileté à évincer les entreprises concurrentes, mais par <mark>son aptitude à créer le besoin qu'elle est seule à pouvoir satisfaire</mark>.
