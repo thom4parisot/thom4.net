@@ -16,3 +16,5 @@ Au primaire et au collège, je me revois dans la cours de récréation. Je suis 
 Adulte, je me sens de moins en moins à l'aise de vivre en ignorant le fonctionnement du monde — le monde en tant que _système vivant_. Tout ce qui en fait fi accentue mon sentiment d'étrangeté, celui où j'entends une musique du vivant déconnecté des paroles.
 
 Souvent, je me demande ce que c'est que d'être dans le corps des autres, dans leur tête, ce qu'ielles ressentent, vivent et pensent.
+
+Une nouveauté des derniers jours : faire tomber le mur qui me relie à ce sentiment, de réaliser qu'il ne m'a jamais quitté, qu'il a évolué dans le temps et qu'il est une colonne vertébrale sur laquelle je me suis construit.
