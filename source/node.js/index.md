@@ -6,13 +6,12 @@ cover:
 lang: fr
 ---
 
-> Familiarisez-vous avec JavaScript, Node.js et l'écosystème de modules `npm`. Apprenez à concevoir et à déployer des **applications web** et des **outils en ligne de commande**.
+Cet ouvrage est une **base de départ** pour comprendre ce qu'il se passe dans l'écosystème de Node.js et de npm. Il devrait vous permettre de faire des choix techniques durables, de créer et de déployer des applications web en utilisant **JavaScript, le langage le plus populaire du monde** selon GitHub.
+{ .leading }
 
-**Plus de 500 exemples pour apprendre en pratiquant**.
+> Plus de 500 exemples pour apprendre en pratiquant.
 
-L'intention de cet ouvrage est d'être votre base de départ pour comprendre ce qu'il se passe dans cet écosystème en perpétuel mouvement. Il devrait vous permettre de faire des choix techniques durables et de vous rendre opérationnel·le sur LA plate-forme JavaScript, le langage le plus populaire du monde selon GitHub.
-
-## Se mettre à jour pour Node.js v10 et npm v6{#versions}
+## Node.js v10 et npm v6{#versions}
 
 **Node.js v10** et **npm v6** sont au cœur de la première édition de l'ouvrage.
 

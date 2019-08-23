@@ -7,11 +7,12 @@ cover:
   type: full
 ---
 
-**Thomas Parisot** is my full name and people often call me *Tom*.
-My long lasting nickname *Oncle Tom* is a friendly pun to our *digital slavery*.
-
-I design web software — its code, its governance, its usage — as part of the [dtc innovation][] co-op.
+My name is Thomas Parisot, I design web software — its code, its governance, its usage — as part of the [dtc innovation][] co-op.
 We created this small and safe environment to design valuable projects with our customers.
+{ .leading }
+
+People often call me *Tom*.
+My long lasting nickname *Oncle Tom* is a friendly pun to our *digital slavery*.
 
 ## Values
 
