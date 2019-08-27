@@ -4,18 +4,27 @@ cover:
   url: /images/publications/nodejs-cover.png
   type: full
 lang: fr
+scripts:
+  - nodebook-updates.js
 ---
 
 Cet ouvrage est une **base de départ** pour comprendre ce qu'il se passe dans l'écosystème de Node.js et de npm. Il devrait vous permettre de faire des choix techniques durables, de créer et de déployer des applications web en utilisant **JavaScript, le langage le plus populaire du monde** selon GitHub.
 { .leading }
 
-> Plus de 500 exemples pour apprendre en pratiquant.
+## Node.js v10 et npm v6{#versions .next}
 
-## Node.js v10 et npm v6{#versions}
-
-**Node.js v10** et **npm v6** sont au cœur de la première édition de l'ouvrage.
+Plus de 500 exemples pour apprendre **Node.js v10** et **npm v6**.
 
 Certaines fonctionnalités expérimentales sont couvertes afin de mieux comprendre dans quelle direction la plate-forme s'oriente.
+
+## Acheter le livre Node.js{#acheter}
+
+« Node.js • Apprendre par la pratique » s'achète en ligne, en librairies[^1] et avec un abonnement Kindle :
+
+* **Livre papier** (32€) : [en librairie][] • [sur Eyrolles.com][eyrolles-papier] • [sur Fnac.com][fnac-papier] • [sur Amazon.fr][amazon-papier]
+* **en e-book** (22€) : [syr Eyrolles.com][eyrolles-numerique] [^2] • [sur Fnac.com][fnac-numerique] • [sur Amazon Kindle][amazon-kindle]
+* **en ligne** (gratuit) : [édition enrichie](#chapitres)
+* **sur npm** (gratuit) : [`npm install nodebook`][npm-module] • lecture hors-ligne, exemples de code à exécuter dans votre terminal
 
 ## À qui s'adresse cet ouvrage ?{#audience}
 
@@ -57,14 +66,6 @@ Les textes sont illustrés avec de nombreux exemples didactiques pour apprendre
   </li>
 </ul>
 
-## Acheter le livre Node.js{#acheter}
-
-« Node.js • Apprendre par la pratique » s'achète en ligne, en librairies[^1] et avec un abonnement Kindle :
-
-* **Livre papier** (32€) : [près de chez moi][] • [Eyrolles][eyrolles-papier] • [Fnac][fnac-papier] • [Amazon][amazon-papier]
-* **e-book** (22€) : [Eyrolles][eyrolles-numerique] [^2] • [Fnac][fnac-numerique] • [Amazon Kindle][amazon-kindle]
-* **en ligne** (gratuit) : [cf. chapitrage](#chapitres) • édition enrichie d'exemples interactifs
-* **Node.js** (gratuit) : [module npm][npm-module] • lecture hors-ligne, depuis votre terminal
 
 ## Témoignages de lectrices et de lecteurs{#testimonies}
 
@@ -79,6 +80,29 @@ Les textes sont illustrés avec de nombreux exemples didactiques pour apprendre
   </a>
 </p>
 
+
+## Mises à jour de l'ouvrage
+
+Une fois le livre sorti, je corrige les contenus dans sa version en ligne.
+Les changements plus importants sont réservés à l'édition suivante.
+
+<ol id="nodebook-updates" class="is-discrete with-metadata" data-src="https://api.github.com/repos/oncletom/nodebook/commits?sha=v1"></ol>
+
+<ul class="is-discrete read-more">
+  <li>
+    <a href="https://github.com/oncletom/nodebook/commits/v1" class="read-more">
+      <svg><use xlink:href="/assets/icons.svg#html-tag"/></svg>
+      Parcourir l'historique complet des mises à jour
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/oncletom/nodebook/milestone/2" class="read-more">
+      <svg><use xlink:href="/assets/icons.svg#browse"/></svg>
+      Changements prévus pour la deuxième édition
+    </a>
+  </li>
+</ul>
+
 [^1]: En France métropolitaine en tous cas.
 [^2]: Formats PDF et ePub, sans DRM.
 
@@ -91,4 +115,4 @@ Les textes sont illustrés avec de nombreux exemples didactiques pour apprendre
 [fnac-numerique]: https://livre.fnac.com/a7796744/T-Parisot-Node-JS?NUMERICAL=Y
 [amazon-papier]: https://amzn.to/2E58PEw
 [amazon-kindle]: https://amzn.to/2BUbNu0
-[près de chez moi]: https://www.placedeslibraires.fr/livre/9782212139938
+[en librairie]: https://www.placedeslibraires.fr/livre/9782212139938
