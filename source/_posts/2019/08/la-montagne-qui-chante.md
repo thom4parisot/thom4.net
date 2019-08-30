@@ -13,3 +13,5 @@ date: 2019-08-29 19:47:07
 C'est un concert annuel de mégaphones construits par des bénévoles, dont le son est projeté sur une falaise parabolique.
 
 C'était un moment suspendu dans le temps, allongé dans l'herbe sèche, la nuit étoilée en arrière-plan.
+
+![](/images/2019/08/montagne-qui-chante.jpg)
