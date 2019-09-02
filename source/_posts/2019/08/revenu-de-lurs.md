@@ -28,7 +28,7 @@ Je suis reparti avec :
 - des discussions chouettes avec des gens chouettes ;
 - le sentiment d'être davantage ancré en moi-même ;
 - quelques insomnies qui ont été sources d'écriture, de verbalisation d'idées et de hontes ;
-- le plaisir d'y être allé et reparti an auto-stop.
+- le plaisir d'y être allé et reparti en auto-stop.
 
 Et une citation d'[Émilie Rigaud](https://delure.org/les-rencontres/rencontres-precedentes/instant-t#emilie-rigaud), à propos de son processus de création de polices de caractère :
 
