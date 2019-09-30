@@ -4,6 +4,8 @@ RedirectTemp /music/ http://www.last.fm/user/the-jedi/
 RedirectMatch temp /code/(.*) https://github.com/oncletom/$1
 RedirectPermanent /talks https://oncletom.io/talks/
 RedirectPermanent /photos https://oncletom.io/photography/
+RedirectPermanent /category/journal/ https://oncletom.io/categories/journal/
+RedirectPermanent /journal/ https://oncletom.io/categories/journal/
 RedirectPermanent /categories/projets/ https://oncletom.io/categories/projects/
 RedirectPermanent /categories/webdev/ https://oncletom.io/categories/web/
 RedirectPermanent /categories/travail/ https://oncletom.io/categories/work/
