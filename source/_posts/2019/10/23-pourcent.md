@@ -10,7 +10,7 @@ permalink: 10/08/23-pourcent
 date: 2019-10-08 13:37:58
 ---
 
-Ce matin, je représentais le tiers-lieu [l'Usine Vivante](https//usinevivante.org) à une rencontre mensuelle entre "partenaires" : MJC (Maison pour la Jeunesse et la Culture), Caisse d'Allocations Familiales, maison des assistantes sociales, infirmières, Secours Catholique, Radio [Saint-Ferréol](/2019/09/27/saint-ferreol/)… et les [Resto du Cœur](http://rhone.restosducoeur.org/).
+Ce matin, je représentais le tiers-lieu [l'Usine Vivante](https://www.usinevivante.org) à une rencontre mensuelle entre "partenaires" : MJC (Maison pour la Jeunesse et la Culture), Caisse d'Allocations Familiales, maison des assistantes sociales, infirmières, Secours Catholique, Radio [Saint-Ferréol](/2019/09/27/saint-ferreol/)… et les [Resto du Cœur](http://rhone.restosducoeur.org/).
 
 Plusieurs chiffres m'ont marqué :
 
