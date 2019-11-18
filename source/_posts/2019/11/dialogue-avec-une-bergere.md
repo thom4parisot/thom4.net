@@ -9,7 +9,7 @@ permalink: 11/18/conversation-avec-une-bergere
 date: 2019-11-18 13:22:03
 ---
 
-<i>Ce dialogue a eu lieu lors d'un covoiturage entre Die et le  Rousset-en-Vercors</i>.
+<i>Ce dialogue a eu lieu lors d'un covoiturage entre Die et Rousset-en-Vercors</i>.
 
 J'ai été impressionné par les choix de vie de cette femme qui a été bergère pour s'émanciper de parents violents, puis paysanne pour offrir un lieu de vie sédentaire à ses enfants, et de nouveau reprendre le bâton de bergère pour changer de région.
 
