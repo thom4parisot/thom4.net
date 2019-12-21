@@ -16,8 +16,8 @@ C'est fou de redonner vie à un bout de bois qui paraît quelconque, et de le no
 
 Je suis content de continuer à apprendre à faire des choses de mes mains, et de continuer à explorer la récupération de matériaux sans avoir recours au neuf.
 
-![Ponçage au grain 80](/2019/12/poncer-80.jpg)
+![Ponçage au grain 80](/images/2019/12/poncer-80.jpg)
 
-![Ponçage au grain 120](/2019/12/poncer-80.jpg)
+![Ponçage au grain 120](/images/2019/12/poncer-80.jpg)
 
-![Huilé au lin, avant séchage](/2019/12/poncer-secher.jpg)
+![Huilé au lin, avant séchage](/images/2019/12/poncer-secher.jpg)
