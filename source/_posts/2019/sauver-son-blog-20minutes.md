@@ -31,8 +31,8 @@ une archive qui décrit les billets, pages et commentaires d'un blog, rangé d'u
 
 Deux bémols à avoir en tête :
 
-- vous perdrez le référencement de votre site ; demandez aux personnes qui faisaient des liens vers votre site de pointer vers sa nouvelle adresse ;
-- les images ne sont pas importée ; mais je partage une astuce en fin d'article pour palier au problème.
+- vous perdez le référencement de votre blog 20 Minutes — demandez aux personnes qui faisaient des liens vers votre site de pointer vers sa nouvelle adresse ;
+- les images ne sont pas importées — mais je partage une astuce [en fin d'article](#contacter-le-support-wordpress-pour-la-suite) pour palier au problème.
 
 # Créer un export Movable Type
 
