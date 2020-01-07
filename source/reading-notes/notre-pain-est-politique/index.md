@@ -39,7 +39,7 @@ un "mixe" spécial "pain rustique" où il suffit d'ajouter un peu d'eau, du sel
 et de suivre une recette bien précise donnée par le fournisseur (…).
 
 Je retrouve la même chose dans le milieu du développement logiciel, avec
-les frameworks titanesques et les surchouches d'outils. Le syndrôme "Bootstrap" :
+les frameworks titanesques et les surcouches d'outils. Le syndrôme "Bootstrap" :
 un développeur sait à peu-près utiliser un ensemble de choses prémachées, sans trop
 les comprendre, et sans rien comprendre à ce qui se passe sous le capot… parce
 que les méthodes de travail imposent d'aller vite (même si mal).
