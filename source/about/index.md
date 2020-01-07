@@ -7,9 +7,12 @@ cover:
   type: full
 ---
 
-My name is Thomas Parisot, I design web software — its code, its governance, its usage — as part of the [dtc innovation][] co-op.
-We created this small and safe environment to design valuable projects with our customers.
+My name is Thomas Parisot, I design **web software which make sense**.
+[You can hire me for freelance work][détour.studio].
 { .leading }
+
+I am committed at creating a generous work environment, with your team.
+I work from home, in a rural environment and I'm happy to travel on site when it is relevant.
 
 People often call me *Tom*.
 My long lasting nickname *Oncle Tom* is a friendly pun to our *digital slavery*.
@@ -29,6 +32,7 @@ Thus, I will do my best to favour **non-profit**, **ethical** or **greater good*
 
 I have **more than 15 years of professional experience**, self-taught with the help of the many people I met on my way.
 
+- **Currently**, Software designer at [détour.studio][];
 - Software designer at [dtc innovation][];
 - Senior web engineer at [BBC R&D][];
 - CTO and co-founder of [Dijiwan, a startup which failed](/2014/why-our-startup-failed/);
@@ -60,6 +64,7 @@ If you're unsure or think you are not legitimate, feel free [to send me a short 
 [email]: mailto:&#104;&#105;&#064;&#111;&#110;&#099;&#108;&#101;&#116;&#111;&#109;&#046;&#105;&#111;
 [BBC R&D]: https://www.bbc.co.uk/rd/people/thomas-parisot
 [Clever Age]: http://www.clever-age.com/
+[détour.studio]: https://détour.studio
 [dtc innovation]: https://dtc-innovation.org
 [Sud Web]: https://sudweb.fr/
 [Organic Lea farm]: https://www.organiclea.org.uk
