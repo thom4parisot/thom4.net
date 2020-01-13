@@ -20,6 +20,6 @@ J'ai voulu me donner comme défi d'être exclusivement végétarien cette année
 - je n'aime pas l'idée de tuer un être vivant, mais les végétaux que je mange sont eux aussi vivants — où est la frontière ?
 - ne pas manger de viande n'inclut pas la problématique de la "distance alimentaire", ni des conditions de rémunération des personnes qui produisent les aliments que je consomme — ne regarder que l'aspect "viande", c'est ne pas regarder la question alimentaire dans son ensemble.
 
-J'ai l'impression que "manger sans nourrir le système industriel, le plus local et le plus respectueux de la nature" serait une proposition plus en ligne avec mes valeurs.
+J'ai l'impression que "manger le plus local, le plus respectueux de la nature et sans nourrir le système industriel" serait une proposition plus en ligne avec mes valeurs.
 
-Je suis curieux de savoir comment tu abordes cette question. 
+Je suis curieux de savoir comment tu abordes cette question.
