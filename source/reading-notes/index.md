@@ -6,18 +6,18 @@ now:
     title: Au-delà de la pénétration
     authors: [Martin Page]
     publication_year: 2020
-  - isbn: '9782705670061'
-    title: Qu'est-ce que l'approche narrative ?
-    authors: [Alice Morgan]
-    publication_year: 2010
+  - isbn: '9782501144209'
+    title: Jouissance Club
+    authors: [Jüne Plã]
+    publication_year: 2020
   - isbn: '9782849503812'
     title: "Refuser d'être un homme : pour en finir avec la virilité"
     authors: [John Stoltenberg]
     publication_year: 1989
-  - isbn: '9782356181718'
-    title: Terre de foi et de sang
-    authors: [Jacques Mouriquand]
-    publication_year: 2019
+  - isbn: '9782330077495'
+    title: Jamais seul
+    authors: [Marc-André Sélosse]
+    publication_year: 2017
 ---
 
 I use books as a **learning material**.
