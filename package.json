@@ -34,7 +34,8 @@
     "hexo-tag-soundcloud": "^1.0.2",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme#master",
     "hexo-util": "^0.6.3",
-    "markdown-it-attrs": "^2.4.1"
+    "markdown-it-attrs": "^2.4.1",
+    "markdown-it-mark": "^3.0.0"
   },
   "devDependencies": {
     "promptly": "^3.0.3"

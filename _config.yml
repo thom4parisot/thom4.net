@@ -107,6 +107,7 @@ markdown:
   - markdown-it-ins
   - markdown-it-sub
   - markdown-it-sup
+  - markdown-it-mark
 
 # Content Indexing
 ## See https://www.npmjs.com/package/hexo-algolia
