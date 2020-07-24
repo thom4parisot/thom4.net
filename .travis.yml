@@ -16,19 +16,16 @@ before_deploy:
 - cp -r  source/.well-known public/.well-known
 
 env:
-  matrix:
-  - NODE_ENV=production
-  global:
-    secure: "c5gAW/tPNCNh5DgfYU/WMErx3OFVcEt/BeIWJZRf08M02IKtnPQqxxoCm5PF8mFxdWrIPnZPN0GO6yhKWTsxKZYkPelKareROu3KaRmAzMEoZLYipZ95O6kd1eR98N4iE5BylLMM1trGzUfCuSBDmBWNXjf5TwQJ+ewmDV4iEjQ="
+- NODE_ENV=production
 
 deploy:
 - provider: script
+  edge: true
   script: npm run deploy
-  skip_cleanup: true
   on:
     branch: master
 - provider: script
+  edge: true
   script: npm run index-content
-  skip_cleanup: true
   on:
     branch: master
