@@ -2,10 +2,6 @@
 layout: reading-notes
 title: Reading Notes
 now:
-  - isbn: '9782371000926'
-    title: Au-delà de la pénétration
-    authors: [Martin Page]
-    publication_year: 2020
   - isbn: '9782501144209'
     title: Jouissance Club
     authors: [Jüne Plã]
@@ -14,10 +10,11 @@ now:
     title: "Refuser d'être un homme : pour en finir avec la virilité"
     authors: [John Stoltenberg]
     publication_year: 1989
-  - isbn: '9782330077495'
-    title: Jamais seul
-    authors: [Marc-André Sélosse]
-    publication_year: 2017
+  - isbn: '9782330132620'
+    title: L'europe réensauvagée
+    subtitle: Vers un nouveau monde
+    authors: [Gilbert Cochet, Béatrice Kremer-Cochet]
+    publication_year: 2020
 ---
 
 I use books as a **learning material**.
