@@ -38,10 +38,12 @@ titlecase: false # Transform title into titlecase
 max_open_file: 100
 filename_case: 1
 highlight:
+  hljs: true
   auto_detect: false
   enable: true
   line_number: true
   tab_replace: 2
+  wrap: false
 
 # Category & Tag
 default_category: uncategorized
@@ -89,6 +91,10 @@ pagination_dir: page
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 theme: ../node_modules/hexo-theme-oncletom
 layout: blog
+
+pretty_urls:
+  trailing_html: false
+  trailing_index: false
 
 markdown:
   render:
