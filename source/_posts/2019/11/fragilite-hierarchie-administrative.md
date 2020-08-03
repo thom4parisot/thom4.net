@@ -5,7 +5,7 @@ categories:
   - Journal
   - Capitalisme
 lang: fr-FR
-permalink: 11/21/fragilite-hierarchie-administrative
+permalink: 2019/11/21/fragilite-hierarchie-administrative/
 date: 2019-11-21 15:19:07
 ---
 

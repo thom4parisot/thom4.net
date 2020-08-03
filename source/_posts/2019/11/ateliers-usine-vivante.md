@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 11/29/ateliers-usine-vivante
+permalink: 2019/11/29/ateliers-usine-vivante/
 date: 2019-11-29 19:00:07
 ---
 

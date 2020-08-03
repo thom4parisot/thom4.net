@@ -4,7 +4,7 @@ lang: fr-FR
 layout: journal
 categories:
   - Journal
-permalink: 05/24/prendre-soin
+permalink: 2019/05/24/prendre-soin/
 date: 2019-05-24 22:13:52
 ---
 

@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Émotions
 lang: fr-FR
-permalink: 12/14/pourquoi-groupe-hommes
+permalink: 2019/12/14/pourquoi-groupe-hommes/
 date: 2019-12-14 08:35:02
 ---
 

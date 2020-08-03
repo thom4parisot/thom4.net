@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Thérapie
 lang: fr-FR
-permalink: 10/15/resistance-et-fatigue
+permalink: 2019/10/15/resistance-et-fatigue/
 date: 2019-10-15 22:47:07
 ---
 

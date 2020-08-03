@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 11/27/tarification-sociale-eau
+permalink: 2019/11/27/tarification-sociale-eau/
 date: 2019-11-27 08:44:51
 ---
 

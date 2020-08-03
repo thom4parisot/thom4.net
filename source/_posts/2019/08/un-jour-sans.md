@@ -5,7 +5,7 @@ categories:
   - Journal
   - Émotions
 lang: fr-FR
-permalink: 08/05/un-jour-sans
+permalink: 2019/08/05/un-jour-sans/
 date: 2019-08-05 12:59:27
 ---
 

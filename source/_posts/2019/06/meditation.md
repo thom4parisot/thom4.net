@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/21/meditation
+permalink: 2019/06/21/meditation/
 date: 2019-06-21 14:50:27
 ---
 

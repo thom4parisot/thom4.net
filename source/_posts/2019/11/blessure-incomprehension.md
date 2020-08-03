@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Thérapie
 lang: fr-FR
-permalink: 11/14/blessure-incomprehension
+permalink: 2019/11/14/blessure-incomprehension/
 date: 2019-11-14 07:57:08
 ---
 

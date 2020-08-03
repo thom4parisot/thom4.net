@@ -5,7 +5,7 @@ categories:
   - Journal
   - Travail
 lang: fr-FR
-permalink: 09/22/entretien-vie-associative-drome
+permalink: 2019/09/22/entretien-vie-associative-drome/
 date: 2019-09-22 18:12:38
 ---
 

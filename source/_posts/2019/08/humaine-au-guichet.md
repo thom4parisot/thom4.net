@@ -5,7 +5,7 @@ categories:
   - Journal
   - Transport
 lang: fr-FR
-permalink: 08/13/humaine-au-guichet
+permalink: 2019/08/13/humaine-au-guichet/
 date: 2019-08-13 18:39:40
 ---
 

@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 09/19/moulin-a-cafe
+permalink: 2019/09/19/moulin-a-cafe/
 date: 2019-09-19 10:07:55
 ---
 

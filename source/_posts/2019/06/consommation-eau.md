@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 06/05/consommation-eau
+permalink: 2019/06/05/consommation-eau/
 date: 2019-06-05 09:39:40
 ---
 

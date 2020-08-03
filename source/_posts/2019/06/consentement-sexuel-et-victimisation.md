@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/30/consentement-sexuel-et-victimisation
+permalink: 2019/06/30/consentement-sexuel-et-victimisation/
 date: 2019-06-30 06:27:33
 ---
 

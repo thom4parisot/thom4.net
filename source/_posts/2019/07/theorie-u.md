@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Collectif
 lang: fr-FR
-permalink: 07/20/theorie-u
+permalink: 2019/07/20/theorie-u/
 date: 2019-07-20 06:00:34
 ---
 

@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Jardin
 lang: fr-FR
-permalink: 09/30/semis-automne
+permalink: 2019/09/30/semis-automne/
 date: 2019-09-30 12:41:55
 ---
 

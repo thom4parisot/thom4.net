@@ -5,7 +5,7 @@ categories:
   - Journal
   - Alimentation
 lang: fr-FR
-permalink: 01/12/vegetarien-carnivore
+permalink: 2020/01/12/vegetarien-carnivore/
 date: 2020-01-12 13:00:53
 ---
 

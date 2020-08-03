@@ -5,7 +5,7 @@ categories:
   - Journal
   - Travail
 lang: fr-FR
-permalink: 10/15/boni-liquidation
+permalink: 2019/10/15/boni-liquidation/
 date: 2019-10-15 22:35:19
 ---
 

@@ -4,7 +4,7 @@ lang: fr-FR
 layout: journal
 categories:
   - Journal
-permalink: 05/22/nouveau-format-le-journal
+permalink: 2019/05/22/nouveau-format-le-journal/
 date: 2019-05-22 19:00:28
 ---
 

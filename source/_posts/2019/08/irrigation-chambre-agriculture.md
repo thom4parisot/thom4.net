@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 08/30/irrigation-chambre-agriculture
+permalink: 2019/08/30/irrigation-chambre-agriculture/
 date: 2019-08-30 17:17:13
 ---
 

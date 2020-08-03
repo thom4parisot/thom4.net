@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/17/single-telephone-of-failure
+permalink: 2019/06/17/single-telephone-of-failure/
 date: 2019-06-17 21:25:50
 ---
 

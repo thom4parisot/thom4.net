@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 06/06/appel-avec-coopcycle
+permalink: 2019/06/06/appel-avec-coopcycle/
 date: 2019-06-06 12:11:33
 ---
 

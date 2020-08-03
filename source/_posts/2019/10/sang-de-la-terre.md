@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 10/14/sang-de-la-terre
+permalink: 2019/10/14/sang-de-la-terre/
 date: 2019-10-14 14:46:01
 ---
 

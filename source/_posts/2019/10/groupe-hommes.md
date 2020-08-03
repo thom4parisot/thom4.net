@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Émotions
 lang: fr-FR
-permalink: 10/23/groupe-hommes
+permalink: 2019/10/23/groupe-hommes/
 date: 2019-10-23 12:19:06
 ---
 

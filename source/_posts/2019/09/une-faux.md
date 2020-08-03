@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 09/19/une-faux
+permalink: 2019/09/19/une-faux/
 date: 2019-09-19 10:12:48
 ---
 

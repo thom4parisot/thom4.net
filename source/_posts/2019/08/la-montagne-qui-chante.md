@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 08/29/la-montagne-qui-chante
+permalink: 2019/08/29/la-montagne-qui-chante/
 date: 2019-08-29 19:47:07
 ---
 

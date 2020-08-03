@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 12/10/exemple-prix-libre-conscient
+permalink: 2019/12/10/exemple-prix-libre-conscient/
 date: 2019-12-10 12:42:05
 ---
 

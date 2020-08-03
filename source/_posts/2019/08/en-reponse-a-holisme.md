@@ -6,7 +6,7 @@ categories:
   - Correspondance
 in_reply_to: "https://larlet.fr/david/stream/2019/08/13/"
 lang: fr-FR
-permalink: 08/15/en-reponse-a-holisme
+permalink: 2019/08/15/en-reponse-a-holisme/
 date: 2019-08-15 13:27:04
 ---
 

@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 10/23/consentement-et-domination
+permalink: 2019/10/23/consentement-et-domination/
 date: 2019-10-23 11:20:58
 ---
 

@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 01/08/nourriture-pour-chats
+permalink: 2020/01/08/nourriture-pour-chats/
 date: 2020-01-08 11:29:33
 ---
 

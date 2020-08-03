@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 11/13/la-jarjatte
+permalink: 2019/11/13/la-jarjatte/
 date: 2019-11-13 17:31:26
 ---
 

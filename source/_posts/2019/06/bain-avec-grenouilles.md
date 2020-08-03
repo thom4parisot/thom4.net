@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/26/bain-avec-grenouilles
+permalink: 2019/06/26/bain-avec-grenouilles/
 date: 2019-06-26 23:53:40
 ---
 

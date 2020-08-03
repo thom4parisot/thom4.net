@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Thérapie
 lang: fr-FR
-permalink: 11/15/observer-mes-emotions
+permalink: 2019/11/15/observer-mes-emotions/
 date: 2019-11-15 14:30:51
 ---
 

@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Jardin
 lang: fr-FR
-permalink: 08/05/taille-de-lavande
+permalink: 2019/08/05/taille-de-lavande/
 date: 2019-08-05 12:18:39
 ---
 

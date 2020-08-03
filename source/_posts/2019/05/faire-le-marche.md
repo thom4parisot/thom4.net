@@ -5,7 +5,7 @@ categories:
   - Ruralité
 layout: journal
 lang: fr-FR
-permalink: 05/25/faire-le-marche
+permalink: 2019/05/25/faire-le-marche/
 date: 2019-05-25 14:47:20
 ---
 

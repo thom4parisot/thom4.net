@@ -5,7 +5,7 @@ categories:
   - Journal
   - Ruralité
 lang: fr-FR
-permalink: 06/16/retour-du-marche
+permalink: 2019/06/16/retour-du-marche/
 date: 2019-06-16 14:54:43
 ---
 

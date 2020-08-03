@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/28/enlever
+permalink: 2019/06/28/enlever/
 date: 2019-06-28 10:50:30
 ---
 

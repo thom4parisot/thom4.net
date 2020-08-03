@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/20/retraite-et-precarite
+permalink: 2019/07/20/retraite-et-precarite/
 date: 2019-07-20 04:38:30
 ---
 

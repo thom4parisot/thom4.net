@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Collectif
 lang: fr-FR
-permalink: 07/20/vote-par-jugement-majoritaire
+permalink: 2019/07/20/vote-par-jugement-majoritaire/
 date: 2019-07-20 05:44:15
 ---
 

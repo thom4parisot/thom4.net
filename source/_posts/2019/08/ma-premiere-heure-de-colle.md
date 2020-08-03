@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Thérapie
 lang: fr-FR
-permalink: 08/15/ma-premiere-heure-de-colle
+permalink: 2019/08/15/ma-premiere-heure-de-colle/
 date: 2019-08-15 13:14:31
 ---
 

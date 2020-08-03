@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Chez soi
 lang: fr-FR
-permalink: 12/11/bureau
+permalink: 2019/12/11/bureau/
 date: 2019-12-11 16:26:25
 ---
 

@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 08/07/nostalgie-britannique
+permalink: 2019/08/07/nostalgie-britannique/
 date: 2019-08-07 12:47:46
 ---
 

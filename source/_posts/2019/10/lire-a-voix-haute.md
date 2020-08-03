@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 10/15/lire-a-voix-haute
+permalink: 2019/10/15/lire-a-voix-haute/
 date: 2019-10-15 22:28:32
 ---
 

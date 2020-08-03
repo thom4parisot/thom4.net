@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 10/08/croissance-et-precarite
+permalink: 2019/10/08/croissance-et-precarite/
 date: 2019-10-08 13:50:35
 ---
 

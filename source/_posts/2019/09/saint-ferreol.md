@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 09/27/saint-ferreol
+permalink: 2019/09/27/saint-ferreol/
 date: 2019-09-27 10:02:51
 ---
 

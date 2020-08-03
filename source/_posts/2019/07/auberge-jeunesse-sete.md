@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/20/auberge-jeunesse-sete
+permalink: 2019/07/20/auberge-jeunesse-sete/
 date: 2019-07-20 04:02:20
 ---
 

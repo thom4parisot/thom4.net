@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Permaculture
 lang: fr-FR
-permalink: 08/30/uriner-dans-une-bouteille
+permalink: 2019/08/30/uriner-dans-une-bouteille/
 date: 2019-08-30 10:51:48
 ---
 

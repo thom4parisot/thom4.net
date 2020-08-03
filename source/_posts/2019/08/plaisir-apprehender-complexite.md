@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Thérapie
 lang: fr-FR
-permalink: 08/01/plaisir-apprehender-complexite
+permalink: 2019/08/01/plaisir-apprehender-complexite/
 date: 2019-08-01 21:32:29
 ---
 

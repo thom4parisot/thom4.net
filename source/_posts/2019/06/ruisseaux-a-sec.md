@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 06/05/ruisseaux-a-sec
+permalink: 2019/06/05/ruisseaux-a-sec/
 date: 2019-06-05 09:19:32
 ---
 

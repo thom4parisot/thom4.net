@@ -5,7 +5,7 @@ categories:
   - Journal
   - Émotions
 lang: fr-FR
-permalink: 08/15/sentiment-etrangete
+permalink: 2019/08/15/sentiment-etrangete/
 date: 2019-08-15 12:21:22
 ---
 

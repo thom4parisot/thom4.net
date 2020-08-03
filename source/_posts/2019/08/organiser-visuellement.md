@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Chez soi
 lang: fr-FR
-permalink: 08/09/organiser-visuellement
+permalink: 2019/08/09/organiser-visuellement/
 date: 2019-08-09 14:43:21
 ---
 

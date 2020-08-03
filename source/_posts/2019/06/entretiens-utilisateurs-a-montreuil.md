@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/30/entretiens-utilisateurs-a-montreuil
+permalink: 2019/06/30/entretiens-utilisateurs-a-montreuil/
 date: 2019-06-30 06:45:55
 ---
 

@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 08/07/50-litres
+permalink: 2019/08/07/50-litres/
 date: 2019-08-07 13:07:25
 ---
 

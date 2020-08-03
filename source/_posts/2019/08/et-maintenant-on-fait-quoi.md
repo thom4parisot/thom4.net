@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Réseau social
 lang: fr-FR
-permalink: 08/11/et-maintenant-on-fait-quoi
+permalink: 2019/08/11/et-maintenant-on-fait-quoi/
 date: 2019-08-11 19:01:27
 ---
 

@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 09/22/bivouac-trois-becs
+permalink: 2019/09/22/bivouac-trois-becs/
 date: 2019-09-22 14:43:30
 ---
 

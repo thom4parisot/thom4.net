@@ -5,7 +5,6 @@ subtitle: Personal documentation about web development, collaborative work and u
 author: Thomas Parisot
 email: hi@oncletom.io
 default_cover: https://oncletom.io/images/thomas-parisot.jpg
-external_link: true
 language: en
 keywords:
   - javascript
@@ -89,12 +88,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: ../node_modules/hexo-theme-oncletom
+theme: oncletom
 layout: blog
 
 pretty_urls:
   trailing_html: false
   trailing_index: false
+
+external_link:
+  enabled: true
 
 markdown:
   render:

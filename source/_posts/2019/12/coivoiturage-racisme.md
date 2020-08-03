@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 12/27/coivoiturage-racisme
+permalink: 2019/12/27/coivoiturage-racisme/
 date: 2019-12-27 15:01:13
 ---
 

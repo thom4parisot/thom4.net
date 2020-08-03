@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 06/05/nappes-phreatiques
+permalink: 2019/06/05/nappes-phreatiques/
 date: 2019-06-05 09:10:18
 ---
 

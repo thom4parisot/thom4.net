@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Émotions
 lang: fr-FR
-permalink: 11/22/homme
+permalink: 2019/11/22/homme/
 date: 2019-11-22 14:48:42
 ---
 

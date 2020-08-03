@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Émotions
 lang: fr-FR
-permalink: 11/15/sortir-du-quotidien
+permalink: 2019/11/15/sortir-du-quotidien/
 date: 2019-11-15 12:39:39
 ---
 

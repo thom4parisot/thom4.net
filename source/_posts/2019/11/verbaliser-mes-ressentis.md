@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Émotions
 lang: fr-FR
-permalink: 11/15/verbaliser-mes-ressentis
+permalink: 2019/11/15/verbaliser-mes-ressentis/
 date: 2019-11-15 15:01:58
 ---
 

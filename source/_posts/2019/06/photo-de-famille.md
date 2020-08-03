@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/09/photo-de-famille
+permalink: 2019/06/09/photo-de-famille/
 date: 2019-06-09 05:38:13
 ---
 

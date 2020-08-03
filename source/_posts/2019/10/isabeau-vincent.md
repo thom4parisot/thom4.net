@@ -5,7 +5,7 @@ categories:
   - Journal
   - Livre
 lang: fr-FR
-permalink: 10/03/isabeau-vincent
+permalink: 2019/10/03/isabeau-vincent/
 date: 2019-10-03 08:41:18
 ---
 

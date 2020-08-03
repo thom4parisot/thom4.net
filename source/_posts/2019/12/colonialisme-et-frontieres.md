@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 12/27/colonialisme-et-frontieres
+permalink: 2019/12/27/colonialisme-et-frontieres/
 date: 2019-12-27 15:12:53
 ---
 

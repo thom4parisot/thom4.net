@@ -5,7 +5,7 @@ categories:
   - Journal
   - UX
 lang: fr-FR
-permalink: 11/15/approche-par-contraste
+permalink: 2019/11/15/approche-par-contraste/
 date: 2019-11-15 12:20:13
 ---
 

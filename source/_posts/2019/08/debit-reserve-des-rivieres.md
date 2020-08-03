@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 08/15/debit-reserve-des-rivieres
+permalink: 2019/08/15/debit-reserve-des-rivieres/
 date: 2019-08-15 12:42:18
 ---
 

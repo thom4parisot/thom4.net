@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 11/29/conscience-du-monde
+permalink: 2019/11/29/conscience-du-monde/
 date: 2019-11-29 18:13:36
 ---
 

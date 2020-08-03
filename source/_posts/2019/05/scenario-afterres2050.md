@@ -6,7 +6,7 @@ categories:
   - Journal
   - Exploration
   - Agriculture
-permalink: 05/23/scenario-afterres2050
+permalink: 2019/05/23/scenario-afterres2050/
 date: 2019-05-23 08:54:13
 ---
 

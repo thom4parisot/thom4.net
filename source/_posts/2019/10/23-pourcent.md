@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 10/08/23-pourcent
+permalink: 2019/10/08/23-pourcent/
 date: 2019-10-08 13:37:58
 ---
 

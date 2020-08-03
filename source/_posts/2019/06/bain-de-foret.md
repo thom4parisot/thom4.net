@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 06/23/bain-de-foret
+permalink: 2019/06/23/bain-de-foret/
 date: 2019-06-23 20:07:23
 ---
 

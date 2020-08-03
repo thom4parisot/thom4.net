@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 10/07/une-eolienne
+permalink: 2019/10/07/une-eolienne/
 date: 2019-10-07 11:17:59
 ---
 

@@ -5,7 +5,7 @@ categories:
   - Journal
   - Émotions
 lang: fr-FR
-permalink: 06/18/engagement-parole
+permalink: 2019/06/18/engagement-parole/
 date: 2019-06-18 21:32:19
 ---
 

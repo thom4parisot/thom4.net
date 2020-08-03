@@ -5,7 +5,7 @@ categories:
   - Journal
   - Émotions
 lang: fr-FR
-permalink: 06/17/ecorchures
+permalink: 2019/06/17/ecorchures/
 date: 2019-06-17 21:17:00
 ---
 

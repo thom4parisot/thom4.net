@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 12/31/derniere-randonnee
+permalink: 2019/12/31/derniere-randonnee/
 date: 2019-12-31 17:57:21
 ---
 

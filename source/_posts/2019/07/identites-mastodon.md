@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/23/identites-mastodon
+permalink: 2019/07/23/identites-mastodon/
 date: 2019-07-23 19:55:20
 ---
 

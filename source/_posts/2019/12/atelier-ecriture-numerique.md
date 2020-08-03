@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 12/06/atelier-ecriture-numerique
+permalink: 2019/12/06/atelier-ecriture-numerique/
 date: 2019-12-06 10:26:18
 ---
 

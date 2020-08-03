@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 11/13/infernet
+permalink: 2019/11/13/infernet/
 date: 2019-11-13 15:13:24
 ---
 

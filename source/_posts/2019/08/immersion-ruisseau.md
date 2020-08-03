@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 08/01/immersion-ruisseau
+permalink: 2019/08/01/immersion-ruisseau/
 date: 2019-08-01 20:30:02
 ---
 

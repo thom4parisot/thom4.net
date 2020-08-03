@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/20/cinema-agnes-varda
+permalink: 2019/07/20/cinema-agnes-varda/
 date: 2019-07-20 04:21:00
 ---
 

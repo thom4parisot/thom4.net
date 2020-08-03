@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 09/22/hachoir
+permalink: 2019/09/22/hachoir/
 date: 2019-09-22 14:18:42
 ---
 

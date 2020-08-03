@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Travail
 lang: fr-FR
-permalink: 12/31/dernier-jour-dtc
+permalink: 2019/12/31/dernier-jour-dtc/
 date: 2019-12-31 18:25:55
 ---
 

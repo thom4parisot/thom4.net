@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Émotions
 lang: fr-FR
-permalink: 12/19/mesures-de-compensation
+permalink: 2019/12/19/mesures-de-compensation/
 date: 2019-12-19 14:01:12
 ---
 

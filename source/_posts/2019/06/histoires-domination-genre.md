@@ -5,7 +5,7 @@ categories:
   - Journal
   - Patriarcat
 lang: fr-FR
-permalink: 06/30/histoires-domination-genre
+permalink: 2019/06/30/histoires-domination-genre/
 date: 2019-06-30 20:05:04
 ---
 

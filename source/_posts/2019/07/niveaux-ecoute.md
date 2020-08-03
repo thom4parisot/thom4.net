@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/20/niveaux-ecoute
+permalink: 2019/07/20/niveaux-ecoute/
 date: 2019-07-20 06:30:39
 ---
 

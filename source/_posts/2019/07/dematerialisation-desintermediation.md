@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/27/dematerialisation-desintermediation
+permalink: 2019/07/27/dematerialisation-desintermediation/
 date: 2019-07-27 17:30:40
 ---
 

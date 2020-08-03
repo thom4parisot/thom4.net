@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/07/une-heure-avec-gerard
+permalink: 2019/06/07/une-heure-avec-gerard/
 date: 2019-06-07 12:48:42
 ---
 

@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 11/29/facilitation-citoyenne-riviere-drome
+permalink: 2019/11/29/facilitation-citoyenne-riviere-drome/
 date: 2019-11-29 17:42:15
 ---
 

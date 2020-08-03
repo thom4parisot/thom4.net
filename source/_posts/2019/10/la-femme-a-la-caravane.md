@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 10/11/la-femme-a-la-caravane
+permalink: 2019/10/11/la-femme-a-la-caravane/
 date: 2019-10-11 16:34:27
 ---
 

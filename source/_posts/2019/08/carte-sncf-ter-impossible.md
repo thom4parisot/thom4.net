@@ -5,7 +5,7 @@ categories:
   - Journal
   - Transport
 lang: fr-FR
-permalink: 08/13/carte-sncf-ter-impossible
+permalink: 2019/08/13/carte-sncf-ter-impossible/
 date: 2019-08-13 08:40:45
 ---
 

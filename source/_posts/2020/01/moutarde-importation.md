@@ -5,7 +5,7 @@ categories:
   - Journal
   - Alimentation
 lang: fr-FR
-permalink: 01/09/moutarde-importation
+permalink: 2020/01/09/moutarde-importation/
 date: 2020-01-09 20:27:54
 ---
 

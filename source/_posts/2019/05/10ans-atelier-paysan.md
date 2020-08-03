@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Agriculture
 lang: fr-FR
-permalink: 05/26/10ans-atelier-paysan
+permalink: 2019/05/26/10ans-atelier-paysan/
 date: 2019-05-26 06:03:07
 ---
 

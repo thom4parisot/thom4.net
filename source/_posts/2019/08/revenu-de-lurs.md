@@ -5,7 +5,7 @@ categories:
   - Journal
   - Conférence
 lang: fr-FR
-permalink: 08/29/revenu-de-lurs
+permalink: 2019/08/29/revenu-de-lurs/
 date: 2019-08-29 19:32:00
 ---
 

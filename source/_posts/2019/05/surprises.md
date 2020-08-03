@@ -5,7 +5,7 @@ categories:
   - Journal
   - Apprendre
 lang: fr-FR
-permalink: 05/30/surprises
+permalink: 2019/05/30/surprises/
 date: 2019-05-30 13:47:57
 ---
 

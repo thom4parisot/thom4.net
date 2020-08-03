@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Travail
 lang: fr-FR
-permalink: 09/27/progres-ralentir
+permalink: 2019/09/27/progres-ralentir/
 date: 2019-09-27 08:38:11
 ---
 

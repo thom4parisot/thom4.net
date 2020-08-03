@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 01/08/animisme
+permalink: 2020/01/08/animisme/
 date: 2020-01-08 11:19:58
 ---
 

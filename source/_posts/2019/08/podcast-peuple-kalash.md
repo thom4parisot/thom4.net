@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Réseau social
 lang: fr-FR
-permalink: 08/15/podcast-peuple-kalash
+permalink: 2019/08/15/podcast-peuple-kalash/
 date: 2019-08-15 12:13:19
 ---
 

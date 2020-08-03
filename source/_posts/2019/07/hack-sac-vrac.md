@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 07/23/hack-sac-vrac
+permalink: 2019/07/23/hack-sac-vrac/
 date: 2019-07-23 23:22:31
 ---
 

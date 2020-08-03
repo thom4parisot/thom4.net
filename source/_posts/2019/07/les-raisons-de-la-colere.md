@@ -5,7 +5,7 @@ categories:
   - Journal
   - Émotions
 lang: fr-FR
-permalink: 07/02/les-raisons-de-la-colere
+permalink: 2019/07/02/les-raisons-de-la-colere/
 date: 2019-07-02 21:25:39
 ---
 

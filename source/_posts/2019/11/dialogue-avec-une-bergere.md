@@ -5,7 +5,7 @@ categories:
   - Journal
   - Dialogues
 lang: fr-FR
-permalink: 11/18/conversation-avec-une-bergere
+permalink: 2019/11/18/conversation-avec-une-bergere/
 date: 2019-11-18 13:22:03
 ---
 

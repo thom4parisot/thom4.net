@@ -5,7 +5,7 @@ categories:
   - Journal
   - Émotions
 lang: fr-FR
-permalink: 08/15/effondrements
+permalink: 2019/08/15/effondrements/
 date: 2019-08-15 12:59:36
 ---
 

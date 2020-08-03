@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 09/16/non-linkedin-learning
+permalink: 2019/09/16/non-linkedin-learning/
 date: 2019-09-16 08:56:01
 ---
 

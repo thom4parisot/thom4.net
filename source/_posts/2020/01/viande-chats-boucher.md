@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 01/08/viande-chats-boucher
+permalink: 2020/01/08/viande-chats-boucher/
 date: 2020-01-08 11:39:40
 ---
 

@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Émotions
 lang: fr-FR
-permalink: 12/19/limites-explicites
+permalink: 2019/12/19/limites-explicites/
 date: 2019-12-19 13:51:45
 ---
 

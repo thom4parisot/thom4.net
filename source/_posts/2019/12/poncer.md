@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 12/21/poncer
+permalink: 2019/12/21/poncer/
 date: 2019-12-21 21:40:34
 ---
 

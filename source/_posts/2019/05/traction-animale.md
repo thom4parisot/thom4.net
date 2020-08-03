@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Agriculture
 lang: fr-FR
-permalink: 05/26/traction-animale
+permalink: 2019/05/26/traction-animale/
 date: 2019-05-26 07:07:38
 ---
 

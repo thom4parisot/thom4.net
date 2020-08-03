@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/04/18-jours-sans-telephone
+permalink: 2019/07/04/18-jours-sans-telephone/
 date: 2019-07-04 10:08:10
 ---
 

@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/20/sortir-du-groupe
+permalink: 2019/06/20/sortir-du-groupe/
 date: 2019-06-20 14:00:33
 ---
 

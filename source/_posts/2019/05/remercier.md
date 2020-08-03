@@ -5,7 +5,7 @@ categories:
   - Journal
   - Interactions
 lang: fr-FR
-permalink: 05/27/remercier
+permalink: 2019/05/27/remercier/
 date: 2019-05-27 16:09:57
 ---
 

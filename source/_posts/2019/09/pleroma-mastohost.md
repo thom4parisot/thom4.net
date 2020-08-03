@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 09/16/pleroma-mastohost
+permalink: 2019/09/16/pleroma-mastohost/
 date: 2019-09-16 08:03:30
 ---
 

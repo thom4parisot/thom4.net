@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 09/19/mecanique-vs-electrique
+permalink: 2019/09/19/mecanique-vs-electrique/
 date: 2019-09-19 09:55:08
 ---
 

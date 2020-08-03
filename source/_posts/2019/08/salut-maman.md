@@ -5,7 +5,7 @@ categories:
   - Journal
   - Correspondance
 lang: fr-FR
-permalink: 08/02/salut-maman
+permalink: 2019/08/02/salut-maman/
 date: 2019-08-02 10:42:59
 ---
 

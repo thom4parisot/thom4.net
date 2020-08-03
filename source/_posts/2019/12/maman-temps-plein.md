@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 12/20/maman-temps-plein
+permalink: 2019/12/20/maman-temps-plein/
 date: 2019-12-20 18:43:07
 ---
 

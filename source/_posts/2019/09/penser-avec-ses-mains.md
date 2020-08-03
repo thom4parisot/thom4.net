@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 09/27/penser-avec-ses-mains
+permalink: 2019/09/27/penser-avec-ses-mains/
 date: 2019-09-27 09:09:38
 ---
 

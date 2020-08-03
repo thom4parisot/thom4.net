@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 10/07/cafe-saint-pancras
+permalink: 2019/10/07/cafe-saint-pancras/
 date: 2019-10-07 10:35:19
 ---
 

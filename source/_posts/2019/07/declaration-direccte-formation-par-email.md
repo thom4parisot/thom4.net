@@ -6,7 +6,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/20/declaration-direccte-formation-par-email
+permalink: 2019/07/20/declaration-direccte-formation-par-email/
 date: 2019-07-20 06:08:15
 ---
 

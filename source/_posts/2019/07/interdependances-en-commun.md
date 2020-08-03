@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 07/04/interdependances-en-commun
+permalink: 2019/07/04/interdependances-en-commun/
 date: 2019-07-04 09:33:07
 ---
 

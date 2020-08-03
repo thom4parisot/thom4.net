@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 12/08/calendrier-sapeurs-pompiers
+permalink: 2019/12/08/calendrier-sapeurs-pompiers/
 date: 2019-12-08 13:20:58
 ---
 

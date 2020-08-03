@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 08/29/auto-stop
+permalink: 2019/08/29/auto-stop/
 date: 2019-08-29 19:43:46
 ---
 

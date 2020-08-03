@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 11/29/envies-sudweb
+permalink: 2019/11/29/envies-sudweb/
 date: 2019-11-29 12:42:18
 ---
 

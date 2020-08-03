@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 10/15/consommation-eau-avril-mi-octobre
+permalink: 2019/10/15/consommation-eau-avril-mi-octobre/
 date: 2019-10-15 22:12:44
 ---
 

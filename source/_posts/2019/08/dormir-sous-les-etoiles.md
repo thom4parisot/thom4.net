@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 08/07/dormir-sous-les-etoiles
+permalink: 2019/08/07/dormir-sous-les-etoiles/
 date: 2019-08-07 13:00:02
 ---
 

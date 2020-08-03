@@ -5,7 +5,7 @@ categories:
   - Journal
   - Notes de lecture
 lang: fr-FR
-permalink: 12/29/notre-pain-est-politique
+permalink: 2019/12/29/notre-pain-est-politique/
 date: 2019-12-29 18:03:32
 ---
 

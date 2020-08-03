@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Travail
 lang: fr-FR
-permalink: 12/01/collectif-p2p
+permalink: 2019/12/01/collectif-p2p/
 date: 2019-12-01 23:05:38
 ---
 

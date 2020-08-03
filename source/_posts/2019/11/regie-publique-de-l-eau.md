@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Eau
 lang: fr-FR
-permalink: 11/27/regie-publique-de-l-eau
+permalink: 2019/11/27/regie-publique-de-l-eau/
 date: 2019-11-27 09:29:43
 ---
 

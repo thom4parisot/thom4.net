@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Apprendre
 lang: fr-FR
-permalink: 06/21/apprendre-et-motivation
+permalink: 2019/06/21/apprendre-et-motivation/
 date: 2019-06-21 15:08:07
 ---
 

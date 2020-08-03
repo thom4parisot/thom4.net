@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Thérapie
 lang: fr-FR
-permalink: 08/09/sensibilite-aux-dissonances
+permalink: 2019/08/09/sensibilite-aux-dissonances/
 date: 2019-08-09 14:29:57
 ---
 

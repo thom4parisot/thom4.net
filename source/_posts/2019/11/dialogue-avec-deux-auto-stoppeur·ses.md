@@ -5,7 +5,7 @@ categories:
   - Journal
   - Dialogues
 lang: fr-FR
-permalink: 11/18/dialogue-avec-deux-auto-stoppeur·ses
+permalink: 2019/11/18/dialogue-avec-deux-auto-stoppeur·ses/
 date: 2019-11-18 13:43:32
 ---
 

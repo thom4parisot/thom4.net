@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 09/16/affichage-prix-libre-conscient
+permalink: 2019/09/16/affichage-prix-libre-conscient/
 date: 2019-09-16 09:37:37
 ---
 

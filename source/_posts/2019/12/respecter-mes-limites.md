@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Émotions
 lang: fr-FR
-permalink: 12/19/respecter-mes-limites
+permalink: 2019/12/19/respecter-mes-limites/
 date: 2019-12-19 13:38:40
 ---
 

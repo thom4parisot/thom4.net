@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 06/22/yote
+permalink: 2019/06/22/yote/
 date: 2019-06-22 08:25:15
 ---
 

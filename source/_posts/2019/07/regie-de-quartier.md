@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 07/03/regie-de-quartier
+permalink: 2019/07/03/regie-de-quartier/
 date: 2019-07-03 20:00:41
 ---
 

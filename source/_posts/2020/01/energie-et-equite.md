@@ -5,7 +5,7 @@ categories:
   - Journal
   - Notes de lecture
 lang: fr-FR
-permalink: 01/08/energie-et-equite
+permalink: 2020/01/08/energie-et-equite/
 date: 2020-01-08 11:13:10
 ---
 

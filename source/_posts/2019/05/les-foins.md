@@ -6,7 +6,7 @@ categories:
   - Exploration
   - Ruralité
 lang: fr-FR
-permalink: 05/30/les-foins
+permalink: 2019/05/30/les-foins/
 date: 2019-05-30 13:37:07
 ---
 
