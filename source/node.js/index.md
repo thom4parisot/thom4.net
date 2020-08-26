@@ -11,13 +11,13 @@ scripts:
 Cet ouvrage est une **base de départ** pour comprendre ce qu'il se passe dans l'écosystème de Node.js et de npm. Il devrait vous permettre de faire des choix techniques durables, de créer et de déployer des applications web en utilisant **JavaScript, le langage le plus populaire du monde** selon GitHub.
 { .leading }
 
-## Node.js v10 et npm v6{#versions .next}
+## Node.js v10 et npm v6{ #versions .next }
 
 Plus de 500 exemples pour apprendre **Node.js v10** et **npm v6**.
 
 Certaines fonctionnalités expérimentales sont couvertes afin de mieux comprendre dans quelle direction la plate-forme s'oriente.
 
-## Acheter le livre Node.js{#acheter}
+## Acheter le livre Node.js{ #acheter }
 
 « Node.js • Apprendre par la pratique » s'achète en ligne, en librairies[^1] et avec un abonnement Kindle :
 
@@ -26,14 +26,14 @@ Certaines fonctionnalités expérimentales sont couvertes afin de mieux comprend
 * **en ligne** (gratuit) : [édition enrichie](#chapitres)
 * **sur npm** (gratuit) : [`npm install nodebook`][npm-module] • lecture hors-ligne, exemples de code à exécuter dans votre terminal
 
-## À qui s'adresse cet ouvrage ?{#audience}
+## À qui s'adresse cet ouvrage ?{ #audience }
 
 - Aux développeur·ses qui veulent se reconvertir depuis un autre langage de programmation comme Perl, PHP ou Ruby
 - Aux développeur·ses qui cherchent à tirer parti de l'outillage npm front-end
 - Aux personnes qui se débrouillent dans leur coin et qui aimeraient renforcer leurs compétences en programmation web
 
 
-## Chapitrage et contenu du livre{#chapitres}
+## Chapitrage et contenu du livre{ #chapitres }
 
 Démarrez avec le chapitre de votre choix.
 Les textes sont illustrés avec de nombreux exemples didactiques pour apprendre
@@ -67,7 +67,7 @@ Les textes sont illustrés avec de nombreux exemples didactiques pour apprendre
 </ul>
 
 
-## Témoignages de lectrices et de lecteurs{#testimonies}
+## Témoignages de lectrices et de lecteurs{ #testimonies }
 
 {% for testimony in site.data.book.testimonies %}
 <blockquote>{{ testimony.text or testimony }}</blockquote>
@@ -81,7 +81,7 @@ Les textes sont illustrés avec de nombreux exemples didactiques pour apprendre
 </p>
 
 
-## Mises à jour de l'ouvrage
+## Mises à jour de l'ouvrage{ #updates }
 
 Une fois le livre sorti, je corrige les contenus dans sa version en ligne.
 Les changements plus importants sont réservés à l'édition suivante.
