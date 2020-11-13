@@ -25,7 +25,7 @@ hexo.init().then(async () => {
     })
 
   const now = moment()
-  const permalink = `${now.format('MM[/]DD')}/${slug}`
+  const permalink = `${now.format('YYYY/MM[/]DD')}/${slug}/`
   const path = `${now.format('YYYY[/]MM')}/${slug}`
 
   return {title, content, categories, lang, permalink, path, layout: 'journal'}

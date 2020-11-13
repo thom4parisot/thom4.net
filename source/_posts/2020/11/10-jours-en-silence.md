@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 11/13/10-jours-en-silence
+permalink: 2020/11/13/10-jours-en-silence/
 date: 2020-11-13 20:08:54
 ---
 
