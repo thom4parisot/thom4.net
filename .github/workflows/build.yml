@@ -22,7 +22,6 @@ jobs:
       with:
         key: "${{ secrets.SSH_DEPLOY_KEY }}"
         known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
-        name: id_ed25519
 
     - run: npm ci
     - run: npm run build
