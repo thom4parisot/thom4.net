@@ -21,7 +21,7 @@ jobs:
       uses: shimataro/ssh-key-action@v2
       with:
         key: "${{ secrets.SSH_DEPLOY_KEY }}"
-        known_hosts: "ssh-oncletom.alwaysdata.net"
+        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
 
     - run: npm ci
     - run: npm run build
