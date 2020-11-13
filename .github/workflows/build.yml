@@ -20,8 +20,9 @@ jobs:
     - name: Install SSH key
       uses: shimataro/ssh-key-action@v2
       with:
-        key: "${{ secrets.SSH_DEPLOY_KEY }}"
+        key: ${{ secrets.SSH_DEPLOY_KEY }}
         known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
+        ssh_key_name: id_ed25519
 
     - run: npm ci
     - run: npm run build
