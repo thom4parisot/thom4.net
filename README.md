@@ -4,5 +4,5 @@ A work-in-progress of my digital mind, my digital avatars and real-world artefac
 The world in uncomfortable.
 
 
-[build-badge]: https://github.com/oncletom/oncletom/workflows/build/badge.svg?branch=main
+[build-badge]: https://github.com/oncletom/oncletom/workflows/Build%20and%20deploy%20pages/badge.svg?branch=main
 [build-actions]: https://github.com/oncletom/oncletom/actions
