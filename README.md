@@ -1,3 +1,8 @@
-# oncletom.io [![Build Status](https://github.com/oncletom/oncletom.io/workflows/build/badge.svg?branch=main)](https://github.com/oncletom/oncletom.io/actions)
+# oncletom.io [![][build-badge]][build-actions]
 
-A work-in-progress of my digital mind, my digital avatars and real-world artefacts. The world in uncomfortable.
+A work-in-progress of my digital mind, my digital avatars and real-world artefacts.<br>
+The world in uncomfortable.
+
+
+[build-badge]: https://github.com/oncletom/oncletom/workflows/build/badge.svg?branch=main
+[build-actions]: https://github.com/oncletom/oncletom/actions
