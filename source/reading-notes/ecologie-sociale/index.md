@@ -77,7 +77,7 @@ Il y a 2 jeux de données qui m'intéressent à ce sujet :
 
 > Si l'on considère que la poussée de l'évolution a bien été dans le sens d'une diversité croissante, que la colonisation de la planète par la vie n'a été possible que comme effet de la variété biotique, un sage réexamen des prétentions humaines devrait nous inciter à la prudence lorsqu'il s'agit de bouleverser les processus naturels.
 
-L'[épisode 3](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/des-arbres-et-des-hommes-34-un-arbre-dans-la-ville) et l'[épisode 4](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/des-arbres-et-des-hommes-44-larbre-sensible) de [La Série Documentaire](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/saison-27-08-2018-01-07-2019) sont fascinants à ce sujet.
+L'[épisode 3](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/des-arbres-et-des-hommes-34-un-arbre-dans-la-ville-0) et l'[épisode 4](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/des-arbres-et-des-hommes-44-larbre-sensible-0) de [La Série Documentaire](https://www.franceculture.fr/emissions/lsd-la-serie-documentaire/saison-27-08-2018-01-07-2019) sont fascinants à ce sujet.
 
 Ça m'évoque le fait que nous, êtres humains, sommes des descendants des bactéries accumulées sous forme calcaire au fond des océans, puis revenus à la surface des eaux. Des êtres vivants qui se sont façonnés sur des millions d'années.
 
