@@ -15,6 +15,10 @@ S'excuser, c'est quelque chose que j'ai mis du temps à comprendre. Souvent emba
 
 ---
 
+[Merci](/2019/05/27/remercier/) [Noémie](https://noemiegirard.co) de m'avoir guidée dans ce processus. D'avoir eu la patience de me dire ce que je n'écoutais pas.
+
+---
+
 Désolé.
 Désolé de cette situation.
 Désolé de l'incompréhension.
@@ -28,6 +32,6 @@ Désolé de ne pas avoir pris en compte tes propos, et de la souffrance que j'ai
 
 Est-ce que ça coince ? Qu'est-ce qui coince ? Qu'est-ce qui m'empêche de m'excuser ? De quoi ai-je honte ? Est-ce que je me focaliser sur mon vécu, ou son vécu ? Et est-ce que je priorise mon vécu, ou son vécu ?
 
-S'excuser, c'est verbaliser ce qu'on a causé chez l'autre.
+S'excuser, c'est verbaliser ce qu'on a causé chez l'autre. C'est admettre l'impact qu'on a eu, l'impact qu'on a encore.
 
-Avant toute tentative d'explication de [pourquoi j'ai réagi](/2020/11/14/reagir/) ainsi.
+Les explications, [pourquoi j'ai réagi](/2020/11/14/reagir/) ainsi, ça arrive après. Quand on clarifie.
