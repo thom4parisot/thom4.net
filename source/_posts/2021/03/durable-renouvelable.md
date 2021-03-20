@@ -19,10 +19,10 @@ Vu et entendu en 20 minutes dans un centre de réparation agréé Apple :
 3. [Je ramène mon ordinateur](https://twitter.com/oncletom/status/1372250885733105667) parce que des touches du clavier se détachent. Comme tous les 18 mois depuis que j'ai cet ordinateur. [Apple a fini par reconnaître que cette génération de clavier était pourrie](https://loanpride.com/apple-admits-embarrassing-flaw-macbook-laptops/), et a ouvert un programme de remplacement.<br>
 	 Mais si les touches sont trop abimées, ça ne compte pas, donc ça ne rentre pas dans la garantie, et une réparation de 750€ est proposée. Pour des touches de clavier.
 	 
-	 ---
+---
 	 
-	 [Le patron d'Apple appelle à un "futur durable et plein d'espoir pour tous·tes"](https://www.macrumors.com/2021/03/19/tim-cook-durable-and-hopeful-future-op-ed/).
+[Le patron d'Apple appelle à un "futur durable et plein d'espoir pour tous·tes"](https://www.macrumors.com/2021/03/19/tim-cook-durable-and-hopeful-future-op-ed/).
 	 
-	 À chaque fois que j'entends des formules comme ça, je les retraduis en "j'ai besoin d'un futur où je préserve mon modèle économique, à votre détriment".
+À chaque fois que j'entends des formules comme ça, je les retraduis en "j'ai besoin d'un futur où je préserve mon modèle économique, à votre détriment".
 	 
-	 La coque aluminium 100% de l'ordinateur c'est bien, mais pas si 80% du parc est jeté/remplacé pour maintenir un niveau de chiffre d'affaire, prévisible, en croissance qui satisfait l'actionnariat.
+La coque aluminium 100% de l'ordinateur c'est bien, mais pas si 80% du parc est jeté/remplacé pour maintenir un niveau de chiffre d'affaire, prévisible, en croissance qui satisfait l'actionnariat.
