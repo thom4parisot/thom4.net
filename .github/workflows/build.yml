@@ -10,6 +10,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    environment:
+      name: alwaysdata
+      url: https://oncletom.io
       
     steps:
     - uses: actions/checkout@v2
