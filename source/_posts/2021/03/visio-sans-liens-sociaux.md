@@ -38,9 +38,9 @@ Indirectement, l'aspect focalisé des outils de visioconférence a réduit leur 
 
 ---
 
-Les logiciels de visioconférence accentuent/visibilisent encore plus le biais de la parole, et l'organisation de l'écoute d'une personne par un groupe.
+Les logiciels de visioconférence accentuent/visibilisent encore plus le biais de la parole, et la focalisation de l'écoute d'une personne, par un groupe entier.
 
 Les fonctions sociales sont réduites au minimum, et la créativité (_agency_) est inexistante. Si elle existe, c'est toujours à l'initiative de la personne de _pouvoir_, celle qui a les codes de la salle.
 
-Des outils comme [Gather.town](https://gather.town/) repoussent cette limites. Gather propose des briques et un espace, tandis que les participant‧es s'organisent et se déplacent à l'envi.
+Des outils comme [Gather.town](https://gather.town/) repoussent cette limite. Gather propose des briques et un espace, tandis que les participant‧es s'organisent et se déplacent à l'envi.
 
