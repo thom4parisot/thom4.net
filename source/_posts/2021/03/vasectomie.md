@@ -38,4 +38,4 @@ Avant de franchir la porte, il me confie qu'il entend de plus en plus parler de 
 
 J'ai en écho le chapitre sur le contrôle du corps des femmes dans le livre "Refuser d'être un homme" de John Stoltenberg.
 
-Y'a une peur latente sur le sexe, l'organe, et son altération — changement de genre, contraception. J'ai l'impression que ça — et un doigt dans le cul — c'est ce qui terrorise le plus les hommes cisgenres.
+Y'a une peur latente sur le sexe, l'organe, et son altération — changement de genre, contraception. J'ai l'impression que ça — et un doigt dans le cul — c'est ce qui terrorise le plus les hommes hétérosexuels cisgenres.
