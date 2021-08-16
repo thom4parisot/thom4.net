@@ -2,19 +2,19 @@
 layout: reading-notes
 title: Reading Notes
 now:
-  - isbn: '9782501144209'
-    title: Jouissance Club
-    authors: [Jüne Plã]
+  - isbn: '9782915635768'
+    title: La salope éthique
+    authors: [ Dossie Easton, Janet Hardy ]
+    publication_year: 2013
+  - isbn: '9782848767659'
+    title: "La pensée blanche"
+    authors: [Lilian Thuram]
     publication_year: 2020
-  - isbn: '9782849503812'
-    title: "Refuser d'être un homme : pour en finir avec la virilité"
-    authors: [John Stoltenberg]
-    publication_year: 1989
-  - isbn: '9782330132620'
-    title: L'europe réensauvagée
-    subtitle: Vers un nouveau monde
-    authors: [Gilbert Cochet, Béatrice Kremer-Cochet]
-    publication_year: 2020
+  - isbn: '9782366241662'
+    title: 'Peau'
+    authors: [Dorothy Allison]
+    subtitle: 'A propos de sexe, de classe et de littérature'
+    publication_year: 2015
 ---
 
 I use books as a **learning material**.
