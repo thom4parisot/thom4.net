@@ -10,18 +10,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     environment:
       name: alwaysdata
       url: https://oncletom.io
-      
+
     steps:
     - uses: actions/checkout@v2
 
-    - name: Use Node.js v14
+    - name: Use Node.js v16
       uses: actions/setup-node@v2
       with:
-        node-version: '14'
+        node-version: '16'
         cache: npm
 
     - name: Install SSH key
@@ -34,7 +34,7 @@ jobs:
     - run: npm run build
       env:
         NODE_ENV: production
-        
+
     - run: npm run deploy
     - run: npm run index-content
       env:
