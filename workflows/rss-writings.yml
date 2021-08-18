@@ -1,0 +1,21 @@
+on:
+  rss:
+    url: https://oncletom.io/feed/
+
+jobs:
+  # see https://github.com/actionsflow/actionsflow-workflow-default
+  # and https://actionsflow.github.io/docs/workflow/
+  request:
+    name: Publish on Mastodon
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish on Mastodon
+        uses: actionsflow/axios@v1
+        # see https://github.com/actionsflow/axios
+        with:
+          url: https://masto.oncletom.io/api/v1/statuses
+          method: POST
+          content-type: application/x-www-form-urlencoded
+          bearer-token: ${{ secrets.MASTODON_PUBLISHING_TOKEN }}
+          # see https://docs.joinmastodon.org/methods/statuses/
+          body: "language=fr&status=<<<${{ on.rss.outputs.title }}>>> 🗞 ${{ on.rss.outputs.link }}"

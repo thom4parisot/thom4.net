@@ -1,0 +1,28 @@
+name: Actionsflow
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run
+    concurrency: actionsflow
+    environment: mastodon
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run Actionsflow
+        uses: actionsflow/actionsflow-action@v1
+        with:
+          args: "build"
+          json-secrets: ${{ toJSON(secrets) }}
+          json-github: ${{ toJSON(github) }}
+
+      - name: Setup act
+        uses: actionsflow/setup-act-for-actionsflow@v1
+
+      - name: Run act
+        run: act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1
