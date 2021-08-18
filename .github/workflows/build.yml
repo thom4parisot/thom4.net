@@ -25,6 +25,7 @@ jobs:
         NODE_ENV: production
 
   deploy:
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: alwaysdata
@@ -38,6 +39,7 @@ jobs:
     - run: npm run deploy
 
   index:
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: alwaysdata
