@@ -10,27 +10,25 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: alwaysdata
+      url: https://oncletom.io
     steps:
+    # Setup
     - uses: actions/checkout@v2
-
     - name: Use Node.js v16
       uses: actions/setup-node@v2
       with:
         node-version: '16'
         cache: npm
-
     - run: npm ci
+
+    # Build
     - run: npm run build
       env:
         NODE_ENV: production
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: alwaysdata
-      url: https://oncletom.io
-    steps:
+    # Deploy
     - name: Install SSH key
       uses: shimataro/ssh-key-action@v2
       with:
@@ -38,13 +36,8 @@ jobs:
         known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
     - run: npm run deploy
 
-  index:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: alwaysdata
-      url: https://oncletom.io
-    steps:
-    - run: npm run index-content
+    # Index
+    - name: Index content on Algolia
+      run: npm run index-content
       env:
         HEXO_ALGOLIA_INDEXING_KEY: "${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}"
