@@ -10,11 +10,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    environment:
-      name: alwaysdata
-      url: https://oncletom.io
-
     steps:
     - uses: actions/checkout@v2
 
@@ -24,18 +19,30 @@ jobs:
         node-version: '16'
         cache: npm
 
-    - name: Install SSH key
-      uses: shimataro/ssh-key-action@v2
-      with:
-        key: "${{ secrets.SSH_DEPLOY_KEY }}"
-        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
-
     - run: npm ci
     - run: npm run build
       env:
         NODE_ENV: production
 
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: alwaysdata
+      url: https://oncletom.io
+    steps:
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: "${{ secrets.SSH_DEPLOY_KEY }}"
+        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
     - run: npm run deploy
+
+  index:
+    runs-on: ubuntu-latest
+    environment:
+      name: alwaysdata
+      url: https://oncletom.io
+    steps:
     - run: npm run index-content
       env:
         HEXO_ALGOLIA_INDEXING_KEY: "${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}"
