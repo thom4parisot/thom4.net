@@ -15,7 +15,7 @@ jobs:
         with:
           url: https://masto.oncletom.io/api/v1/statuses
           method: POST
-          content-type: application/x-www-form-urlencoded
           bearer-token: ${{ secrets.MASTODON_PUBLISHING_TOKEN }}
           # see https://docs.joinmastodon.org/methods/statuses/
-          body: "status=✍️ <<<${{ on.rss.outputs.title }}>>> — ${{ on.rss.outputs.link }}"
+          # and https://docs.joinmastodon.org/client/intro/#parameters
+          data: '{ "status": "✍️ <<<${{ on.rss.outputs.title }}>>> — ${{ on.rss.outputs.link }}" }'
