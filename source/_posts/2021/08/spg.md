@@ -14,7 +14,7 @@ J'ai réalisé ma première enquête terrain [Nature & Progrès](https://www.nat
 
 Je vois dans ce processus un mécanisme d'amélioration continue, humaniste et qui met en réseau d'un bout à l'autre — de la production à la consommation.
 
-Cette visite représente la première des étapes du processus de certification :
+Cette visite représente la première des [étapes du processus de certification](https://www.natureetprogres.org/le-spg/) :
 
 1. **L'enquête terrain** : un binôme professionnel‧le/particulier vient observer, écouter et questionner les personnes qui demandent une mention en bio. J'y retrouve la même complémentarité qu'en binômage informatique (_pair programming_, etc.). Un cahier des charges est observé, mais il y a aussi d'autres critères qui entrent en compte, et entrent en jeu dans les améliorations demandées.
 2. **La commission locale** (COMAC) : elle réunit les personnes enquêtes, les personnes enquêteuses et les autres membres de l'association locale (dans mon cas, l'[association Drômoise de Nature & Progrès](http://np26.fr/)). Le dossier est observé, questionné et on vérifie des points avant de le valider, pour envoi à la commission fédérale.
