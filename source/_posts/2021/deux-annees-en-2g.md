@@ -101,7 +101,9 @@ J'y ai initialement branché mes emails, et petit à petit c'est devenu l'applic
 ![Des cyclistes de nuit, éclairés par des lanternes](/images/2021/08/crest-by-night.jpg "Ces moments de vie que j'aime bien capturer depuis ma poche")
 
 :::ins datetime=2021-08-20
-Mon intention initiale était de profiter d'une panne de smartphone pour réduire le bruit et les distractions. Même en ayant deux appareils, je les utilise moins en temps cumulé. Je suis moins tenté, je gaspille moins de temps. Je sais que je fuite moins de données, que ça remplit drastiquement moins les poches de je-ne-sais-qui. En ça, je suis content de m'être adapté et d'y trouver mon compte.
+Mon intention initiale était de profiter d'une panne de smartphone pour réduire le bruit et les distractions. Même en ayant deux appareils, je les utilise moins en temps cumulé. Je suis moins tenté, je gaspille moins de temps. Je sais que je fuite moins de données. En ça, je suis content de m'être adapté et d'y trouver mon compte.
+
+En utilisant principalement un téléphone 2G, je sors de la norme. Je me prends dans la face toutes les incitations à installer des applications (c'est obscène). Des fois, je suis obligé de sortir mon téléphone à touches pour arrêter l'insistance de mon interlocuteur à ce que j'installe leur application. Je suis content de pouvoir encore me baser sur les SMS pour valider des opérations bancaires, mais [pour combien de temps](https://www.universfreebox.com/article/54226/orange-on-peut-envisager-une-extinction-de-la-2g-dici-2025-pour-le-grand-public) ?
 
 J'aurais pu réparer mon smartphone initial, réduire les applications au minimum et être en mode avion la plupart du temps. Je ne l'ai pas fait parce que je voulais être joignable mais sur un appareil sans distraction, et rendre irritable l'usage du second, sans effort conscient. En réduire son utilisation par de la pénibilité, tout en me libérant de l'espace mental pour d'autres choses.
 :::
