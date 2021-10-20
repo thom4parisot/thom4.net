@@ -1,5 +1,5 @@
 ---
-title: Vasectomie
+title: Vasectomie (1)
 layout: journal
 categories:
   - Journal
