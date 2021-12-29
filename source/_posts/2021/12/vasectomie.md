@@ -32,9 +32,11 @@ Ensuite on se reverra 3 mois après l'intervention chirurgicale (~ juillet/août
 
 Il explicite le fait qu'il n'y a pas d'effets secondaires connus (pas de perte de libido, pas de changement hormonal, pas d'infection, pas de douleur fantôme, etc.).
 
-Il s'intéresse à ce qui me motive dans cette démarche. Si ma compagne actuelle est alignée sur cette décision. Je lui indique que j'ai davantage à cœur d'explorer un autre type de parentalité, que je ne ressens pas le besoin d'être père biologique, que je n'ai pas envie d'être père à plein temps. Je compte profiter de ce délai de réflexion pour ancrer cette décision dans le réel, et discuter 
+Il s'intéresse à ce qui me motive dans cette démarche. Si ma compagne actuelle est alignée sur cette décision. Je lui indique que j'ai davantage à cœur d'explorer un autre type de parentalité, que je ne ressens pas le besoin d'être père biologique, que je n'ai pas envie d'être père à plein temps. Je compte profiter de ce délai de réflexion pour ancrer cette décision dans le réel, et discuter des implications avec Noémie — qui oscille entre vouloir et ne pas vouloir d'enfant.
 
-J'apprends que les anglo-saxons pratiquent beaucoup la vasectomie. Je m'en étonne. Il se l'explique par le fait que leur système de santé rembourse moins les pilules pour femmes cisgenres, ainsi que les stérilets.
+C'était la première fois que je me mettais (littéralement) à nu devant un médecin (post-puberté), pour un toucher des testicules. J'étais agréablement surpris de ne _pas_ être gêné. C'était plutôt sympa ce mini-massage !
+
+J'apprends que les anglo-saxons pratiquent davantage la vasectomie que "nous". Je m'en étonne. Il se l'explique par le fait que leur système de santé rembourse moins les pilules pour femmes cisgenres, ainsi que les stérilets.
 
 ---
 
