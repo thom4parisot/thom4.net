@@ -1,10 +1,10 @@
 ---
-title: Vasectomie (1)
+title: Demande d'ordonnance pour une vasectomie
 layout: journal
 categories:
   - Journal
   - Exploration
-  - Corps
+  - Contraception
 lang: fr-FR
 permalink: 2021/03/31/vasectomie/
 date: 2021-03-31 11:13:25

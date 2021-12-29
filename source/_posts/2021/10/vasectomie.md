@@ -1,10 +1,10 @@
 ---
-title: Vasectomie (2)
+title: Premier rendez-vous chez l'urologue pour une vasectomie
 layout: journal
 categories:
   - Journal
   - Exploration
-  - Corps
+  - Contraception
 lang: fr-FR
 permalink: 2021/10/20/vasectomie/
 date: 2021-10-20 10:57:19
