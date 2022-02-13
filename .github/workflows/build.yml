@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: alwaysdata
-      url: https://oncletom.io
+      url: https://thom4.net
     steps:
     # Setup
     - uses: actions/checkout@v2

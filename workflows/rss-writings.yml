@@ -1,6 +1,6 @@
 on:
   rss:
-    url: https://oncletom.io/feed/
+    url: https://thom4.net/feed/
 
 jobs:
   # see https://github.com/actionsflow/actionsflow-workflow-default

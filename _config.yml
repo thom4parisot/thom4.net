@@ -3,8 +3,8 @@
 title: Thomas Parisot
 subtitle: Personal documentation about web development, collaborative work and user experience.
 author: Thomas Parisot
-email: hi@oncletom.io
-default_cover: https://oncletom.io/images/thomas-parisot.jpg
+email: hi@thom4.net
+default_cover: https://thom4.net/images/thomas-parisot.jpg
 language: en
 keywords:
   - javascript
@@ -23,7 +23,7 @@ keywords:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://oncletom.io
+url: https://thom4.net
 root: /
 permalink: :year/:title/
 tag_dir: tags
