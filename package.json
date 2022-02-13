@@ -1,5 +1,5 @@
 {
-  "name": "oncletom.io",
+  "name": "thom4.net",
   "version": "3.5.1",
   "private": true,
   "engines": {
@@ -30,7 +30,7 @@
     "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-server": "^2.0.0",
     "hexo-tag-soundcloud": "^1.0.2",
-    "hexo-theme-oncletom": "github:oncletom/hexo-theme#semver:^v2",
+    "hexo-theme-oncletom": "github:thom4parisot/hexo-theme#semver:^v2",
     "hexo-util": "^2.5.0",
     "markdown-it-attrs": "^4.0.0",
     "markdown-it-mark": "^3.0.1"
