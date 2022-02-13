@@ -90,7 +90,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: oncletom
+theme: thom4
 layout: blog
 
 pretty_urls:
