@@ -12,7 +12,7 @@ cover: http://emunova.net/emunova.gif
 
 Le site d'émulation [Emu Nova](http://www.emunova.net) a tourné une nouvelle page, se rapprochant inexorablement de son cinquième anniversaire. L'année 2006 fût marquée de plusieurs évènements, tous imprévus :
 
-*   [changement d'hébergement](https://oncletom.io/2006/05/15/coulisses-d-un-demenagement-virtuel/)
+*   [changement d'hébergement](https://thom4.net/2006/05/15/coulisses-d-un-demenagement-virtuel/)
 *   [suppression des roms et ISOs](http://www.emunova.net/news/detail/5948.htm) ([on y songeait déjà 1 an plus tôt](http://www.emunova.net/news/detail/4271.htm))
 *   [montée en puissance du projet Veda](http://www.emunova.net/news/detail/7013.htm)
 

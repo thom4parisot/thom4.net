@@ -7,7 +7,7 @@ categories:
 - Work & Labour
 ---
 
-J'ai déjà parlé du _travail_ au travers des [entretiens d'embauche](https://oncletom.io/?s=entretien+embauche), de [période d'essai avortée](https://oncletom.io/2006/10/31/21-jours-et-puis-sen-va/), de [<acronym title="Curriculum vitæ">CV</acronym> ratés](https://oncletom.io/2006/05/17/embauche/).
+J'ai déjà parlé du _travail_ au travers des [entretiens d'embauche](https://thom4.net/?s=entretien+embauche), de [période d'essai avortée](https://thom4.net/2006/10/31/21-jours-et-puis-sen-va/), de [<acronym title="Curriculum vitæ">CV</acronym> ratés](https://thom4.net/2006/05/17/embauche/).
 
 Mais _comment perdre son emploi_ ? Quelques signes ne trompent pas et il est bon de savoir reconnaitre les signes précurseurs pour flairer le danger.
 **Soit _vous_ changez, soit _on_ vous change**.

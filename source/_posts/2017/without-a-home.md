@@ -185,7 +185,7 @@ Finally, I wish this write-up can feed the conversation with [Vincent](http://vi
 
 (and hopefully the book should be ready for July 😋)
 
-PS: many many people should be thanked for their help during this journey and well, this is exactly the intent of a [foreword](https://oncletom.io/node.js/foreword/preamble.html#_remerciements) isn't it?
+PS: many many people should be thanked for their help during this journey and well, this is exactly the intent of a [foreword](https://thom4.net/node.js/foreword/preamble.html#_remerciements) isn't it?
 
 ![](/images/2017/04/bonne-retraite.jpg)
 

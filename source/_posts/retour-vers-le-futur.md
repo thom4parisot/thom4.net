@@ -6,7 +6,7 @@ categories:
 - Work & Labour
 ---
 
-Me voici de retour en région parisienne, à Cergy plus précisément. D'ailleurs, [ça ne faisait qu'une semaine que je m'en étais absenté](https://oncletom.io/2006/09/29/lost-in-cergy/).
+Me voici de retour en région parisienne, à Cergy plus précisément. D'ailleurs, [ça ne faisait qu'une semaine que je m'en étais absenté](https://thom4.net/2006/09/29/lost-in-cergy/).
 
 Ce qui me plaît dans mon travail (**développeur web** pour celles et ceux qui ne le savent pas), c'est que j'ai pu contribuer à apporter une vision "saine" d'Internet dans l'entreprise ; à tel point que nous avons enfin recruté notre deuxième accolyte ;-) Quoiqu'il en soit, plus on avance dans le temps, plus nos sites respectent au mieux les [standards du Web](http://www.w3.org/) ([en savoir plus sur les standards](http://www.openweb.eu.org/), l'[intérêt des standards](http://standblog.org/), les respects de [qualité et d'accessibilité du Web](http://www.opquast.com/)). Bref, l'avenir.
 

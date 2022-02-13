@@ -17,7 +17,7 @@ cover: /images/2007/12/firebug-logo.gif
 ---
 
 
-[Firebug fait partie de mes extensions préférées](https://oncletom.io/2007/08/07/facebook-rock-your-firefox/) depuis un bon moment. Je l'estime aujourd'hui même plus importante que l'extension [Web Developer](https://addons.mozilla.org/fr/firefox/addon/60), c'est dire.
+[Firebug fait partie de mes extensions préférées](/2007/facebook-rock-your-firefox/) depuis un bon moment. Je l'estime aujourd'hui même plus importante que l'extension [Web Developer](https://addons.mozilla.org/fr/firefox/addon/60), c'est dire.
 
 J'ai pourtant constaté que la plupart de ses utilisateurs la sous-exploitait en se limitant à la console pour consulter les erreurs et éventuellement à l'inspecteur HTML pour remonter rapidement dans l'arborescence des balises en 1 clic. C'est bien mais pas assez.
 Firebug est tout simplement énorme ! Suffisamment énorme pour **gagner un temps incroyable** dans le développement d'applications JavaScript et pour **mieux comprendre les incohérences** des CSS dans une page, entre autre.

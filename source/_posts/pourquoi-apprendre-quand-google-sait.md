@@ -38,7 +38,7 @@ Au final, le résumé de fin de séance le montrait bien, je trouve qu'on restai
 *   les personnes défavorisées restent défavorisées avec ou sans Google
 *   on fait comment sans Google ?
 
-Alors certes c'est un débat, certains de ces points sont légitimes, d'autres moins. Au fond, [faut-il confier notre vie numérique à Google ?](https://oncletom.io/2008/03/11/google-ange-demon-vie-numerique/)
+Alors certes c'est un débat, certains de ces points sont légitimes, d'autres moins. Au fond, [faut-il confier notre vie numérique à Google ?](https://thom4.net/2008/03/11/google-ange-demon-vie-numerique/)
 
 ## Un vrai-faux débat : parlons éducation !
 

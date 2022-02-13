@@ -22,7 +22,7 @@ cover:
 
 C'est la rentrée scolaire. Le moment de reprendre les bonnes habitudes qu'on aurait laissé de côté pendant les vacances. Comme celle de bloguer par exemple ; après 2 mois de pause plus ou moins forcée.
 
-Un peu forcée puisque l'on s'est quitté lors du [lancement des RMLL 2010](https://oncletom.io/2010/rmll-2010/), au début du mois de juillet. Je n'ai pas pris le temps d'en dresser un compte-rendu. Toujours est-il que ce fût une expérience à vivre, tant lors des conférences que des _afters_.
+Un peu forcée puisque l'on s'est quitté lors du [lancement des RMLL 2010](https://thom4.net/2010/rmll-2010/), au début du mois de juillet. Je n'ai pas pris le temps d'en dresser un compte-rendu. Toujours est-il que ce fût une expérience à vivre, tant lors des conférences que des _afters_.
 Le remplissage des salles était vraiment aléatoire, avec semblerait-il une légère allergie aux conférences en langue anglaise. J'ai pris quelques claques, d'humilité notamment. Merci les indiens (vraiment).
 
 Toujours est-il qu'il est temps de revenir à la réalité. J'aurais pu écrire plusieurs articles.
@@ -32,7 +32,7 @@ Par manque de temps (ou plutôt parce que je préfère le consacrer à d'autres 
 
 ## Widget VCUB
 
-J'ai peaufiné le [widget VCUB pour Netvibes annoncé en avril dernier](https://oncletom.io/2010/widget-netvibes-vcub/). J'ai ajouté ces quelques éléments :
+J'ai peaufiné le [widget VCUB pour Netvibes annoncé en avril dernier](https://thom4.net/2010/widget-netvibes-vcub/). J'ai ajouté ces quelques éléments :
 
 *   **simplification de l'affichage** de la date de mise à jour
 *   **recherche** du nom des station (à la volée, ou via la recherche Netvibes)

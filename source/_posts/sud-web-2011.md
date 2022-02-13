@@ -37,7 +37,7 @@ Tout ça avec plusieurs centaines d'emails, et _juste_ 1 rencontre physique de t
 
 ## Qui sommes-nous ? L'interrogation de Paris Web 2010
 
-Je qualifiais [Paris Web 2010 d'âge de raison](https://oncletom.io/2010/paris-web-2010-age-de-raison/). Et pour cause, au-delà des démonstrations et partages, il y a eu énormément de réflexions.
+Je qualifiais [Paris Web 2010 d'âge de raison](https://thom4.net/2010/paris-web-2010-age-de-raison/). Et pour cause, au-delà des démonstrations et partages, il y a eu énormément de réflexions.
 Des réflexions sur nos **métiers**, les manières de le **faire comprendre** face à nos clients (qui achètent des prestations, ils ont autant droit à l'ignorance qu'à l'information), sur l'**éducation** (on allait même jusqu'à parler de certifications. [Y'a pas marqué W3Schools !](http://w3fools.com/#trouble)) et même les manières de travailler.
 
 Plusieurs conférences ont marqué cette tendance. [Éric Daspet a parlé du Web comme un métier de valeur](http://www.paris-web.fr/2010/programme/le-web-un-metier-de-valeur.php), entre précarité, plaisir et réalité(s). Francis Chouquet traitait de cette question au travers des outils : [Photoshop ou CSS3](http://www.paris-web.fr/2010/programme/css3-photoshop-avenir-web-designer.php) ? Le fond était là : qui sommes-nous, _webdesigners_, et comment allons-nous travailler ?

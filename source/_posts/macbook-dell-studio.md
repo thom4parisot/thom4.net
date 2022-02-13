@@ -51,7 +51,7 @@ Fin de la parenthèse ;-)
 
 Après plus années passées sur des PC en tour construits à la main avec le plus grand amour, j'ai choisi le silence et le nomadisme avec un Acer Aspire 9410\. Je n'ai pas souhaité renouer avec Acer pour plusieurs raisons :
 
-*   tromperie sur le Bluetooth : y'a un bouton Bluetooth mais pas la puce intégrée. J'ai eu beau [installer le Bluetooth sur mon Acer](https://oncletom.io/2007/11/07/installation-module-bluetooth-acer-aspire/), c'était trop gros
+*   tromperie sur le Bluetooth : y'a un bouton Bluetooth mais pas la puce intégrée. J'ai eu beau [installer le Bluetooth sur mon Acer](https://thom4.net/2007/11/07/installation-module-bluetooth-acer-aspire/), c'était trop gros
 *   je n'ai jamais été satisfait de leur SAV
 *   pas de support d'installation physique fourni : la partition constructeur de 5Go j'en veux pas !
 
@@ -75,8 +75,8 @@ Mais il y'avait Windows Vista.
 
 Pour la forme, j'ai tenté de titiller le service client afin de me faire **rembourser Windows Vista** parce que :
 
-*   [Windows Vista j'aime pas](https://oncletom.io/2007/04/15/hasta-la-vista/)
-*   [je n'utilise plus qu'un système d'exploitation sans numéro de série](https://oncletom.io/2007/02/13/choix-liberte-windows-linux/)
+*   [Windows Vista j'aime pas](https://thom4.net/2007/04/15/hasta-la-vista/)
+*   [je n'utilise plus qu'un système d'exploitation sans numéro de série](https://thom4.net/2007/02/13/choix-liberte-windows-linux/)
 *   je n'ai pas eu le choix de l'OS lors de la procédure d'achat : une case "rien" ou "Ubuntu" m'aurait bien convenu !
 *   [Dell fait la vente liée](http://www.racketiciel.info/) voire forcée/déguisée
 

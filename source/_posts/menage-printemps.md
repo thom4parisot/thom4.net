@@ -18,7 +18,7 @@ categories:
 - WordPress
 ---
 
-Je me décide à passer un coup de peinture sur ce blog quasiment 2 ans après le [CSS Summer Refresh](https://oncletom.io/2007/08/15/css-summer-refresh-2007/) organisé par [Alsacréations](http://alsacreations.com/). À vrai dire, j'avais ce projet dans les cartons depuis septembre 2008 mais le plus difficile a été de trouver le talent graphique. C'était également l'occasion de dire au revoir aux navigateurs Web de seconde zone, à savoir Internet Explorer 7 et moins.
+Je me décide à passer un coup de peinture sur ce blog quasiment 2 ans après le [CSS Summer Refresh](https://thom4.net/2007/08/15/css-summer-refresh-2007/) organisé par [Alsacréations](http://alsacreations.com/). À vrai dire, j'avais ce projet dans les cartons depuis septembre 2008 mais le plus difficile a été de trouver le talent graphique. C'était également l'occasion de dire au revoir aux navigateurs Web de seconde zone, à savoir Internet Explorer 7 et moins.
 
 <!--more-->
 
@@ -63,7 +63,7 @@ Pour le reste je me suis fait plaisir avec notamment l'utilisation de coins arro
 J'ai également joué avec l'**API de WordPress** pour générer les vignettes des articles. Je sais bien qu'on peut définir des tailles d'images mais ça ne vaut que pour les médias nouvellement mis en ligne. J'en ai profité pour n'afficher dans le listing que l'extrait du billet. Pas l'intro, seulement l'extrait (_excerpt_). J'ai lu récemment un article qui parlait de la chose et ça m'a paru plus approprié. Je peux désormais écrire le texte qui me convient pour attirer la lecture vers un article sans pour autant que ça ait de répercution sur son contenu une fois affiché en pleine page.
 
 Je suis en revanche toujours dubitatif sur l'API de WP Cron : ma tâche a beau être enregistrée et planifiée, j'ai l'impression qu'elle ne s'exécute jamais ... contrairement aux recherches de mises à jour de plugins & cie. <span style="text-decoration: line-through;">Quelqu'un a déjà joué avec et rencontré pareil problème ?</span>
-**Mise à jour** : j'ai résolu le problème et détaillé la marche à suivre dans l'article [affichage personnalisé de ses lecteurs Feedburner](https://oncletom.io/2009/05/14/affichage-personnalise-abonnes-feedburner/). Je planifiais une fonction et non un _hook_. Cela fonctionnait mais ne produisait fatalement pas de résultat ;-)
+**Mise à jour** : j'ai résolu le problème et détaillé la marche à suivre dans l'article [affichage personnalisé de ses lecteurs Feedburner](https://thom4.net/2009/05/14/affichage-personnalise-abonnes-feedburner/). Je planifiais une fonction et non un _hook_. Cela fonctionnait mais ne produisait fatalement pas de résultat ;-)
 
 Au final je n'ai même pas eu à placer la moindre ligne de JavaScript : tout est fait à partir de sélecteurs CSS. Mon seul regret : l'absence de sélecteur adjacent ... "précédent". Pour le menu du haut, je voulais pouvoir styler les éléments de menus ayant comme élément suivant une liste d'élément (`<ul>`).
 
@@ -73,10 +73,10 @@ J'ai mis à peu près 2 jours pour tout intégrer et optimiser. Je n'ai pas enco
 
 ![Rapport YSlow](/images/2009/04/caseoncle-tomnet-yslow.png "Rapport YSlow")
 
-J'en ai profité pour tester l'utilisation de _mod_expires_ et _mod_gzip_ chez OVH en mutualisé (avant de tout migrer sur serveur dédié) : ça marche plutôt très bien. Si ça vous intéresse, je peux en faire un billet dédié. D'ici là, n'hésitez pas à bouquiner [High Performances Web Sites](https://oncletom.io/2008/07/15/high-performance-web-sites/) qui reste une référence en la matière. J'attends d'ailleurs sa suite avec impatience : _Even Faster Web Sites: Essential Knowledge for Frontend Engineers_.
+J'en ai profité pour tester l'utilisation de _mod_expires_ et _mod_gzip_ chez OVH en mutualisé (avant de tout migrer sur serveur dédié) : ça marche plutôt très bien. Si ça vous intéresse, je peux en faire un billet dédié. D'ici là, n'hésitez pas à bouquiner [High Performances Web Sites](https://thom4.net/2008/07/15/high-performance-web-sites/) qui reste une référence en la matière. J'attends d'ailleurs sa suite avec impatience : _Even Faster Web Sites: Essential Knowledge for Frontend Engineers_.
 
 Quoiqu'il en soit, le fait d'avoir eu la pleine utilisation des sélecteurs CSS a été géniale : la vie est grandement facilitée. _inline-block_ évite de nombreuses bidouilles à base de flottants. J'ai hâte qu'une version de _Blueprint_ sorte en se basant uniquement sur les sélecteurs avancés et non des flottants pour disposer de mises en forme plus complexes tout en étant facile d'accès.
 
 Si vous rencontrez des problèmes, surtout n'hésitez pas à les signaler, par le [biais des commentaires](#respond) ou par [email](/contact/) :-)
 
-En attendant, je retourne sur mon [projet éprouvant du moment](https://oncletom.io/2009/02/24/faire-part-de-naissance/) !
+En attendant, je retourne sur mon [projet éprouvant du moment](https://thom4.net/2009/02/24/faire-part-de-naissance/) !

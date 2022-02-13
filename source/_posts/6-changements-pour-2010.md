@@ -32,7 +32,7 @@ C'est l'occasion de dresser un **rapide bilan de l'année** et de parler de [6 C
 En 2009, j'ai repris goût au voyage. Ou plutôt, le virus m'est revenu. Ce fût une excellente année dans le domaine du Web avec des évènements de qualité et une consolidation de mon réseau.
 
 1.  **janvier** : séjour en Pologne et première expérience de [CouchSurfing](https://couchsurfing.com/) ! − j'aime le café !
-2.  **février** : [teasing sur un projet de livre](https://oncletom.io/2009/faire-part-de-naissance/)
+2.  **février** : [teasing sur un projet de livre](/2009/faire-part-de-naissance/)
 3.  **mars** : mon premier quart de siècle prend fin − la fin d'une époque, le début d'une autre
 4.  **avril** : refonte graphique du blog ... il en avait besoin
 5.  **mai** : mon dernier [BlogCamp](http://blogcamp.fr/) dans l'organisation, la gestion et le reste − passage de Pentax chez Nikon : ça change la vie !

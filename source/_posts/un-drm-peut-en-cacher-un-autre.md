@@ -11,7 +11,7 @@ categories:
 
 En ce moment se tient à Cannes un salon nommé le [MIDEM](http://fr.wikipedia.org/wiki/Midem). Les riches entreprises musicales y décident comment devenir encore plus riches. La tendance ces dernières années étant bien sûr de plus en plus avouable : pigeonner l'indivi... non, le consommateur. L'individu ayant un minimum d'esprit critique et de choix, on parle bien de consommateur à qui on demande de consommer sans être trop regardant sur ce qu'il achète et peut-être écoutera.
 
-Je l'ai déjà dis bien assez souvent, [je conspue les DRM](https://oncletom.io/2006/11/08/msn-music-mp3-drm-dtc/) (également appelées <acronym title="Mesures Techniques de Protection">MTP</acronym>). J'ai déjà expliqué [pourquoi les DRM sont nuisibles](https://oncletom.io/2006/06/11/defective-by-design/), de manière générale.
+Je l'ai déjà dis bien assez souvent, [je conspue les DRM](https://thom4.net/2006/11/08/msn-music-mp3-drm-dtc/) (également appelées <acronym title="Mesures Techniques de Protection">MTP</acronym>). J'ai déjà expliqué [pourquoi les DRM sont nuisibles](https://thom4.net/2006/06/11/defective-by-design/), de manière générale.
 
 Si on peut se réjouir de voir les [industriels réfléchir au bien-fondé des DRM](http://www.liberation.fr/actualite/economie/230039.FR.php), de quoi faut-il s'inquiéter ?
 <!--more-->

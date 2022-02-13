@@ -196,7 +196,7 @@ echo http://www.bbc.com/future/story/20160418-the-real-reason-men-grow-beards \
   | curl -sS -X GET -G -d @- -H "Accept: application/json" http://spotlight.sztaki.hu:2222/rest/annotate
 ```
 
-- topic extraction is performed by [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) (and [is sometimes not accurate at all](https://twitter.com/oncletom/status/722918206768189441));
+- topic extraction is performed by [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) (and [is sometimes not accurate at all](https://twitter.com/thom4parisot/status/722918206768189441));
 - `jq`'s `-R` option prevents *jq* to parse `stdin` as a JSON input;
 - `jq`'s `@text` is a special filter to output as… text, and not JSON (see [Format strings and escaping](https://stedolan.github.io/jq/manual/#Formatstringsandescaping);
 - `curl`'s `@-` means *read file from stdin* — combined with `-X GET -G`, this is a way to build a query string from *stdin*.

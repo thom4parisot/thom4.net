@@ -38,7 +38,7 @@ No wonder why I have been a bit *lost*. Until september I always had to think ab
 
 **Commuting for fourty minutes in the underground is not something which made me happy**. Being swallowed every morning by the crowd in the corridors of Oxford Circus station tired me.
 
-Our offices move in June has been a good opportunity to relocate closeby, **at a walkable distance**. Almost too close from them but for some reason, I had a crush for [King’s Cross Square](http://everyday.oncletom.io/search/label/King's%20Cross%20Square).
+Our offices move in June has been a good opportunity to relocate closeby, **at a walkable distance**. Almost too close from them but for some reason, I had a crush for [King’s Cross Square](http://everyday.thom4.net/search/label/King's%20Cross%20Square).
 
 [![12th of January 2014 on King’s Cross Square](/images/2014/12th-of-january.jpg)](http://instagram.com/p/jEPeFpBfs6/)
 
@@ -133,13 +133,13 @@ Well, I’ve never written so much code. So much tests. And neither had so much 
 - [Imager.js](https://github.com/BBC-News/Imager.js): contributed huge efforts to provide testing, nicer API and multiple browsers continuous integration;
 - [peaks.js](https://github.com/bbcrd/peaks.js): contributed to a browser based interactive audio waveform visualiser;
 - [waveform-data.js](https://github.com/bbcrd/waveform-data.js): a data layer to generate, manipulate and drive audio waveforms;
-- [oncletom.io](https://github.com/oncletom/oncletom.io): statically generated website to ditch WordPress;
-- [oncletom.io/talks](https://github.com/oncletom/talks): statically generated slides for my talks;
-- [elevator.rs](https://github.com/oncletom/oncletom.io): a cool collaboration with [@DavidBruant](https://twitter.com/davidbruant) to showcase a lift simulator at [Mozilla Festival](http://mozillafestival.org/) and [FranceJS.in(Toulouse)](http://lanyrd.com/2013/francejs/);
-- [Chrome FIP](https://github.com/oncletom/chrome-fip): a Chrome extension to listen to the excellent [FIP Radio](http://www.fipradio.fr));
-- [emunova.net](https://github.com/oncletom/emunova.net) and [data.emunova.net](https://github.com/oncletom/data.emunova.net): [a statically generated collaborative website I blogged about last year](/2013/collaborative-website-as-an-archive/)
-- [content-edit](https://github.com/oncletom/content-edit): a nicer way than `contenteditable` to inline edit your content;
-- [input-search](https://github.com/oncletom/input-search): a jQuery plugin to polyfill the `input[type=search]` element.
+- [thom4.net](https://github.com/thom4parisot/thom4.net): statically generated website to ditch WordPress;
+- [thom4.net/talks](https://github.com/thom4parisot/talks): statically generated slides for my talks;
+- [elevator.rs](https://github.com/thom4parisot/elevato.rs): a cool collaboration with [@DavidBruant](https://twitter.com/davidbruant) to showcase a lift simulator at [Mozilla Festival](http://mozillafestival.org/) and [FranceJS.in(Toulouse)](http://lanyrd.com/2013/francejs/);
+- [Chrome FIP](https://github.com/thom4parisot/chrome-fip): a Chrome extension to listen to the excellent [FIP Radio](http://www.fipradio.fr));
+- [emunova.net](https://github.com/thom4parisot/emunova.net) and [data.emunova.net](https://github.com/oncletom/data.emunova.net): [a statically generated collaborative website I blogged about last year](/2013/collaborative-website-as-an-archive/)
+- [content-edit](https://github.com/thom4parisot/content-edit): a nicer way than `contenteditable` to inline edit your content;
+- [input-search](https://github.com/thom4parisot/input-search): a jQuery plugin to polyfill the `input[type=search]` element.
 
 Believe it or not, **I needed that to prove what I could do to regain confidence**. Writing code is like talking, it is just a way of communicating an intention. **Tests assert the code intents correspond to how I expect it to be understood**.
 

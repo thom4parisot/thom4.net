@@ -74,7 +74,7 @@ Indispensable pour les phases d'**optimisation** et de _fine tuning_ comme dirai
 
 ### [Operator](https://addons.mozilla.org/fr/firefox/addon/4106)
 
-Je vous ai déjà parlé de l'[intérêt des microformats](https://oncletom.io/2007/07/31/semantique-microformats-internet/) ? **Operator** est un outil notifiant des microformats actifs sur les pages que vous visitez. Outre la navigation interactive procurée, Operator signale dans la console de débogage d'éventuelles erreurs (élément absent, malformé ou invalidant un microformat).
+Je vous ai déjà parlé de l'[intérêt des microformats](https://thom4.net/2007/07/31/semantique-microformats-internet/) ? **Operator** est un outil notifiant des microformats actifs sur les pages que vous visitez. Outre la navigation interactive procurée, Operator signale dans la console de débogage d'éventuelles erreurs (élément absent, malformé ou invalidant un microformat).
 
 ### [TimeStamp Converter](https://addons.mozilla.org/fr/firefox/addon/2063)
 

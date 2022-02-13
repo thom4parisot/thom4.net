@@ -6,7 +6,7 @@ categories:
 - Personal Views
 ---
 
-Après le petit interlude "test de jeux vidéo" dont je vous ai fait part récemment avec les tests de [Castlevania : Dawn of Sorrow](https://oncletom.io/2006/01/08/castlevania-dawn-of-sorrow/) et [Phoenix Wright : Ace Attorney](https://oncletom.io/2006/01/09/phoenix-wright-ace-attorney/) tous deux sur **Nintendo DS**, voici un petit bilan de ce qui a occupé mes journées en ce début d'année et surtout, ce qui m'occupera en 2006\. Changements en perspective.
+Après le petit interlude "test de jeux vidéo" dont je vous ai fait part récemment avec les tests de [Castlevania : Dawn of Sorrow](/2006/01/08/castlevania-dawn-of-sorrow/) et [Phoenix Wright : Ace Attorney](/2006/01/09/phoenix-wright-ace-attorney/) tous deux sur **Nintendo DS**, voici un petit bilan de ce qui a occupé mes journées en ce début d'année et surtout, ce qui m'occupera en 2006\. Changements en perspective.
 
 ## Ce qui m'a occupé
 
@@ -24,7 +24,7 @@ Après le petit interlude "test de jeux vidéo" dont je vous ai fait part récem
 
 ## Projets 2006
 
-*   <del>**négociations salariales** (dès la semaine prochaine, à suivre de près) et bilan de mon année de travail avec le PDG de la société qui m'emploie</del>, [fait avec succès](https://oncletom.io/2006/01/13/2006-comment-ca-demarre-et-comment-ca-devrait-continuer/)
+*   <del>**négociations salariales** (dès la semaine prochaine, à suivre de près) et bilan de mon année de travail avec le PDG de la société qui m'emploie</del>, [fait avec succès](/2006/01/13/2006-comment-ca-demarre-et-comment-ca-devrait-continuer/)
 *   <del datetime="2006-10-25T20:00:07+00:00">**acheter un appartement** et prendre le _crédit immobilier_ qui va avec (d'ici à juin)</del> (fait)
 *   <del>organiser une sortie pour **Japan Expo 2006**</del> (annulé pour des raisons d'économies)
 *   **Emu Nova** : <del datetime="2006-10-25T19:58:58+00:00">version 3, migration de serveur, nouer des partenariats commerciaux</del> (fait), détour par l'[INPI](http://www.inpi.fr/)

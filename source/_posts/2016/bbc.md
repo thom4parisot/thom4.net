@@ -113,7 +113,7 @@ Finally, I sent an email to inform why we should go for a pint. I twisted the tr
 >
 > I will try to summon a few slides during our Section meeting and recap what I learned, in general, since I started living on the British soil — roughly 2 days before my first day of work at the Beeb !
 >
-> Beyond the December 29th, you can reach me on Twitter ([@oncletom](https://twitter.com/oncletom)), by email ([see contact](/slash-me/)), by snail mail (from March and onwards).
+> Beyond the December 29th, you can reach me on Twitter ([@thom4parisot](https://twitter.com/thom4parisot)), by email ([see contact](/slash-me/)), by snail mail (from March and onwards).
 > Keep posted on https://dtc-innovation.org/ — hopefully I will manage to get some nice stuff done with my partners <del>in crime</del>.
 >
 > I have had a tremendous pleasure to be part of, what is to me, a true public service company.

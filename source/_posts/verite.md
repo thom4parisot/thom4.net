@@ -101,7 +101,7 @@ Une **révélation** : [Edward Hopper au Grand Palais](http://www.grandpalais.fr
 * _Bohème_ — 5 photos argentiques, moyen format en noir et blanc ;
 * _Hitchhicking in Iceland_ — 22 photographies numériques sur le voyage en Islande en auto-stop (on devrait importer leur gentillesse, leur simplicité et leur [prévenance](https://larlet.fr/david/thoughts/#caring)) ;
 * _Living Animals_ — instantanés numériques sur des animaux morts ;
-* [Same Place, Every Day](https://oncletom.io/photography/everyday/) — instantanés numériques d’un même lieu, chaque jour de l’année (25ème cliché en ce 2 janvier).
+* [Same Place, Every Day](https://thom4.net/photography/everyday/) — instantanés numériques d’un même lieu, chaque jour de l’année (25ème cliché en ce 2 janvier).
 
 **Plusieurs publications** aussi : une affiche d’évènement, quelques illustrations de livres et ma première exposition. Je constitue mes propres cartes postales quand cela s’y prête ; signe d’auto-satisfaction … d’acceptation ?
 

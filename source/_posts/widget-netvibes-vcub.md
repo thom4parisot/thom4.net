@@ -20,9 +20,9 @@ categories:
 cover: /images/2010/04/uwa-vcub.png
 ---
 
-Cela faisait un petit moment que je n'avais pas réalisé de [widget Netvibes](https://oncletom.io/code/netvibes/). À vrai dire, je n'en avais pas publié depuis 2008\. C'était encore le boom et la folie des widgets.
+Cela faisait un petit moment que je n'avais pas réalisé de [widget Netvibes](https://thom4.net/code/netvibes/). À vrai dire, je n'en avais pas publié depuis 2008\. C'était encore le boom et la folie des widgets.
 
-Le compteur est remis à zéro cette année avec la publication du [widget VCUB](https://oncletom.io/code/netvibes/vcub/).
+Le compteur est remis à zéro cette année avec la publication du [widget VCUB](https://thom4.net/code/netvibes/vcub/).
 
 <!--more-->
 
@@ -33,7 +33,7 @@ Le soir en sortant du travail, j'aime bien prendre un VCUB pour prendre l'air, r
 Mon seul ennui, c'était la facilité d'accès à l'information principale : **la disponibilité des vélos**. Elle est disponible à la fois sous forme de [carte](http://www.vcub.fr/stations/plan) ou de [liste](http://www.vcub.fr/stations/liste) sur le site Web officiel. Cela reste toutefois assez long pour y accéder.
 
 Étant toujours utilisateur du service Netvibes, je me suis dis <q>pourquoi ne pas en faire un widget ?</q>.
-Quelques jours après, le [widget VCUB](https://oncletom.io/code/netvibes/) était né. Vous pouvez [ajouter le widget VCUB sur votre page Netvibes en 2 clics](http://eco.netvibes.com/subscribe/378209).
+Quelques jours après, le [widget VCUB](https://thom4.net/code/netvibes/) était né. Vous pouvez [ajouter le widget VCUB sur votre page Netvibes en 2 clics](http://eco.netvibes.com/subscribe/378209).
 
 [![Aperçu du widget VCUB](/images/2010/04/uwa-vcub.png "Aperçu du widget VCUB")](/images/2010/04/uwa-vcub.png)
 

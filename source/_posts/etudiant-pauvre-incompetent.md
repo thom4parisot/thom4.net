@@ -28,7 +28,7 @@ Pour les âmes sensibles, **oui** le titre est provocateur et reflète l’inver
 
 ## L’objet de la demande
 
-Prompt à diffuser un message rapide, je me suis servi de Twitter en m’adressant en ces termes : « [Si un étudiant parisien s’ennuie cet été, j’ai une refonte de blog #wordpress pour lui. Payée il va de soi.](http://twitter.com/oncletom/status/80544032941539328) ».
+Prompt à diffuser un message rapide, je me suis servi de Twitter en m’adressant en ces termes : « [Si un étudiant parisien s’ennuie cet été, j’ai une refonte de blog #wordpress pour lui. Payée il va de soi.](http://twitter.com/thom4parisot/status/80544032941539328) ».
 
 ## Particulier à particulier
 

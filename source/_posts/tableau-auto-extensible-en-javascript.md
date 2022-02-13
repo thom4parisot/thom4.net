@@ -52,7 +52,7 @@ On peut manipuler le document à loisir grâce à JavaScript. **Avec un code pro
 
 Ce qu'on l'on veut étant relativement simple, _le code doit l'être également_** ! Le résultat aussi, la preuve en mouvement.
 
-<div style="text-align:center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="372" height="188" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://oncletom.io/images/2007/06/articles-autoexpand.swf" /><embed type="application/x-shockwave-flash" width="372" height="188" src="https://oncletom.io/images/2007/06/articles-autoexpand.swf"></embed></object></div>
+<div style="text-align:center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="372" height="188" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="https://thom4.net/images/2007/06/articles-autoexpand.swf" /><embed type="application/x-shockwave-flash" width="372" height="188" src="https://thom4.net/images/2007/06/articles-autoexpand.swf"></embed></object></div>
 
 Au final, **50 lignes de JavaScript ont suffit** à transformer un tableau complètement statique en tableau dynamique, s'adaptant à la demande de n'importe quel client. Client qui pourra également utiliser le clavier pour davantage d'efficacité de saisie.
 

@@ -13,7 +13,7 @@ categories:
 cover: /images/2009/07/reussir-son-blog-professionnel-nq8.png
 ---
 
-[J'ai quelque peu commencé à _teaser_ sur ce projet à la fin du mois de février](https://oncletom.io/2009/02/24/faire-part-de-naissance/) (déjà) mais je peux maintenant en parler ouvertement. Je publie chez Eyrolles un livre intitulé **Réussir son blog professionnel** dans la collection "Accès Libre". La sortie est officiellement annoncée pour le **3 septembre 2009** et cette fois il n'y aura pas davantage de retard. Et oui, initialement il devait sortir début juin 2009  ;-)
+[J'ai quelque peu commencé à _teaser_ sur ce projet à la fin du mois de février](https://thom4.net/2009/02/24/faire-part-de-naissance/) (déjà) mais je peux maintenant en parler ouvertement. Je publie chez Eyrolles un livre intitulé **Réussir son blog professionnel** dans la collection "Accès Libre". La sortie est officiellement annoncée pour le **3 septembre 2009** et cette fois il n'y aura pas davantage de retard. Et oui, initialement il devait sortir début juin 2009  ;-)
 
 <!--more-->
 

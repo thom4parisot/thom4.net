@@ -106,5 +106,5 @@ Les modèles de page (ou templates) est une fonctionnalité assez méconnue mais
 *   affichage différent pour certaines pages uniquement, sans vouloir créer un thème spécifique
 *   création de pages plus riches allant au-delà de la simple présentation de contenu rédigé
 
-Si vous vous débrouillez bien, vous aurez un résultat comme sur ma page de liens, [les liens de l'Oncle Tom](https://oncletom.io/liens/).
+Si vous vous débrouillez bien, vous aurez un résultat comme sur ma page de liens, [les liens de l'Oncle Tom](https://thom4.net/liens/).
 Et n'oubliez pas, dès que vous pensez "spécifique", pensez **modèle de page** ;-)

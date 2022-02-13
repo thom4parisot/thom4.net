@@ -48,8 +48,8 @@ Alors, vous vous sentez toujours libre et maître de vos achats ?
 
 ## Pour en savoir plus, rappels
 
-*   [DADVSI & les DRM: Droits Ridicules et Misérables](https://oncletom.io/2006/03/16/dadvsi-drm-droits-ridicules-et-miserables/)
-*   [LesTelechargements.com et la loi DADVSI](https://oncletom.io/2006/03/05/lestelechargementscom-et-la-loi-dadvsi/)
+*   [DADVSI & les DRM: Droits Ridicules et Misérables](https://thom4.net/2006/03/16/dadvsi-drm-droits-ridicules-et-miserables/)
+*   [LesTelechargements.com et la loi DADVSI](https://thom4.net/2006/03/05/lestelechargementscom-et-la-loi-dadvsi/)
 *   [EUCD.info : sauvons les droits d'auteur](http://www.eucd.info/)
 *   [DADvSI : chronique d'un désastre](http://standblog.org/blog/2006/03/17/93114708-dadvsi-chronique-d-un-desastre)
 *   [Quelques liens contre le DRM](http://standblog.org/blog/2006/06/12/93114827-quelques-liens-contre-le-drm)

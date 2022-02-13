@@ -11,7 +11,7 @@ categories:
 - Projects
 ---
 
-[Emu Nova](http://www.emunova.net/) figure désormais dans l'_annuaire de flux_ de [Netvibes](http://www.netvibes.com) ([pourquoi j'utilise Netvibes](https://oncletom.io/2007/02/08/netvibes-economiseur-de-temps/)). Direction la rubrique **jeux vidéo** pour ceux qui avaient la flemme d'ajouter le site manuellement.
+[Emu Nova](http://www.emunova.net/) figure désormais dans l'_annuaire de flux_ de [Netvibes](http://www.netvibes.com) ([pourquoi j'utilise Netvibes](https://thom4.net/2007/02/08/netvibes-economiseur-de-temps/)). Direction la rubrique **jeux vidéo** pour ceux qui avaient la flemme d'ajouter le site manuellement.
 
 ![Ajouter Emu Nova dans NetVibes](/images/2007/02/emunova-netvibes.png)
 

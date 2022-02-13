@@ -58,7 +58,7 @@ Parce qu'au final on se trouve face à _gros article_ doublé d'un titre bon pou
 Sans vouloir relancer le fumeux débat du  Web contre les livres, je pense qu'il y a des articles sur display: table-cell plus courts, moins chers et tout à fait valables ([y compris leur article de présentation](http://www.digital-web.com/articles/everything_you_know_about_CSS_Is_wrong/)), notamment sur [Alsacréations](http://css.alsacreations.com/Faire-une-mise-en-page-sans-tableaux/Mise-en-page-CSS-avancee-grace-a-la-propriete-display).
 Pour moitié prix, le contenu aurait pu passer. À 30$, j'en attends davantage ...
 
-Je recommande avec beaucoup plus de ferveur l'indémodable [Transcender CSS](https://oncletom.io/2007/12/11/critique-transcender-css-sublimez-design-web/) d'Andy Clarke.
+Je recommande avec beaucoup plus de ferveur l'indémodable [Transcender CSS](https://thom4.net/2007/12/11/critique-transcender-css-sublimez-design-web/) d'Andy Clarke.
 
 Un dernier point toutefois : je ne suis pas convaincu qu'un **rendu à l'identique au pixel près** soit une solution d'avenir. Il ne faut pas espérer avoir un rendu identique à la maquette ni identique sur tous les naivgateurs (notamment au niveau de la colorimétrie). Je crois davantage à un support de fonctionnalités et des solutions alternatives pour les navigateurs ne supportant pas ces dites-fonctionnalités. De même qu'on n'a pas le même rendu de couleurs pour les téléviseurs (y compris HD), il est utopique de vouloir la même chose d'un site.
 

@@ -129,7 +129,7 @@ J'aime bien manger et fabriquer du pain. Je trouve que la **production de pain a
 
 Je trouve également que la confection de pain au levain est **reposante et méditative**. Le processus incite à s'inscrire dans un **rythme de vie respectueux** de soi-même.
 
-**Je voyagerai avec [ma culture de levain](https://twitter.com/oncletom/status/810156080307335168)** (à base de *seigle*). Je serai ravi d'en partager les gestes et quelques grammes dans votre frigo 😊.
+**Je voyagerai avec [ma culture de levain](https://twitter.com/thom4parisot/status/810156080307335168)** (à base de *seigle*). Je serai ravi d'en partager les gestes et quelques grammes dans votre frigo 😊.
 
 ![](/images/2017/01/sourdough-bread.jpg)
 
@@ -146,7 +146,7 @@ Et pour finir, voici un résumé des ressources utiles :
 
 À bientôt et merci d'avance 😊.
 
-[web]: https://oncletom.io/node.js
+[web]: https://thom4.net/node.js
 [repo]: https://github.com/oncletom/nodebook
 [project]: https://github.com/oncletom/nodebook/projects/1
 [itineraire]: https://docs.google.com/spreadsheets/d/1LJ677G658kzU-4KTkiIwpvdE1mBE8CfuZgMjaD1r6z4/edit?usp=sharing

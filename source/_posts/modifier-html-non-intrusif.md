@@ -15,7 +15,7 @@ categories:
 cover: /images/2007/09/javascript.png
 ---
 
-[Lors de la refonte de ce blog](https://oncletom.io/2007/07/27/blog-nouveau-look/), j'ai concocté un petit script JavaScript (non intrusif bien entendu) affichant et modifiant le contenu d'un bandeau sous la forme d'une classe statique reponsant sur [jQuery](http://jquery.com/). J'explique aujourd'hui comment ces 48 petits lignes de code (en comptant commentaires, sauts de lignes et accolades) fonctionnent, comment il est aisé de mettre en place de telles routines de manière intelligente, souple et non intrusive.
+[Lors de la refonte de ce blog](https://thom4.net/2007/07/27/blog-nouveau-look/), j'ai concocté un petit script JavaScript (non intrusif bien entendu) affichant et modifiant le contenu d'un bandeau sous la forme d'une classe statique reponsant sur [jQuery](http://jquery.com/). J'explique aujourd'hui comment ces 48 petits lignes de code (en comptant commentaires, sauts de lignes et accolades) fonctionnent, comment il est aisé de mettre en place de telles routines de manière intelligente, souple et non intrusive.
 
 Et comme l'indique le slogan de <cite>jQuery</cite> : <q>Write less, do more</q>.
 

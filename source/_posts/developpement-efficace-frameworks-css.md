@@ -17,7 +17,7 @@ categories:
 - WebDev
 ---
 
-J'ai eu peur il y a 2 semaines en arrivant à [Paris-Web 2008](https://oncletom.io/2008/11/20/paris-web-2008-webdesign-qualite-standards/) : en discutant avec plusieurs personnes, il se trouve que peu d'entre elles connaissaient les _frameworks_ CSS. Je craignais de n'attirer personne avec ce sujet lors des [ateliers du samedi](http://www.paris-web.fr/2008/-samedi-15-novembre-technique-).
+J'ai eu peur il y a 2 semaines en arrivant à [Paris-Web 2008](https://thom4.net/2008/11/20/paris-web-2008-webdesign-qualite-standards/) : en discutant avec plusieurs personnes, il se trouve que peu d'entre elles connaissaient les _frameworks_ CSS. Je craignais de n'attirer personne avec ce sujet lors des [ateliers du samedi](http://www.paris-web.fr/2008/-samedi-15-novembre-technique-).
 
 Les _frameworks_ CSS ont été mentionnés la première fois dans la conférence [Working in the Now](http://www.wait-till-i.com/2008/10/31/working-in-the-now/) ([visualiser la présentation](http://www.slideshare.net/cheilmann/working-in-the-now-presentation "Visualiser la présentation Working in the Now de Christian Heilmann")). Au final, on n'était pas loin de faire salle comble avec plus d'une vingtaine de participants à vue de nez.
 
@@ -29,7 +29,7 @@ Une petite scéance de rattrapage s'impose ;-)
 
 J'ai lu un article sur [l'importance du rythme vertical](http://www.biologeek.com/ergonomie,informatique/l-importance-du-rythme-vertical-en-design-css/) l'an dernier sur [Biologeek](http://www.biologeek.com) et ça m'a sensibilisé au fait qu'on pouvait rendre la lecture d'un site tout simplement en rendant prédictible la position du texte.
 
-Entre temps j'ai également lu l'excellent [Transcender CSS](https://oncletom.io/2007/12/11/critique-transcender-css-sublimez-design-web/) d'[Andy Clarke](http://www.stuffandnonsense.co.uk). J'y ai été sublimé par des présentations de sites totalement en grille.
+Entre temps j'ai également lu l'excellent [Transcender CSS](https://thom4.net/2007/12/11/critique-transcender-css-sublimez-design-web/) d'[Andy Clarke](http://www.stuffandnonsense.co.uk). J'y ai été sublimé par des présentations de sites totalement en grille.
 
 Depuis je suis devenu fan de [Blueprint CSS](http://www.blueprintcss.org/) (je crois que ça s'est remarqué lors de mon intervention ;-)). J'ai commencé à l'utiliser sur des projets personnels puis dans un cadre professionnel. J'utilisais déjà [symfony](http://www.symfony-project.org) comme framework PHP et [jQuery](http://jquery.com) comme framework JavaScript alors pourquoi pas Blueprint ?
 

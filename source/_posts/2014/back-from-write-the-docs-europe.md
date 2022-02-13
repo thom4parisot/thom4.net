@@ -98,7 +98,7 @@ On the other hand, **I would not call GitHub a free product anymore**: if GitHub
 
 [![](/images/2014/04/13544554865_b9b581beb8_z.jpg)](https://www.flickr.com/photos/an3ssen/13544554865/in/set-72157643227881314)
 
-I have been pleased to perform my first public speaking outside of France and UK: [README Driven Development](https://oncletom.io/talks/2014/writethedocs/). [Bryan Villarin from Automattic wrote a live summary of it](http://allnarfedup.com/2014/03/31/write-the-docs-eu-readme-driven-development/). A video should be available sometime in the future.
+I have been pleased to perform my first public speaking outside of France and UK: [README Driven Development](https://thom4.net/talks/2014/writethedocs/). [Bryan Villarin from Automattic wrote a live summary of it](http://allnarfedup.com/2014/03/31/write-the-docs-eu-readme-driven-development/). A video should be available sometime in the future.
 
 It is a complete rewrite of a talk initially [performed at Paris Web in 2012](http://www.paris-web.fr/2012/conferences/readme-un-fichier-nomme-plaisir.php). There are a lot of additions:
 

@@ -24,7 +24,7 @@ Je suis reparti avec :
 - [le retour de l'autoritarisme ?](https://www.franceculture.fr/emissions/matieres-a-penser-avec-frederic-worms/le-retour-de-lautoritarisme) dans ma liste d'écoutes ;
 - une meilleure connaissance des [fontes variables](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide) — la présentation [David Jonathan Ross](https://djr.com/notes/) était exemplaire ;
 - la satisfaction d'une [mise en production](https://medialab.sciencespo.fr/), fruit d'une collaboration avec [Julie](http://julie-blanc.fr/), [Benjamin](http://benjmng.eu/) et l'équipe du Médialab ;
-- une page [Talks](https://oncletom.io/talks/){lang="en"} — rafraîchie — qui reflète mieux ma tendance à donner moins de présentations et davantage de _workshops_ ;
+- une page [Talks](https://thom4.net/talks/){lang="en"} — rafraîchie — qui reflète mieux ma tendance à donner moins de présentations et davantage de _workshops_ ;
 - des discussions chouettes avec des gens chouettes ;
 - le sentiment d'être davantage ancré en moi-même ;
 - quelques insomnies qui ont été sources d'écriture, de verbalisation d'idées et de hontes ;

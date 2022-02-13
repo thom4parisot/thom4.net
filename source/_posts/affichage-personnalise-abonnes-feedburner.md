@@ -12,7 +12,7 @@ categories:
 - WordPress
 ---
 
-Qu'on se le dise : le compteur de lecteurs Feedburner par défaut est sympa mais **s'intègre mal dans n'importe quel design de site Web**. [Lors de la refonte du thème graphique de ce blog](https://oncletom.io/2009/04/15/menage-printemps/), j'ai eu envie de remettre mon compteur d'abonnés Feedburner mais sous forme de texte. Même si le chiffre indiqué peut se révéler inexact, j'estime que c'est un **indicateur intéressant** sur la consultation d'un flux. Je suis également convaincu qu'à partir d'un certain nombre de lecteurs, ça facilite la conversion : si le nombre est élevé, c'est que le site est bien  ... donc je m'abonne.
+Qu'on se le dise : le compteur de lecteurs Feedburner par défaut est sympa mais **s'intègre mal dans n'importe quel design de site Web**. [Lors de la refonte du thème graphique de ce blog](/2009/04/15/menage-printemps/), j'ai eu envie de remettre mon compteur d'abonnés Feedburner mais sous forme de texte. Même si le chiffre indiqué peut se révéler inexact, j'estime que c'est un **indicateur intéressant** sur la consultation d'un flux. Je suis également convaincu qu'à partir d'un certain nombre de lecteurs, ça facilite la conversion : si le nombre est élevé, c'est que le site est bien  ... donc je m'abonne.
 
 Bref, j'ai voulu implémenter ça de **manière propre et peu gourmande** avec [WP-Cron](http://codex.wordpress.org/Category:WP-Cron_Functions), l'API [Feedburner Awareness](http://code.google.com/intl/fr/apis/feedburner/awareness_api.html) et la classe [PHP 5 SimpleXML](http://fr.php.net/simplexml). Une poignée de lignes de code suffisent, pourquoi s'en priver ? ;-)
 
@@ -93,7 +93,7 @@ Plugin Name: Simple Feedburner Awareness
 Description: Asynchroneous feed readers collector scheduled twice a day.
 Author: Oncle Tom
 Version: 1.0
-Author URI: https://oncletom.io/
+Author URI: https://thom4.net/
 Plugin URI:
 
   This plugin is released under version 3 of the GPL:

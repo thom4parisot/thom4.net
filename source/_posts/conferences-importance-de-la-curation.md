@@ -16,7 +16,7 @@ cover: /images/2012/12/2012-11-30_10-17-17.jpg
 
 La [conférence DotJS](http://dotjs.eu) s’est déroulée le vendredi 30 novembre au théâtre des variétés à Paris. L’occasion de se retrouver avec la team invincible : [David Bruant](http://longtermlaziness.wordpress.com/), [Guillaume Marty](http://twitter.com/g_marty) et [Nicolas Chambrier](http://naholyr.fr/) !
 
-Les différents retours publiés à propos de DotJS évoquent un « trop technique » mais surtout un « [pas](https://twitter.com/ThomasG77/status/274668151139078144) [assez](https://twitter.com/javascripteur/status/275361976211890176) [technique](http://jolicode.com/blog/dotjs-le-ted-de-la-conference-technique) » font écho à mes [précédentes réflexions vis à vis de Paris Web 2012](https://oncletom.io/2012/paris-web-remise-en-question/ "Paris Web 2012 : la remise en question").
+Les différents retours publiés à propos de DotJS évoquent un « trop technique » mais surtout un « [pas](https://twitter.com/ThomasG77/status/274668151139078144) [assez](https://twitter.com/javascripteur/status/275361976211890176) [technique](http://jolicode.com/blog/dotjs-le-ted-de-la-conference-technique) » font écho à mes [précédentes réflexions vis à vis de Paris Web 2012](/2012/paris-web-remise-en-question/ "Paris Web 2012 : la remise en question").
 
 Aujourd’hui je porte la casquette de participant, de conférencier et d’organisateur de conférence. De quoi partager un regard transversal sur les attentes de chaque partie.
 

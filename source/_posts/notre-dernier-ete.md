@@ -21,7 +21,7 @@ Ce billait s'intitulait initialement **Passion et responsabilité**.
 Facebook a ce côté formidable de _permettre_ à des gens de s'interconnecter, des gens qui se ressemblent ou aspirent à des idéaux similaires. Facebook ne fait rien. Ce sont les gens qui font.
 Et donc de dénicher un blog espagnol d'une réalité et d'un pragmatisme implacable : [El Ultimo Verano](http://elultimoverano.nophoto.org/).
 
-[Il y a 7 mois, j'écrivais un billet/aveu public](https://oncletom.io/2011/annee-du-fail-personnel/ "2011 : l’année du #fail personnel") d'une année enrichissante en dépit de la considérer comme un échec. Je n'y voyais pas ma dernière année, pas plus que mon dernier été. C'était mieux qu'une rémission : une **guérison**.
+[Il y a 7 mois, j'écrivais un billet/aveu public](https://thom4.net/2011/annee-du-fail-personnel/ "2011 : l’année du #fail personnel") d'une année enrichissante en dépit de la considérer comme un échec. Je n'y voyais pas ma dernière année, pas plus que mon dernier été. C'était mieux qu'une rémission : une **guérison**.
 
 Une nouvelle succession de choix.
 

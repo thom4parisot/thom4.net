@@ -28,7 +28,7 @@ cover: /images/2007/07/logo-microformats.gif
 {% repost "http://www.clever-age.com/veille/blog/microformats-comment-microformater-du-contenu-deja-existant.html" "Microformats : comment microformater du contenu déjà existant ?" %}
 
 
-Nous avions dressé un panorama des microformats dans un précédent article intitulé « [microformats : republier et donner du sens aux contenus](https://oncletom.io/2008/01/29/microformats-republier-donner-sens-aux-contenus/) ». Nous avions notamment conclu que leur** intégration était rapide, peu coûteuse et surtout bénéfique** tant pour le visiteur que pour la visibilité du contenu.
+Nous avions dressé un panorama des microformats dans un précédent article intitulé « [microformats : republier et donner du sens aux contenus](https://thom4.net/2008/01/29/microformats-republier-donner-sens-aux-contenus/) ». Nous avions notamment conclu que leur** intégration était rapide, peu coûteuse et surtout bénéfique** tant pour le visiteur que pour la visibilité du contenu.
 
 Nous nous intéresserons cette fois-ci à une partie plus pratique des microformats : leur **intégration**. Toutefois ce rapide apprentissage sera didactique puisque nous apprendrons à identifier visuellement quels contenus d’une page peuvent être microformatés mais aussi comment microformater du code HTML déjà existant.
 

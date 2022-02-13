@@ -26,7 +26,7 @@ Nous allons voir comment procéder à ce changement tout en adaptant les sécuri
 
 <!--more-->
 
-**Remarque importante** : j'ai publié une [version améliorée du déplacement des données d'un serveur MySQL](https://oncletom.io/2008/12/11/configuration-apache-mysql-php-symlinks/). Je la recommande par rapport à cet article : elle implique moins de manipulations et est plus propre.
+**Remarque importante** : j'ai publié une [version améliorée du déplacement des données d'un serveur MySQL](https://thom4.net/2008/12/11/configuration-apache-mysql-php-symlinks/). Je la recommande par rapport à cet article : elle implique moins de manipulations et est plus propre.
 
 ## Quelques généralités avant de commencer
 

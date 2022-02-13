@@ -8,7 +8,7 @@ categories:
 - Personal Views
 ---
 
-J'ai déjà pesté contre les [nuisances des <acronym title="Digital Rights Management">DRM</acronym>](https://oncletom.io/2006/03/16/dadvsi-drm-droits-ridicules-et-miserables/) et contre le [bridage volontaire des media numériques](https://oncletom.io/2006/06/11/defective-by-design/).
+J'ai déjà pesté contre les [nuisances des <acronym title="Digital Rights Management">DRM</acronym>](https://thom4.net/2006/03/16/dadvsi-drm-droits-ridicules-et-miserables/) et contre le [bridage volontaire des media numériques](https://thom4.net/2006/06/11/defective-by-design/).
 
 Je souris depuis quelques jours en pensant aux pauvres gens qui ont cru aux discours malhonnêtes de [MSN Music](http://music.msn.com/) (existe aussi en français). Une fois de plus, en voulant être réglo, vous devrez passer à la caisse.
 <!--more-->

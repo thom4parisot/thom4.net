@@ -40,7 +40,7 @@ _Seul bémol_ : ce plugin n'a pas d'interaction avec le widget officiel qui cont
 [Feedburner](http://www.feedburner.com) est un service permettant de **mesurer l'utilisation de vos fils <acronym title="Really Simple Syndication">RSS</acronym> et Atom**. <q>Combien de personnes suivent mon fil RSS ?</q>, <q>Combien de nouveaux abonnés aujourd'hui ?</q> ou encore <q>Quels sont les articles les plus cliqués ou lus depuis les agrégateurs ?</q> seront le genre de questions pour lesquelles vous obtiendez _enfin_ des réponses.
 
 _Sa configuration est aisée comme tout_ et il serait dommage de se passer d'un outil statistique doublé d'outils de republication d'une telle envergure.
-Pour information, j'ai également publié un billet expliquant [comment migrer un flux RSS vers Feedburner](https://oncletom.io/2007/03/17/migrer-un-flux-rss-vers-feedburner/) pour celles et ceux ne pouvant installer ce plugin.
+Pour information, j'ai également publié un billet expliquant [comment migrer un flux RSS vers Feedburner](https://thom4.net/2007/03/17/migrer-un-flux-rss-vers-feedburner/) pour celles et ceux ne pouvant installer ce plugin.
 
 ## [FlickrRSS](https://wordpress.org/plugins/plugins/flickr-rss/)
 

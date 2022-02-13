@@ -8,7 +8,7 @@ permalink: 2019/09/16/non-linkedin-learning/
 date: 2019-09-16 08:56:01
 ---
 
-J'ai été contacté par [LinkedIn Learning](https://www.linkedin.com/learning/) via [mon livre sur Node.js](https://oncletom.io/node.js/).
+J'ai été contacté par [LinkedIn Learning](https://www.linkedin.com/learning/) via [mon livre sur Node.js](https://thom4.net/node.js/).
 
 La proposition était d'enregistrer d'adapter en vidéo les contenus pour constituer des cours en ligne, et d'être rémunéré en contrepartie.
 

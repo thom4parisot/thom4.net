@@ -43,7 +43,7 @@ Il existe de nombreuses balises XHTML qui ont chacune leur propre signification 
 *   `<pre/code/kbd>` pour des saisies de texte au clavier ou des extraits de code
 *   `<span/div>` dans les autres cas ; **ce sont des balises neutres vides de tout sens**
 
-Et d'aborder dans la foulée les [microformats](https://oncletom.io/2007/07/31/semantique-microformats-internet/). Ça a été ma première surprise car je ne m'attendais pas à les retrouver dans ce livre. Un duo de page les aborde et montre (un peu trop succinctement) que microformater du contenu n'a rien d'impossible, surtout quand la structure XHTML est bonne dès le départ.
+Et d'aborder dans la foulée les [microformats](/2007/semantique-microformats-internet/). Ça a été ma première surprise car je ne m'attendais pas à les retrouver dans ce livre. Un duo de page les aborde et montre (un peu trop succinctement) que microformater du contenu n'a rien d'impossible, surtout quand la structure XHTML est bonne dès le départ.
 
 ![Extrait du chapitre “Processus” de Transcender CSS](/images/2007/12/transcencer-2-processus.jpg)
 
@@ -55,7 +55,7 @@ C'est là que l'approche par la [méthode de la boîte grise](http://jasonsantam
 Cette méthode peut se compléter à l'aide de symboles pour représenter des éléments annexes (textes, formulaires etc.) mais est surtout très facilement réalisable à partir d'un logiciel de présentation de type [OpenOffice Impress](http://fr.openoffice.org/docs/impress.html) ou [Microsoft Powerpoint](http://office.microsoft.com/fr-fr/powerpoint/).
 
 Une fois les bases de la structure mise en place, l'heure est venue de présenter une maquette statique. Autrement dit du HTML et des CSS. Les ajustements resteront possibles puisque la première partie du livre a expliqué comment mettre en œuvre une structure pérenne et libre de mise en forme.
-**Transcender CSS** recommande fortement, et je suis on ne peut plus d'accord, d'utiliser de manière poussée les [extensions indispensables de Firefox](https://oncletom.io/2007/08/07/facebook-rock-your-firefox/) que sont [Firebug](https://addons.mozilla.org/fr/firefox/addon/1843) et [Web Developer](https://addons.mozilla.org/fr/firefox/addon/60).
+**Transcender CSS** recommande fortement, et je suis on ne peut plus d'accord, d'utiliser de manière poussée les [extensions indispensables de Firefox](https://thom4.net/2007/08/07/facebook-rock-your-firefox/) que sont [Firebug](https://addons.mozilla.org/fr/firefox/addon/1843) et [Web Developer](https://addons.mozilla.org/fr/firefox/addon/60).
 J'y consacrerai un billet mais les éditeurs intégré modifiant à la volée votre page sont des **outils précieux offrant des gains de développement mésestimés**.
 
 L'ouvrage poursuit sur des **bonnes pratiques d'organisation de son code** au sein même des feuilles de style. Des pratiques qui permettent de retrouver facilement ses petits sans avoir à chercher inutilement. Des pratiques qui suggèrent également de bien coder pour mieux réutiliser son travail dans d'autres projets. Si vous estimez votre travail, pourquoi le recommencer intégralement lors du projet suivant ?

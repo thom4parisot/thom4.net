@@ -19,7 +19,7 @@ Joie : je fais maintenant partie de [Planète Accessibilité](http://planete-acc
 
 Le but de cette explication sera de **développer la méthode et le raisonnement** pour mettre en place un menu en rollover accessible. La difficulté tient essentiellement au fait que tout élément masqué par le biais des CSS est masqué pour de nombreux clients Web.
 
-Nous verrons aussi pourquoi il est **important de dissocier la présentation et les artifices graphiques** grâce à une dégradation propre du JavaScript. Nous utiliserons pour cela [jQuery](http://jquery.com), [ma librairie JavaScript favorite](https://oncletom.io/tag/jquery/).
+Nous verrons aussi pourquoi il est **important de dissocier la présentation et les artifices graphiques** grâce à une dégradation propre du JavaScript. Nous utiliserons pour cela [jQuery](http://jquery.com), [ma librairie JavaScript favorite](https://thom4.net/tag/jquery/).
 
 <!--more-->
 

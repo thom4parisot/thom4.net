@@ -11,7 +11,7 @@ categories:
 - WebDev
 ---
 
-Lorsqu'on utilise un système d'exploitation Linux à base de paquetages (_packages_), il est préférable d'utiliser ce système d'installation pour rajouter de nouvelles applications. Je l'avais expliqué auparavant : [j'ai choisi d'utiliser le client libre gTwitter pour _gazouiller_ sur Twitter](https://oncletom.io/2007/06/01/twitter-gtwitter/).
+Lorsqu'on utilise un système d'exploitation Linux à base de paquetages (_packages_), il est préférable d'utiliser ce système d'installation pour rajouter de nouvelles applications. Je l'avais expliqué auparavant : [j'ai choisi d'utiliser le client libre gTwitter pour _gazouiller_ sur Twitter](/2007/06/01/twitter-gtwitter/).
 
 Et là je tombe sur le cas d'école par excellence : **la version proposée par Ubuntu est plus vieille que la dernière version en date** et le site officiel de **gTwitter ne propose que des sources à compiler**. J'ai pourtant envie de pouvoir _facilement supprimer gTwitter_, surtout s'il ne me convient plus ou qu'Ubuntu se mette à la page entre temps.
 

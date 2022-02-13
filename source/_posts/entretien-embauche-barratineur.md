@@ -10,7 +10,7 @@ categories:
 - Work & Labour
 ---
 
-Après le [candidat à l'emploi fier et catégorique](https://oncletom.io/2007/entretien-embauche-exces-confiance/), voici venir sa nemesis : celui qui s'y connait, un peu, vraiment pas beaucoup mais qui cherchera (inconsciemment ou pas) à montrer le contraire.
+Après le [candidat à l'emploi fier et catégorique](https://thom4.net/2007/entretien-embauche-exces-confiance/), voici venir sa nemesis : celui qui s'y connait, un peu, vraiment pas beaucoup mais qui cherchera (inconsciemment ou pas) à montrer le contraire.
 <!--more-->
 Le CV montre quelques détails concernant l'_expérience dans le développement Web_. Il aura eu la présence d'esprit de donner des exemples concrets. Rigolez mais il y a des CV de "développeurs Web" **sans la moindre adresse de page Web**. Difficile de juger sur de simples mots surtout pour un domaine aussi virtuel, toutes proportions gardées.
 

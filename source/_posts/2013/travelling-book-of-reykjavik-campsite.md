@@ -92,5 +92,5 @@ vocabulary and idioms.
 
 I certainly made mistakes writing this post. Every feedback is welcomed!
 
-You can use the comments below and even [propose changes directly](https://github.com/oncletom/oncletom.io/tree/master/source/_posts/2013-travelling-book-of-reykjavik-campsite.md)
+You can use the comments below and even [propose changes directly](https://github.com/thom4parisot/thom4.net/tree/master/source/_posts/2013-travelling-book-of-reykjavik-campsite.md)
 on Github. Hugs!

@@ -27,7 +27,7 @@ Pour vous faire une autre idée d'Hadopi, loi Olivennes ou "Création et Interne
 *   [loi Hadopi sur Wikipédia](http://fr.wikipedia.org/wiki/Loi_Hadopi)
 *   [Riposte graduée : où sont les preuves ?](http://www.numerama.com/magazine/9872-Riposte-gradue-o-seront-les-preuves.html)
 *   [10 bonnes raisons de dire NON à la loi Hadopi](http://www.numerama.com/magazine/9854-10-bonnes-raisons-de-dire-NON-a-la-loi-Hadopi.html)
-*   [mes précédents articles sur les DRM et les verrous numériques](https://oncletom.io/tag/drm/)
+*   [mes précédents articles sur les DRM et les verrous numériques](https://thom4.net/tag/drm/)
 
 Juste comme ça, même l'Europe est contre cette loi. Youpi !
 

@@ -75,7 +75,7 @@ Le livre termine sur un comparatif des 14 points sur 10 sites, notation YSLow co
 
 ## La mise en pratique
 
-J'étais déjà sensibilité à presque tous les points pour avoir lu ces fameuses 14 règles en utilisant l'[extension YSlow et Firebug](https://oncletom.io/2007/12/25/bonnes-pratiques-firebug-developpement-web/). Cependant après la lecture du livre j'ai eu davantage de clés et des exemples probants pour me convaincre de les mettre en œuvre.
+J'étais déjà sensibilité à presque tous les points pour avoir lu ces fameuses 14 règles en utilisant l'[extension YSlow et Firebug](https://thom4.net/2007/12/25/bonnes-pratiques-firebug-developpement-web/). Cependant après la lecture du livre j'ai eu davantage de clés et des exemples probants pour me convaincre de les mettre en œuvre.
 
 On peut **appliquer la majorité des points et les points pertinents en 1 heure**. En effet, tout site ne peut se permettre d'utiliser un CDN pour accélérer les temps de réponse autour du globe.
 

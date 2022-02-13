@@ -20,7 +20,7 @@ categories:
 cover: /images/2009/08/reussir-son-blog-professionnel-2eme-edition-nq8.png
 ---
 
-La semaine dernière, j'ai appris qu'[une de mes photos avait été publiée dans Paris Match](https://oncletom.io/2009/11/08/paris-match-licence-photo/) ... sans me demander la permission. En attendant de recevoir un dédommagement de la part du journal, je me suis finalement dit qu'on se retrouvait finalement dans un cas bien précis évoqué dans «[Réussir son blog professionnel](http://reussir-son-blog.pro/)», à savoir le **respect des obligations légales**.
+La semaine dernière, j'ai appris qu'[une de mes photos avait été publiée dans Paris Match](https://thom4.net/2009/11/08/paris-match-licence-photo/) ... sans me demander la permission. En attendant de recevoir un dédommagement de la part du journal, je me suis finalement dit qu'on se retrouvait finalement dans un cas bien précis évoqué dans «[Réussir son blog professionnel](http://reussir-son-blog.pro/)», à savoir le **respect des obligations légales**.
 
 Je saisis donc l'occasion pour offrir la partie traitant des blogs et des obligations légales. Et même mieux, tout le chapitre dans lequel il est inclus : **gérer son blog au quotidien**. Vous êtes donc à 2 clics de savoir comment gérer un blog sans craindre de représaille juridique :-)
 
@@ -53,7 +53,7 @@ La partie «**obligations légales**» rappelle les fondamentaux, explique les l
 *   **Citation des sources**
 *   **Licences d'utilisation**
 
-J'ai grassé les parties relatives à ce qui a été contrarié par l'[utilisation frauduleuse de ma photo par Paris Match](https://oncletom.io/2009/11/08/paris-match-licence-photo/) (malgré toute la bonne volonté possible dont ils aient pu user). **Tous ces conseils s'appliquent en réalité à tout contenu partageable sur la Toile**, que ce soit photo, vidéo, audio ou texte.
+J'ai grassé les parties relatives à ce qui a été contrarié par l'[utilisation frauduleuse de ma photo par Paris Match](https://thom4.net/2009/11/08/paris-match-licence-photo/) (malgré toute la bonne volonté possible dont ils aient pu user). **Tous ces conseils s'appliquent en réalité à tout contenu partageable sur la Toile**, que ce soit photo, vidéo, audio ou texte.
 
 [download url="http://u.oncle-tom.net/telecharger-chapitre-5"]Réussir son blog professionnel : gérer son blog au quotidien[/download]
 

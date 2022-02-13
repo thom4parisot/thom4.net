@@ -19,7 +19,7 @@ categories:
 
 J'ai récemment passé mon poste de développement de Debian Testing vers Ubuntu 8.10\. Comme toute installation _from scratch_, il faut passer par la case configuration.
 
-J'ai déjà expliqué comment [modifier l'emplacement des données d'un serveur MySQL](https://oncletom.io/2008/05/04/modifier-emplacement-donnees-serveur-mysql/) mais cette fois-ci on va aller encore plus loin :
+J'ai déjà expliqué comment [modifier l'emplacement des données d'un serveur MySQL](/2008/05/04/modifier-emplacement-donnees-serveur-mysql/) mais cette fois-ci on va aller encore plus loin :
 
 *   on ne va pas toucher aux fichiers de configuration par défaut
 *   on va pouvoir conserver toute notre configuration sur une partition séparée
@@ -72,25 +72,25 @@ La seule étape par rapport à d'habitude c'est qu'on ne crée par les _Virtual 
 Admettons que je souhaite créer un _Virtual Host_ pour une instance locale de mon blog. Je vais procéder ainsi :
 
 ```bash
-gedit ~/conf/apache2/sites-available/oncletom.io
+gedit ~/conf/apache2/sites-available/thom4.net
 ```
 
 J'y ai placé une configuration somme toute minimaliste :
 
 ```
 <VirtualHost *:80>
-  ServerName local.oncletom.io
-  DocumentRoot /home/oncletom/workspace/oncletom.io
-  ErrorLog /var/log/apache2/error.oncletom.io.log
+  ServerName local.thom4.net
+  DocumentRoot /home/thom4/workspace/thom4.net
+  ErrorLog /var/log/apache2/error.thom4.net.log
   LogLevel warn
-  CustomLog /var/log/apache2/access.oncletom.io.log combined
+  CustomLog /var/log/apache2/access.thom4.net.log combined
   ServerSignature On
 </VirtualHost>
 ```
 
 ```bash
-sudo ln -s ~/conf/apache2/sites-available/oncletom.io /etc/apache2/sites-available/oncletom.io
-sudo a2ensite oncletom.io
+sudo ln -s ~/conf/apache2/sites-available/thom4.net /etc/apache2/sites-available/thom4.net
+sudo a2ensite thom4.net
 sudo service apache2 reload
 ```
 
@@ -101,7 +101,7 @@ On se fendra de l'ajout d'un hôte local dans le fichiers _hosts_ pour coller au
 ![](/images/2007/08/powered-by-mysql-167x86.png "Logo MySQL")
 
 Pour MySQL c'est un peu plus compliqué car on va également en profiter pour déplacer l'emplacement par défaut des données. Pourquoi ? Pour les placer sur une partition qui ne craindra pas les formattages et les réinstallation système.
-Si vous aviez déjà suivi ma [procédure de déplacement des données MySQL](https://oncletom.io/2008/05/04/modifier-emplacement-donnees-serveur-mysql/) : oubliez là. Celle-ci est largement plus aboutie.
+Si vous aviez déjà suivi ma [procédure de déplacement des données MySQL](/2008/modifier-emplacement-donnees-serveur-mysql/) : oubliez là. Celle-ci est largement plus aboutie.
 
 Avant de se jeter à corps perdu dans les manipulations, voici la démarche entreprise :
 
@@ -121,13 +121,13 @@ On y indique le nouvel emplacement de ses données MySQL :
 
 ```
 [mysqld]
-  datadir            = /home/oncletom/Apps/mysql
+  datadir            = /home/thom4/Apps/mysql
 ```
 
 ```bash
-mkdir /home/oncletom/Apps/mysql
-chown mysql:mysql /home/oncletom/Apps/mysql
-ln -s /var/lib/mysql/mysql /home/oncletom/Apps/mysql/mysql
+mkdir /home/thom4/Apps/mysql
+chown mysql:mysql /home/thom4/Apps/mysql
+ln -s /var/lib/mysql/mysql /home/thom4/Apps/mysql/mysql
 sudo gedit /etc/apparmor.d/usr.bin.mysql
 ```
 
@@ -143,8 +143,8 @@ par l'ancien chemin + le nouvel emplacement des données MySQL
 ```
 /var/lib/mysql/ r,
 /var/lib/mysql/** rwk,
-/home/oncletom/Apps/mysql/ r,
-/home/oncletom/Apps/mysql/** rwk,
+/home/thom4/Apps/mysql/ r,
+/home/thom4/Apps/mysql/** rwk,
 ```
 
 ```bash

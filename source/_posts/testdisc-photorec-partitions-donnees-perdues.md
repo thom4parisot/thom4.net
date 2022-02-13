@@ -11,7 +11,7 @@ categories:
 - WebDev
 ---
 
-[Cette semaine j'ai installé un PC sous Windows Vista édition familiale basique](https://oncletom.io/2007/04/15/hasta-la-vista/). Dire que la récupération des données fut un couac est un doux euphémisme. Non seulement Windows Vista ne m'a pas monté automatiquement le petit disque dur IDE de 10Go mais en plus _il a carrément fichu en l'air sa table de partitions_.
+[Cette semaine j'ai installé un PC sous Windows Vista édition familiale basique](https://thom4.net/2007/04/15/hasta-la-vista/). Dire que la récupération des données fut un couac est un doux euphémisme. Non seulement Windows Vista ne m'a pas monté automatiquement le petit disque dur IDE de 10Go mais en plus _il a carrément fichu en l'air sa table de partitions_.
 
 Résultat : **impossible de relancer l'ancien PC et impossible de lire les données sous Vista sans formater** (ingénieux non ?). Avant de me glisser la corde au cou, j'ai fait appel au duo d'applications à toujours avoir sur soi : [TestDisc](http://www.cgsecurity.org/wiki/TestDisk) et [PhotoRec](http://www.cgsecurity.org/wiki/PhotoRec).
 

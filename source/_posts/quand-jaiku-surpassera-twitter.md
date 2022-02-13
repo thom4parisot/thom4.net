@@ -14,7 +14,7 @@ categories:
 - WebDev
 ---
 
-[Cela fait maintenant plus d'1 an que j'utilise Twitter](https://oncletom.io/2007/06/01/twitter-gtwitter/). Passée l'appréhension du gadget puéril, je l'ai finalement converti en **outil de communication**, de **réseautage** et de **veille** ... comme beaucoup de ses utilisateurs d'ailleurs.
+[Cela fait maintenant plus d'1 an que j'utilise Twitter](https://thom4.net/2007/06/01/twitter-gtwitter/). Passée l'appréhension du gadget puéril, je l'ai finalement converti en **outil de communication**, de **réseautage** et de **veille** ... comme beaucoup de ses utilisateurs d'ailleurs.
 
 Seulement voilà, les pannes à répétition sont, à mon sens, en train de ruiner un service qui aurait pu être encore plus ravageur qu'il ne l'a été. Plusieurs concurrents s'y sont essayés, aucun ne l'a encore détrôné.
 
@@ -44,7 +44,7 @@ Et avec ça je tente de vous convaincre que Jaiku est mieux ? Et pourtant :
 
 ![Flux Flickr sur Jaiku](/images/2008/06/jaiku-flickr.png "Flux Flickr sur Jaiku")
 
-*   **automatisation de l'intégration de vos flux** (RSS, Twitter, Last.fm etc.) avec une présentation des plus sympathiques (exemple ci-dessus avec [Flickr, mon service photo préféré](https://oncletom.io/2008/03/18/flickr-le-site-ideal-pour-partager-ses-photos/))
+*   **automatisation de l'intégration de vos flux** (RSS, Twitter, Last.fm etc.) avec une présentation des plus sympathiques (exemple ci-dessus avec [Flickr, mon service photo préféré](https://thom4.net/2008/03/18/flickr-le-site-ideal-pour-partager-ses-photos/))
 *   une **interface Web beaucoup plus agréable** : identification facile des source des données, différenciation de nos messages et des flux aggrégés, filtrage des sources de flux
 *   une **API plus sécurisée** : [parce qu'il ne faut jamais, ô grand jamais donner son mot de passe](http://www.codinghorror.com/blog/archives/001128.html), cette hérésie est remplacée par une clé unique (mais malheureusement pas regénérable)
 *   les "channels" ou **groupes de discussion**. Ils facilitent la création de conversation liées à une thématique ou à des sites/services Web. Pratique pour éviter la schizophrénie du multi-compte.
@@ -74,6 +74,6 @@ Voici ce que j'aurais aimé voir sur Jaiku pour migrer définitivement dessus :
 *   **forte intégration dans Google** (Google News, Google Alerts, Gmail, Google Calendar, Google Talk/Jabber, iGoogle et widgets etc.)
 *   **utilisation de l'infrastructure Google** (on parle d'[App Engine](http://code.google.com/appengine/) entre autre)
 
-Après, ma seule crainte ce sont les [habituels travers de Google, abandon de service, manque de suivi et opacité de service](https://oncletom.io/2008/03/11/google-ange-demon-vie-numerique/).
+Après, ma seule crainte ce sont les [habituels travers de Google, abandon de service, manque de suivi et opacité de service](https://thom4.net/2008/03/11/google-ange-demon-vie-numerique/).
 
-Je garde bon espoir pour Jaiku. À tel point que je suis même en train de produire un [widget Netvibes](https://oncletom.io/code/netvibes/ "widget Netvibes pour Jaiku") pour _Jaikuter_ depuis n'importe où ;-)
+Je garde bon espoir pour Jaiku. À tel point que je suis même en train de produire un [widget Netvibes](https://thom4.net/code/netvibes/ "widget Netvibes pour Jaiku") pour _Jaikuter_ depuis n'importe où ;-)

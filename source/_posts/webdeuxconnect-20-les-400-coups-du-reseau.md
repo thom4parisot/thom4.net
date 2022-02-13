@@ -18,7 +18,7 @@ categories:
 cover: /images/2008/10/2934622938_d9392b5911_b.jpg
 ---
 
-J'ai été faire un tour à Paris samedi 11 octobre pour le Webdeux.connect. [Je vous en avais d'ailleurs parlé il y a 2 semaines](https://oncletom.io/2008/10/03/rendez-vous-octobre-novembre-web2-paris-web/). J'y allais pour réseauter et rencontrer des camarades de la Toile et je n'ai pas été déçu !
+J'ai été faire un tour à Paris samedi 11 octobre pour le Webdeux.connect. [Je vous en avais d'ailleurs parlé il y a 2 semaines](https://thom4.net/2008/10/03/rendez-vous-octobre-novembre-web2-paris-web/). J'y allais pour réseauter et rencontrer des camarades de la Toile et je n'ai pas été déçu !
 
 Enfin presque ;-)
 

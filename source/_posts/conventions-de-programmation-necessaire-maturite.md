@@ -61,7 +61,7 @@ Une chose est sure : quand on a essayé une belle
 
 [![Exemple de code PHP dans Eclipse](/images/2008/07/eclipse-php-code-sample.png "Exemple de code PHP dans Eclipse")](/images/2008/07/eclipse-php-code-sample.png)
 
-J'avoue, la notation utilisée dans [symfony](http://www.symfony-project.org/) m'a tellement plu que je la réutilise quasiment partout. Ci-dessus, une illustration montrant du code pour un [plugin Wordpress](https://oncletom.io/code/wordpress/) (en PHP 4 malheureusement ...). Elle en présente un bon aperçu.
+J'avoue, la notation utilisée dans [symfony](http://www.symfony-project.org/) m'a tellement plu que je la réutilise quasiment partout. Ci-dessus, une illustration montrant du code pour un [plugin Wordpress](/code/wordpress/) (en PHP 4 malheureusement ...). Elle en présente un bon aperçu.
 
 ### Notation
 
@@ -145,7 +145,7 @@ var OncleTom = {
 
 ![](/images/2008/02/css-folding.png "Folding en CSS")
 
-Inutile de paraphraser ce que j'ai déjà écris dans mon article sur les [bonnes pratiques de codage CSS](https://oncletom.io/2008/02/26/bonnes-pratiques-codage-css/).
+Inutile de paraphraser ce que j'ai déjà écris dans mon article sur les [bonnes pratiques de codage CSS](/2008/02/26/bonnes-pratiques-codage-css/).
 
 Deux lectures en une oui ;-)
 

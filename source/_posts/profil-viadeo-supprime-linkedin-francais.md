@@ -13,7 +13,7 @@ categories:
 
 [Viadeo](http://www.viadeo.com) est un **réseau social pour professionnels**. Il sert entre autre à organiser son réseau professionnel en ligne et à augmenter les opportunités de _business_.
 
-Pourtant [j'ai supprimé mon profil Viadeo en septembre 2008](http://twitter.com/oncletom/statuses/925864689) pour diverses raisons. Dont celle de la sécurité. Pourquoi ? Et comment remplacer Viadeo pour réseauter ?
+Pourtant [j'ai supprimé mon profil Viadeo en septembre 2008](http://twitter.com/thom4parisot/statuses/925864689) pour diverses raisons. Dont celle de la sécurité. Pourquoi ? Et comment remplacer Viadeo pour réseauter ?
 
 <!--more-->
 
@@ -30,7 +30,7 @@ Si l'on ne dispose pas d'un blog ou d'une page personnelle exprimant nos idées,
 *   un potentiel d'affaires supplémentaire
 
 Mettre à jour un statut ça paraît bête mais vous _poussez_ cette information à tout votre réseau. Ce même réseau le réceptionnera et sera capable de rebondir dessus, surtout s'il s'agit de recrutement. C'est du _statut à oreille_ au lieu du classique bouche à oreille.
-[Twitter est excellent](https://oncletom.io/2007/06/01/twitter-gtwitter/) de ce point de vue là, en plus d'être un excellent relais d'information.
+[Twitter est excellent](https://thom4.net/2007/06/01/twitter-gtwitter/) de ce point de vue là, en plus d'être un excellent relais d'information.
 
 ![Connaissances, partagées ou non](/images/2008/12/linkedin-shared-connections.png "Connaissances, partagées ou non")
 

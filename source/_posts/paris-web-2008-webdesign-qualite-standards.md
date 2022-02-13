@@ -46,7 +46,7 @@ Bien entendu, si la solution employée tient compte des performances et est faci
 Élie me faisait la remarque : **il faut vendre de la qualité et pas de l'accessibilité**. Il faut vendre un site qui rassure et guide le client. Si le site n'est déjà pas adapté aux individus sans déficiences, à quoi bon s'acharner à le rendre accessible ?
 Mieux vaut beaucoup de sites accessibles à 60% qu'une infime proportion de sites accessibles à 99%.
 
-Bon nombre de conseils sur l'optimisation des sites Web étaient déjà cités dans l'excellentissime [livre High Performances Websites](https://oncletom.io/2008/07/15/high-performance-web-sites/). L'équipe _Exceptional Performance_ de Yahoo! s'est toutefois penchée à fond sur l'optimisation des images.
+Bon nombre de conseils sur l'optimisation des sites Web étaient déjà cités dans l'excellentissime [livre High Performances Websites](https://thom4.net/2008/07/15/high-performance-web-sites/). L'équipe _Exceptional Performance_ de Yahoo! s'est toutefois penchée à fond sur l'optimisation des images.
 J'y reviendrai d'ailleurs car j'ai découvert _pngnq_ et _pngcrush_. Ces 2 programmes sont d'une utilité redoutable pour compresser et optimiser vos PNG, notamment pour faciliter la transparence IE6 sans douleur.
 
 ![Chris Wilson](/images/2008/11/3043455147_c987a62922_z.jpg)
@@ -71,7 +71,7 @@ J'ai pour ma part assisté à :
 *   [Développement efficace avec les <span lang="en">frameworks <acronym title="Cascading Style Sheet">CSS</acronym></span>](http://www.paris-web.fr/2008/-samedi-15-novembre-technique-#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-frameworks_CSS)
 *   [<acronym title="Resource Description Framework" lang="en">RDF</acronym>a <abbr class="discret" title="versus" lang="en">vs</abbr> Microformats](http://www.paris-web.fr/2008/-samedi-15-novembre-technique-#hcalendar-Paris-Web_2008-15_novembre_2008-atelier-rdf_vs_microformats)
 
-La **rédaction Web était intéressante** même si je n'ai pas appris grand chose et j'en profitais pour terminer mes _slides_. Vous retrouverez tout le contenu de cette présentation dans le livre [l'écrit Web](https://oncletom.io/2008/01/08/ecrit-web-traitement-information-sur-internet/).
+La **rédaction Web était intéressante** même si je n'ai pas appris grand chose et j'en profitais pour terminer mes _slides_. Vous retrouverez tout le contenu de cette présentation dans le livre [l'écrit Web](https://thom4.net/2008/01/08/ecrit-web-traitement-information-sur-internet/).
 
 La **validation avancée des formulaires partait d'un bon principe** mais s'enfonçait inutilement dans certaines parties. À mon avis, expliquer chaque fonction (y compris celles du DOM) était une perte de temps.
 Conseil : charger ses slides ne rend pas pour autant l'information digeste. C'est pas un document Word.
