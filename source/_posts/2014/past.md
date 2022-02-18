@@ -38,7 +38,7 @@ No wonder why I have been a bit *lost*. Until september I always had to think ab
 
 **Commuting for fourty minutes in the underground is not something which made me happy**. Being swallowed every morning by the crowd in the corridors of Oxford Circus station tired me.
 
-Our offices move in June has been a good opportunity to relocate closeby, **at a walkable distance**. Almost too close from them but for some reason, I had a crush for [King’s Cross Square](http://everyday.thom4.net/search/label/King's%20Cross%20Square).
+Our offices move in June has been a good opportunity to relocate closeby, **at a walkable distance**. Almost too close from them but for some reason, I had a crush for [King’s Cross Square](https://thom4.net/photography/everyday/search/label/King's%20Cross%20Square).
 
 [![12th of January 2014 on King’s Cross Square](/images/2014/12th-of-january.jpg)](http://instagram.com/p/jEPeFpBfs6/)
 

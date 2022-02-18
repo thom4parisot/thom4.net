@@ -23,4 +23,4 @@ En découvrant [Pleroma](https://pleroma.social/) — une implémentation compat
 
 J'ai pas tout compris à tout (je ne suis pas familier avec l'écosystème [Elixir](https://elixir-lang.org))… mais j'ai appris des choses en lisant la doc, [en demandant de l'aide](https://forum.alwaysdata.com/viewtopic.php?pid=21050), en farfouillant dans le code source, et en inspectant le contenu de la base de données.
 
-Bref, [@thomas@masto.thom4.ne](https://masto.thom4.ne/thomas).
+Bref, [@thomas@masto.oncletom.io](https://masto.oncletom.io/thomas).
