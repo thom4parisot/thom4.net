@@ -1,6 +1,6 @@
 title: Node.js • Apprendre par la pratique
 lang: fr
-url: /node.js/
+url: https://apprendre-nodejs.fr/v1/
 image: /images/publications/nodejs-cover.png
 description: |
   Un ouvrage de 450 pages pour (re)découvrir
@@ -8,10 +8,10 @@ description: |
   Approfondis ta compréhension de la création d'applications web,
   d'outils en ligne de commande et l'outillage front-end avec plus de 500 exemples.
 
-  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#book"/></svg> [Lire le livre en ligne (gratuit)](/node.js/)
-  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#buy"/></svg> [Acheter le livre en librairie](https://www.placedeslibraires.fr/livre/9782212139938)
-  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#donate"/></svg> [Soutenir l'écriture avec un don](https://opencollective.com/nodebook)
-  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#html-tag"/></svg> [Parcourir le code source](https://github.com/oncletom/nodebook)
+  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#book"/></svg> [Lire le livre en ligne (gratuit)](https://apprendre-nodejs.fr/v1/#sommaire)
+  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#buy"/></svg> [~~Acheter le livre en librairie~~](https://www.placedeslibraires.fr/livre/9782212139938) (épuisé)
+  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#donate"/></svg> [Soutenir une 2^ème^ édition avec un don](https://opencollective.com/nodebook)
+  - <svg class="icon" aria-hidden><use xlink:href="/assets/icons.svg#html-tag"/></svg> [Parcourir le code source](https://github.com/thom4parisot/nodebook)
   {.read-more .is-discrete}
 testimonies:
 - J’ai bien aimé la façon dont on passe de la théorie à la pratique et la façon dont les infos importantes sont transmises.
