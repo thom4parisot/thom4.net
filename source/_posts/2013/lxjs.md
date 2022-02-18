@@ -27,7 +27,7 @@ Many people around me left LXJS with a huge smile on their face. And I must admi
 
 He compares his main area of expertise (translating) with his late learning field (JavaScript programming) through the concept of [linguistic relativity](https://vimeo.com/42744105).
 
-As a side note, I’m happy to have met him, as I've authored a [Chrome Packager Grunt task](https://github.com/oncletom/grunt-crx) based on his [npm module crx](https://github.com/jed/crx).
+As a side note, I’m happy to have met him, as I've authored a [Chrome Packager Grunt task](https://github.com/thom4parisot/grunt-crx) based on his [npm module crx](https://github.com/jed/crx).
 
 ## [Robert Nyman](http://robertnyman.com/)
 

@@ -43,7 +43,7 @@ It also surfaces I have been to fewer places in England and in Europe although I
 
 # Montage
 
-The video cover design is rendered in an HTML5 compatible web browser, with the help of [paper.js](http://paperjs.org/). The code is [available on GitHub](https://github.com/oncletom/everyday-sequence/blob/0e5cd9b1b20023eb6cdd974a41db52c111b8419f/src/renderers/sequence-faded.js#L30-L51).
+The video cover design is rendered in an HTML5 compatible web browser, with the help of [paper.js](http://paperjs.org/). The code is [available on GitHub](https://github.com/thom4parisot/everyday-sequence/blob/0e5cd9b1b20023eb6cdd974a41db52c111b8419f/src/renderers/sequence-faded.js#L30-L51).
 
 *Note to self*: I would have loved to be able to extract each slice of pixels from a combination of geometric shapes and  streamed images in multiple [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API). The result would have been assembled in a single canvas.
 

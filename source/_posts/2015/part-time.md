@@ -87,6 +87,6 @@ Well, I have a few other plans which I really wanted to do. Things which are har
 - to dive more into cheese making;
 - to practice and to improve my farming skills by volunteering at a [local organic farm](http://www.organiclea.org.uk/).
 
-But first, **I will resume and complete the writing of my [Node.js book](https://github.com/oncletom/nodebook)** (in French). More on this in an upcoming blog post. Especially to explain why it takes me so long.
+But first, **I will resume and complete the writing of my [Node.js book](https://github.com/thom4parisot/nodebook)** (in French). More on this in an upcoming blog post. Especially to explain why it takes me so long.
 
 *It is about time*.

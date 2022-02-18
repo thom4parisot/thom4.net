@@ -40,7 +40,7 @@ I personally use this process:
 
 - to deploy this blog;
 - to deploy a 3K+ pages static website with a 20 minutes build time and content indexation with [Algolia](https://www.algolia.com/);
-- to assemble an [Asciidoc based book](https://github.com/oncletom/nodebook) into a [website](https://thom4.net/node.js) and publisher-ready LibreOffice document.
+- to assemble an [Asciidoc based book](https://github.com/thom4parisot/nodebook) into a [website](https://apprendre-nodejs.fr/v1/) and publisher-ready LibreOffice document.
 
 ![](/images/2016/05/estonia-konsum.jpg)
 

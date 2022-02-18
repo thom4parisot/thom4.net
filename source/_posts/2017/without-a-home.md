@@ -27,7 +27,7 @@ Living without a home can be a great **boost of creativity** and can **foster ge
 
 [I left the BBC in December 2016](/2016/bbc/) after 4 years of employment and co-created the [_dtc innovation_ co-operative][dtc] with David and Clémentine.
 
-It happened I have been working on a [Node.js book](/node.js/) in the open for about 3 years and I took this life change as an opportunity **to dedicate time for the writing**.
+It happened I have been working on a [Node.js book](https://apprendre-nodejs.fr/v1/) in the open for about 3 years and I took this life change as an opportunity **to dedicate time for the writing**.
 
 Because our [co-op business][dtc] is new and I thought the book writing as a personal experience at first, I did not want to grant myself an income and to weigh too much financially on our structure so I thought of **living on my savings** from January to July.
 
@@ -185,10 +185,10 @@ Finally, I wish this write-up can feed the conversation with [Vincent](http://vi
 
 (and hopefully the book should be ready for July 😋)
 
-PS: many many people should be thanked for their help during this journey and well, this is exactly the intent of a [foreword](https://thom4.net/node.js/foreword/preamble.html#_remerciements) isn't it?
+PS: many many people should be thanked for their help during this journey and well, this is exactly the intent of a [foreword](https://apprendre-nodejs.fr/v1/foreword/preamble.html#_remerciements) isn't it?
 
 ![](/images/2017/04/bonne-retraite.jpg)
 
 [dtc]: https://dtc-innovation.org/
 [residency]: /2017/residence-nodejs/
-[nodebook-daily]: https://github.com/oncletom/nodebook/blob/master/DAILY.md
+[nodebook-daily]: https://github.com/thom4parisot/nodebook/blob/master/DAILY.md

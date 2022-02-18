@@ -43,7 +43,7 @@ J'ai peaufiné le [widget VCUB pour Netvibes annoncé en avril dernier](https://
 En parallèle, je me suis lancé dans un petit projet utilisant les données de VCUB avec [Node.js](http://nodejs.org/) et [CouchDB](http://couchdb.apache.org/). J'espère aboutir à des résultats en 2011.
 D'ici là, je dois accumuler des données, à la fois pour secouer les performances de la base NoSQL mais aussi pour arriver au résultat qui m'intéresse.
 
-En attendant, vous pouvez toujours _[forker](http://github.com/oncletom/uwa-vcub)_[ uwa-vcub sur Github](http://github.com/oncletom/uwa-vcub) ou [installer le widget VCUB sur votre page Netvibes](http://eco.netvibes.com/widgets/378209/vcub-disponibilite-des-velos).
+En attendant, vous pouvez toujours _[forker](http://github.com/thom4parisot/uwa-vcub)_[ uwa-vcub sur Github](http://github.com/thom4parisot/uwa-vcub) ou [installer le widget VCUB sur votre page Netvibes](http://eco.netvibes.com/widgets/378209/vcub-disponibilite-des-velos).
 
 ## Boulimie littéraire
 

@@ -27,7 +27,7 @@ On va donc décortiquer une **fonction qui sera appelée systématiquement sur t
 
 En attendant que j'en fasse un plugin à part entière un peu plus modulable, voici la démarche technique employée.
 
-[Tags : META keywords](https://gist.github.com/oncletom/5937716 "Tags : META keywords") : code est à copier/coller à la fin du fichier `functions.php` du thème employé sur votre installation de Wordpress.
+[Tags : META keywords](https://gist.github.com/thom4parisot/5937716 "Tags : META keywords") : code est à copier/coller à la fin du fichier `functions.php` du thème employé sur votre installation de Wordpress.
 
 ```php
 <?php

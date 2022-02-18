@@ -137,7 +137,7 @@ Well, I’ve never written so much code. So much tests. And neither had so much 
 - [thom4.net/talks](https://github.com/thom4parisot/talks): statically generated slides for my talks;
 - [elevator.rs](https://github.com/thom4parisot/elevato.rs): a cool collaboration with [@DavidBruant](https://twitter.com/davidbruant) to showcase a lift simulator at [Mozilla Festival](http://mozillafestival.org/) and [FranceJS.in(Toulouse)](http://lanyrd.com/2013/francejs/);
 - [Chrome FIP](https://github.com/thom4parisot/chrome-fip): a Chrome extension to listen to the excellent [FIP Radio](http://www.fipradio.fr));
-- [emunova.net](https://github.com/thom4parisot/emunova.net) and [data.emunova.net](https://github.com/oncletom/data.emunova.net): [a statically generated collaborative website I blogged about last year](/2013/collaborative-website-as-an-archive/)
+- [emunova.net](https://github.com/thom4parisot/emunova.net) and [data.emunova.net](https://github.com/thom4parisot/data.emunova.net): [a statically generated collaborative website I blogged about last year](/2013/collaborative-website-as-an-archive/)
 - [content-edit](https://github.com/thom4parisot/content-edit): a nicer way than `contenteditable` to inline edit your content;
 - [input-search](https://github.com/thom4parisot/input-search): a jQuery plugin to polyfill the `input[type=search]` element.
 

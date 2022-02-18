@@ -36,7 +36,7 @@ The implementation will be done in 4 steps:
 1. Update the Extension icon
 1. Building our extension for various channels
 
-The final result is available as a [public Gist](https://gist.github.com/oncletom/6126549) and eventually looks like the following image.
+The final result is available as a [public Gist](https://gist.github.com/thom4parisot/6126549) and eventually looks like the following image.
 
 ![](https://thom4.net/images/2013/08/chrome-extension-channel-icons.png)
 

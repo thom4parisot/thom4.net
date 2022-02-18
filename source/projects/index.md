@@ -29,16 +29,16 @@ A frictionless UI powered by Angular and available in French and English.
 
 JavaScript API to work against complex domain names, subdomains and URIs.
 
-> [tld.js on Github](https://github.com/oncletom/tld.js)
+> [tld.js on Github](https://github.com/thom4parisot/tld.js)
 
 ## mailto
 
 Transform your HTML forms in beautiful mailto: links, form submission or XHR requests.
 
-> [mailto on Github](https://github.com/oncletom/mailto)
+> [mailto on Github](https://github.com/thom4parisot/mailto)
 
 ## grunt-crx
 
 Grunt task used to package private Chrome Extensions.
 
-> [grunt-crx on Github](https://github.com/oncletom/grunt-crx)
+> [grunt-crx on Github](https://github.com/thom4parisot/grunt-crx)

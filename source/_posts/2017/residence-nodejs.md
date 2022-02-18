@@ -146,7 +146,7 @@ Et pour finir, voici un résumé des ressources utiles :
 
 À bientôt et merci d'avance 😊.
 
-[web]: https://thom4.net/node.js
-[repo]: https://github.com/oncletom/nodebook
-[project]: https://github.com/oncletom/nodebook/projects/1
+[web]: https://apprendre-nodejs.fr/v1/
+[repo]: https://github.com/thom4parisot/nodebook
+[project]: https://github.com/thom4parisot/nodebook/projects/1
 [itineraire]: https://docs.google.com/spreadsheets/d/1LJ677G658kzU-4KTkiIwpvdE1mBE8CfuZgMjaD1r6z4/edit?usp=sharing

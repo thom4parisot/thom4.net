@@ -110,7 +110,7 @@ As a summary, I encouraged people to trust their guts, to accept shallow limits 
 
 ## What is Next?
 
-The conference gave the will the resurrect my [JSDoc to Markdown project](https://github.com/oncletom/grunt-jsdoc-md). I hope to have an interesting *Asciidoc to Open Office workflow* to share as well… and maybe some associated tools to write a book without opening neither Word nor LibreOffice.
+The conference gave the will the resurrect my [JSDoc to Markdown project](https://github.com/thom4parisot/grunt-jsdoc-md). I hope to have an interesting *Asciidoc to Open Office workflow* to share as well… and maybe some associated tools to write a book without opening neither Word nor LibreOffice.
 
 Many interesting discussions sparked about including **documentation as a quality metric**, as an **indicator of job done** and as a way to be automatically generated through commits, pull requests and why not as a *linter* you could apply as part of your CI process.
 Something lighter than [SDL Authoring Assistant](http://www.sdl.com/products/gams/) and more in the spirit of [eslint](https://github.com/eslint/eslint). But for commits/pull requests/documentation files.

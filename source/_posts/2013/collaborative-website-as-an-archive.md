@@ -106,10 +106,10 @@ When you think about it. This is exactly what enables Github with ~~code~~ conte
 
 ### Bootstrapping/Assembling Ideas/Code/Content
 
-The rework project started with [two](https://github.com/oncletom/emunova.net/commit/a51b15a20d964e7baa508d8660552d31cf45ef2e) [initial](https://github.com/oncletom/data.emunova.net/commit/9957411e285cd80c1bf54fd302ddf9abf9952f09) commits in Github repositories:
+The rework project started with [two](https://github.com/thom4parisot/emunova.net/commit/a51b15a20d964e7baa508d8660552d31cf45ef2e) [initial](https://github.com/thom4parisot/data.emunova.net/commit/9957411e285cd80c1bf54fd302ddf9abf9952f09) commits in Github repositories:
 
-- the [**data** repository](https://github.com/oncletom/data.emunova.net): folders to classify content, Markdown files for text, JSON files for pure metadata, images for illustrations.
-- the [**UI** repository](https://github.com/oncletom/emunova.net): an HTML scaffolder ([assemble](http://assemble.io)) that build Web pages and deploys them to Github Pages.
+- the [**data** repository](https://github.com/thom4parisot/data.emunova.net): folders to classify content, Markdown files for text, JSON files for pure metadata, images for illustrations.
+- the [**UI** repository](https://github.com/thom4parisot/emunova.net): an HTML scaffolder ([assemble](http://assemble.io)) that build Web pages and deploys them to Github Pages.
 
 Both npm modules. Both generating outputs. Data. Ready to be consumed data.
 
@@ -166,7 +166,7 @@ Builds are automated with [Travis CI][]. They last 8 minutes:
 
 This is serious improvement. It took roughly 30 minutes prior to this migration. Hugo _development server_ makes local development way easier.
 
-Details of the migration can be found in this [Pull Request](https://github.com/oncletom/emunova.net/pull/52).
+Details of the migration can be found in this [Pull Request](https://github.com/thom4parisot/emunova.net/pull/52).
 
 ## What’s Next?
 

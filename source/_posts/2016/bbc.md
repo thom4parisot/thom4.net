@@ -206,6 +206,6 @@ Two questions need an answer:
 1. _where to next?_ I will remain based in London;
 2. _what next?_ This, requires a more ample answer but in the meantime, keep an eye on [dtc-innovation.org](https://dtc-innovation.org).
 
-I will now take a **two weeks break** before resuming my work on [my french Node.js book](/node.js) during a nomad residency.
+I will now take a **two weeks break** before resuming my work on [my french Node.js book](https://apprendre-nodejs.fr/v1/) during a nomad residency.
 
 _Ciao_!
