@@ -20,7 +20,7 @@ J'ai envoyé une [boîte de cookies](https://www.mercicookie.com/) à deux perso
 
 L'une d'entre elle répond (en partie) ceci :
 
-> C’est le genre de geste qui nous dit que ##notre boulot a du sens et qu’on est au bon endroit##, au bon moment, et ça c’est tellement précieux sur notre planète chamboulée…
+> C’est le genre de geste qui nous dit que ==notre boulot a du sens et qu’on est au bon endroit==, au bon moment, et ça c’est tellement précieux sur notre planète chamboulée…
 
 Ça m'a confirmé à quel point leur travail était invisibilisé, peu considéré et sur lequel les attentes d'efficacité étaient élevées.
 
