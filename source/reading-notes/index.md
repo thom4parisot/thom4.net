@@ -6,15 +6,14 @@ now:
     title: La salope éthique
     authors: [ Dossie Easton, Janet Hardy ]
     publication_year: 2013
-  - isbn: '9782848767659'
-    title: "La pensée blanche"
-    authors: [Lilian Thuram]
+  - isbn: '9781839760969'
+    title: "The Care Manifesto"
+    authors: [The Care Collective]
+    publication_year: 2021
+  - isbn: '9782492312007'
+    title: 'Décolonialité & Privilège'
+    authors: [Rachele Borghi]
     publication_year: 2020
-  - isbn: '9782366241662'
-    title: 'Peau'
-    authors: [Dorothy Allison]
-    subtitle: 'A propos de sexe, de classe et de littérature'
-    publication_year: 2015
 ---
 
 I use books as a **learning material**.
