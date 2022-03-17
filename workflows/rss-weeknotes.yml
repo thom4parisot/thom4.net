@@ -13,7 +13,7 @@ jobs:
         uses: actionsflow/axios@v1
         # see https://github.com/actionsflow/axios
         with:
-          url: https://masto.oncletom.io/api/v1/statuses
+          url: https://diaspodon.fr/api/v1/statuses
           method: POST
           bearer-token: ${{ secrets.MASTODON_PUBLISHING_TOKEN }}
           # see https://docs.joinmastodon.org/methods/statuses/
