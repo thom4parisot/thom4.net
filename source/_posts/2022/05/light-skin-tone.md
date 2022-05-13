@@ -12,13 +12,17 @@ Je crois que ça fait maintenant un peu plus d'une année que j'utilise la varia
 
 ---
 
-Utiliser 👍🏻, c'est une manière d'afficher [certains privilèges](/2020/12/02/privileges/) dont je reconnais la jouissance.
+Utiliser 👍🏻, c'est une manière d'afficher [certains privilèges](/2020/12/02/privileges/) dont je reconnais la jouissanc
+
+C'est une manière de situer mon point de vue, d'énoncer d'où je parle, d'embarquer une partie des facettes à travers lesquelles je me représente le monde.
 
 C'est une manière de dire : j'ai une assez bonne conscience de la place que je prends — et tout un tas d'angles morts qui me passent surement sous le nez.
 
 C'est une manière de dire : je sais que 👍 n'est pas neutre.
 
-C'est une manière de dire : je sais que 👍🏽, 👍🏾 et 👍🏿 demandent plus de travail pour être tranquille dans une assemblée de 👍.
+C'est une manière de dire : je sais que 👍🏽, 👍🏾 et 👍🏿 demandent plus de travail pour être tranquille dans une assemblée 
+
+C'est une manière de dire : j'oscille entre 👍, 👍🏻et 👍🏼 selon les sujets. C'est pas acquis. 
 
 ---
 
