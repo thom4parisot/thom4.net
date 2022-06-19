@@ -34,4 +34,6 @@ On aura soif bien avant que les bombes nous tombent dessus.
 
 [Une restriction en ##eau potable## a été lancée dans un village voisin](https://chabrillan.fr/alerte-sur-leau-potable/eaupotable2022/) dès le mois de mai.
 
-L'eau peine déjà à trouver le bout du robinet de certain·es habitant·es. Mi-juin. Deux mois plus tôt que "d'habitude".  
+L'eau peine déjà à trouver le bout du robinet de certain·es habitant·es. Mi-juin. Deux mois plus tôt que "d'habitude".
+
+Une situation qui se tend plus tôt, avec davantage de personnes à relier au réseau du fait d'une démographie continuellement positive depuis des années.
