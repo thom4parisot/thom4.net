@@ -1,9 +1,10 @@
 ---
-title: Dialogues en auto-stop
+title: "Faire du pouce : Crest ↦ Grand Échaillon"
 layout: journal
 categories:
   - Journal
   - Dialogues
+  - Auto-stop
 lang: fr-FR
 permalink: 2021/01/12/dialogues-auto-stop/
 date: 2021-01-12 21:12:21
@@ -24,7 +25,7 @@ Cette famille revient du Vercors, où parents et enfants s'initient au ski de fo
 
 La veille, c'était "le cochon". Iels ont acheté un animal à un petit éleveur, avec 3 autres familles. Iels étaient accompagnés par une personne qui leur a appris à tuer, découper et transformer l'animal.
 
-Ça leur tiendra l'année, jusqu'au prochain hiver. 
+Ça leur tiendra l'année, jusqu'au prochain hiver.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Dialogue avec deux auto-stoppeur·ses
+title: "Faire du pouce : Crest ↦ Valence"
 layout: journal
 categories:
   - Journal
@@ -8,8 +8,6 @@ lang: fr-FR
 permalink: 2019/11/18/dialogue-avec-deux-auto-stoppeur·ses/
 date: 2019-11-18 13:43:32
 ---
-
-<i>Ce dialogue a eu lieu lors d'un trajet entre Crest et  Valence</i>.
 
 Il et elle se rendent à Valence pour partir dans deux directions différentes : lui à Lyon, elle à Marseille.
 
