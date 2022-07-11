@@ -3,7 +3,8 @@ title: Alerte sur l'eau
 layout: journal
 categories:
   - Journal
-  - Dialogues
+  - Exploration
+  - Eau
 lang: fr-FR
 permalink: 2022/06/19/alerte-eau-potable/
 date: 2022-06-19 14:32:10
