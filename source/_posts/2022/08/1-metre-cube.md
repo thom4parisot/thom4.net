@@ -3,7 +3,7 @@ title: 1m3 tous les 10 jours
 layout: journal
 categories:
   - Journal
-  - Explorations
+  - Exploration
   - Eau
 lang: fr-FR
 permalink: 2022/08/05/1-metre-cube/
