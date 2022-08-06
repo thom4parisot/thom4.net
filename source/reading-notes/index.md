@@ -2,18 +2,20 @@
 layout: reading-notes
 title: Reading Notes
 now:
-  - isbn: '9782915635768'
-    title: La salope éthique
-    authors: [ Dossie Easton, Janet Hardy ]
+  - isbn: '9782070124749'
+    title: La grande transformation
+    subtitle: Aux origines politiques et économiques de notre temps
+    authors: [ Karl Polanyi ]
+    publication_year: 1944
+  - isbn: '9781859736548'
+    title: "Space Invaders"
+    subtitle: Race, Gender and Bodies Out of Place
+    authors: [Nirmal Puwar]
+    publication_year: 2004
+  - isbn: '9782266318594'
+    title: 'Le berceau des dominations'
+    authors: [Dorothée Dussy]
     publication_year: 2013
-  - isbn: '9781839760969'
-    title: "The Care Manifesto"
-    authors: [The Care Collective]
-    publication_year: 2021
-  - isbn: '9782492312007'
-    title: 'Décolonialité & Privilège'
-    authors: [Rachele Borghi]
-    publication_year: 2020
 ---
 
 I use books as a **learning material**.
