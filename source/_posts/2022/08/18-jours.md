@@ -18,9 +18,9 @@ date: 2022-08-13 08:49:12
 18 jours que je m'attends à être transpercé.\
 18 jours que je n'ai pas envie de le lire.\
 18 jours que je retiens ma respiration.\
-18 jours pour finalement répondre "OK, à demain".\
+18 jours pour finalement répondre "OK, à demain".
 
 18 jours de peur.\
-Des années de peur.\
+Des années de peur.
 
 Je te les rends, ça t'appartient.
