@@ -27,6 +27,6 @@ C'est une pensée en réseau que j'affectionne.
 
 > Je me sentirais peut-être coupable/responsable d’asséner ces pensées, ici j’ai l’impression que ça reste dilué et que les personnes qui viennent lire consentent à accepter de telles idées.
 
-Récemment, JJ me disait "la culpabilité sert à maquiller une honte, tu penses que ça maquille la honte de quoi ?".
+Récemment, mon thérapeute disait "la culpabilité sert à maquiller une honte, tu penses que ça maquille la honte de quoi ?".
 
 J'essaie de naviguer dans le sentiment d'authenticité : pourquoi je m'en éloigne ? Est-ce que je cherche à plaire ou à documenter ?

@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
   - Exploration
-  - Thérapie
+  - Émotions
 lang: fr-FR
 permalink: 2019/10/15/resistance-et-fatigue/
 date: 2019-10-15 22:47:07

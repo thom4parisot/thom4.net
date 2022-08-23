@@ -4,13 +4,13 @@ layout: journal
 categories:
   - Journal
   - Exploration
-  - Thérapie
+  - Émotions
 lang: fr-FR
 permalink: 2019/11/14/blessure-incomprehension/
 date: 2019-11-14 07:57:08
 ---
 
-Une session récente avec JJ a révélé une source de douleur importante dans mes dynamiques interpersonnelles : **le moment où je ne me sens pas compris**. D'autant plus lorsque j'y mets un enjeu, ou que j'entretiens un lien affectif fort avec cette personne.
+Une session récente avec un thérapeute a révélé une source de douleur importante dans mes dynamiques interpersonnelles : **le moment où je ne me sens pas compris**. D'autant plus lorsque j'y mets un enjeu, ou que j'entretiens un lien affectif fort avec cette personne.
 
 En pratique, je peux sentir une tension se former dans le thorax, voire ressentir une vague de tristesse au niveau des paupières.
 

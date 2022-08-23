@@ -4,13 +4,13 @@ layout: journal
 categories:
   - Journal
   - Exploration
-  - Thérapie
+  - Émotions
 lang: fr-FR
 permalink: 2019/08/09/sensibilite-aux-dissonances/
 date: 2019-08-09 14:29:57
 ---
 
-Lors de notre deuxième session avec JJ, l'idée émerge qu'une des choses qui alimente ma jauge de tristesse et/ou de malaise, c'est le vécu de la dissonance.
+Lors de notre deuxième session avec mon thérapeute, l'idée émerge qu'une des choses qui alimente ma jauge de tristesse et/ou de malaise, c'est le vécu de la dissonance.
 
 Quand il y a une différence entre les paroles et la musique.
 
