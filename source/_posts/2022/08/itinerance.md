@@ -24,7 +24,7 @@ Je frétille à l'approche de périodes où je ne sais pas où je serai. Cette p
 
 Je ne cherche pas à remplir le temps, et pourtant, je sens déjà qu'il manquera. Des moments chouettes appellent des moment chouettes.
 
-Et c'est en ce moment ce qui remplit mon cœur.\
+Ça me nourrit, ça me remplit le cœur.\
 Continuer à cheminer. Sentir.
 
 [itinérance1]: /2017/residence-nodejs/
