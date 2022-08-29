@@ -6,6 +6,8 @@ author: Thomas Parisot
 email: hi@thom4.net
 default_cover: https://thom4.net/images/thomas-parisot.jpg
 language: en
+timezone: Europe/Paris
+updated_option: empty
 keywords:
   - javascript
   - docker
