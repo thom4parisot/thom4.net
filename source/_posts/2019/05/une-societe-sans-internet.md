@@ -1,8 +1,10 @@
 ---
 title: Une société sans Internet
+layout: journal
 categories:
   - Journal
 lang: fr-FR
+permalink: 2019/05/26/une-societe-sans-internet/
 date: 2019-05-26 06:32:26
 ---
 
