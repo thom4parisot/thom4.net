@@ -20,6 +20,7 @@ tags:
   - collaboration
   - pain
   - levain
+  - itinérance
 cover: /images/2017/01/villa-cavrois-chairs.jpg
 date: 2017-01-11 10:00:00
 ---

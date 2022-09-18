@@ -3,6 +3,7 @@ title: Errance
 layout: journal
 categories:
   - Journal
+  - Itinérance
 lang: fr-FR
 permalink: 2022/09/06/errance/
 date: 2022-09-06 08:30:39

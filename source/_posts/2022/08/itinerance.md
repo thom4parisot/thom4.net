@@ -3,6 +3,7 @@ title: Itinérance
 layout: journal
 categories:
   - Journal
+  - Itinérance
 lang: fr-FR
 permalink: 2022/08/27/itinerance/
 date: 2022-08-27 17:52:04

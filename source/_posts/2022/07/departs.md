@@ -3,6 +3,7 @@ title: Départ(s)
 layout: journal
 categories:
   - Journal
+  - Itinérance
 lang: fr-FR
 permalink: 2022/07/23/departs/
 date: 2022-07-23 10:51:21

@@ -3,6 +3,7 @@ title: Bon retour
 layout: journal
 categories:
   - Journal
+  - Itinérance
 lang: fr-FR
 permalink: 2022/09/17/bon-retour/
 date: 2022-09-17 23:41:17
