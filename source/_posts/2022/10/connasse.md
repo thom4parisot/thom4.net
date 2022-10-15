@@ -3,7 +3,6 @@ title: Mais quelle connasse !
 layout: journal
 categories:
   - Journal
-  - Exploration
   - Interactions
 lang: fr-FR
 permalink: 2022/10/09/connasse/

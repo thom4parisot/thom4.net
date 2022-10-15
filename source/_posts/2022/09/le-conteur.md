@@ -3,6 +3,7 @@ title: Le conteur
 layout: journal
 categories:
   - Journal
+  - Itinérance
 lang: fr-FR
 permalink: 2022/09/27/le-conteur/
 date: 2022-09-27 22:50:32

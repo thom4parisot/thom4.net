@@ -3,6 +3,7 @@ title: Casser le Jouer
 layout: journal
 categories:
   - Journal
+  - Interactions
 lang: fr-FR
 permalink: 2022/08/09/casser-le-jouer/
 date: 2022-08-09 14:49:57
