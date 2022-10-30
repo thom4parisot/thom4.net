@@ -50,8 +50,10 @@ Bref, le décret d'application de la loi de bioéthique étant ~~censé entrer~~
 
 Je repartirai de ce rendez-vous un peu en colère, et avec une dissonance. Celle de la famille à deux — un père et une mère — qui se cache dans tous les recoins de ce parcours aux allures moderne et progressiste.
 
-Prochaine étape : rencontrer læ biologiste pour effectuer le prélèvement avant l'opération… et mon départ sur les routes fin juillet 2022.
+Prochaine étape : [rencontrer læ biologiste pour effectuer le prélèvement avant l'opération][biologiste]… et le [départ sur les routes][itinerance] fin juillet 2022.
 
 [CECOS]: https://fr.wikipedia.org/wiki/Centre_d%27%C3%A9tude_et_de_conservation_des_%C5%93ufs_et_du_sperme_humains
 [berceau des dominations]: https://cn2r.fr/portfolio/le-berceau-des-dominations-anthropologie-de-linceste/
 [podcast]: https://www.radiofrance.fr/franceculture/podcasts/serie-les-paillettes-journal-d-un-donneur-de-sperme
+[biologiste]: /2022/10/30/12-paillettes/
+[itinerance]: /2022/08/27/itinerance/
