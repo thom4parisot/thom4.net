@@ -10,7 +10,7 @@ permalink: 2022/10/30/12-paillettes/
 date: 2022-10-30 21:24:31
 ---
 
-L'ordonnance pour le rendez-vous avec læ biologiste du [CECOS] date du 29 décembre 2022.Le rendez-vous se déroulera le ~~23 mai 2022~~ 22 juin 2022.\
+L'ordonnance pour le rendez-vous avec læ biologiste du [CECOS] date du 29 décembre 2021.Le rendez-vous se déroulera le ~~23 mai 2022~~ 22 juin 2022.\
 Entre temps, j'aurais pratiqué une sérologie en laboratoire médical. On cherchera à s'assurer qu'il n'y aura pas de trace de HIV, syphilis ou hépatite dans mon sperme (et accessoirement, pour l'opération chirurgicale).
 
 Dans les instructions précisées sur l'ordonnance, il est recommandé une abstinence de 3 à 5 jours avant le rendez-vous, ainsi que de boire 1 litre d'eau la veille.
