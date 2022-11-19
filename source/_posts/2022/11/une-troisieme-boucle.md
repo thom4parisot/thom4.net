@@ -13,7 +13,8 @@ Une troisième boucle, [un troisième passage](/2022/10/29/une-deuxieme-boucle/)
 
 Crest. L'Argentière-la-Bessée. Vallouise. Lyon. Paris. Mareuil-sur-Aÿ. Manosque. Gap. Crest.
 
-Une opération, deux incisions. Une convalescence. Une re-ncontre[^1]. Des discussions passionnées au petit-déjeuner. Une première découverte du massif des Écrins. Une nouvelle équipe[^2]. Des retrouvailles inattendues. Un train de nuit. Une résidence de travail sur "l'argent". Une randonnée post-convalescence. Un restaurant étoilé.
+Une opération, deux incisions. Une convalescence. Une re-ncontre[^1]. Des discussions passionnées au petit-déjeuner. Une première découverte du massif des Écrins. [Une nouvelle 
+équipe][équipe]. Des retrouvailles inattendues. Un train de nuit. Une résidence de travail sur "l'argent". Une randonnée post-convalescence. Un restaurant étoilé.
 
 Le sillon interne s'est prononcé[^3] :
 
@@ -50,8 +51,8 @@ Ces lectures qui m'ont accompagné :
 [Qui a tué mon père]: https://www.seuil.com/ouvrage/qui-a-tue-mon-pere-edouard-louis/9782021399431
 [Dans l'atelier du monde]: https://www.lesbonscaracteres.com/livre/dans-latelier-du-monde
 [L'anomalie]: https://www.gallimard.fr/Catalogue/GALLIMARD/Blanche/L-anomalie
+[équipe]: https://larlet.fr/david/2021/03/17/
 [^1]: j'aime beaucoup l'idée de rencontrer plusieurs fois une "même" personne au cours de sa vie.
-[^2]: [David](https://larlet.fr/david/) a écrit un truc, un jour, sur le fait qu'une nouvelle recrue constitue une _nouvelle équipe_, car les dynamiques changent, on réapprend à travailler autrement — sur le même projet/produit. Mais je ne retrouve plus le lien :-(
 [^3]: on peut le comprendre autant comme "s'affirmer" que "énoncer une décision".
 [^4]: seul·e face au miroir, enclin‧e à se trouver moche. Face au miroir que l'autre nous tend, enclin‧e à se refléter le beau.
 [^5]: chandails 😬
