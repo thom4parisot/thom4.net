@@ -12,7 +12,7 @@ Je ne le sais pas encore : ça sera un plan séquence.\
 Neuf minutes en noir et blanc.
 
 On te regarde arriver. T'asseoir.\
-Répondre à une première question. "Sophie Lavoie" nous dis-tu, en nous regardant dans les yeux. Ils pétillent. Force et assurance. Joie et tranquillité.
+Répondre à une première question. "Sophie Lavoie" nous dis-tu, en nous regardant dans les yeux. Ils pétillent. Force et assurance et tranquillité.
 
 Les questions te déstabilisent. Une dissonance s'opère.\
 Les questions se glissent sous ta peau.\
@@ -23,7 +23,7 @@ La tranquillité s'éclipse.\
 Le sourire s'en va.\
 L'insouciance aussi.
 
-Neufs minutes en noir et blanc plus tard,\
+Neuf minutes en noir et blanc plus tard,\
 la salle ne dit plus rien.\
 Elle reste sans voix, sans toi, [Sophie Lavoie].
 
