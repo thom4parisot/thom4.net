@@ -14,8 +14,10 @@ My name is Thomas Parisot, I design **web software which make sense**.
 I am committed at creating a generous work environment, with your team.
 I work from home, in a rural environment and I'm happy to travel on site when it is relevant.
 
-People often call me *Tom*.
-My long lasting nickname *Oncle Tom* is a friendly pun to our *digital slavery*.
+<!-- People often call me *Tom*.
+My long lasting nickname *Oncle Tom* was a friendly pun to our *digital slavery* **BUT** I chose it at a time
+I was not well aware . I dropped this nickname in 2022. It took me _that_ amount of time to deconstruct
+colonialism enough. -->
 
 ## Values
 
