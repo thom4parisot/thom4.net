@@ -12,7 +12,11 @@ M qualifiait l'élément de "boîte où on clique partout".
 
 J'ai demandé "la modale ?". Dans ma tête, dissonance : en-dessous, c'est un élément HTML [`<dialog>`][dialog].
 
-Je ne savais pas pourquoi on parlait de "modale", ce qui distinguait ça d'une _pop-up_ (pas un magasin éphémère). Tu sais la nouvelle fenêtre qui s'ouvre, mais pas de la taille de l'écran. Format qui s'est évaporé avec son abus et l'inclusion de bloqueur de _pop-up_. Il y a bien dix années de ça. Peut-être quinze. Bien avant d'avoir besoin de les bloquer. Et que des anti-bloqueurs se créent. Pour refourguer de la publicité surtout. Encore plus fourbes, il y avait aussi les _pop-under_ : des _pop-up_ qui s'ouvraient, mais en-dessous, sans crier gare, qui t'attendaient au tournant. Tu découvrais après avoir fermé tes fenêtres (y'a une époque où on fermait nos fenêtres — avec le changement climatique on les garde ouverte, tant pis si on chauffe les oiseaux).
+Je ne savais pas pourquoi on parlait de "modale", ce qui distinguait ça d'une _pop-up_ (pas un magasin éphémère). Tu sais la nouvelle fenêtre qui s'ouvre, mais pas de la taille de 
+l'écran. Format qui s'est évaporé avec son abus et l'inclusion de bloqueur de _pop-up_. Il y a bien dix années de ça. Peut-être quinze. Bien avant d'avoir besoin de les bloquer. Et 
+que des anti-bloqueurs se créent. Pour refourguer de la publicité surtout. Encore plus fourbes, il y avait aussi les _pop-under_ : des _pop-up_ qui s'ouvraient, mais _en-dessous_, 
+sans crier gare, qui t'attendaient au tournant. Tu découvrais après avoir fermé tes fenêtres (y'a une époque où on fermait nos fenêtres — avec le changement climatique on les garde 
+ouvertes, tant pis si on chauffe les oiseaux/_twitter_).
 
 Les modales donc.
 
