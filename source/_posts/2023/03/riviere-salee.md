@@ -39,4 +39,4 @@ le dire puis l'écrire libère déjà de la place\
 *j'aurai besoin de temps, perché dans mon nid*\
 larmes et encre coulent,\
 larmes cool\
-encre sèche.
+l'encre sèche.
