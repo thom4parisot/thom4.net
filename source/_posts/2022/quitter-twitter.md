@@ -22,7 +22,7 @@ Twitter, c'est là que je retrouve les gens rencontrés lors de conférences, d'
 
 Twitter, c'est là que je trouve de la sérendipité. Sans chercher, sans efforts, je découvre de chouettes articles sur le développement web, sur des luttes anti-discriminations, des facettes d'histoires, ainsi que tout ce qui fascine, émerveille ou enrage les personnes que je suis.
 
-[J'ai quitté Facebook][quit-facebook], LinedIn, Flickr et Instagram sans regrets. Twitter, *ça résistait*.
+[J'ai quitté Facebook][quit-facebook], LinkedIn, Flickr et Instagram sans regrets. Twitter, *ça résistait*.
 
 # Des raisons de partir
 
