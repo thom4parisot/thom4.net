@@ -24,6 +24,8 @@ Quand on demandait à Julie pourquoi elle était venue, si c'était sa première
 
 En repartant on se disait en rigolant : quand est-ce qu'on remet ça — ce plaisir de se retrouver, et de progresser sur ce qui nous questionne avec des personnes de qualité ?
 
+![](/images/2023/06/jardin-des-plantes.jpg "Allongé dans l'herbe au jardin des plantes")
+
 [les débuts]: https://www.autrement.com/les-debuts/9782746761308
 [forum ouvert]: https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert
 [bouconne]: https://www.onf.fr/onf/+/acd::foret-domaniale-de-bouconne-la-nature-aux-portes-de-toulouse.html
