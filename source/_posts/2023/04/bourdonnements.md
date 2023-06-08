@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 2023/06/08/bourdonnements/
+permalink: 2023/04/07/bourdonnements/
 date: 2023-04-07 18:07:10
 ---
 
