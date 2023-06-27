@@ -5,7 +5,7 @@ categories:
   - Journal
 lang: fr-FR
 permalink: 2023/01/22/croissant-sur-la-table/
-date: 2023-06-27 10:42:54
+date: 2023-01-22 10:42:54
 ---
 
 Un croissant est posé sur la table.

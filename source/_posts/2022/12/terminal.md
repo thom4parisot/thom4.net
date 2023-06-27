@@ -5,7 +5,7 @@ categories:
   - Journal
 lang: fr-FR
 permalink: 2022/12/07/terminal/
-date: 2023-06-27 11:14:19
+date: 2022-12-07 11:14:19
 ---
 
 En descendant du train,\

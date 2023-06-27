@@ -5,7 +5,7 @@ categories:
   - Journal
 lang: fr-FR
 permalink: 2023/01/29/dire-au-revoir/
-date: 2023-06-27 10:41:10
+date: 2023-01-29 10:41:10
 ---
 
 <q>Comment se passent tes derniers jours ?</q>, <q>Est-ce que tu as pu faire tout ce que tu voulais ?</q> ou <q>j'aimerais bien partager un dernier moment</q> ponctuent les deux dernières semaines de cette séquence montréalaise.
