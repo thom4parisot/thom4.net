@@ -127,7 +127,7 @@ j'étais perdu.
 
 Tout droit,\
 une main rouge clignote.\
-est-ce qu'un main peut clignoter ?\
+est-ce qu'une main peut clignoter ?\
 pour signifier <q>vas-y, tu peux tu passer ?</q>\
 c'est le passage qu'on avait emprunté avec E,\
 <q>t'inquiète, je suis directe et honnête</q>\
