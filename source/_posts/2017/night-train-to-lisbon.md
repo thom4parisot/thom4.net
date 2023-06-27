@@ -23,7 +23,7 @@ As boarding on a **_twenty_ hours train journey** was not unusual enough, I also
 
 Today we are Sunday June 18th 2017; the first Sunday of summer. The daylight will start to dim sooner and sooner every day. I woke up near  _Entroncamento_. The train was still on the move between Irún and Lisbon, between the France/Spain border and the western edge of Europe.
 
-I boarded on this journey thanks to [Béatrice](https://twitter.com/glovesmore). Béa, one day you told me about your train journey from Bordeaux to Lisbon. "_Just_" for the week-end. I _did not_ understand why you spent more time on a train rather than visiting the final destination itself.
+I boarded on this journey thanks to [Claude](https://twitter.com/glovesmore). One day, you told me about your train journey from Bordeaux to Lisbon. "_Just_" for the week-end. I _did not_ understand why you spent more time on a train rather than visiting the final destination itself.
 But I understood you loved it. This entire experience. You even wrote a song out of it,  _Railroad Club_. About your need _to feel true to yourself_ and to take **the one last night train** to _Santa Apolonia_.
 
 {% soundcloud capt-lovelace/railroad-club %}
