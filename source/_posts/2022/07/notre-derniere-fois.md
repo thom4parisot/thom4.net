@@ -3,6 +3,7 @@ title: Souviens-toi… l'été dernier
 layout: journal
 categories:
   - Journal
+  - Lettre à F.
 lang: fr-FR
 permalink: 2022/07/24/notre-derniere-fois/
 date: 2022-07-24 18:19:04

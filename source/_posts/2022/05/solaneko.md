@@ -3,6 +3,7 @@ title: Solaneko
 layout: journal
 categories:
   - Journal
+  - Lettre à F.
 lang: fr-FR
 permalink: 2022/05/15/solaneko/
 date: 2022-05-15 12:26:34
