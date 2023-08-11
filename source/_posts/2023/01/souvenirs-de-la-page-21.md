@@ -35,12 +35,12 @@ Et pourtant. Page 21.
 > Je demeurai là un moment, immobile, pétrifié, regardant avec horreur la poêle mal cachée sous la serviette et le sourire inquiet, coupable, de ma mère, puis j'éclatais en sanglots et m'enfuis.
 > Au bout de l'avenue Shakespeare où nous habitions alors, il y avait un remblai presque vertical qui dominait le chemin de fer, et là que je courus me cacher. L'idée de me jeter sous un train et de me dérober ainsi à ma honte et à mon impuissance me passa par la tête, mais, presque aussitôt, une farouche résolution de redresser le monde et de le déposer un jour aux pieds de ma mère, heureux, juste, digne d'elle, enfin, me mordit au cœur d'une brûlure dont mon sang charria le feu jusqu'à la fin. Le visage enfoui dans mes bras, je me le laissai aller à ma peine, mais les larmes, qui me furent si souvent si clémentes, ne m'apportèrent cette fois aucune consolation. Un intolérable sentiment de privation, de dévirilisation, presque d'infirmité, s'empara de moi ; au fur et à mesure que je grandissais, ma frustration d'enfant et ma confuse aspiration, loin de s'estomper, grandissaient avec moi et se transformaient peu à peu en un besoin que ni femme ni art ne devaient plus jamais suffire à apaiser.
 > J'étais en train de pleurer dans l'herbe, lorsque je vis ma mère apparaître en haut du talus. Je ne sais comment elle avait découvert l'endroit : personne n'y venait jamais. Je la vis se baisser vers moi, ses cheveux gris pleins de lumière et de ciel. Elle vint s'asseoir à côté de moi, son éternelle gauloise à la main.
-> - Ne pleure pas.
-> - Laisse-moi.
-> - Ne pleure pas. Je te demande pardon. Tu es un homme, maintenant. Je t'ai fait de la peine.
-> - Laisse-moi, je te dis !
+> – Ne pleure pas.
+> – Laisse-moi.
+> – Ne pleure pas. Je te demande pardon. Tu es un homme, maintenant. Je t'ai fait de la peine.
+> – Laisse-moi, je te dis !
 > Un train passa sur la voie. Il me parut soudain que c'était mon chagrin qui faisait tout ce fracas.
-> - Je ne recommencerai plus.
+> – Je ne recommencerai plus.
 > Je me calmai un peu. Nous étions assis sur le remblai tous les deux, les bras sur les genoux, regardant de l'autre côté. Il y avait une chèvre attachée à un arbre, un mimosa. Le mimosa était en fleurs, le ciel était très bleu, et le soleil faisait de son mieux. Je pensai soudain que le monde donnait bien le change. C'est ma première pensée d'adulte dont je me souvienne.
 
 La promesse de l'aube. Romain Gary. 1960.
