@@ -3,8 +3,7 @@ title: C'est difficile de dire
 layout: journal
 categories:
   - Journal
-  - Exploration
-  - Émotions
+  - Thérapie
 lang: fr-FR
 permalink: 2021/04/08/difficile-de-dire/
 date: 2021-04-08 17:09:04
@@ -35,5 +34,5 @@ Mon corps me dit. C'est difficile.
 ---
 
 C'est difficile de me dire, que mon corps refuse, que ça ne va pas aller mieux.
-\
+
 Ces personnes reconnaissent ensuite que ça ne va pas, que ça n'ira pas mieux.

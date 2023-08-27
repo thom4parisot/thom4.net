@@ -3,8 +3,7 @@ title: Réagir
 layout: journal
 categories:
   - Journal
-  - Exploration
-  - Émotions
+  - Thérapie
 lang: fr-FR
 permalink: 2020/11/14/reagir/
 date: 2020-11-14 19:39:58

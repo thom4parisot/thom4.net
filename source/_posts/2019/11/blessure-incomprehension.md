@@ -3,8 +3,7 @@ title: Se sentir blessé·e parce qu'incompris
 layout: journal
 categories:
   - Journal
-  - Exploration
-  - Émotions
+  - Thérapie
 lang: fr-FR
 permalink: 2019/11/14/blessure-incomprehension/
 date: 2019-11-14 07:57:08
