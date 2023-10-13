@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
 lang: fr-FR
-permalink: 2023/10/04/solidude/
+permalink: 2023/10/04/solitude/
 date: 2023-10-04 21:25:25
 ---
 
