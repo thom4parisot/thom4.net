@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
   - Exploration
-  - Ruralité
+  - Tiers-lieux
 lang: fr-FR
 permalink: 2019/09/16/ateliers-usine-vivante/
 date: 2019-09-16 08:24:01

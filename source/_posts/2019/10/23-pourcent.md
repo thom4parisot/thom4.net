@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
   - Exploration
-  - Ruralité
+  - Tiers-lieux
 lang: fr-FR
 permalink: 2019/10/08/23-pourcent/
 date: 2019-10-08 13:37:58
