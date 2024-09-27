@@ -53,4 +53,4 @@ jobs:
     # Index content
     - name: Index content on Algolia
       if: ${{ contains(github.event.head_commit.message, '[index]') }}
-      run: ./node_modules/.bin/hexo algolia --layouts page,reading-note --config _config.yml --indexing-key "${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}"
+      run: ./node_modules/.bin/hexo algolia --layouts page,reading-note --config _config.yml --indexing-key ${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}
