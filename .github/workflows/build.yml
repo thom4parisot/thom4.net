@@ -45,12 +45,11 @@ jobs:
         chmod +x mc
     - name: Setup mc
       run: ./mc alias set deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" "${{ secrets.MINIO_SECRET_ACCESS_KEY }}" --api S3v4
-    - uses: actions/download-artifact@v4
-      with:
-        name: dist
+
     - name: Transfer
       run: ./mc mirror --overwrite --delete --exclude 'talks/*' --exclude 'photography/*' ./public/ deuxfleurs/thom4.net/
 
+    # Index content
     - name: Index content on Algolia
       run: npm run index-content
       env:
