@@ -19,6 +19,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    environment:
+      name: production
+      url: https://thom4.net
+
     steps:
     # Setup
     - uses: actions/checkout@v4
@@ -32,42 +37,20 @@ jobs:
     - run: npm run build
       env:
         NODE_ENV: production
-    - uses: actions/upload-artifact@v4
-      with:
-        name: dist
-        path: ./public
-        retention-days: 1
 
-  deploy:
-    runs-on: ubuntu-latest
-    needs: [build]
-    environment:
-      name: production
-      url: https://thom4.net
-    steps:
+    # Deploy
     - name: Install mc
       run: |
         wget https://dl.min.io/client/mc/release/linux-amd64/mc
         chmod +x mc
     - name: Setup mc
-      run: ./mc alias deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" "${{ secrets.MINIO_SECRET_ACCESS_KEY }}" --api S3v4
+      run: ./mc alias set deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" "${{ secrets.MINIO_SECRET_ACCESS_KEY }}" --api S3v4
     - uses: actions/download-artifact@v4
       with:
         name: dist
     - name: Transfer
       run: ./mc mirror --overwrite --delete --exclude 'talks/*' --exclude 'photography/*' ./public/ deuxfleurs/thom4.net/
 
-  index:
-    runs-on: ubuntu-latest
-    needs: [build]
-    environment: alwaysdata
-    steps:
-    - uses: actions/checkout@v4
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version-file: '.nvmrc'
-    - run: npm ci
     - name: Index content on Algolia
       run: npm run index-content
       env:
