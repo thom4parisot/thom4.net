@@ -47,8 +47,10 @@ jobs:
       run: ./mc alias set deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" ${{ secrets.MINIO_SECRET_ACCESS_KEY }} --api S3v4
 
     - name: Transfer
-      run: ./mc mirror --preserve --overwrite --remove --exclude 'talks/*' --exclude 'photography/*' --summary --quiet ./public/ deuxfleurs/thom4.net/
+      if: ${{ contains(github.event.head_commit.message, '[deploy]') }}
+      run: ./mc mirror --preserve --overwrite --exclude 'talks/*' --exclude 'photography/*' --summary --quiet ./public/ deuxfleurs/thom4.net/
 
     # Index content
     - name: Index content on Algolia
+      if: ${{ contains(github.event.head_commit.message, '[index]') }}
       run: ./node_modules/.bin/hexo algolia --layouts page,reading-note --config _config.yml --indexing-key "${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}"
