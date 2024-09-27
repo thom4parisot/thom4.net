@@ -19,9 +19,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment:
-      name: alwaysdata
-      url: https://thom4.net
     steps:
     # Setup
     - uses: actions/checkout@v4
@@ -36,15 +33,27 @@ jobs:
       env:
         NODE_ENV: production
 
-    # Deploy
-    - name: Install SSH key
-      uses: shimataro/ssh-key-action@v2
-      with:
-        key: "${{ secrets.SSH_DEPLOY_KEY }}"
-        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
-    - run: npm run deploy
+  deploy:
+    runs-on: ubuntu-latest
+    needs: [build]
+    environment:
+      name: production
+      url: https://thom4.net
+    steps:
+    - name: Install mc
+      run: |
+        wget https://dl.min.io/client/mc/release/linux-amd64/mc
+        chmod +x mc
+    - name: Setup mc
+      run: ./mc alias deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" "${{ secrets.MINIO_SECRET_ACCESS_KEY }}" --api S3v4
+    - name: Transfer
+      run: ./mc mirror --overwrite --delete --exclude 'talks/*' --exclude 'photography/*' ./public/ deuxfleurs/thom4.net/
 
-    # Index
+  index:
+    runs-on: ubuntu-latest
+    needs: [build]
+    environment: alwaysdata
+    steps:
     - name: Index content on Algolia
       run: npm run index-content
       env:

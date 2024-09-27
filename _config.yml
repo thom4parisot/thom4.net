@@ -128,13 +128,3 @@ algolia:
   apiKey: '5caf0f682ba8349e8a67872b9edde3f3'
   indexName: 'prod_blog'
   chunkSize: 5000
-
-# Deployment
-## Docs: http://zespia.tw/hexo/docs/deploy.html
-deploy:
-  type: rsync
-  host: ssh-oncletom.alwaysdata.net
-  user: oncletom
-  root: ~/
-  delete: false
-  exclude: [.ssh, .bash*, .htaccess, talks, node_modules, bower_components]
