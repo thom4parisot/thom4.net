@@ -41,7 +41,7 @@ jobs:
     # Deploy
     - name: Install mc
       run: |
-        wget https://dl.min.io/client/mc/release/linux-amd64/mc
+        wget -sS https://dl.min.io/client/mc/release/linux-amd64/mc
         chmod +x mc
     - name: Setup mc
       run: ./mc alias set deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" ${{ secrets.MINIO_SECRET_ACCESS_KEY }} --api S3v4
