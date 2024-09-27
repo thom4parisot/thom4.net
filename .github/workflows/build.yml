@@ -51,6 +51,4 @@ jobs:
 
     # Index content
     - name: Index content on Algolia
-      run: npm run index-content
-      env:
-        HEXO_ALGOLIA_INDEXING_KEY: "${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}"
+      run: ./node_modules/.bin/hexo algolia --layouts page,reading-note --config _config.yml --indexing-key "${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}"
