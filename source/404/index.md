@@ -1,6 +1,7 @@
 ---
 title: Page Introuvable
 date: 2013-07-13 17:28:37
+permalink: 404.html
 ---
 
 Il semblerait que le contenu demandé n'existe plus sur le site.
