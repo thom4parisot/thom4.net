@@ -55,10 +55,7 @@ jobs:
       with:
         name: id_ed2551O
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        known_hosts: 'ssh-oncletom.alwaysdata.net ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMYE80baN21FB1CAKDMqQ5jY/K2a19Bu0A6fZtM2jlSM'
-
-    - name: Adding Known Hosts
-      run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+        known_hosts: ${{ secrets.SSH_KNOWN_HOST }}
 
     - name: Transfer
       run: rsync --compress --archive --stats --delete --exclude 'photography/*' --exclude 'talks/*' ./public/* ${{ secrets.SSH_HOST }}:./
