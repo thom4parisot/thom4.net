@@ -51,10 +51,12 @@ jobs:
     #   run: ./mc mirror --preserve --overwrite --exclude 'talks/*' --exclude 'photography/*' --summary --quiet ./public/ deuxfleurs/thom4.net/
 
     - name: Setup SSH
-      run: |
-        echo "${{ secrets.SSH_PRIVATE_KEY }}" | tee ~/.ssh/id_ed25519
-        chmod 0400 ~/.ssh/id_ed25519
-        ssh-keyscan -p 22 -H ${{ secrets.SSH_HOST }}  >> ~/.ssh/known_hosts
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Adding Known Hosts
+      run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
     - name: Transfer
       run: rsync --compress --archive --stats --delete --exclude 'photography/*' --exclude 'talks/*' ./public/* ${{ secrets.SSH_HOST }}:./
