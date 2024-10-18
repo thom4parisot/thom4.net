@@ -52,7 +52,7 @@ jobs:
 
     - name: Setup SSH
       run: |
-        echo ${{ secrets.SSH_PRIVATE_KEY }} > ~/.ssh/id_ed25519
+        tee ~/.ssh/id_ed25519 <<< $(echo ${{ secrets.SSH_PRIVATE_KEY }})
         chmod 0400 ~/.ssh/id_dsa
         ssh-keyscan -p 22 -H ${{ secrets.SSH_HOST }}  >> ~/.ssh/known_hosts
 
