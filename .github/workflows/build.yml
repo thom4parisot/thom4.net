@@ -39,18 +39,26 @@ jobs:
         NODE_ENV: production
 
     # Deploy
-    - name: Install mc
+    # - name: Install mc
+    #   run: |
+    #     wget --quiet https://dl.min.io/client/mc/release/linux-amd64/mc
+    #     chmod +x mc
+    # - name: Setup mc
+    #   run: ./mc alias set deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" ${{ secrets.MINIO_SECRET_ACCESS_KEY }} --api S3v4
+
+    # - name: Transfer
+    #   if: ${{ contains(github.event.head_commit.message, '[deploy]') }}
+    #   run: ./mc mirror --preserve --overwrite --exclude 'talks/*' --exclude 'photography/*' --summary --quiet ./public/ deuxfleurs/thom4.net/
+
+    - name: Setup SSH
       run: |
-        wget --quiet https://dl.min.io/client/mc/release/linux-amd64/mc
-        chmod +x mc
-    - name: Setup mc
-      run: ./mc alias set deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" ${{ secrets.MINIO_SECRET_ACCESS_KEY }} --api S3v4
+        echo ${{ secrets.SSH_PRIVATE_KEY }} > ~/.ssh/id_ed25519
+        chmod 0400 ~/.ssh/id_dsa
+        ssh-keyscan -p 22 -H ${{ secrets.SSH_HOST }}  >> ~/.ssh/known_hosts
 
     - name: Transfer
-      if: ${{ contains(github.event.head_commit.message, '[deploy]') }}
-      run: ./mc mirror --preserve --overwrite --exclude 'talks/*' --exclude 'photography/*' --summary --quiet ./public/ deuxfleurs/thom4.net/
+      run: rsync --compress --archive --stats --delete --exclude 'photography/*' --exclude 'talks/*' ./public/* ${{ secrets.SSH_HOST }}:./
 
     # Index content
     - name: Index content on Algolia
-      if: ${{ contains(github.event.head_commit.message, '[index]') }}
       run: ./node_modules/.bin/hexo algolia --layouts page,reading-note --config _config.yml --indexing-key ${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}
