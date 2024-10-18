@@ -53,9 +53,8 @@ jobs:
     - name: Setup SSH
       uses: shimataro/ssh-key-action@v2
       with:
-        name: id_ed2551O
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
-        known_hosts: ${{ secrets.SSH_KNOWN_HOST }}
+        key: "${{ secrets.SSH_PRIVATE_KEY }}"
+        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
 
     - name: Transfer
       run: rsync --compress --archive --stats --delete --exclude 'photography/*' --exclude 'talks/*' ./public/* ${{ secrets.SSH_HOST }}:./
