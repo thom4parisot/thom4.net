@@ -57,7 +57,7 @@ jobs:
         known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
 
     - name: Transfer
-      run: rsync --compress --archive --stats --delete --exclude 'photography/*' --exclude 'talks/*' ./public/* ${{ secrets.SSH_HOST }}:./
+      run: rsync --compress --archive --stats --delete --exclude 'photography/*' --exclude 'talks/*' ./public/* oncletom@${{ secrets.SSH_HOST }}:./
 
     # Index content
     - name: Index content on Algolia

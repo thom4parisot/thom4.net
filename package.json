@@ -10,7 +10,6 @@
   },
   "scripts": {
     "build": "hexo generate",
-    "deploy": "hexo deploy",
     "start": "hexo server --config _config.yml,_config.dev.yml",
     "new": "hexo new post",
     "new:journal": "./bin/new-journal-entry",
