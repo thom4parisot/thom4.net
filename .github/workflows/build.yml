@@ -54,7 +54,7 @@ jobs:
       uses: shimataro/ssh-key-action@v2
       with:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        known_hosts: AAAAC3NzaC1lZDI1NTE5AAAAIMYE80baN21FB1CAKDMqQ5jY/K2a19Bu0A6fZtM2jlSM
+        known_hosts: '|1|7RqRYlJyMkfRBLAAzuk6geL6x64=|cBAYMXQi6s5BR411gcsenB4FyLI= ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMYE80baN21FB1CAKDMqQ5jY/K2a19Bu0A6fZtM2jlSM'
 
     - name: Transfer
       run: rsync --compress --archive --stats --delete --exclude 'photography/*' --exclude 'talks/*' ./public/* ${{ secrets.SSH_HOST }}:./
