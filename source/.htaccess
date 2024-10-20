@@ -1,7 +1,7 @@
 # Redirection feeds
-RedirectTemp /music http://www.last.fm/user/the-jedi/
-RedirectTemp /music/ http://www.last.fm/user/the-jedi/
-RedirectMatch temp /code/(.*) https://github.com/oncletom/$1
+RedirectTemp /music http://www.last.fm/user/thom4parisot/
+RedirectTemp /music/ http://www.last.fm/user/thom4parisot/
+RedirectMatch temp /code/(.*) https://github.com/thom4parisot/$1
 RedirectPermanent /photos https://thom4.net/photography/
 RedirectPermanent /category/journal/ https://thom4.net/categories/journal/
 RedirectPermanent /journal/ https://thom4.net/categories/journal/
