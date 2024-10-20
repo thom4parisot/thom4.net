@@ -3,7 +3,8 @@ title: Table d'écriture
 layout: journal
 categories:
   - Journal
-  - Soutien
+  - Exploration
+  - Prisons
 lang: fr-FR
 permalink: 2023/10/13/table-ecriture-prisons/
 cover:

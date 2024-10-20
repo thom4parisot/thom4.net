@@ -3,7 +3,8 @@ title: Permis de visite
 layout: journal
 categories:
   - Journal
-  - Soutien
+  - Exploration
+  - Prisons
 lang: fr-FR
 permalink: 2024/03/08/permis-de-visite/
 date: 2024-03-08 11:24:09
@@ -27,7 +28,7 @@ Un appel téléphonique avec le service visites de prison fait également état 
 
 - justificatif de domicile.
 
-Une enquête sera menée. Elle déterminera si mon passé judiciaire entravera ou autorisera l’établissement du permis de visite. 
+Une enquête sera menée. Elle déterminera si mon passé judiciaire entravera ou autorisera l’établissement du permis de visite.
 
 Le consentement de la personne enfermée sera demandé.
 
