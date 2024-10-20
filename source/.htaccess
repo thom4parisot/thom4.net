@@ -2,7 +2,6 @@
 RedirectTemp /music http://www.last.fm/user/the-jedi/
 RedirectTemp /music/ http://www.last.fm/user/the-jedi/
 RedirectMatch temp /code/(.*) https://github.com/oncletom/$1
-RedirectPermanent /talks https://thom4.net/talks/
 RedirectPermanent /photos https://thom4.net/photography/
 RedirectPermanent /category/journal/ https://thom4.net/categories/journal/
 RedirectPermanent /journal/ https://thom4.net/categories/journal/
