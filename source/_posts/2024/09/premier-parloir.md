@@ -1,5 +1,5 @@
 ---
-title: Premier parloir
+title: Rendez-vous pour un premier parloir
 layout: journal
 categories:
   - Journal
