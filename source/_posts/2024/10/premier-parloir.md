@@ -10,14 +10,14 @@ permalink: 2024/10/29/premier-parloir/
 date: 2024-10-29 22:04:34
 ---
 
-La gare de Marseille Saint-Charles et son parvis lumineux. Je reconnecte à cette première rencontre il y a quelques années.\
+La gare de Marseille Saint-Charles et son parvis lumineux. Je reconnecte à cette première rencontre il y a quelques années.
 Cette fois, c’est le point de départ pour atteindre le centre pénitentière des Baumettes.
 
-Ça veut dire la ligne de métro 2 puis le bus 22 qui passe toutes les demi-heures. Ou alors le 22S, qui esquive les abords de la prison.
+Ça veut dire emprunter la ligne de métro 2 puis le bus 22. Fréquence de passage : toutes les 30 minutes. Ou alors le 22S, qui bifurque vers la fin pour esquiver les abords de la prison.
 
 La densité de la ville s’égraine au fil des arrêts. Le mont de Luminy se dévoile. Le rectiligne mur de la prison et sa guérite  se voient à distance dans la longue ligne droite du chemin de Morgiou.
 
-Il y a encore des trottoirs là où le bus nous dépose — ce n’est pas encore le bout de la ville. Les collines dominent la vue ; la fin n’est pas loin. 
+Il y a encore des trottoirs là où le bus nous dépose — ce n’est pas encore le bout de la ville. Les collines dominent la vue ; la fin n’est pas loin.
 
 On est deux à descendre. On se suit. Je suis le mur, l’entrée ne doit pas être très loin. Tout surprend : les indications sur les panneaux, le nombre de caméras de vidéosurveillance, l’identité des personnes sur ce même trottoir : passent-iels dans le coin ? Viennent-iels rendre visite ?
 
