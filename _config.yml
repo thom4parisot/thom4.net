@@ -131,3 +131,11 @@ algolia:
   applicationID: 'QIP7Z1PL3B'
   indexName: 'prod_blog'
   chunkSize: 5000
+
+deploy:
+  type: rsync
+  args: --exclude-from=.rsync-ignore
+  root: ./
+  delete: true
+  verbose: true
+  progress: true
