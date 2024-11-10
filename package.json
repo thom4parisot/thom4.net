@@ -10,6 +10,7 @@
   },
   "scripts": {
     "build": "hexo generate",
+    "predeploy": "NODE_ENV=production npm run build",
     "deploy": "hexo deploy",
     "start": "hexo server --config _config.yml,_config.dev.yml",
     "new": "hexo new post",
