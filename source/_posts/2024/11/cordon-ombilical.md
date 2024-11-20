@@ -10,11 +10,11 @@ permalink: 2024/11/20/cordon-ombilical/
 date: 2024-11-20 17:43:02
 ---
 
-Je suis fasciné par la biologie des embryons et du corps humain. On ne fait pas que _grandir_, on se transforme tout au long de notre vie. 
+Je suis fasciné par la biologie des embryons et du corps humain. On ne fait pas que _grandir_, on se transforme tout au long de notre vie.
 
 À commencer par la naissance, ce moment de bascule où le corps bascule d’une respiration aquatique vers une respiration aérienne.
 
-{% youtube https://www.youtube.com/watch?v=6BwM0SNubv0 %}
+{% youtube 6BwM0SNubv0 %}
 
 Une même veine peut comporter à la fois du sang oxygéné _et_ du sang carboné 🤯 la taille des veines et la densité du liquide font qu’ils ne se mélangent pas.
 
