@@ -4,7 +4,7 @@ layout: journal
 categories:
   - Journal
   - Exploration
-  - Parentalité
+  - Biologie
 lang: fr-FR
 permalink: 2024/11/20/cordon-ombilical/
 date: 2024-11-20 17:43:02
