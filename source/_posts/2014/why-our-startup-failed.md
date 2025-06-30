@@ -268,7 +268,7 @@ Since then? Well, not much. Apparently **saving a half million of public investm
 
 I have not been aware of any feedback *after* we got the money from funding. To verify everything was okay or even to connect us to other useful persons to fuel the growth.
 
-NO-THING.
+NOTHING.
 
 They only cared about us creating jobs in the region. When it was about unpaid employees suffering they did not give a shit. And for that, I am still very angry about this irresponsible behaviour.
 This experience gave me a dirty after taste of **how money can be more destructive than constructive**.
