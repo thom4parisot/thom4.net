@@ -36,6 +36,7 @@ code_dir: downloads/code
 feed:
   type: atom
   path: feed/index.xml
+  template: feed.template.xml
 
 # Writing
 new_post_name: :year/:title.md # File name of new posts
