@@ -42,6 +42,7 @@ Elle est accoudée religieusement le samedi matin à la table de la cuisine pour
 - Mais pourtant, je t'en mets sur la liste chaque semaine !
 
 ---{.spacer}
+
 L'apprentissage de la préparation de la ratatouille par son fils aîné fut tardif, vers ses trente ans. C'est pourtant surprenant de facilité. C'est long de cuire les courgettes, oignons, aubergines
 et d'ébouillanter les tomates pour les peler — la peau crée de l'amertume. Mais c'est tellement bon que ça se mange beaucoup plus vite que ça ne se prépare, alors que c'est encore meilleur une fois réchauffé.
 
@@ -65,6 +66,7 @@ La couleur de la moquette des chambres d'enfants sera bleue et verte. Ils choisi
 Dès que les roses du jardin sont en fleurs, un bouquet en décore la table de la cuisine. Son fils en a d'ailleurs offert un à sa maîtresse d'école. C'est *bien* d'être *bien* vu.
 
 ---{.spacer}
+
 Elle n'aime pas son voisin. Il la regarde bizarrement.
 
 ---{.spacer}
