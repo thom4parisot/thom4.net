@@ -3,6 +3,7 @@ title: Rivière salée
 layout: journal
 categories:
   - Journal
+  - Écriture
 lang: fr-FR
 permalink: 2023/03/05/riviere-salee/
 date: 2023-03-05 15:58:16

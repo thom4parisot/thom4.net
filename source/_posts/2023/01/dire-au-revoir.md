@@ -3,6 +3,7 @@ title: Dire au revoir
 layout: journal
 categories:
   - Journal
+  - Écriture
 lang: fr-FR
 permalink: 2023/01/29/dire-au-revoir/
 date: 2023-01-29 10:41:10

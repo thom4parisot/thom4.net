@@ -3,6 +3,7 @@ title: Un croissant sur la table
 layout: journal
 categories:
   - Journal
+  - Écriture
 lang: fr-FR
 permalink: 2023/01/22/croissant-sur-la-table/
 date: 2023-01-22 10:42:54
