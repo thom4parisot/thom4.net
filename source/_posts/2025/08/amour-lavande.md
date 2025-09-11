@@ -59,7 +59,7 @@ La vie ne sera plus jamais aussi insouciante.
 
 ---{.spacer}
 
-La couleur de la moquette des chambres d'enfants sera bleue et verte. Ils choisiront. Ailleurs, çae sera marron. Au mur, du papier peint légèrement texturé. C'est *bien*, comme ça.
+La couleur de la moquette des chambres d'enfants sera bleue et verte. Ils choisiront. Ailleurs, ça sera marron. Au mur, du papier peint légèrement texturé. C'est *bien*, comme ça.
 
 ---{.spacer}
 
