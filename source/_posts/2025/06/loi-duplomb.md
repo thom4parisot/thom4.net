@@ -50,7 +50,7 @@ Ou votre député‧e :
 - Lot-et-Garonne : [Hélène Laporte](https://www.assemblee-nationale.fr/dyn/deputes/PA794354) ;
 - Vaucluse : [Hervé de Lépinau](https://www.assemblee-nationale.fr/dyn/deputes/PA642988) ;
 - Rhône : [Jean-Luc Fugit](https://www.assemblee-nationale.fr/dyn/deputes/PA722366) ;
-- Seine-Saint-Denus : [Aurélie Trouvé](https://www.assemblee-nationale.fr/dyn/deputes/PA795164) ;
+- Seine-Saint-Denis : [Aurélie Trouvé](https://www.assemblee-nationale.fr/dyn/deputes/PA795164) ;
 - Meurthe-et-Moselle : [Dominique Potier](https://www.assemblee-nationale.fr/dyn/deputes/PA607553) ;
 - Aisne : [Julien Dive](https://www.assemblee-nationale.fr/dyn/deputes/PA712015) ;
 - Loir-et-Cher : [Marc Fesneau](https://www.assemblee-nationale.fr/dyn/deputes/PA719938) (ex-Ministre de l'Agriculture).
