@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782757842119"
 title: La convivialité
 in: "Oeuvres complètes, tome 1"
@@ -59,7 +58,7 @@ description: |
 
 > Nos rêves sont standardisés, notre imagination industrialisée, notre fantaisie  programmée. Nous ne sommes capables de concevoir que des systèmes hyperoutillés les habitudes sociales, adaptés à la logique de la production de masse. Nous avons quasiment perdu le pouvoir de rêver un monde où la parole soit prise et partagée, où personne ne puisse limiter la créativité d'autrui, où chacun puisse changer la vie.
 
-# L'industrialisation du manque
+### L'industrialisation du manque
 
 > Et moins on jouit de ce qui est devenu une nécessité, plus on ressent le besoin de le quantifier. Le besoin personnel devient un manque mesurable.
 
@@ -75,7 +74,7 @@ description: |
 
 > L'outil est convivial dans la mesure où chacun peut l'utiliser, sans difficulté, aussi souvent ou aussi rarement qu'il le désire, à des fins qu'il détermine lui-même. L'usage que chacun en fait n'empiète pas sur la liberté d'autrui d'en faire autant. Personne n'a besoin d'un diplôme pour avoir le droit de s'en servir ; on peut le prendre ou non. Entre l'homme et le monde, il est conducteur de sens, traducteur d'intentionnalité.
 
-# L'équilibre
+### L'équilibre
 
 > La dynamique du système industriel actuel fonde son instabilité : il est organisé en vue d'une croissance indéfinie, et de la création illimitée de besoins nouveaux. (…) La structure de la force productive façonne les relations sociales.
 
@@ -89,7 +88,7 @@ description: |
 > 4. La complexification des processus de production menace son droit à Ia parole, c'est-à-dire à la politique ;
 > 5. Le renforcement des mécanismes d'usure menace le droit de l'homme à sa tradition, son recours au précédent à travers le langage, le mythe et le rituel.
 
-# La dégradation de l'environnement
+### La dégradation de l'environnement
 
 > La solution à la crise écologique est que les gens saisissent qu'ils seraient plus heureux s'ils pouvaient travailler ensemble et prendre soin l'un. de l'autre.
 
@@ -97,7 +96,7 @@ description: |
 
 > Le rétablissement d'un équilibre écologique dépend de la capacité du corps social à réagir contre la progressive matérialisation des valeurs et leur transformation en tâches techniques. Faute de quoi l'homme se trouvera encerclé par les produits de son outillage, enfermé à huis clos.
 
-# Le monopole radical
+### Le monopole radical
 
 > L'école, elle aussi, peut exercer un monopole radical sur le savoir en le redéfinissant comme éducation. Aussi longtemps que les gens acceptent la définition de la réalité que leur donne le maître, les autodidactes sont officiellement étiquetés comme «non éduqués».
 
@@ -109,7 +108,7 @@ description: |
 
 > Il possible que le consommateur averti, qui choisit ses achats, vienne à découvrir qu'il s'en sort mieux en se débrouillant tout seul.
 
-# La surprogrammation
+### La surprogrammation
 
 > Dans certaines tribus, de petite taille et de cohésion, le savoir est partagé très équitablement entre la plupart des membres de la tribu. Chacun sait la plus grande part de ce que tout le monde sait. A l'étape ultérieure du pro cessus de civilisation, de nouveaux outils sont introduits, plus savent plus de choses, mais tout le monde ne sait plus faire toute chose également bien. La maîtrise, toutefois, n'implique pas encore le monopole de la compréhension : on peut avoir la compréhension de ce que fait un forgeron sans en être un soi on n'a pas besoin d'être cuisinier pour savoir comment on fait la cuisine.
 
@@ -129,7 +128,7 @@ description: |
 >
 > Ainsi prive-t-on les gens de leur aptitude naturelle à investir leur temps personnel dans la création de valeurs d'usage, et les oblige-t-on à un travail salarié : ils pourront alors échanger leurs salaires contre l'espace industriellement conditionné. On les prive aussi de la possibilité d'apprendre en construisant.
 
-# Polarisation
+### Polarisation
 
 > Lorsque s'effondre le pouvoir assis sur le savoir certifié de l'école, des formes plus antiques de ségrégation reviennent sur devant de la scène : la force de travail d'un individu vaut moins dès lors qu'il est noir, de sexe féminin, étranger, qu'il ne pense pas droit, ne peut passer certaines ordalies. (…)  Ainsi, le décor installé pour la multiplication des minorités et le développement spectaculaire de leurs revendications. Chacun réclamant son dû expose inévitablement la minorité dont il fait partie à être la victime de ses propres fins. (…) D'une part ces mouvements renforcent la croyance que les besoins d'une société égalitaire ne peuvent être satisfaits sans passer par un travail spécialisé et une hiérarchie bureaucratisée, de l'autre ils accumulent de fabuleux quantité de frustration que la moindre étincelle fera exploser.
 
@@ -137,7 +136,7 @@ description: |
 
 > La société industrielle ne résisterait pas à l'assaut d'un vigoureux mouvement des femmes, par exemple, qui réclamerait un travail égal pour chacun, sans distinction aucune. Toutes les classes, toutes les races comptent des femmes. Elles exercent la plupart de leurs activités quotidiennes de façon non industrielle. Les sociétés industrielles sont viables précisément parce les femmes sont là pour réaliser les tâches quotidiennes qui se dérobent à l'industrialisation. Mais une société régie par critères de l'efficience industrielle dégrade et dévalue le travail domestique. En fait, celui-ci deviendrait encore plus inhumain s'il entrait dans le monde industriel.  On imagine plus facilement l'Amérique du Nord cessant d'exploiter la sous industrialisation de l'Amérique latine que cessant d'affecter ses femmes aux corvées non industrialisables. L'expansion de l'industrie s'arrêterait si les femmes nous forçaient à reconnaître que la société n'est plus viable quand un seul mode de production exerce sa domination sur l'ensemble. Il est urgent de prendre conscience de la pluralité des modes de production chacun valable et respectable, qu'une société, pour être viable maîtres de Ia croissance industrielle. La croissance s'arrêterait si les femmes et les autres minorités éloignées du pouvoir exigeaient un travail également créatif pour chacun, au lieu de réclamer l'égalité des droits sur le méga-outillage manipulé jusqu'à maintenant par l'homme seul. Seule une structure de production qui protège l'égale répartition du pouvoir permet une égale jouissance de l'avoir.
 
-# L'usure (obsolescence)
+### L'usure (obsolescence)
 
 > L'innovation coûte cher ; pour justifier la dépense, le gestionnaire doit prouver qu'elle est un facteur de progrès. En tout état de cause, l'innovation périodique nourrit la croyance qui l'a engendrée, l'illusion ce qui est nouveau est mieux.
 

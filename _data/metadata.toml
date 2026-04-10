@@ -1,0 +1,25 @@
+title = 'Carnet web de Thomas Parisot'
+author = 'Thomas Parisot'
+url = 'https://thom4.net'
+domain = 'thom4.net'
+language = 'fr-FR'
+description = 'Écrits, photos et conférences de Thomas Parisot, développeur web indépendant.'
+
+[service]
+  message = """
+    **Chantier ouvert** : en 2026, je refonds ce site de A à Z.
+    C'est l'occasion de (ré)apprendre en faisant.
+    [Suivez la progression dans cette série d'articles](/writings/journal/#refonte-3-0).
+  """
+
+[social]
+  fediverse_creator = '@thom4@diaspodon.fr'
+  framagit = 'https://framagit.org/thom4parisot'
+  mastodon = 'https://diaspodon.fr/@thom4'
+  github = 'https://github.com/thom4parisot'
+  gitlab = 'https://gitlab.com/thom4parisot'
+  old = 'https://oncletom.io'
+  orcid = 'https://orcid.org/0000-0002-5817-3727'
+  pro = 'https://détour.studio'
+  signal = 'https://signal.me/#eu/n6TkQ-1rnWYwYveviRgI2WQkOD6F3Pw1-vOOuDDngvhfHKNWYDBMUpJQAKZgc7Kv'
+  x = 'thom4parisot'

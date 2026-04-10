@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const {choose, prompt, confirm} = require('promptly')
+const {choose, prompt} = require('promptly')
 const {spawnSync} = require('child_process')
 const {tmpdir} = require('os')
 const {join} = require('path')

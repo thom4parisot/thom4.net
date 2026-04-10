@@ -1,0 +1,74 @@
+---
+layout: base
+---
+
+<main class="writings writings--post" role="main" id="main"  lang="{{ lang }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+  <article class="h-entry post article {{ classNames }} container" aria-labelledby="post-title" aria-describedby="read" lang="{{ lang | default: metadata.language }}">
+    <header class="post__header">
+      <h1 id="post-title">
+        <span class="visuall-hidden">☕️</span>
+        Journal : {{ title -}}
+      </h1>
+    </header>
+
+    <div id="read" class="post__content post__content--text e-content" data-pagefind-body>
+      {{- content -}}
+    </div>
+  </article>
+
+  {% assign posts = collections.journal | where: 'data.serie', serie %}
+  {% assign post_index = posts | getCollectionItemIndex %}
+  {% assign posts_size = posts |size | minus: 1 %}
+  {% if serie and posts_size > 1 %}
+  <aside>
+    <h1>Dans la série <q>{{ serie }}</q></h1>
+
+    <ul>
+      {% assign nextPostsOffset = post_index | minus: 2 | at_least: 0 %}
+      {% assign nextPostsLimit = post_index | minus: nextPostsOffset | at_least: 0 | at_most: 2 %}
+      {% assign prevPostsOffset = post_index | plus: 1 | at_most: posts_size %}
+      {% assign prevPostsLimit = posts_size | minus: post_index | at_least: 0 | at_most: 2  %}
+
+      {% if nextPostsLimit %}
+        {% for post in posts offset:nextPostsOffset limit:nextPostsLimit %}
+        <li>1
+          <time datetime="{{ post.data.date | date: '%c' }}">
+            {{ post.data.date | date: '%B %Y' }}
+            <span class="visually-hidden">:</span>
+          </time>
+          <a href="{{ post.url }}" rel="bookmark next" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+        </li>
+        {% endfor %}
+      {% endif %}
+
+      <li>
+        <a rel="current">
+          {{ date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+          {{ title }}
+        </a>
+      </li>
+
+      {% if prevPostsLimit %}
+        {% for post in posts, offset:prevPostsOffset, limit:prevPostsLimit %}
+        <li>
+          <time datetime="{{ post.data.date | date: '%c' }}">
+            {{ post.data.date | date: '%B %Y' }}
+            <span class="visually-hidden">:</span>
+          </time>
+          <a href="{{ post.url }}" rel="bookmark prev" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+        </li>
+        {% endfor %}
+      {% endif %}
+      {% if posts_size > 5 %}
+      <li>
+          <a href="/writings/journal/#{{ serie | slugify }}">
+            Lire les {{ posts_size| plus:1 }} notes de la série
+            <q class="visually-hidden">{{ serie }}</q>
+          </a>
+      </li>
+      {% endif %}
+    </ul>
+  </aside>
+  {% endif %}
+</main>

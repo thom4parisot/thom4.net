@@ -1,3 +1,4 @@
+---
 title: Why We Don't Need Superstar Heroes
 date: 2013-07-15 13:15:00
 tags:

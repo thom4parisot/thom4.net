@@ -1,0 +1,26 @@
+<header>
+  <a href="/" class="home-link" rel="home">
+    <strong>{{ metadata.title }}</strong>
+  </a>
+
+  <nav aria-label="Menu principal" id="nav">
+    <ul aria-label="Menu principal" class="inline">
+      {% assign navPages = collections.all | eleventyNavigation %}
+      {% for entry in navPages %}
+      <li>
+        <a href="{{ entry.url }}"
+          {% if entry.parentKey == page.eleventyNavigation.key or entry.url == page.url or %} aria-current="page" class="current"{% endif %}
+        >
+          {{- entry.title -}}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  {% if metadata.service.message %}
+  <aside class="warning" aria-label="Message de service">
+    {{ metadata.service.message | renderContent: 'md' }}
+  </aside>
+  {% endif %}
+</header>

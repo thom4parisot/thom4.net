@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782845342316"
 title: Le littoral, la dernière frontière
 subtitle: Entretien avec Jean-Louis Violeau

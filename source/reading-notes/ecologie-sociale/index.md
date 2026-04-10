@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782351040584"
 title: "Qu'est-ce que l'écologie sociale ?"
 publication_year: 2012
@@ -14,7 +13,7 @@ description: |
   Mener une politique écologique appelle donc une mutation des rapports politiques au sein de la société : « protéger la nature » suppose l'émancipation sociale.
 ---
 
-# Préface
+### Préface
 
 > Il faut bien plutôt étudier les origines de la hiérarchie et de la domination si l'on veut porter remède au désastre écologique.
 
@@ -34,11 +33,11 @@ Gilets Jaunes, marches climatiques, même(s) combat(s).
 
 > Ce problème n'appartient pas en propre à notre époque. La sécheresse des étendues désertiques du Proche-Orient, berceau de l'agriculture et de l'urbanisme, témoigne d'une dilapidation humaine passée, mais cet exemple fait pâle figure en regard de la destruction massive de l'environnement accomplie depuis l'époque de la révolution industrielle, et surtout depuis la fin de la Seconde Guerre Mondiale.
 
-> Les connaissances et instruments matériels nécessaires pour promouvoir une nouvelle harmonie entre humanité et nature, et entre l'humain et l'humain, sont en grande partie à notre disposition ou <mark>facilement</mark> réalisables.
+> Les connaissances et instruments matériels nécessaires pour promouvoir une nouvelle harmonie entre humanité et nature, et entre l'humain et l'humain, sont en grande partie à notre disposition ou ==facilement== réalisables.
 
 Je vois souvent le mot "facilement" revenir dans les solutions à mettre en œuvre. Mais quelle vision pour un monde plus frugal, où l'abondance ne dépend pas de produits transformés, nocifs pour notre santé ? Il n'y a pas de politique à mes yeux si elle ne prend pas soin de la nature par défaut.
 
-> Marx (…) [soulignait] que la révolution qu'exigeait notre époque devait puiser sa poésie non dans le passé, mais dans l'avenir, dans <mark>le potentiel d'humanité gisant dans les profondeurs de la vie sociale</mark>.
+> Marx (…) [soulignait] que la révolution qu'exigeait notre époque devait puiser sa poésie non dans le passé, mais dans l'avenir, dans ==le potentiel d'humanité gisant dans les profondeurs de la vie sociale==.
 
 Le _design-fiction_ est un excellent outil qui va dans ce sens, je trouve. Créer un imaginaire dans lequel nous souhaitons voyager dans la vie.
 
@@ -91,7 +90,7 @@ Les projets pourraient être évalués sur leur "empreinte naturelle" : un bonus
 
 > Ce que nous pouvons espérer de l'écologie, celle de la nature comme celle de la société, c'est qu'elle nous apprenne à découvrir les courants et à comprendre leurs mouvements.
 
-> <mark>Ce qui confère à la conception écologique son caractère extraordinairement libérateur (…), c'est sa remise en cause des notions classiques de hiérarchie</mark>.
+> ==Ce qui confère à la conception écologique son caractère extraordinairement libérateur (…), c'est sa remise en cause des notions classiques de hiérarchie==.
 
 C'est une chose que je retrouve dans des groupes où la discussion est focalisée sur "faire des choses plus naturellement" (élever des êtres vivants, le travail, la prise en compte des émotions). Je me sens léger et enrichi.
 
@@ -101,11 +100,11 @@ Ce qui me pèse, ce sont les conversations déséquilibrées, l'accaparement de 
 
 Je suis fasciné par les [présentations sur les bactéries et champignons de Marc-André Sélosse](https://www.youtube.com/watch?v=jU7gYF5txc0). Jusqu'à la fusion de génomes entre les plantes et les champignons dans la chlorophyle.
 
-> On constate, chez les animaux et chez les plantes, <mark>une adaptation permanente qui leur permet de s'apporter (…) une aide réciproque</mark> (que ce soit par l'échange de fonctions biochimiques mutuellement bénéfiques ou dans le cas toujours spectaculaire d'une assistance physique) ; une perspective entièrement nouvelle s'ouvre ainsi sur la nature des écosystèmes, sur leur stabilité et leur développement.
+> On constate, chez les animaux et chez les plantes, ==une adaptation permanente qui leur permet de s'apporter (…) une aide réciproque== (que ce soit par l'échange de fonctions biochimiques mutuellement bénéfiques ou dans le cas toujours spectaculaire d'une assistance physique) ; une perspective entièrement nouvelle s'ouvre ainsi sur la nature des écosystèmes, sur leur stabilité et leur développement.
 
-> <mark>Plus une chaîne alimentaire est complexe et moins elle perd de sa stabilité lorsqu'une ou plusieurs espèces en sont retirées</mark>. D'où l'immense importance qu'il faut accorder à la complexité et à la diversité entre espèces à l'intérieur d'un système pris dans son ensemble.
+> ==Plus une chaîne alimentaire est complexe et moins elle perd de sa stabilité lorsqu'une ou plusieurs espèces en sont retirées==. D'où l'immense importance qu'il faut accorder à la complexité et à la diversité entre espèces à l'intérieur d'un système pris dans son ensemble.
 
-## Transposer notre société dans la nature
+### Transposer notre société dans la nature
 
 > Beaucoup de gens font preuve d'une touchante crédulité dans la manière qu'ils ont de considérer la nature comme une dimension de la société.
 > Les grondements de l'animal ne le rendent pas "méchant" ou "sauvage", pas plus qu'il ne se "conduit mal" ou qu'il ne "mérite" une punition simplement parce qu'il ne réagit pas de façon appropriée à certains stimuli.
@@ -130,13 +129,13 @@ Je ne me souviens plus où avoir entendu/lu que des études sur les singes males
 
 > Qui voudrait ressembler aux gibbons, paisibles, végétariens partageant leur nourriture chez qui les pères, lorsqu'il s'agit d'élever les enfants, y prennent une aussi grande part que les mères, et où chacun vit en petits groupes familiaux en dehors desquels on ne s'assemble guère ?
 
-> Existe-t-il des concepts capables de donner une signification commune, à la fois dans la nature et dans la société, à l'unité dans la diversité, à la spontanéité naturelle, aux rapports non-hiérarchiques ? (…) Et pourquoi ne pas introduire dans l'étude de la société d'<mark>autres notions écologiques</mark> (…) telles que la <mark>prédation et l'agression</mark> ?
+> Existe-t-il des concepts capables de donner une signification commune, à la fois dans la nature et dans la société, à l'unité dans la diversité, à la spontanéité naturelle, aux rapports non-hiérarchiques ? (…) Et pourquoi ne pas introduire dans l'étude de la société d'==autres notions écologiques== (…) telles que la ==prédation et l'agression== ?
 
 > La nature est une condition préalable au _développement_ de la société (…) au même titre que le sont la technique, le travail, le langage et la conscience.
 
 > (…) Marx exprime en fait un dédain de la nature en lui attribuant la notion patriarcale de "passivité" féminine. Les affinités entre la nature et la société sont plus agissantes qu'on ne serait enclin à l'admettre.
 
-> (…) je dirais qu'il est possible d'élaborer un "matérialisme historique" du développement naturel, qui ferait d'une nature _passive_ — "l'objet" du travail humain — une nature _active_, créatrice du travail humain. Le "métabolisme" du travail et de la nature <mark>fonctionne dans les deux sens</mark> (…)
+> (…) je dirais qu'il est possible d'élaborer un "matérialisme historique" du développement naturel, qui ferait d'une nature _passive_ — "l'objet" du travail humain — une nature _active_, créatrice du travail humain. Le "métabolisme" du travail et de la nature ==fonctionne dans les deux sens== (…)
 
 > Considérer un écosystème comme donné (…) est tout aussi antihistorique que de considérer une communauté humaine comme donnée.
 
@@ -146,7 +145,7 @@ Je ne me souviens plus où avoir entendu/lu que des études sur les singes males
 
 Les vidéos de Marc-André Sélosse ou de la microbiologie des sols des Bourguignon parlent d'elles-mêmes.
 
-## Spontanéité et mouvements sociaux
+### Spontanéité et mouvements sociaux
 
 > Les grandes périodes historiques de transition nous montrent qu'il faut laisser les flots montants du changement social trouver spontanément leur niveau.
 > Les organisations d'avant-garde ont provoqué des catastrophes répétées chaque fois qu'elles ont cherché à forcer des changements que le peuple et les conditions du temps n'étaient pas en mesure de soutenir matériellement, idéologiquement ou moralement.
@@ -161,11 +160,11 @@ Les vidéos de Marc-André Sélosse ou de la microbiologie des sols des Bourguig
 
 > Notre pensée elle-même est un processus naturel, tout en étant profondément conditionnée par la société et finalement modelée par l'évolution sociale.
 
-# Conclusions
+### Conclusions
 
 > En multipliant les points de contact avec la nature, sera-t-il possible de parvenir à un nouvel équilibre, moyennant le délicat ajustement de nos pratiques agricoles, de nos zones urbaines et de nos technologies aux conditions naturelles d'une région et de ses écosystèmes ?
 
-> Peut-on espérer "gérer" l'environnement naturel par une rigoureuse décentralisation de l'agriculture, qui permettrait de cultiver la terre comme s'il s'agissait d'un jardin dont une faune et une flore diversifiées maintiendraient l'équilibre ? (…) <mark>vers un nouvel équilibre entre ville et campagne</mark> ?
+> Peut-on espérer "gérer" l'environnement naturel par une rigoureuse décentralisation de l'agriculture, qui permettrait de cultiver la terre comme s'il s'agissait d'un jardin dont une faune et une flore diversifiées maintiendraient l'équilibre ? (…) ==vers un nouvel équilibre entre ville et campagne== ?
 
 > Les chaines alimentaires du sol et de la surface terrestre sont soumises à une cruelle agression due à la sotte application de techniques industrielles dans l'agriculture ; en conséquence de quoi le sol (…) est réduit au rôle d'éponge absorbant les substances chimiques "nutritives" simples.
 >
@@ -173,7 +172,7 @@ Les vidéos de Marc-André Sélosse ou de la microbiologie des sols des Bourguig
 
 > La division nationale du travail, uniformisée selon les critères de la grande industrie, efface les variations régionales et locales, transformant des continents entiers en d'immenses usines fumantes et les villes en des supermarchés où tout n'est que tape-à-l'œil et matières plastiques.
 
-> Mais nous ne pouvons nous défaire de nos liens si nous ne les connaissons pas. (…) <mark>L'Histoire domine chacun de nous d'autant plus fermement que nous restons dans l'ignorance à son sujet</mark>.
+> Mais nous ne pouvons nous défaire de nos liens si nous ne les connaissons pas. (…) ==L'Histoire domine chacun de nous d'autant plus fermement que nous restons dans l'ignorance à son sujet==.
 
 > De nos jours, ces deux héritages s'enchevêtrent et corrompent les modèles clairs qui existaient dans le passé, au point que le langage de la liberté devient interchangeable avec celui de la domination.
 

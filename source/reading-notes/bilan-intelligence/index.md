@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782844853752"
 title: Le bilan de l'intelligence
 publication_year: 1935

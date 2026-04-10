@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782330124144"
 title: La Fraternité, pourquoi ?
 publication_year: 2019
@@ -43,13 +42,13 @@ On m'a raconté que la vallée de la Drôme est aujourd'hui riche riche en entra
 
 Là aussi, la coopération des plus résitant·es nous emmène là où est aujourd'hui à une vallée verte et quadrillée de maraîchèr·es de qualité.
 
-> (…) <mark>la vie obéit à la relation indissoluble entre Concorde et Discorde</mark>, que nous pourrions aussi nommer relation indissoluble entre Eros, qui cherche toujours à <mark>unir</mark>, Polenos, qui cherche toujours à <mark>opposer</mark> et Thanatos, qui cherche toujours a <mark>détruire</mark>.
+> (…) ==la vie obéit à la relation indissoluble entre Concorde et Discorde==, que nous pourrions aussi nommer relation indissoluble entre Eros, qui cherche toujours à ==unir==, Polenos, qui cherche toujours à ==opposer== et Thanatos, qui cherche toujours a ==détruire==.
 
 J'aime à gagner ces 3 énergies qui sont en tension dans un groupe : création, compétition, dissolution.
 
 Je ne peux m'empêcher de le lier à la fin du [premier chapitre de dtc](/2019/histoires-arrivees-departs/). On en arrive là parce que l'Eros s'est atténué (ou cantonné au côté individuel), que le Polenos s'est invité petit à petit, pour aboutir à l'appel de Thanatos.
 
-> Entraide, coopération, association, union sont des composantes inhérentes à la fraternité humaine. Mais celle-ci les englobe, les enveloppe dans une <mark>chaleur affective</mark>.
+> Entraide, coopération, association, union sont des composantes inhérentes à la fraternité humaine. Mais celle-ci les englobe, les enveloppe dans une ==chaleur affective==.
 
 Les groupes dans lesquels je me suis épanoui étaient ceux où je me sentais le plus émotionnellement à l'aise.
 
@@ -67,9 +66,9 @@ La [dématérialisation/désintermédiation](/2019/07/27/dematerialisation-desin
 
 C'est que me rappelle la signification du [salut maya](https://l-unite.ning.com/photo/in-lakesh-je-suis-un-autre-toi-tu-est-un-autre-moi). Leur "bonjour" reviendrait à dire "je suis un autre toi, tu es un autre moi".
 
-> Tout d'abord se multiplient les <mark>autonomies individuelles ou communautaires pour échapper aux tentacules des puissances techno-économiques</mark>, comme dans l'utilisation d'énergies propres, dans la consommation des aliments échappant à la standardisation et à l'altération industrielles, dans l'abandon des achats de produits aux qualités mythifiées par la publicité et également celui d'objets utilitaires à obsolescence programmée (voitures, réfrigérateurs, ordinateurs), dans le renoncement au jetable au profit du durable, ce qui en même temps favoriserait un artisanat de réparation.
+> Tout d'abord se multiplient les ==autonomies individuelles ou communautaires pour échapper aux tentacules des puissances techno-économiques==, comme dans l'utilisation d'énergies propres, dans la consommation des aliments échappant à la standardisation et à l'altération industrielles, dans l'abandon des achats de produits aux qualités mythifiées par la publicité et également celui d'objets utilitaires à obsolescence programmée (voitures, réfrigérateurs, ordinateurs), dans le renoncement au jetable au profit du durable, ce qui en même temps favoriserait un artisanat de réparation.
 
-> Participent à la constitution d'oasis les développements de l'alimentation locale, saisonnière, fermière ou bio par détoxification des produits agro-industriels et élimination de ceux importés en hiver de l'hémisphère sud, l'abandon progressif des conserves industrielles pour la conservation domestique (fermentation, salaison, enveloppement de matière grasse). Tout cela <mark>favorise une agriculture régénératrice des sols</mark>, laquelle favorise les modes hygiéniques d'alimentation et les modes détoxifiés de consommation.
+> Participent à la constitution d'oasis les développements de l'alimentation locale, saisonnière, fermière ou bio par détoxification des produits agro-industriels et élimination de ceux importés en hiver de l'hémisphère sud, l'abandon progressif des conserves industrielles pour la conservation domestique (fermentation, salaison, enveloppement de matière grasse). Tout cela ==favorise une agriculture régénératrice des sols==, laquelle favorise les modes hygiéniques d'alimentation et les modes détoxifiés de consommation.
 
 > Ces oasis sont et seront lieux d'une économie solidaire, lieux de 1a dépollution et la détoxification des vies, donc lieux vie meilleure tout en étant lieux de solidarité  et de fraternité.
 

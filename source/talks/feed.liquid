@@ -1,0 +1,49 @@
+---
+permalink: /talks/feed/index.xml
+eleventyExcludeFromCollections: true
+layout: ~
+feed:
+  title: "My Blog about Boats"
+  description: "I am writing about my experiences as a naval navel-gazer."
+  language: "en"
+  base: "https://thom4.net"
+  author:
+    name: "Boaty McBoatFace"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ metadata.language | default: page.lang }}">
+  <title>{{ feed.title }}</title>
+  <subtitle>{{ feed.description }}</subtitle>
+  <link href="{{ permalink | htmlBaseUrl: feed.base }}" rel="self" />
+  <link href="{{ feed.base | addPathPrefixToFullUrl }}" />
+  <updated>{{ collections.talks | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>{{ feed.base | addPathPrefixToFullUrl }}</id>
+  <author>
+    <name>{{ feed.author.name }}</name>
+  </author>
+  {% for post in collections.talks, limit: 5 %}
+  {%- assign absolutePostUrl = post.url | htmlBaseUrl: feed.base %}
+  <entry xml:lang="{{ post.data.lang }}">
+    <id>{{ absolutePostUrl }}</id>
+    <title>{{ post.data.title | escape }}</title>
+    <link href="{{ absolutePostUrl }}" hreflang="{{ post.data.lang }}" />
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    {%- if post.page.excerpt != nil  %}
+    <summary type="html"><![CDATA[{{ post.page.excerpt | default: '' | renderTransforms: post.data.page, feed.base | escape }}]]></summary>
+    {%- endif %}
+    {%- if post.content %}
+    <content type="html"><![CDATA[{{ post.content | renderTransforms: post.data.page, feed.base | escape }}]]></content>
+    {%- endif %}
+    {%- for category in post.data.categories %}
+    <category term="{{ category | escape }}"/>
+    {%- endfor %}
+    {%- for category in post.data.tags %}
+    <category term="{{ category | escape }}"/>
+    {% endfor -%}
+    {%- for picture in post.data.pictures %}
+    {%- if picture.src == nil -%}{% continue %}{% endif %}
+    <link rel="enclosure" type="{{ picture.src | mimeType }}" href="{{ picture.src | htmlBaseUrl: absolutePostUrl }}" {% if picture.comment %}title="{{ picture.comment | default: '' | renderContent: 'md' | strip_html | strip_newlines }}"{% endif %} />
+    {%- endfor %}
+  </entry>
+  {%- endfor %}
+</feed>

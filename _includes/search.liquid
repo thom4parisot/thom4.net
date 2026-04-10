@@ -1,0 +1,17 @@
+{% comment %}
+
+<search id="search"></search>
+
+{% js %}
+  import '/pagefind/pagefind-ui.js'
+  window.addEventListener('DOMContentLoaded', (event) => {
+      new PagefindUI({
+        element: "#search",
+        showImages: false,
+        // resetStyles: false,
+        sort: { date: "desc" }
+      });
+  })
+{% endjs %}
+
+{% endcomment %}

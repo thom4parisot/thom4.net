@@ -1,0 +1,77 @@
+---
+title: "Notes de lecture de {{ page.title }}"
+layout: base
+---
+
+<main class="writings writings--post" role="main" id="main"  lang="{{ lang }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+
+  <article class="h-entry post article {{ classNames }} container" lang="{{ lang | default: metadata.language }}">
+    <header class="post__header">
+      <h1>{{ title }}</h1>
+
+      <ul class="metadata is-inline is-dotted">
+        <li>
+          <span class="visually-hidden">Publié en</span>
+          {{ publication_year }}
+        </li>
+        <li class="authors">
+          <span class="visually-hidden">Écrit par</span>
+          {{ authors | join: ', ' }}
+        </li>
+      </ul>
+
+      <h2 class="h5">{{ subtitle | default: "Description de l'ouvrage" }}</h2>
+
+      {% comment %}
+      <figure>
+        <img src="{{ image }}" alt="" class="book-cover thubmnail">
+      </figure>
+      {% endcomment %}
+
+      <div class="description">{{ description }}</div>
+
+      {% if lang == 'fr' %}
+      <ul class="is-discrete">
+        {% if url %}
+        <li>
+          <a href="{{ url }}" class="read-more" target="_blank" rel="noreferrer noopener">
+            {% include 'partials/icon.liquid', id: 'book' %}
+            Consulter le site web de l'éditeur
+          </a>
+        </li>
+        {% endif %}
+        <li>
+          <a href="https://www.placedeslibraires.fr/livre/{{ isbn }}" class="read-more" target="_blank" rel="noreferrer noopener">
+            {% include 'partials/icon.liquid', id: 'buy' %}
+            Trouver en librairie
+          </a>
+        </li>
+      </ul>
+      {% endif %}
+    </header>
+
+    <div class="post__content post__content--text e-content next">
+      <h2>{{ quotes_count }} citations et notes de lecture</h2>
+
+      {{ content }}
+    </div>
+
+    <footer class="post__footer next">
+      <ul class="is-discrete read-more">
+        <li>
+          <a href="https://github.com/thom4parisot/thom4.net/tree/main/{{ page.inputPath }}">
+            {% include 'partials/icon.liquid', id: 'html-tag' %}
+            Suggérer une modification
+          </a>
+        </li>
+        <li>
+          <a href="/reading-notes/">
+            {% include 'partials/icon.liquid', id: 'bookmarks' %}
+            Retour aux notes de lecture
+          </a>
+        </li>
+      </ul>
+    </footer>
+  </article>
+
+</main>

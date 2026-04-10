@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9791095630180"
 title: L'art de conter nos expériences collectives
 subtitle: faire récit à l'heure du storytelling
@@ -13,11 +12,11 @@ description: |
   À l'heure du Storytelling, des "faits alternatifs" et autres "paraboles véridiques", Benjamin Roux tente un regard décalé sur les histoires et récits d'aujourd'hui. Et de revenir à cet "art de conter" dont le philosophe Walter Benjamin constatait déjà la disparition au début du XXe siècle. En partant à la rencontre de collectifs à contre-courant du libéralisme et du discours ambiant, l'auteur s'appuie sur celles et ceux qui ont raconté leurs expériences pour tenter de comprendre pourquoi ces récits peinent à nous parvenir. Le regard sur ces récits, comme des mythes, porte une attention au geste du conteur et à la responsabilité qu'implique le fait de raconter des histoires à d'autres.
 ---
 
-# Introduction
+### Introduction
 
 > Que ce soit de manière consciente ou non, nos pratiques collectives rejouent, au quotidien, les rapports, les rites et relations présents dans nos sociétés depuis des centaines d'années.
 
-# (Re)garder les traces
+### (Re)garder les traces
 
 > Yves Citton propose une caractérisation d'un récit à travers six critères :
 > 1. Le récit doit incarner un mouvement dans le temps compréhensible.
@@ -33,7 +32,7 @@ description: |
 
 > Le tout est généralement renforcé par les mass médias et le biais — voire le prisme déformant — qu'ils créent sur ce qui est rendu visible et ce qui ne l'est pas.
 
-# Raconter des histoires
+### Raconter des histoires
 
 > L'acte narratif est à entendre comme un acte de traduction.
 
@@ -55,7 +54,7 @@ description: |
 
 > Ces histoires issues d'expériences collectives ont pour effet de donner du sens à ce que les personnes ont vécu ensemble, que ce soit dans le but de se créer du commun ou de le (re)questionner tout au long de l'expérience.
 
-# Transformer le réel
+### Transformer le réel
 
 > (…) rendre visible et rendre possible.
 
@@ -82,7 +81,7 @@ description: |
 
 > Pour rappel, lorsque le storytelling sert à optimiser un discours pour raconter une histoire de façon efficace, la mythocratie, élabore quant à elle un propos scénarisé qui se demande qui est affecté par ce que l'on raconte. La nuance, de taille, se situe dans l'attention portée à l'autre et dans les intentions sous-jacentes au récit remis. Le premier optimise le "comment raconter" pour servir ses objectifs quand le second fait l'effort permanent de se poser la question "à quoi contribue mon propos ?".
 
-# Conclusion
+### Conclusion
 
 > Se donner l'exigence de se raconter dans la complexité pour ne pas devenir prisonnier de son propre mythe.
 

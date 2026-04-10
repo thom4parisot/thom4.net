@@ -1,0 +1,65 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<link rel="preload" href="/assets/icons.svg" as="image" type="image/svg+xml">
+<link rel="preload" href="/assets/avatar.avif" as="image" type="image/avif">
+<link rel="preload" href="/assets/css/normalize.css" as="style" type="text/css">
+<link rel="preload" href="/assets/css/main.css" as="style" type="text/css">
+{% getBundle "html", "preload" -%}
+{% getBundle "css" -%}
+
+<title lang="{{ lang }}">{{ eleventyNavigation.title | default: title }} — {{ metadata.title }}</title>
+<meta name="description" content="{{ description | default: metadata.description }}">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:locale:alternate" content="en_GB">
+<meta property="og:site_name" content="{{ metadata.title }}">
+
+<!-- generated via https://realfavicongenerator.net -->
+ <link rel="icon" type="image/png" href="/assets/favicon-48x48.png" sizes="48x48">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<link rel="shortcut icon" href="/assets/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="{{ metadata.domain }}">
+<link rel="manifest" href="/assets/site.webmanifest">
+<meta name="theme-color" content="#FFF9F4">
+
+{%- assign keywords = tags | default: keywords %}
+{% if keywords %}
+<meta name="keywords" content="{{ keywords | join: ', ' }}">
+{% endif -%}
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{ metadata.social.x }}">
+<meta name="twitter:creator" content="@{{ metadata.social.x }}">
+<meta name="description" content="{{ description | default: metadata.description }}">
+<meta property="og:description" content="{{ description | default: metadata.description }}">
+<meta name="twitter:description" content="{{ description | default: metadata.description }}">
+{%- if image %}
+<meta name="twitter:image" content="{{ image | htmlBaseUrl: metadata.url }}">
+<meta property="og:image" content="{{ image | htmlBaseUrl: metadata.url }}">
+{% else %}
+{%- assign self_url = page.url | htmlBaseUrl: metadata.url | append: '#read' | url_encode %}
+<meta name="twitter:image" content="https://v1.screenshot.11ty.dev/{{ self_url }}/">
+<meta property="og:image" content="https://v1.screenshot.11ty.dev/{{ self_url }}/">
+{% endif -%}
+
+<link rel="author" href="{{ metadata.author }}">
+<meta name="fediverse:creator" content="{{ metadata.social.fediverse_creator }}">
+<link rel="me" href="https://x.com/{{ metadata.social.x }}">
+<link rel="me" href="https://twitter.com/{{ metadata.social.x }}">
+<link rel="me authn" href="{{ metadata.social.mastodon }}">
+<link rel="me authn" href="{{ metadata.social.github }}">
+<link rel="me authn" href="{{ metadata.social.gitlab }}">
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="me" href="{{ metadata.social.framagit }}">
+<link rel="me" href="{{ metadata.social.pro }}">
+<link rel="me" href="{{ metadata.social.old }}">
+
+<link rel="alternate" href="/feed/" type="application/atom+xml" title="{{ metadata.title }} : carnet">
+<link rel="alternate" href="/photography/feed/" type="application/atom+xml" title="{{ metadata.title }} : séries photo">
+<link rel="alternate" href="/talks/feed/" type="application/atom+xml" title="{{ metadata.title }} : conférences et ateliers">
+
+{%- getBundle "html", "head" %}
+
+<meta name="generator" content="{{ eleventy.generator }}">

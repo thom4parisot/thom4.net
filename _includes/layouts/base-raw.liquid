@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<head>
+  {%- include "partials/head.liquid" -%}
+</head>
+<body>
+  {{ content }}
+  <script type="module" src="{% getBundleFileUrl 'js' %}"></script>
+</body>
+</html>

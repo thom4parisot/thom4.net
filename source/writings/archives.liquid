@@ -1,0 +1,29 @@
+---
+title: Archives
+permalink: /writings/archives/
+eleventyNavigation:
+  key: Archives
+  parent: Carnet
+---
+
+{% assign groups = collections.posts | group_by: 'data.year' %}
+
+{% for group in groups %}
+<section id="year-{{ serie.name | slugify }}" aria-label="Archives de l'année {{ group.name }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+  <h2>{{ group.name }}</h2>
+
+  <ol aria-label="Les {{ serie.items|size }} articles publiés en {{ serie.name }}">
+    {% for post in group.items %}
+    <li>
+      <time datetime="{{ post.data.date | date_to_xmlschema }}">
+        {{ post.data.date | date: '%B %Y' }}
+        <span class="visually-hidden">:</span>
+      </time>
+      <a href="{{ post.url }}" rel="bookmark" lang="{{ post.data.lang }}">
+        {{ post.data.title }}
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endfor %}

@@ -1,0 +1,76 @@
+---
+layout: base
+title: Écrits, essais et notes
+eleventyNavigation:
+  key: Écrits
+  order: 10
+---
+
+{% assign featuredPost = collections.posts | first %}
+
+<main role="main" id="main" class="home">
+  <h1>Écrits</h1>
+
+  <div class="hero">
+    {{ content }}
+  </div>
+
+  <section class="writings contents--featured content-type--post" lang="{{ featuredPost.data.lang }}">
+    <h2>
+      <span class="visually-hidden" lang="fr">À la une :</span>
+      <a href="{{ featuredPost.url }}" rel="bookmark">
+        {{ featuredPost.data.title }}
+      </a>
+    </h2>
+
+    <div>{{ featuredPost.page.excerpt }}</div>
+  </section>
+
+  <section class="writings contents--list content-type--post">
+    <h2>Essais</h2>
+
+    <ul>
+      {% for post in collections.posts, offset:1, limit: 5  %}
+      <li>
+        <time datetime="{{ post.data.date | date: '%c' }}">
+          {{ post.data.date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" rel="bookmark" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul>
+      <li><a href="/writings/archives/">Archive des essais</a></li>
+      <li><a href="/feed/">
+        S'abonner au fil <abbr title="Really Simple Syndication" lang="en">RSS</abbr>
+        <span class="visually-hidden">des articles</span>
+      </a></li>
+    </ul>
+  </section>
+
+  <section class="writings contents--list content-type--journal">
+    <h2>Journal</h2>
+
+    <ul>
+      {% for post in collections.journal, limit: 5 %}
+      <li>
+        <time datetime="{{ post.data.date | date: '%c' }}">
+          {{ post.data.date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" rel="bookmark">{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul>
+      <li><a href="/writings/journal/">Archive du journal</a></li>
+      <li><a href="/feed/">
+        S'abonner au fil <abbr title="Really Simple Syndication" lang="en">RSS</abbr>
+        <span class="visually-hidden">des articles</span>
+      </a></li>
+    </ul>
+  </section>
+</main>

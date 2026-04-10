@@ -1,0 +1,152 @@
+---
+layout: base
+---
+
+<main role="main" id="main" class="home">
+  <div class="hero">
+    <h1>{{ metadata.title }}</h1>
+
+    {{ content }}
+  </div>
+
+  <section class="writings contents--list content-type--post">
+    <h2>Essais</h2>
+
+    <ul>
+      {% for post in collections.posts, limit: 3  %}
+      <li>
+        <time datetime="{{ post.data.date | date: '%c' }}">
+          {{ post.data.date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" rel="bookmark" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul>
+      <li><a href="/writings/archives/">Archive des essais</a></li>
+      <li><a href="/feed/">
+        S'abonner au fil <abbr title="Really Simple Syndication" lang="en">RSS</abbr>
+        <span class="visually-hidden">des articles</span>
+      </a></li>
+    </ul>
+  </section>
+
+  <section class="writings contents--list content-type--journal">
+    <h2>Journal</h2>
+
+    <ul>
+      {% for post in collections.journal, limit: 3 %}
+      <li>
+        <time datetime="{{ post.data.date | date: '%c' }}">
+          {{ post.data.date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" rel="bookmark">{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul>
+      <li><a href="/writings/journal/">Archive du journal</a></li>
+      <li><a href="/feed/">
+        S'abonner au fil <abbr title="Really Simple Syndication" lang="en">RSS</abbr>
+        <span class="visually-hidden">des articles</span>
+      </a></li>
+    </ul>
+  </section>
+
+  <section class="talks contents--list content-type--talk">
+    <h2>Présentations</h2>
+
+    <ul>
+      {% for post in collections.talks, limit: 3 %}
+      <li>
+        <span class="">
+          {{ post.data.event.name }}&nbsp;{{ post.data.date | date: '%Y' }}
+          <span class="visually-hidden">:</span>
+        </span>
+        <a href="/talks/#{{ post.fileSlug }}-{{ post.data.date | date: '%Y' }}" >{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul>
+      <li><a href="/writings/journal/">Toutes les présentations et ateliers</a></li>
+      <li><a href="/talks/feed/">
+        S'abonner au fil <abbr title="Really Simple Syndication" lang="en">RSS</abbr>
+        <span class="visually-hidden">des présentations</span>
+      </a></li>
+    </ul>
+  </section>
+
+  <section class="talks contents--list content-type--reading-note">
+    <h2>Notes de lecture</h2>
+
+    <ul>
+      {% for post in collections.reading-notes, limit: 3 %}
+      <li>
+        <time datetime="{{ post.data.date | date: '%c' }}">
+          {{ post.data.initial_publication_year | default: post.data.publication_year }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" >{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul>
+      <li><a href="/reading-notes/">Toutes les notes de lecture</a></li>
+    </ul>
+  </section>
+
+  <section class="photography contents--list content-type--picture">
+    <h2>Photographie</h2>
+
+    <ul>
+      {% for post in collections.randomPhotographySeries, limit: 3 %}
+      <li>
+        <a href="{{ post.url }}" rel="bookmark" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul>
+      <li><a href="/writings/journal/">Toutes les séries photos</a></li>
+      <li><a href="/photography/feed/">
+        S'abonner au fil <abbr title="Really Simple Syndication" lang="en">RSS</abbr>
+        <span class="visually-hidden">des séries photo</span>
+      </a></li>
+    </ul>
+  </section>
+
+  <section id="work">
+    <h1>Et côté pro ?</h1>
+
+    <p>
+      Je suis actuellement <strong>développeur web indépendant</strong>
+      dans des collectifs multi-disciplinaires (designeur·ses, chercheur·ses, etc.).
+      <br>
+      J'aime faire équipe pour naviguer dans la complexité et l'incertitude.
+    </p>
+
+    <ul>
+      <li><a href="{{ metadata.social.pro }}" rel="external noopener noreferrer" target="_blank">Site web de mon activité professionnelle : <b>détour.studio</a></a></li>
+    </ul>
+  </section>
+
+  {% comment %}
+  <section class="publications">
+    <h2>Publications</h2>
+
+    <ul>
+      {% for post in collections.publications %}
+      <li>
+        <a href="{{ post.url }}" rel="bookmark">{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endcomment %}
+</main>

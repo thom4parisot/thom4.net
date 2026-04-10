@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782259238403"
 publication_year: 1996
 title: Le «fichier juif»
@@ -10,7 +9,7 @@ description: |
   Grâce à ce travail de recherche, mené pendant quatre ans, la commission a pu à la fois établir l'historique de la persécution des juifs entre 1940 et 1944, celui des avatars administratifs des fichiers et des enjeux de mémoire qu'il implique encore aujourd'hui.
 ---
 
-# Recenser et ficher
+### Recenser et ficher
 
 > Depuis la loi du 27 septembre 1940, tout étranger qui passait pour être en « surnombre dans l'économie française » pouvait être intégré dans des groupements de travailleurs étrangers (GTE). Dorénavant, parmi les juifs étrangers « dépourvus de moyens d'existence » tous les hommes âgés de 15 à 60 ans seront incorporés (on en dénombrera quelque 20 000) dans des GTE pour être regroupés dans ces compagnies dites « palestiniennes »; échappaient à cette intégration dans les GTE les juifs étrangers « pourvus de ressources » qui seront regroupés dans des centres ad hoc pour y être astreints à des pointages réguliers.
 
@@ -26,7 +25,7 @@ description: |
 
 > À leur entrée dans le camp, les internés étaient soigneusement enregistrés par des gendarmes, voire par des douaniers. Le responsable administratif de ces deux camps fut le même commissaire Jean François qui, selon toute vraisemblance, veilla à la bonne tenue, dans les deux camps, d'un fichier des internés.
 
-# Qui faisait quoi ? Qui utilisait quoi ?
+### Qui faisait quoi ? Qui utilisait quoi ?
 
 > Ficher, c'était avant tout contrôler, surveiller et punir. (…) L'exploitation des fichiers fut particulièrement redoutable dès que les autorités d'occupation décidèrent de procéder à des rafles ou incitaient les responsables de l'Etat français à le faire.
 

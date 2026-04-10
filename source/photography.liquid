@@ -1,0 +1,21 @@
+---
+title: Photographie
+lang: fr-FR
+eleventyNavigation:
+  key: Photographie
+  order: 30
+---
+
+<h1>Photographie</h1>
+
+<section class="photography-tiles needs-js" aria-label="{{ collections.photography-series|size }} séries photo de {{ metadata.author }}">
+  {% for series in collections.photography-series %}
+    <article class="tile is-square">
+      <a href="{{ series.url }}" rel="bookmark">
+        {% bundledImage series.page, series.data.image, 300 -%}
+
+        {{ series.data.title }}
+      </a>
+    </article>
+  {% endfor %}
+</section>

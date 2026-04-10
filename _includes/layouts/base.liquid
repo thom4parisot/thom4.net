@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<head>
+  {%- css -%}
+  <link rel="stylesheet" href="/assets/css/normalize.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  {%- endcss -%}
+  {%- include "partials/head.liquid" %}
+</head>
+<body>
+  <nav aria-labelledby="skiplinks-title" id="skiplinks">
+    <b id="skiplinks-title">Accès rapide</b> :
+
+    <ul aria-labelledby="skiplinks-title" class="inline">
+      <li><a href="#nav">Menu principal</a></li>
+      <li><a href="#main">Contenu</a></li>
+      {% getBundle "html", "skiplinks" %}
+    </ul>
+  </nav>
+
+  {% include "header.liquid" %}
+  {% include "search.liquid" %}
+  {% include "breadcrumb.liquid" %}
+
+  {{ content }}
+
+  {% include "footer.liquid" %}
+</body>
+</html>

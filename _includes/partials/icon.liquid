@@ -1,0 +1,8 @@
+{% comment %}
+<svg class="icon--{{ size | default: 'regular' }}" aria-hidden="true">
+  {% if alt %}
+  <title>{{ alt }}</title>
+  {% endif %}
+  <use xlink:href="/assets/icons.svg#{{ id }}"></use>
+</svg>
+{% endcomment %}

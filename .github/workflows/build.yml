@@ -58,7 +58,3 @@ jobs:
 
     - name: Transfer
       run: npm run deploy -- --host ${{ secrets.SSH_HOST }} --user oncletom
-
-    # Index content
-    - name: Index content on Algolia
-      run: ./node_modules/.bin/hexo algolia --layouts page,reading-note --config _config.yml --indexing-key ${{ secrets.HEXO_ALGOLIA_INDEXING_KEY }}

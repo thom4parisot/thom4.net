@@ -1,0 +1,15 @@
+---
+layout: base
+---
+
+<main class="page" role="main" id="main"  lang="{{ lang }}">
+  <article class="h-entry post page {{ classNames }} container" aria-labelledby="post-title" aria-describedby="read" lang="{{ lang | default: metadata.language }}">
+    <header class="post__header">
+      <h1 id="post-title">{{ title }}</h1>
+    </header>
+
+    <div id="read" class="post__content post__content--text e-content">
+      {{ content }}
+    </div>
+  </article>
+</main>

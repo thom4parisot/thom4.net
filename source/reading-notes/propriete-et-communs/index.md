@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782919160259"
 publication_year: 2017
 title: Propriété et communs
@@ -20,7 +19,7 @@ description: |
 > - Une communauté déterminée
 > - Un mode de gouvernance collectif
 
-> Ce qu'on appelle commun est donc un principe selon lequel une communauté d'usage choisit de se donner des règles communes pour prendre soin d'une ressource, les met en pratique pour en partager l'usage par une gestion commune, dans le respect des générations futures. <mark>Une ressource n'est jamais commune par nature, mais le devient par volonté politique</mark>.
+> Ce qu'on appelle commun est donc un principe selon lequel une communauté d'usage choisit de se donner des règles communes pour prendre soin d'une ressource, les met en pratique pour en partager l'usage par une gestion commune, dans le respect des générations futures. ==Une ressource n'est jamais commune par nature, mais le devient par volonté politique==.
 
 > (…) les communs ne cherchent pas à maximiser le profit mais à optimiser l'usage des biens pour le profit de tous.
 
@@ -29,7 +28,7 @@ description: |
 > (…) la gestion directe par les utilisateurs (…) devrait garantir un meilleur rapport coûts/bénéfices dans l'usage de ce bien, ainsi qu'un meilleur souci de l'intérêt général.
 
 > (…) Proudhon parle en fait du _droit de possession_ qui est un droit d'user sans abuser. Car, depuis le Moyen âge, on a tendance à réunir les trois éléments constitutifs du droit de propriété : l'_usus_ (utiliser sans transformer) ; le _fructus_ (disposer des fruits du bien) et surtout l'_abusus_ (le droit de transformer ou de détruire).
-> C'est l'affirmation du caractère absolu, exclusif et perpétuel du droit de propriété, « l'idéologie propriétaire », qui pose problème, et à juste titre, à Proudhon. Il désignait dans sa formule les <mark>propriétaires terriens oisifs qui volent leurs profits aux travailleurs</mark>.
+> C'est l'affirmation du caractère absolu, exclusif et perpétuel du droit de propriété, « l'idéologie propriétaire », qui pose problème, et à juste titre, à Proudhon. Il désignait dans sa formule les ==propriétaires terriens oisifs qui volent leurs profits aux travailleurs==.
 
 > La véritable richesse de nos sociétés (…) ce sont nos rapports sociaux.
 

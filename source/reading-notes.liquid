@@ -1,0 +1,67 @@
+---
+title: Notes de lecture
+eleventyNavigation:
+  key: Notes de lecture
+  order: 50
+permalink: /reading-notes/
+now:
+  - isbn: '9782070124749'
+    title: La grande transformation
+    subtitle: Aux origines politiques et économiques de notre temps
+    authors: [ Karl Polanyi ]
+    publication_year: 1944
+  - isbn: '9781859736548'
+    title: "Space Invaders"
+    subtitle: Race, Gender and Bodies Out of Place
+    authors: [Nirmal Puwar]
+    publication_year: 2004
+  - isbn: '9782266318594'
+    title: 'Le berceau des dominations'
+    authors: [Dorothée Dussy]
+    publication_year: 2013
+---
+
+{% renderTemplate 'md' %}
+I use books as a **learning material**.
+This space is an attempt to share my margin notes to reflect on what I read by writing.
+For you, it's an opportunity to sneak peak at great books without having to read them entirely.
+{ .leading lang=en }
+
+I currently read about **group dynamics**, **sex/masculinity** and **local history**.
+Poke me with your recommendations!
+{ lang=en }
+{% endrenderTemplate %}
+
+<h1>Notes de lecture</h1>
+
+<ul>
+  {% assign notes = collections.reading-notes | sort_natural: 'publication_year' %}
+  {% for note in collections.reading-notes reversed %}
+  <li>
+    <h2>
+      <a href="{{ note.data.permalink }}" rel="bookmark">{{ note.data.title }}</a>
+    </h2>
+
+    <ul class="metadata is-inline is-dotted">
+      <li>
+        <span class="visually-hidden">Publié en</span>
+        {{ note.data.publication_year }}
+      </li>
+      <li class="authors">
+        <span class="visually-hidden">Écrit par</span>
+        {{ note.data.authors | join: ', ' }}
+      </li>
+    </ul>
+
+    <div class="summary" itemprop="abstract">{{ note.data.description }}</div>
+
+    <p>
+      <a href="{{ note.url }}" rel="bookmark" class="read-more">
+        {% include 'partials/icon.liquid', id: 'bookmarks' %}
+        Lire les {{ note.data.quotes_count }} notes
+        <span class="visually-hidden">du livre {{ note.data.title }}</span>
+    </a>
+    </p>
+  </li>
+  {% endfor %}
+</ul>

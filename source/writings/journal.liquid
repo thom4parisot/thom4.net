@@ -1,0 +1,59 @@
+---
+title: Journal
+layout: base
+eleventyNavigation:
+  key: Journal
+  parent: Carnet
+---
+
+<main class="writings writings--journal" lang="{{ lang }}">
+  <h1>Journal</h1>
+
+  <p>
+    Un format court pour documenter mes apprentissages, des réflexions
+    et des explorations de vie.
+  </p>
+
+  <h2>Les séries</h2>
+
+  {% assign series = collections.journal | group_by: 'data.serie' | sort: 'name' %}
+
+  {% for serie in series %}
+  {%- if serie.name == '' %}{% continue %}{% endif -%}
+  <section id="serie-{{ serie.name | slugify }}" aria-label="Série {{ serie.name }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+    <h3>{{ serie.name }}</h3>
+
+    <ol aria-label="Les {{ serie.items|size }} notes de la série {{ serie.name }}">
+      {% for post in serie.items %}
+      <li>
+        <time datetime="{{ post.data.date | date_to_xmlschema }}">
+          {{ post.data.date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" rel="bookmark" lang="{{ post.data.lang }}">
+          {{ post.data.title }}
+        </a>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endfor %}
+
+  <section aria-label="archives">
+    <h2>Par ordre chronologique</h2>
+
+    <ol aria-label="Les {{ collections.journal|size }} notes de journal par ordre chronologique">
+      {% for post in collections.journal %}
+      <li>
+        <time datetime="{{ post.data.date | date_to_xmlschema }}">
+          {{ post.data.date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" rel="bookmark" lang="{{ post.data.lang }}">
+          {{ post.data.title }}
+        </a>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+</main>

@@ -1,0 +1,6 @@
+{% comment %}
+{% if eleventyNavigation.key %}
+{% assign navPages = collections.all | eleventyNavigationBreadcrumb: eleventyNavigation.key, navOptions %}
+{{ navPages | eleventyNavigationToHtml }}
+{% endif %}
+{% endcomment %}

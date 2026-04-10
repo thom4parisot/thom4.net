@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782350960975"
 title: Marcel Duchamp et le refus du travail
 publication_year: 2014
@@ -21,23 +20,23 @@ Dans les "combats" et les "luttes", je m'intéresse à ce qu'on vise, pas à la 
 
 Je trouve que "refuser" ce n'est pas justement rentrer en compétition (demander la même condition que les hommes dominants) mais ouvrir la voi{x,e}, vers une autre manière d'être/de vivre.
 
-# Le refus du travail, la "grande paresse"
+### Le refus du travail, la "grande paresse"
 
 > Duchamp revendique ce refus de « toutes ces petites règles si vous ne montrez pas de signes d'une activité ou d'une production, sous une forme ou une autre ».
 
 > "Il n'y a pas le temps nécessaire pour faire du bon travail. Le rythme de production est tel que cela devient une autre forme de course effrénée" qui renvoie à la "foire à l'empoigne" qu'est la société en général.
 >
-> <mark>L'œuvre "doit être produite lentement</mark> ; je ne crois pas à la vitesse [introduite par le capitalisme] dans la production artistique".
+> ==L'œuvre "doit être produite lentement== ; je ne crois pas à la vitesse [introduite par le capitalisme] dans la production artistique".
 
 J'ai aimé ce court livre parce qu'il pointait du doigt quelque chose que je suivais de manière intuitive, sans jamais trop comprendre où j'allais.
 
 Depuis 2018, j'ai tendance à balayer les _deadlines_ d'un revers de la main. Davantage de temps calendaire est pris pour avancer sur les projets à budget équivalent — le profit est moindre mais la compréhension et la qualité des livrables est bien plus élevée (selon mon propre goût).
 
-# Le Moulin à café, entre le mouvement (futuriste) et le statique (cubisme)
+### Le Moulin à café, entre le mouvement (futuriste) et le statique (cubisme)
 
 > "Le temps cest de l'argent", dit le capitaliste, "mon capital n'est pas l'argent, mais le temps" répond Duchamp. Et le temps dont il s'agit n'est pas le temps chronologique qu'on peut mesurer ou accumuler, mais ce présent qui, contenant à la fois le passé, le présent, le futur, est un foyer de production  du nouveau.
 
-> <mark>C'est dans l'inframince que le devenir a lieu</mark>, c'est au niveau micro que se font les changements. "Le possible implique le devenir — le passage de l'un à l'autre a lieu dans l'inframince."
+> ==C'est dans l'inframince que le devenir a lieu==, c'est au niveau micro que se font les changements. "Le possible implique le devenir — le passage de l'un à l'autre a lieu dans l'inframince."
 > Et, pour avoir accès à cette dimension, la condition toujours la même — inventer une autre manière de vivre : « L'habitant de l'inframince fainéant».
 
 J'y retrouve une marque commune au photographe Raymond Depardon, qui aimait les frontières invisibles — les endroits où la ville devient la campagne et vice-versa. Ces endroits révèlent les paradoxes et informent des mouvements.
@@ -62,7 +61,7 @@ Je me demande aussi à quel point il se sentait "homme".
 
 > Le public est, à son tour, une production des nouvelles autorités culturelles (critiques d'art, musées, presse, (…) etc.) et surtout de l'industrie culturelle qui manage tout ce beau monde.
 
-> <mark>Seul le refus peut révéler la possibilité</mark>, non pas d'un accès à l'art pour de nouveaux publics (…) mais celle de la constitution et de l'enrichissement d'une capacité d'agir sur le réel qui semble faire terriblement défaut à notre époque.
+> ==Seul le refus peut révéler la possibilité==, non pas d'un accès à l'art pour de nouveaux publics (…) mais celle de la constitution et de l'enrichissement d'une capacité d'agir sur le réel qui semble faire terriblement défaut à notre époque.
 
 J'y retrouve là aussi les actions non-violentes qui tournent en dérision l'absurdité de situations insoutenables.
 

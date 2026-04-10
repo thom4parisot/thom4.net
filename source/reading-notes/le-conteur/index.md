@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782228906760"
 title: Le conteur
 in: "Expérience et pauvreté"
@@ -77,7 +76,7 @@ Sont à l'opposé de cette _horizontalité_ toutes les organisations mettant en 
 
 > Le conte, qui est encore de nos jours le **premier conseiller des enfants** parce qu'autrefois il était le premier conseiller de l'humanité, survit en secret dans le récit.
 
-> Le conte nous renseigne sur les premiers arrangements de l'humanité pour se débarrasser du cauchemar que le mythe avait sur sa poitrine.  
+> Le conte nous renseigne sur les premiers arrangements de l'humanité pour se débarrasser du cauchemar que le mythe avait sur sa poitrine.
 > Il nous montre à travers la figure de celui qui est parti pour apprendre ce qu'est la peur ; que **les choses dont nous avons peur ne sont pas opaques mais peuvent être percées par notre regard**.
 
 Le marketing d'aujourd'hui continue à entretenir le mythe.

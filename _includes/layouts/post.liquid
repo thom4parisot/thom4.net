@@ -1,0 +1,60 @@
+---
+layout: base
+---
+
+<main class="writings writings--post" role="main" id="main"  lang="{{ lang }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+  <article class="h-entry post article {{ classNames }} container" aria-labelledby="post-title" aria-describedby="read" lang="{{ lang | default: metadata.language }}">
+    <header class="post__header">
+      <h1 id="post-title">{{ title }}</h1>
+
+      <ul>
+        <li>
+          Article écrit en {{ date | date: '%B %Y' }}
+        </li>
+        <li>
+          Temps de lecture :
+          {{ readingTime.time | divided_by: 60000 | round }} minutes
+        </li>
+      </ul>
+    </header>
+
+    <div id="read" class="post__content post__content--text e-content" data-pagefind-body>
+      {{ content }}
+    </div>
+  </article>
+
+  <aside>
+    <h1>D'autres articles à lire</h1>
+
+    <ul>
+      {% assign nextPostsOffset = collections.posts | getCollectionItemIndex | minus: 2 %}
+      {% assign prevPostsOffset = collections.posts | getCollectionItemIndex | plus: 1 %}
+
+      {% for post in collections.posts, offset: nextPostsOffset, limit: 2 %}
+      <li>
+        <time datetime="{{ post.data.date | date: '%c' }}">
+          {{ post.data.date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" rel="bookmark next" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+      <li>
+        <a rel="current">
+          {{ date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+          {{ title }}
+        </a>
+      </li>
+      {% for post in collections.posts, offset: prevPostsOffset, limit: 2 %}
+      <li>
+        <time datetime="{{ post.data.date | date: '%c' }}">
+          {{ post.data.date | date: '%B %Y' }}
+          <span class="visually-hidden">:</span>
+        </time>
+        <a href="{{ post.url }}" rel="bookmark prev" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+</main>

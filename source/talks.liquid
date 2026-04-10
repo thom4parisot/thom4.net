@@ -1,0 +1,125 @@
+---
+title: Présentations, conférences et ateliers
+permalink: /talks/
+lang: fr-FR
+eleventyNavigation:
+  key: Conférences
+  order: 20
+---
+
+{% assign featured = collections.talks | where: 'data.category', 'Featured' | reverse  %}
+{% assign talks = collections.talks | where: 'data.category', 'Talk' | reverse  %}
+{% assign workshops = collections.talks | where: 'data.category', 'Workshop' | reverse  %}
+
+<section id="featured" aria-label="{{ featured|size }} présentations essentielles proposées par {{ metadata.author }}">
+  <h2>Les essentielles</h2>
+
+  {% for post in featured, reversed %}
+    <article class="article article__card talk" id="{{ post.fileSlug }}-{{ post.data.date | date: '%Y' }}">
+      <h3 class="event-name" lang="{{ post.data.lang }}">
+        {{ post.data.title | default: post.data.event.name }}
+      </h3>
+
+      <div class="cover full">
+        {% bundledImage post post.data.cover 400 %}
+      </div>
+
+      <ul class="metadata">
+        {%- if post.with %}
+          <li class="metadata--co-host">
+            Avec
+            {% for person in post.with %}
+            <a href="{{ person.url }}" target="_blank" rel="noopener">{{ person.name }}</a>
+            {% endfor %}
+        </li>
+        {% endif -%}
+
+        <li class="metadata--event">
+          {% include 'partials/icon.liquid', id: 'at' %}
+          <span class="visually-hidden">Conférence présentée à</span>
+          <a href="{{ post.data.event.url }}" target="_blank">
+            {{ post.data.event.name }}
+            {{ post.data.date | date: '%Y' }}
+          </a>
+        </li>
+
+        {%- if post.data.event and post.data.video %}
+          <li class="metadata--artifact">
+            {% include 'partials/icon.liquid', id: 'youtube' %}
+            <a href="{{ post.data.video }}">
+              Regarder
+              <span class="visually-hidden">la conférence <q lang="{{ post.data.lang }}">{{ post.data.title }}</q></span>
+            </a>
+
+            {%- if post.data.event.duration %}
+              ({{ post.data.event.duration }} minutes)
+            {% endif -%}
+          </li>
+        {% endif %}
+
+        {%- if post.data.event and post.data.audio %}
+          <li class="metadata--artifact">
+            {% include 'partials/icon.liquid', id: 'youtube' %}
+            <a href="{{ post.data.audio }}">
+              Écouter
+              <span class="visually-hidden">la conférence <q lang="{{ post.data.lang }}">{{ post.data.title }}</q></span>
+            </a>
+            {%- if post.data.event.duration %}
+              ({{ post.data.event.duration }} minutes)
+            {% endif %}
+          </li>
+        {% endif %}
+
+        {%- if post.data.external or post.data.slides %}
+          <li class="metadata--artifact">
+            {% include 'partials/icon.liquid', id: 'browse' %}
+            <a href="{{ post.data.external | default: post.url }}" rel="bookmark" lang="{{ post.data.lang | default: metadata.language }}" class="{{ post.cssClass }}">
+              <span class="visually-hidden">Accéder au support de</span>
+              présentation
+              <span class="visually-hidden">de <q>{{ post.data.title }}</q></span>
+            </a>
+          </li>
+        {% endif %}
+      </ul>
+
+      {%- if post.data.description %}
+      <div class="summary">{{ post.description }}</div>
+      {% endif -%}
+    </article>
+  {% endfor %}
+</section>
+
+<section id="presentations" aria-label="{{ talks|size }} présentations par {{ metadata.author }}">
+  <h2>Présentations</h2>
+
+  <ol aria-label="{{ talks|size }} présentations proposées par {{ metadata.author }}">
+    {% for talk in talks  %}
+    <li>
+      <time datetime="{{ talk.data.date | date_to_xmlschema }}">
+        {{ talk.data.date | date: '%B %Y' }}
+      </time>
+      <a href="{{ talk.data.event.url }}" target="_blank" rel="noopener" lang="{{ talk.data.lang }}">
+        {{ talk.data.title }}
+      </span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+
+<section id="workshops" aria-label="{{ workshops|size }} ateliers par {{ metadata.author }}">
+  <h2 lang="en">Ateliers</h2>
+
+  <ol aria-label="{{ workshops|size }} ateliers proposées par {{ metadata.author }}">
+    {% for talk in workshops  %}
+    <li>
+      <date datetime="{{ talk.data.date | date_to_xmlschema }}">
+        {{ talk.data.date | date: '%B %Y' }}
+      </date>
+
+      <a href="{{ talk.data.event.url }}" target="_blank" rel="noopener" lang="{{ talk.data.lang }}">
+        {{ talk.data.title }}
+      </span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>

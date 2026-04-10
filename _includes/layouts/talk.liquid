@@ -1,0 +1,46 @@
+---
+layout: base-raw
+---
+<main class="reveal" role="main" id="main" lang="{{ lang | default: metadata.language }}">
+  <div class="slides">
+    {% for slide in slides %}
+      <section data-separator-notes="^~~~~\n" data-separator-vertical="^\n@@@\n" data-markdown>
+        <textarea data-template>{{ slide }}</textarea>
+      </section>
+    {% endfor %}
+  </div>
+</main>
+
+{% js %}
+  import Reveal from '/assets/reveal/reveal.mjs';
+  import Markdown from '/assets/reveal/plugin/markdown.mjs';
+  import Notes from '/assets/reveal/plugin/notes.mjs';
+  import RandomColors from '/assets/reveal/plugin/random-colors/index.js';
+
+  const printMode = /print-pdf/gi.test(window.location.search)
+
+  const deck = new Reveal({
+    center: true,
+    controls: /(localhost|#live)/.test(location.href) !== true,
+    history: true,
+    markdown: {
+    },
+    progress: true,
+
+    plugins: [Markdown, Notes, RandomColors],
+
+    showNotes: printMode ? 'separate-page' : false,
+    transition: 'linear'
+  })
+
+  deck.initialize()
+{% endjs %}
+
+{% css %}
+<link rel="stylesheet" href="/assets/reveal/reveal.css">
+{% if theme %}
+<link rel="stylesheet" href="/assets/css/slides/theme-{{ theme }}.css">
+{% else %}
+<link rel="stylesheet" href="/assets/reveal/theme/black.css">
+{% endif %}
+{% endcss %}

@@ -1,0 +1,106 @@
+---
+layout: base
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    title: "Série photographique : {{ title }}"
+eleventyNavigation:
+  parent: Photographie
+---
+
+<main class="photography-series series" role="main" id="main" lang="{{ lang }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+  <header class="series-header container">
+    <h1 class="series__headline" aria-describedby="series-description" data-pagefind-meta="title">
+      {{ title }}
+    </h1>
+
+    <div class="series__summary" id="series-description">
+      {{ content }}
+    </div>
+
+    <dl class="metadata is-inline is-dotted">
+      {% if temporalCoverage | size %}
+      <dt class="visually-hidden" lang="fr">Période</dt>
+      <dd itemprop="temporalCoverage">
+        {{ temporalCoverage | join: '/' }}
+      </dd>
+      {% endif %}
+
+      <dt class="visually-hidden" lang="fr">Une série de</dt>
+      <dd lang="fr">{{ pictures | size }} photos</dd>
+
+      <dt class="visually-hidden" lang="fr">Appareils utilisés</dt>
+      {% for device in devices %}
+      <dd>
+        {{ device.manufacturer }} {{ device.model }}
+        {% if device.film %}
+        (<span class="visually-hidden" lang="fr">avec film</span>
+          {{ device.film.manufacturer }}
+          {{ device.film.model }}
+          <span>
+            {{ device.film.speed }}
+            <abbr title="International Standard Organisation" lang="en">ISO</abbr>
+          </span>)
+        {%- endif %}
+      </dd>
+      {% endfor %}
+    </dl>
+  </header>
+
+  <div data-pagefind-body>
+    {% if map %}
+    <article class="series-item series-item--with-map">
+      <figure class="series-item__enclosure">
+        <div class="series-item__media series-item__map series-item__map--large">
+          {% assign mapUrl = "maps/" | append: map %}
+          {% photography mapUrl "" "series-item__map series-item__map--large" %}
+        </div>
+      </figure>
+    </article>
+    {% endif %}
+
+    {% for picture in pictures %}
+    <article class="series-item series-item--{{ picture.src | is_empty_txt: 'without-media' | default: 'with-media" itemscope itemtype="https://schema.org/Photograph' }}">
+      {% if picture.src %}
+      <figure class="series-item__enclosure">
+        {% photography picture.src "" "series-item__picture" %}
+
+        <figcaption class="series-item__caption" itemprop="description">
+          {{ picture.comment | default: '' | renderContent: 'md' }}
+
+          <dl class="metadata">
+            {% if picture.date %}
+            <dt class="visually-hidden" lang="fr">Date</dt>
+            <dd>{{ picture.date | date: '%B %Y' }}</dd>
+            {% endif %}
+
+            {% if picture.location %}
+            <dt lang="fr">Lieu</dt>
+            <dd>{{ picture.location | values | join: ', ' }}</dd>
+            {% endif %}
+          </dl>
+
+          {% if picture.map %}
+          <div class="series-item__map">
+            {% assign mapUrl = "maps/" | append: picture.map %}
+            {% photography mapUrl "" "" %}
+          </div>
+          {% endif %}
+        </figcaption>
+      </figure>
+      {% else %}
+        <div class="series-item__comment">
+          {{ picture.comment | default: '' | renderContent: 'md' }}
+
+          {% if picture.map %}
+          <div class="series-item__map">
+            {% assign mapUrl = "maps/" | append: picture.map %}
+            {% photography mapUrl "" "" %}
+          </div>
+          {% endif %}
+        </div>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</main>

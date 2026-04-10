@@ -1,0 +1,46 @@
+title = "Node.js • Apprendre par la pratique"
+lang = "fr"
+url = "https://apprendre-nodejs.fr/v1/"
+image = "/images/publications/nodejs-cover.png"
+description = """
+  "Un ouvrage de 450 pages pour (re)découvrir
+  le développement JavaScript, les modules Node.js et npm.
+  Approfondis ta compréhension de la création d'applications web,
+  d'outils en ligne de commande et l'outillage front-end avec plus de 500 exemples."""
+
+[[testimonies]]
+text = "J’ai bien aimé la façon dont on passe de la théorie à la pratique et la façon dont les infos importantes sont transmises."
+
+[[testimonies]]
+text = "J'ai appris pas mal de chose sur la genèse de Node, sa \"structure\", sur npm, les exemples et le texte sont clair (…) c'est limpide jusqu'ici 👍"
+
+[[testimonies]]
+text = "Tres bon livre, qui va bien plus loin que de présenter une technologie particulière (…) [ça m'a] permis de comprendre la \"colle\" entre ces éléments"
+link = "https://www.amazon.fr/gp/customer-reviews/R2KST5N08FI8DZ/"
+rating = 5
+
+[[testimonies]]
+text = "j'avais lu quelques chapitres sur Github il y a longtemps (…) la clarté de ce que j'avais lu m'avais décidé à l'acheter"
+
+[[testimonies]]
+text = """
+  Parfait pour revenir sur les bases, et particulièrement intéressant pour
+  le #design et le #prototypage de service et d'outils numériques."""
+link = "https://twitter.com/timetofirstfix/status/1088830234458312705"
+
+[[testimonies]]
+text = "je vais utiliser vos compétences exposées dans votre livre avec des élèves en informatique en Suisse… Il est vraiment bien écrit et donne envie d'avancer."
+
+[[testimonies]]
+text = "Agréablement surpris par la qualité du contenu."
+link = "https://www.alsacreations.com/livres/lire/1787-nodejs-apprendre-par-la-pratique.html"
+rating = 4
+
+[[testimonies]]
+link = "https://javascript.developpez.com/livres/index/?page=JavaScript#L2212139934"
+rating = 4
+text = "Personnellement, ce livre m’a appris beaucoup de choses, plus que je ne m’y attendais, et je le recommande sans hésiter."
+
+[[testimonies]]
+link = "https://www.developpez.net/forums/d1965960/javascript/general-javascript/livres/livre-node-js-apprendre-pratique/#post10936352"
+text = "Le livre est complet. C'est d'autant plus appreciable que les livres sur nodes, sont souvent superficiels ou incomplets. Je ne regrette pas mon achat."

@@ -1,5 +1,4 @@
 ---
-layout: reading-note
 isbn: "9782491109004"
 title: Notre pain est politique
 subtitle: Les blés paysans face à l'industrie boulangère
@@ -73,7 +72,7 @@ les blés populations s'adapent aux évolutions du territoire dans lequel ils vi
 > Cultiver des blés populations, comme cela se faisait majoritairement
 jusqu'au milieu du XX^e^ siècle, ce n'est pas promouvoir une tendance rétro
 ou un rejet de la modernité en tant que telle.
-> C'est <mark>refuser l'impasse</mark> dans laquelle nous jette l'agro-industrie.
+> C'est ==refuser l'impasse== dans laquelle nous jette l'agro-industrie.
 
 Déployer une application web sans utiliser Docker, Kubernetes ni le "Cloud" seront
 du même acabit en 2020.
@@ -91,7 +90,7 @@ L'autonomie se partage, se transmet, se diffuse.
 > [la définition] répond à un double enjeu : ne pas réserver l'usage
 des semences paysannes à un groupe restreint d'initié·es et, dans le même temps,
 protéger les droits d'usage de celles et ceux qui les emploient (…)
-<mark>contre des tentatives d'appropriation</mark> ou de dévoiement de la démarche.
+==contre des tentatives d'appropriation== ou de dévoiement de la démarche.
 
 Je place le même enjeu sur les connaissances informatiques : que ça soit au niveau
 du hardware (d'où ça vient, comment c'est organisé), du système d'exploitation
@@ -121,8 +120,8 @@ semencières sont un des rouages, mais ce n'est pas avec le couteau Monsanto
 sous la gorge.
 >
 > Prendre la parole à propos des semences au nom de la biodiversité implique
-donc de <mark>mettre en avant le caractère global de la lutte et des ennemis
-communs</mark> sans prétendre faire de la situation française une réplique des
+donc de ==mettre en avant le caractère global de la lutte et des ennemis
+communs== sans prétendre faire de la situation française une réplique des
 scandales qui ont lieu ailleurs.
 
 On en revient à ce besoin de produire plus, et en grandes quantités pour survivre.
@@ -221,7 +220,7 @@ collectif et dans le respect des principes de l'agricultre paysanne.
 
 > Il ne s'agit pas de faire de l'agriculture paysanne un énième label ou une
 nouvelle appellation ("pain issu de l'agriculture paysanne") mais plutôt
-de chercher à <mark>faire coïncider des pratiques avec des principes</mark>.
+de chercher à ==faire coïncider des pratiques avec des principes==.
 > C'est à ce prix que nous pourrons résister à l'offensive industrielle et même,
 peut-être, représenter une menace pour ce marché en perpétuelle expansion.
 
