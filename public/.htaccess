@@ -1,21 +1,4 @@
 # Redirection feeds
-RedirectTemp /music http://www.last.fm/user/thom4parisot/
-RedirectTemp /music/ http://www.last.fm/user/thom4parisot/
-RedirectMatch temp /code/(.*) https://github.com/thom4parisot/$1
-RedirectPermanent /photos https://thom4.net/photography/
-RedirectPermanent /category/journal/ https://thom4.net/categories/journal/
-RedirectPermanent /journal/ https://thom4.net/categories/journal/
-RedirectPermanent /categories/projets/ https://thom4.net/categories/projects/
-RedirectPermanent /categories/webdev/ https://thom4.net/categories/web/
-RedirectPermanent /categories/travail/ https://thom4.net/categories/work/
-RedirectPermanent /categories/evenements/ https://thom4.net/categories/events/
-RedirectPermanent /categories/entrepreunariat/ https://thom4.net/categories/work/
-RedirectPermanent /categories/mobile/ https://thom4.net/categories/web/
-RedirectPermanent /categories/personnel/ https://thom4.net/categories/meta/
-RedirectPermanent /tags/linux/ https://thom4.net/categories/web/
-RedirectPermanent /categorie/php/ https://thom4.net/categories/web/
-RedirectPermanent /categorie/mysql/ https://thom4.net/categories/web/
-RedirectPermanent /slash-me/ https://thom4.net/about/
 
 # ##############################################################################
 # # ERRORS                                                                     #
@@ -342,10 +325,6 @@ AddCharset utf-8 .css .js .xml .json .rss .atom
 
 <IfModule mod_headers.c>
     Header set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
-</IfModule>
-
-<IfModule mod_rewrite.c>
-  RewriteRule ^feed/?$ /atom.xml [L]
 </IfModule>
 
 
