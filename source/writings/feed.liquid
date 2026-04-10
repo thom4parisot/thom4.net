@@ -3,12 +3,12 @@ permalink: /feed/atom.xml
 eleventyExcludeFromCollections: true
 layout: ~
 feed:
-  title: "My Blog about Boats"
-  description: "I am writing about my experiences as a naval navel-gazer."
-  language: "en"
+  title: "Thomas Parisot — Carnet Web"
+  description: "Écrits sous forme d'articles long et notes de journal."
+  language: "fr"
   base: "https://thom4.net"
   author:
-    name: "Boaty McBoatFace"
+    name: "Thomas Parisot"
 ---
 {%- assign posts = collections.posts | concat: collections.journal | sort: 'data.date' | reverse -%}
 <?xml version="1.0" encoding="utf-8"?>
@@ -31,10 +31,10 @@ feed:
     <link href="{{ absolutePostUrl }}" hreflang="{{ post.data.lang }}" />
     <updated>{{ post.date | dateToRfc3339 }}</updated>
     {%- if post.page.excerpt != nil  %}
-    <summary type="html"><![CDATA[{{ post.page.excerpt | default: '' | renderTransforms: post.data.page, feed.base | escape }}]]></summary>
+    <summary type="html"><![CDATA[{{ post.page.excerpt | default: '' | renderTransforms: post.data.page, feed.base }}]]></summary>
     {%- endif %}
     {%- if post.content %}
-    <content type="html"><![CDATA[{{ post.content | renderTransforms: post.data.page, feed.base | escape }}]]></content>
+    <content type="html"><![CDATA[{{ post.content | renderTransforms: post.data.page, feed.base }}]]></content>
     {%- endif %}
     {%- for category in post.data.categories %}
     <category term="{{ category | escape }}"/>
