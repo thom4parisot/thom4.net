@@ -209,6 +209,7 @@ export default async function(eleventyConfig) {
    * Talks
    */
   eleventyConfig.addPassthroughCopy({
+    'public/.htaccess': '.htaccess',
     'public': 'assets',
     'images': 'images',
     'node_modules/reveal.js/dist': 'assets/reveal/',
