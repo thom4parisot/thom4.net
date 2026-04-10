@@ -67,6 +67,7 @@ ul, ol, p {
 
 ul.inline, ol.inline {
   display: inline-flex;
+  flex-wrap: wrap;
   gap: 1rlh;
   list-style: none;
   margin-block-end: 1rlh;
