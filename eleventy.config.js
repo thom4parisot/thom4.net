@@ -16,6 +16,7 @@ import { HtmlBasePlugin, IdAttributePlugin, RenderPlugin } from '@11ty/eleventy'
 import Image, { eleventyImageOnRequestDuringServePlugin } from '@11ty/eleventy-img'
 import navigationPlugin from '@11ty/eleventy-navigation'
 import { dateToRfc3339, getNewestCollectionItemDate } from '@11ty/eleventy-plugin-rss'
+import syntaxPlugin from '@11ty/eleventy-plugin-syntaxhighlight'
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -50,8 +51,11 @@ export default async function(eleventyConfig) {
   // @see https://www.11ty.dev/docs/plugins/render/
   eleventyConfig.addPlugin(RenderPlugin)
 
-  // // @see https://www.11ty.dev/docs/plugins/rss/#manual-template
-  // eleventyConfig.addPlugin(feedPlugin)
+  // @see https://www.11ty.dev/docs/plugins/syntaxhighlight/
+  eleventyConfig.addPlugin(syntaxPlugin, {
+    codeAttributes: {},
+    preAttributes: {}
+  })
 
   // @see https://github.com/11ty/eleventy/blob/main/src/Engines/Liquid.js
   // @see https://liquidjs.com/tutorials/options.html
@@ -212,6 +216,7 @@ export default async function(eleventyConfig) {
     'public/.htaccess': '.htaccess',
     'public': 'assets',
     'images': 'images',
+    'node_modules/prismjs': 'assets/prismjs/',
     'node_modules/reveal.js/dist': 'assets/reveal/',
     'node_modules/reveal-random-colors': 'assets/reveal/plugin/random-colors',
     'node_modules/normalize.css/normalize.css': 'assets/css/normalize.css',

@@ -2,6 +2,10 @@
 layout: base
 ---
 
+{%- css -%}
+<link rel="stylesheet" href="/assets/css/prismjs/prism-a11y-dark.css">
+{%- endcss -%}
+
 <main class="writings writings--post" role="main" id="main"  lang="{{ lang }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
   <article class="h-entry post article {{ classNames }} container" aria-labelledby="post-title" aria-describedby="read" lang="{{ lang | default: metadata.language }}">
     <header class="post__header">
