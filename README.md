@@ -5,10 +5,10 @@ The world in uncomfortable.
 
 ## Deploy
 
-Using `[deploy]` in a commit message, or by running this command manually:
+Manually, by running the following command:
 
 ```bash
-npm run deploy -- --host=ssh-….alwaysdata.net --user=…
+sh deploy.sh
 ```
 
 
