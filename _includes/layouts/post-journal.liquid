@@ -11,6 +11,10 @@ layout: base
       </h1>
     </header>
 
+    {% if geo %}
+      {% include "partials/map.liquid", geo: geo, title: title %}
+    {% endif %}
+
     <div id="read" class="post__content post__content--text e-content" data-pagefind-body>
       {{- content -}}
     </div>

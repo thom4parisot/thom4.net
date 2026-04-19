@@ -1,5 +1,6 @@
 import { env } from 'node:process'
 import { dirname } from 'node:path'
+import { randomUUID } from 'node:crypto'
 
 import { escapeAttribute } from 'entities'
 import mime from 'mime/lite'
@@ -11,6 +12,7 @@ import mdMark from 'markdown-it-mark'
 import mdSpans from 'markdown-it-bracketed-spans'
 import toml from '@iarna/toml'
 import slugify from '@sindresorhus/slugify'
+import { bbox } from '@turf/bbox'
 
 import { HtmlBasePlugin, IdAttributePlugin, RenderPlugin } from '@11ty/eleventy'
 import Image, { eleventyImageOnRequestDuringServePlugin } from '@11ty/eleventy-img'
@@ -33,9 +35,8 @@ export default async function(eleventyConfig) {
   // eleventyConfig.setLiquidParameterParsing('builtin')
 
   // @see https://www.11ty.dev/docs/languages/webc/
-  // eleventyConfig.addPlugin(webcPlugin)
-  eleventyConfig.addBundle("js")
-  eleventyConfig.addBundle("css")
+  eleventyConfig.addBundle('css')
+  eleventyConfig.addBundle('js')
 
   // @see https://www.11ty.dev/docs/plugins/id-attribute/
   eleventyConfig.addPlugin(IdAttributePlugin, {
@@ -217,6 +218,8 @@ export default async function(eleventyConfig) {
     'public': 'assets',
     'images': 'images',
     'node_modules/prismjs': 'assets/prismjs/',
+    'node_modules/maplibre-gl/dist/maplibre-gl.js': 'assets/maplibre-gl/maplibre-gl.js',
+    'node_modules/maplibre-gl/dist/maplibre-gl.css': 'assets/maplibre-gl/maplibre-gl.css',
     'node_modules/reveal.js/dist': 'assets/reveal/',
     'node_modules/reveal-random-colors': 'assets/reveal/plugin/random-colors',
     'node_modules/normalize.css/normalize.css': 'assets/css/normalize.css',
@@ -229,6 +232,8 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter('is_empty_txt', (any, alt = '') => !any ? alt : false)
   eleventyConfig.addFilter('values', (object) => Object.values(object))
   eleventyConfig.addFilter('mimeType', (string) => mime.getType(string))
+  eleventyConfig.addFilter('random', () => randomUUID())
+  eleventyConfig.addFilter('bbox', (geojson) => bbox(JSON.parse(geojson)))
 
   eleventyConfig.addShortcode("currentBuildDate", () => (new Date()).toISOString())
 

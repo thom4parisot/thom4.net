@@ -47,7 +47,7 @@ body > footer {
 }
 
 h1, h2, h3, h4, h5 {
-  line-height: 1rlh;
+  /* line-height: 1rlh; */
   margin-block-end: 1rlh;
 
   /* background-color: rgb(from var(--brand-color) r g b / 10%); */
@@ -99,3 +99,26 @@ aside.warning {
   background-color: rgb(from var(--brand-color) r g b / 15%);
   padding: calc(1lh - 3px);
 }
+
+figure.map {
+  background-color: rgb(from var(--brand-color) r g b / 15%);
+  border-radius: 1lh;
+  padding: 1rlh;
+
+  > .maplibregl-map {
+    display: block;
+    height: min(40rlh, 80svh);
+    margin-block: 2rlh 0 1rlh;
+    width: 100%;
+  }
+
+  > figcaption {
+    margin-block-start: 1rlh;
+
+    p {
+      font-weight: bold;
+      margin-block: 0;
+    }
+  }
+}
+
