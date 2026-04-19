@@ -27,3 +27,8 @@ J'envisage une [amélioration progressive](https://developer.mozilla.org/fr/docs
 
 - utilisation d'une image légère, statique pour représenter la carte ;
 - un bouton d'activation d'interactivité qui charge deux à trois cent kilo-octets d'interactivité.
+
+---
+
+J'envisage aussi de donner accès au **téléchargement des tracés**, pour le récupérer sur un autre appareil. C'est un des bénéfices des **données interopérables**.
+Et de leur attribuer une licence, pour rendre explicite leur source/origine/conditions de réutilisations.
