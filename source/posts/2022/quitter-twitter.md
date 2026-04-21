@@ -74,6 +74,6 @@ En attendant, je ne nourris plus un écosystème publicitaire, gavé de mes donn
 
 [quit-facebook]: /2016/facebook/
 [moderation]: https://www.clubic.com/internet/twitter/actualite-405273-twitter-condamne-par-la-justice-francaise-pour-ses-manquements-sur-la-moderation.html
-[journal]: /categories/journal/
+[journal]: /writings/journal/
 [Mastodon]: https://joinmastodon.org/fr
 [Merci]: /2019/05/27/remercier/
