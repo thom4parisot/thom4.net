@@ -53,6 +53,18 @@ h1, h2, h3, h4, h5 {
   /* background-color: rgb(from var(--brand-color) r g b / 10%); */
 }
 
+img {
+  max-width: 100%;
+}
+
+.show-if-no--webgl, .hide-if-no--webgl {
+  display: none;
+}
+
+.hide-if-no--webgl ~ .show-if-no--webgl {
+  display: block;
+}
+
 ul {
   margin: 0 0 1lh;
 }

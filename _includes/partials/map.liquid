@@ -3,6 +3,10 @@
 <figure id="maplibre-map-{{ random-id }}-figure" class="map map--{{ style | default: 'default' }}">
   <div id="maplibre-map-{{ random-id }}-map" aria-describedby="maplibre-map-{{ random-id }}-legend"></div>
 
+  {% if geo.image %}
+  <img src="{{ geo.image | htmlBaseUrl }}" alt="" aria-describedby="maplibre-map-{{ random-id }}-legend" class="show-if-no--webgl">
+  {% endif %}
+
   <figcaption id="maplibre-map-{{ random-id }}-legend">
     {{ geo.description | renderContent: 'md' }}
   </figcaption>
@@ -15,49 +19,59 @@
 {% js %}
   import '/assets/maplibre-gl/maplibre-gl.js'
 
-  const map = new maplibregl.Map({
-    container: 'maplibre-map-{{ random-id }}-map',
-    style: 'https://tiles.openfreemap.org/styles/bright',
-    bounds: {{ geo.json | bbox | json }},
-    cooperativeGestures: true,
-    locale: {
-      'CooperativeGesturesHandler.WindowsHelpText': "Utilisez Ctrl + défilement pour zoomer la carte",
-      'CooperativeGesturesHandler.MacHelpText': "Utilisez ⌘ + défilement pour zoomer la carte",
-      'CooperativeGesturesHandler.MobileHelpText': "Utilisez deux doigts pour déplacer la carte",
-      'Map.Title': {{ geo.title | default: title | default: 'Carte interactive' | json }},
-      'AttributionControl.ToggleAttribution': "Afficher / masquer l'attribution"
-    },
-    canvasContextAttributes: {
-      antialias: true
-    }
-  })
+  const container = 'maplibre-map-{{ random-id }}-map'
+  const canvas = document.createElement('canvas')
+  const gl = canvas.getContext("webgl")
 
-  map.addControl(new maplibregl.NavigationControl(), 'bottom-right')
-  map.addControl(new maplibregl.FullscreenControl({
-  }), 'bottom-right')
-
-  map.fitBounds({{ geo.json | bbox | json }}, {
-    padding: 75
-  })
-
-  map.on('load', () => {
-    map.addSource('route', {
-      type: 'geojson',
-      data: {{ geo.json }}
-    })
-
-    map.addLayer({
-      id: 'route',
-      type: 'line',
-      source: 'route',
-      layout: {
-        'line-join': 'round',
-        'line-cap': 'round'
+  if (window.WebGLRenderingContext && gl) {
+    const map = new maplibregl.Map({
+      container,
+      style: 'https://tiles.openfreemap.org/styles/bright',
+      bounds: {{ geo.json | bbox | json }},
+      cooperativeGestures: true,
+      locale: {
+        'CooperativeGesturesHandler.WindowsHelpText': "Utilisez Ctrl + défilement pour zoomer la carte",
+        'CooperativeGesturesHandler.MacHelpText': "Utilisez ⌘ + défilement pour zoomer la carte",
+        'CooperativeGesturesHandler.MobileHelpText': "Utilisez deux doigts pour déplacer la carte",
+        'Map.Title': {{ geo.title | default: title | default: 'Carte interactive' | json }},
+        'AttributionControl.ToggleAttribution': "Afficher / masquer l'attribution"
       },
-      paint: {
-        'line-color': '#FE821F',
-        'line-width': 5
+      canvasContextAttributes: {
+        antialias: true
       }
     })
-  })
+
+    map.addControl(new maplibregl.NavigationControl(), 'bottom-right')
+    map.addControl(new maplibregl.FullscreenControl({
+    }), 'bottom-right')
+
+    map.fitBounds({{ geo.json | bbox | json }}, {
+      padding: 75
+    })
+
+    map.on('load', () => {
+      map.addSource('route', {
+        type: 'geojson',
+        data: {{ geo.json }}
+      })
+
+      map.addLayer({
+        id: 'route',
+        type: 'line',
+        source: 'route',
+        layout: {
+          'line-join': 'round',
+          'line-cap': 'round'
+        },
+        paint: {
+          'line-color': '#FE821F',
+          'line-width': 5
+        }
+      })
+    })
+  }
+  else {
+    document.getElementById(container).classList.add('hide-if-no--webgl')
+  }
+
 {% endjs %}

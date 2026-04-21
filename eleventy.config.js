@@ -216,15 +216,17 @@ export default async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     'public/.htaccess': '.htaccess',
     'public': 'assets',
-    'images': 'images',
     'node_modules/prismjs': 'assets/prismjs/',
     'node_modules/maplibre-gl/dist/maplibre-gl.js': 'assets/maplibre-gl/maplibre-gl.js',
     'node_modules/maplibre-gl/dist/maplibre-gl.css': 'assets/maplibre-gl/maplibre-gl.css',
     'node_modules/reveal.js/dist': 'assets/reveal/',
     'node_modules/reveal-random-colors': 'assets/reveal/plugin/random-colors',
     'node_modules/normalize.css/normalize.css': 'assets/css/normalize.css',
-    'source/talks': 'talks',
   })
+
+  eleventyConfig.addPassthroughCopy('images')
+  eleventyConfig.addPassthroughCopy('source/talks/**/*.{png,jpg,jpeg,webp,gif}')
+  eleventyConfig.addPassthroughCopy('source/journal/**/*.{webp,geojson,gpx}')
 
   eleventyConfig.addLiquidFilter('dateToRfc3339', dateToRfc3339)
   eleventyConfig.addLiquidFilter('getNewestCollectionItemDate', getNewestCollectionItemDate)
