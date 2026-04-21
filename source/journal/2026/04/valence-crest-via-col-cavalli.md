@@ -12,7 +12,7 @@ geo:
     Tracé d'un trajet à vélo entre Valence (Drôme) et Crest (Isère) en passant par le col Jérôme Cavalli. Ce segment de la Via Rhona est long d'environ cent kilomètres. Il traverse les départements de la Drôme, de l'Isère et de la Loire.
 ---
 
-De retour de [MiXiT 2026](https://mixitconf.org/fr/2026), je ne voulais pas reprendre le [même chemin qu'à l'aller](/journal/2026/04/viarhona-valence-vienne/).
+De retour de [MiXiT 2026](https://mixitconf.org/fr/2026), je ne voulais pas reprendre le [même chemin qu'à l'aller](/2026/04/viarhona-valence-vienne/).
 
 Un lieu m'intrigait depuis plusieurs années : le col Jérôme Cavalli. Je ne savais pas à quoi ressemblait le paysage d'un endroit dont je voyais la signalétique mais rien de plus.
 

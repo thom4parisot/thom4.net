@@ -7,7 +7,7 @@ categories:
 - Refonte 3.0
 ---
 
-L'écriture du billet [trajet Valence ↦ Vienne](/journal/2026/04/viarhona-valence-vienne/) m'a donné envie d'ajouter une carte interactive.
+L'écriture du billet [trajet Valence ↦ Vienne](/2026/04/viarhona-valence-vienne/) m'a donné envie d'ajouter une carte interactive.
 
 Et c'est une chose que j'adore avec cet apprentissage ouvert : on sait à peu près par où on commence, on a une petite idée d'où on veut aller mais le chemin est imprévisible.
 
@@ -18,7 +18,7 @@ Je tente un audit d'accessibilité après l'ajout d'une carte basée sur [MapLib
 3. *et* je découvre un [audit d'accessibilité daté de 2021](https://github.com/maplibre/maplibre-gl-js/issues/53#issue-783551850){hreflang=en} qui révèle d'*autres* points d'amélioration (structure hiérarchique, alternative textuelle à des symboles, taille minimale des zones de clic).
 
 Je me suis proposé pour prendre en charge ces corrections.\
-De manière égoïste parce que j'aimerais que les cartes de mon carnet web soient accessibles ([une des intentions de la refonte 3.0](/journal/2026/04/a11y-first/)).\
+De manière égoïste parce que j'aimerais que les cartes de mon carnet web soient accessibles ([une des intentions de la refonte 3.0](/2026/04/a11y-first/)).\
 Et aussi pour que les cartes interactives basées sur MapLibreGL le deviennent, accessibles, sans grand effort supplémentaire.
 
 ---
