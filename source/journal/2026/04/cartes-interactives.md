@@ -18,7 +18,7 @@ Je tente un audit d'accessibilité après l'ajout d'une carte basée sur [MapLib
 3. *et* je découvre un [audit d'accessibilité daté de 2021](https://github.com/maplibre/maplibre-gl-js/issues/53#issue-783551850){hreflang=en} qui révèle d'*autres* points d'amélioration (structure hiérarchique, alternative textuelle à des symboles, taille minimale des zones de clic).
 
 Je me suis proposé pour prendre en charge ces corrections.\
-De manière égoïste parce que j'aimerais que les cartes de mon carnet web soient accessibles ([une des intentions de la refonte 3.0](/2026/04/a11y-first/)).\
+De manière égoïste parce que j'aimerais que les cartes de mon carnet web soient accessibles ([une des intentions de la refonte 3.0](/2026/04/10/a11y-first/)).\
 Et aussi pour que les cartes interactives basées sur MapLibreGL le deviennent, accessibles, sans grand effort supplémentaire.
 
 ---
