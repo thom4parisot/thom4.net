@@ -116,7 +116,7 @@ J'en profite pour partager quelques liens sur la photographie et les contraintes
 *   [La photographie et le droit (droit à l'image)](http://www.virusphoto.com/1528-la-photographie-et-la-loi-droit-a-limage.html)
 *   [5 modèles-types d'autorisation](http://www.virusphoto.com/10575-5-modeles-types-dautorisations-a-faire-signer-a-vos-modeles.html)
 
-Quant à moi, j'ai un sacré retard en terme de billets mais ça me fera une bonne transition pour parler la prochaine fois de [Réussir son blog professionnel](http://reussir-son-blog.pro/), 2 mois après son lancement ;-)
+Quant à moi, j'ai un sacré retard en terme de billets mais ça me fera une bonne transition pour parler la prochaine fois de [Réussir son blog professionnel](/writings/publications/blog-pro/), 2 mois après son lancement ;-)
 
 ## Mise à jour
 

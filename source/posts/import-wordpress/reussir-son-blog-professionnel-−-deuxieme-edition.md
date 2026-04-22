@@ -14,7 +14,7 @@ categories:
 cover: /images/2009/08/reussir-son-blog-professionnel-2eme-edition-nq8.png
 ---
 
-9 mois jour pour jour après la sortie de la première édition de [Réussir son blog professionnel](http://reussir-son-blog.pro/), voilà que débarque la deuxième édition. Déjà ? On nous prend pour des vaches à lait ? Et si j'ai déjà lu la première édition ?
+9 mois jour pour jour après la sortie de la première édition de [Réussir son blog professionnel](/writings/publications/blog-pro/), voilà que débarque la deuxième édition. Déjà ? On nous prend pour des vaches à lait ? Et si j'ai déjà lu la première édition ?
 
 J'y répondrai, rassurez-vous ;-)
 

@@ -19,7 +19,7 @@ C'est un format idéal pour s'adapter à soi plutôt que de s'adapter aux autres
 
 [La proposition de l'équipe 2023](https://sudweb.fr/blog/2023/quand-est-ce-que-vous-refaites-sudweb/) — <q>une conférence humaine, de longues pauses pour échanger et un samedi atelier pour construire ensemble</q> — est une réussite.
 
-Quand on demandait à Julie pourquoi elle était venue, si c'était sa première, elle a répondu qu'elle en avait entendu le plus grand bien. Cette conférence a marqué Maïtané (elle a rencontré tous‧tes [ses collègues](https://lechappeebelle.team/) par ce biais), Alexis ("c'est génial de retrouver ses pairs, et parler de tous ces sujets sans parler de technique") et aussi Thomas ([expérimenter avec le programme, l'éthique et la logistique d'organisation](https://thom4.net/2016/69-months-of-sudweb/)).
+Quand on demandait à Julie pourquoi elle était venue, si c'était sa première, elle a répondu qu'elle en avait entendu le plus grand bien. Cette conférence a marqué Maïtané (elle a rencontré tous‧tes [ses collègues](https://lechappeebelle.team/) par ce biais), Alexis ("c'est génial de retrouver ses pairs, et parler de tous ces sujets sans parler de technique") et aussi Thomas ([expérimenter avec le programme, l'éthique et la logistique d'organisation](/2016/69-months-of-sudweb/)).
 
 En repartant on se disait en rigolant : quand est-ce qu'on remet ça — ce plaisir de se retrouver, et de progresser sur ce qui nous questionne avec des personnes de qualité ?
 

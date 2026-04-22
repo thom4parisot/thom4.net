@@ -31,7 +31,7 @@ Si l'on ne dispose pas d'un blog ou d'une page personnelle exprimant nos idées,
 *   un potentiel d'affaires supplémentaire
 
 Mettre à jour un statut ça paraît bête mais vous _poussez_ cette information à tout votre réseau. Ce même réseau le réceptionnera et sera capable de rebondir dessus, surtout s'il s'agit de recrutement. C'est du _statut à oreille_ au lieu du classique bouche à oreille.
-[Twitter est excellent](https://thom4.net/2007/06/01/twitter-gtwitter/) de ce point de vue là, en plus d'être un excellent relais d'information.
+[Twitter est excellent](/2007/twitter-gtwitter/) de ce point de vue là, en plus d'être un excellent relais d'information.
 
 ![Connaissances, partagées ou non](/images/2008/12/linkedin-shared-connections.png "Connaissances, partagées ou non")
 

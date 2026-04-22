@@ -16,7 +16,7 @@ Finalement, la raison pour laquelle je m'étais inscrit sur Framapiaf, c'était 
 Un compte Mastodon, c'est comme une adresse e-mail. On en a une ou plusieurs, auprès d'un ou plusieurs fournisseurs d'accès.
 C'est comme une adresse e-mail, mais dont le contenu et les échanges sont publics. Donc jetables/compostables.
 
-Il me manquait la notion de "fournisseur d'accès" pour Mastodon, avec une adresse à mon nom, reliée au reste de [mon identité numérique principale](https://thom4.net).
+Il me manquait la notion de "fournisseur d'accès" pour Mastodon, avec une adresse à mon nom, reliée au reste de [mon identité numérique principale](/).
 
 En découvrant [Pleroma](https://pleroma.social/) — une implémentation compatible [ActivityPub](https://activitypub.rocks/) — je me suis dis que je pouvais l'installer chez mon hébergeur web, [AlwaysData](https://www.alwaysdata.com).
 

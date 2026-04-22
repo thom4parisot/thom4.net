@@ -47,7 +47,7 @@ Je pose le sac sur le tapis roulant, il se pèse tout seul, il part.\
 Ce refrain des supermarchés britanniques me revient alors en tête.
 
 Un coup de fil plus tard, j'énonce <q>je suis à l'aéroport</q>.\
-[Ça faisait 6 ans que je ne l'avais pas dit](https://thom4.net/2017/night-train-to-lisbon/).\
+[Ça faisait 6 ans que je ne l'avais pas dit](/2017/night-train-to-lisbon/).\
 Je me demande à quoi ressemblera le monde dans 6 ans.
 
 J'ai l'impression que c'est **la dernière fois** que je le prendrai.

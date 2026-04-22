@@ -39,7 +39,7 @@ The implementation will be done in 4 steps:
 
 The final result is available as a [public Gist](https://gist.github.com/thom4parisot/6126549) and eventually looks like the following image.
 
-![](https://thom4.net/images/2013/08/chrome-extension-channel-icons.png)
+![](/images/2013/08/chrome-extension-channel-icons.png)
 
 ## Extension Background Page Boilerplate
 

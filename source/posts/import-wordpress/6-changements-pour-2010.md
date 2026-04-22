@@ -37,9 +37,9 @@ En 2009, j'ai repris goût au voyage. Ou plutôt, le virus m'est revenu. Ce fût
 4.  **avril** : refonte graphique du blog ... il en avait besoin
 5.  **mai** : mon dernier [BlogCamp](http://blogcamp.fr/) dans l'organisation, la gestion et le reste − passage de Pentax chez Nikon : ça change la vie !
 6.  **juin** : je suis officiellement auto-entrepreneur
-7.  **juillet** : annonce officielle de la sortie du livre « [Réussir son blog professionnel](http://reussir-son-blog.pro/) » − derniers ajustements dans la rédaction
+7.  **juillet** : annonce officielle de la sortie du livre « [Réussir son blog professionnel](/writings/publications/blog-pro/) » − derniers ajustements dans la rédaction
 8.  **août** : trêve estivale − photos, sorties &amp; cie
-9.  **septembre** : sortie de mon livre « [Réussir son blog professionnel](http://reussir-son-blog.pro/) » − séjour au Canada, en Corse, à Bayonne et Montréal !
+9.  **septembre** : sortie de mon livre « [Réussir son blog professionnel](/writings/publications/blog-pro/) » − séjour au Canada, en Corse, à Bayonne et Montréal !
 10.  **octobre** : aller-retour à New York City depuis Montréal — [Paris-Web 2009](http://paris-web.fr/2009/) ! Excellente cuvée dont je n'ai pas encore parlé
 11.  **novembre** : 2 ans chez [Clever Age](http://www.clever-age.com/) ; le temps passe vite, chaque année est différente avec de nouveaux défis
 12.  **décembre** : retouche graphique du blog, décompression, réveillon − plein de bons moments avec des gens que j'aime
@@ -79,7 +79,7 @@ La seule interrogation porte sur le temps à ma disposition pour mettre en œuvr
 ### Master Pro Communication Publique et Politique (CPP)
 
 Cette année je retourne sur les bancs de l'école, à nouveau de l'autre côté du bureau, celui de l'enseignement. Cette filière est à la croisée entre Sciences Po et l'[ISIC](http://www.isic.u-bordeaux3.fr/). Mon but sera d'expliquer les rouages de la communication Web, en passant par les blogs et Twitter.
-C'est une des conséquences de la publication de [Réussir son blog professionnel](http://reussir-son-blog.pro/) (merci Amar ;-)).
+C'est une des conséquences de la publication de [Réussir son blog professionnel](/writings/publications/blog-pro/) (merci Amar ;-)).
 
 ### Symfony Live 2010
 

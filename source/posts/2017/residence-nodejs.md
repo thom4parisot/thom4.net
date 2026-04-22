@@ -43,7 +43,7 @@ Je vous invite à me [rejoindre sur le parcours][itineraire], à contribuer du c
 
 C'est un exercice qui coûte énormément de temps et d'énergie en plus d'un travail à temps plein. Cela implique d'**apprendre énormément** (parce qu'un auteur ne saura jamais tout), de **synthétiser ses connaissances** et concepts de manière claire (parce que les lecteurs doivent comprendre) et bien évidemment le **travail d'écriture** (textes, exemples et mise en page).
 
-J'ai frôlé et/ou été victime de [burnout](http://www.souffrance-et-travail.com/magazine/dans-la-loi/le-burn-out-ou-la-non-reconnaissance-professionnelle/) à plusieurs reprise, de mon propre fait. En partie à cause de l'**isolement**, du **manque de sommeil** et d'un **déséquilibre de vie croissant**. Mais aussi parce que je revivais la douleur de l'écriture de mon premier livre, [*Réussir son blog professionnel*](/blog-pro/).
+J'ai frôlé et/ou été victime de [burnout](http://www.souffrance-et-travail.com/magazine/dans-la-loi/le-burn-out-ou-la-non-reconnaissance-professionnelle/) à plusieurs reprise, de mon propre fait. En partie à cause de l'**isolement**, du **manque de sommeil** et d'un **déséquilibre de vie croissant**. Mais aussi parce que je revivais la douleur de l'écriture de mon premier livre, [*Réussir son blog professionnel*](/writings/publications/blog-pro/).
 
 Je recommande le visionnage du chouette retour d'expérience de [Swizec Teller](http://swizec.com/) à [Write the Docs 2014](http://docs.writethedocs.org/2014/eu/) (en anglais) :
 

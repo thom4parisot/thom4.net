@@ -50,7 +50,7 @@ N'ayant « que » 4 séances mais surtout 3 heures à remplir à chaque fois, j'
 3.  Questions & réponses sur l'utilisation du blog + comment mesurer l'impact de sa communication en ligne
 4.  Utilisation des réseaux, sociaux ou pas, et moyens de diffusion d'un contenu publié
 
-Il s'agissait en fait d'adapter le contenu de mon livre, [Réussir son blog professionnel](http://reussir-son-blog.pro/), en l'étayant et en le mettant en pratique par un public pas nécessairement au fait.
+Il s'agissait en fait d'adapter le contenu de mon livre, [Réussir son blog professionnel](/writings/publications/blog-pro/), en l'étayant et en le mettant en pratique par un public pas nécessairement au fait.
 
 ## L'évaluation
 
