@@ -7,7 +7,7 @@ categories:
 - Refonte 3.0
 ---
 
-L'écriture du billet [trajet Valence ↦ Vienne](/2026/04/viarhona-valence-vienne/) m'a donné envie d'ajouter une carte interactive.
+L'écriture du billet [trajet Valence ↦ Vienne](/2026/04/19/viarhona-valence-vienne/) m'a donné envie d'ajouter une carte interactive.
 
 Et c'est une chose que j'adore avec cet apprentissage ouvert : on sait à peu près par où on commence, on a une petite idée d'où on veut aller mais le chemin est imprévisible.
 
