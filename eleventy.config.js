@@ -35,11 +35,12 @@ export default async function(eleventyConfig) {
   /**
    * Configuration
    */
-  eleventyConfig.setInputDirectory('source')
+  eleventyConfig.setInputDirectory('./source')
   eleventyConfig.setDataDirectory('../_data'),
-  eleventyConfig.setDataFileBaseName('index'),
   eleventyConfig.setIncludesDirectory('../_includes')
   eleventyConfig.setLayoutsDirectory('../_includes/layouts')
+
+  eleventyConfig.setDataFileBaseName('index'),
   eleventyConfig.setTemplateFormats(["html", "liquid", "md", "njk"])
 
   eleventyConfig.ignores.add("source/talks/**/slides/**.md")
@@ -119,7 +120,7 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy('images')
   eleventyConfig.addPassthroughCopy('source/talks/**/*.{png,jpg,jpeg,webp,gif}')
-  eleventyConfig.addPassthroughCopy('source/journal/**/*.{webp,geojson,gpx}')
+  eleventyConfig.addPassthroughCopy('source/journal/**/*.{webp,avif,geojson}')
 
   setupFilters(eleventyConfig)
   setupShortcodes(eleventyConfig)
