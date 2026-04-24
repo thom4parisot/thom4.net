@@ -10,6 +10,7 @@ import mdSpans from 'markdown-it-bracketed-spans'
 import emojiPairs from 'markdown-it-emoji/lib/data/full.mjs'
 
 import slugify from '@sindresorhus/slugify'
+import { escapeAttribute } from 'entities'
 
 export function mdAccessibleEmojis (md, options) {
   const emoToText = Object.fromEntries(
@@ -86,10 +87,21 @@ export default function setupMarkdown (eleventyConfig) {
         const href = tokens[idx].attrGet('href')
 
         if (href && (href.startsWith('http://') || href.startsWith('https://'))) {
+          let hrefContent = ''
+          let endLinkIdx = idx
+
+          while (++endLinkIdx && tokens[endLinkIdx].type !== 'link_close') {
+            hrefContent += tokens[endLinkIdx].content
+          }
+
           tokens[idx].attrJoin('class', 'external-link')
           tokens[idx].attrJoin('rel', 'noopener')
           tokens[idx].attrJoin('rel', 'noreferrer')
           tokens[idx].attrSet('target', '_blank')
+
+          if (hrefContent) {
+            tokens[idx].attrSet('title', `${escapeAttribute(hrefContent)} (ouvre un nouvel onglet)`)
+          }
         }
       })
       .use(mdEmoji)
