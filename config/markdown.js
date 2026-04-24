@@ -61,11 +61,8 @@ export default function setupMarkdown (eleventyConfig) {
       .use(mdAnchor, {
         level: 1,
         collisionSuffix: 'v',
-        permalink: mdAnchor.permalink.linkInsideHeader({
-          ariaHidden: true,
-          class: 'header-anchor',
-          placement: 'before',
-          symbol: '§'
+        permalink: mdAnchor.permalink.headerLink({
+          safariReaderFix: true
         }),
         slugify (header) {
           return slugify(header)
