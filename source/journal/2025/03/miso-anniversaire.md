@@ -15,7 +15,7 @@ C'est la troisième itération de ma fabrication annuelle de [miso](https://fr.w
 Ce qui a été changé cette année :
 - du koji de riz _frais_, produit à 5 kilomètres par [Nicolas](https://www.champidici.fr/) ;
 - le mélange riz/légumineuse/sel est passé au [moulin à légumes](https://fr.wikipedia.org/wiki/Moulin_%C3%A0_l%C3%A9gumes) manuel ;
-- j'ai laissé tombé les lentilles ;
+- j'ai laissé tomber les lentilles ;
 - par contre j'ai testé avec 400 grammes de graines de courge torréfiées.
 
 ![Moulin à légumes rempli d'un mélange de riz, de sel et de pois chiche](/images/2025/03/melange-pois-chiche-sel-koji.webp)
