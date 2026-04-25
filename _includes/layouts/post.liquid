@@ -6,10 +6,10 @@ layout: base
 <link rel="stylesheet" href="/assets/css/prismjs/prism-a11y-dark.css">
 {%- endcss -%}
 
-<main class="writings writings--post" role="main" id="main"  lang="{{ lang }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+<main class="writings writings--post" role="main" id="main" itemscope itemtype="https://schema.org/CreativeWorkSeries">
   <article class="h-entry post article {{ classNames }} container" aria-labelledby="post-title" aria-describedby="read" lang="{{ lang | default: metadata.language }}">
     <header class="post__header">
-      <h1 id="post-title">{{ title }}</h1>
+      <h1 id="post-title" lang="{{ lang }}">{{ title }}</h1>
 
       <ul>
         <li>
@@ -22,7 +22,7 @@ layout: base
       </ul>
     </header>
 
-    <div id="read" class="post__content post__content--text e-content" data-pagefind-body>
+    <div id="read" class="post__content post__content--text e-content" lang="{{ lang }}" data-pagefind-body>
       {{ content }}
     </div>
   </article>
@@ -40,11 +40,11 @@ layout: base
           {{ post.data.date | date: '%B %Y' }}
           <span class="visually-hidden">:</span>
         </time>
-        <a href="{{ post.url }}" rel="bookmark next" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+        <a href="{{ post.url }}" rel="bookmark next" hreflang="{{ post.data.lang }}" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
       </li>
       {% endfor %}
       <li>
-        <a rel="current">
+        <a rel="current" lang="{{ lang }}">
           {{ date | date: '%B %Y' }}
           <span class="visually-hidden">:</span>
           {{ title }}
@@ -56,7 +56,7 @@ layout: base
           {{ post.data.date | date: '%B %Y' }}
           <span class="visually-hidden">:</span>
         </time>
-        <a href="{{ post.url }}" rel="bookmark prev" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
+        <a href="{{ post.url }}" rel="bookmark prev" hreflang="{{ post.data.lang }}" lang="{{ post.data.lang }}">{{ post.data.title }}</a>
       </li>
       {% endfor %}
     </ul>
