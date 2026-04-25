@@ -100,7 +100,7 @@ export default function setupMarkdown (eleventyConfig) {
           tokens[idx].attrSet('target', '_blank')
 
           if (hrefContent) {
-            tokens[idx].attrSet('title', `${escapeAttribute(hrefContent)} (ouvre un nouvel onglet)`)
+            tokens[idx].attrSet('aria-label', `${escapeAttribute(hrefContent)} (ouvre un nouvel onglet)`)
           }
         }
       })
