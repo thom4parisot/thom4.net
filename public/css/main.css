@@ -155,3 +155,10 @@ figure.map {
  * Heading anchors
  */
 
+/**
+ * PrismJS override
+ */
+pre[class*="language-"] {
+  margin: .5rlh 0;
+  padding: 1rlh;
+}

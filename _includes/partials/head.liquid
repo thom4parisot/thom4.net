@@ -7,8 +7,7 @@
 <link rel="preload" href="/assets/css/normalize.css" as="style" type="text/css">
 <link rel="preload" href="/assets/css/main.css" as="style" type="text/css">
 {% getBundle "html", "preload" -%}
-{% getBundle "css" -%}
-
+{% getBundle "css" %}
 <title lang="{{ lang }}">{{ eleventyNavigation.title | default: title }} — {{ metadata.title }}</title>
 <meta name="description" content="{{ description | default: metadata.description }}">
 <meta property="og:locale" content="fr_FR">
