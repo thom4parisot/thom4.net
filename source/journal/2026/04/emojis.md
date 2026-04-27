@@ -48,4 +48,4 @@ Tout autre émoji **décoratif** (comme dans cette entrée de journal par exempl
 ---
 
 Je n'ai pas eu à reprendre les vingt années de contenus pour y arriver.
-La lecture d'une [issue GitHub](https://github.com/markdown-it/markdown-it-emoji/issues/43){lang=en hreflang=en}, d'une [proposition de code](https://github.com/markdown-it/markdown-it-emoji/pull/53/changes){lang=en hreflang=en} et le code d'autres extensions markdown m'ont aider à mettre en place les mécanismes ci-dessus.
+La lecture d'une [issue GitHub](https://github.com/markdown-it/markdown-it-emoji/issues/43){lang=en hreflang=en}, d'une [proposition de code](https://github.com/markdown-it/markdown-it-emoji/pull/53/changes){lang=en hreflang=en} et le code d'autres extensions markdown m'ont aidé à mettre en place les mécanismes ci-dessus.
