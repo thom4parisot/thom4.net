@@ -6,10 +6,10 @@ layout: base
 <link rel="stylesheet" href="/assets/css/prismjs/prism-a11y-dark.css">
 {%- endcss -%}
 
-<main class="writings writings--post" role="main" id="main"  lang="{{ lang }}" itemscope itemtype="https://schema.org/CreativeWorkSeries">
+<main class="writings writings--post" role="main" id="main" itemscope itemtype="https://schema.org/CreativeWorkSeries">
   <article class="h-entry post article {{ classNames }} container" aria-labelledby="post-title" aria-describedby="read" lang="{{ lang | default: metadata.language }}">
     <header class="post__header">
-      <h1 id="post-title">
+      <h1 id="post-title" lang="{{ lang }}">
         <span aria-hidden="true">☕️</span>
         Journal : {{ title -}}
       </h1>
@@ -19,7 +19,7 @@ layout: base
       {% include "partials/map.liquid", geo: geo, title: title %}
     {% endif %}
 
-    <div id="read" class="post__content post__content--text e-content" data-pagefind-body>
+    <div id="read" class="post__content post__content--text e-content" lang="{{ lang }}" data-pagefind-body>
       {{- content -}}
     </div>
   </article>
