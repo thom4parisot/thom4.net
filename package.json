@@ -28,6 +28,7 @@
     "@turf/bbox": "^7.3.4",
     "entities": "^8.0.0",
     "maplibre-gl": "^5.23.0",
+    "markdown-it-abbr": "^2.0.0",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^4.3.1",
     "markdown-it-bracketed-spans": "^1.0.1",

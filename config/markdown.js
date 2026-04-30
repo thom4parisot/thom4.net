@@ -1,3 +1,4 @@
+import mdAbbr from 'markdown-it-abbr'
 import mdAnchor from 'markdown-it-anchor'
 import mdAttrs from 'markdown-it-attrs'
 import mdContainer from 'markdown-it-container'
@@ -57,6 +58,7 @@ export default function setupMarkdown (eleventyConfig) {
     const lib = mdLib
       .use(mdSpans)
       .use(mdAttrs)
+      .use(mdAbbr)
       .use(mdMark)
       .use(mdFootnote)
       .use(mdAnchor, {
