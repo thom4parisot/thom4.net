@@ -28,9 +28,25 @@ Il a fallu plonger dans les entrailles du fonctionnement de `markdown-it`{lang=e
 
 J'ai créé une règle qui est insérée *avant* l'extension émojis pour convertir chaque émoji (unicode) en raccourci textuel d'émoji :
 
-1. on parcourt chaque jeton markdown de type `inline`{lang=en} ;
+1. on parcourt chaque [jeton markdown](https://github.com/markdown-it/markdown-it/blob/master/docs/architecture.md#token-stream){hreflang=en} ;\
+  ```json
+  {
+    type: 'inline',
+    content: 'Coucou 👋🏻'
+  }
+  ```
 2. on vérifie la présence d'une émoji (via leur classe Unicode d'expression régulière) ;
-3. on remplace chaque occurence par son raccourci textuel.
+3. on remplace chaque occurence par son raccourci textuel.\
+  ```json
+  {
+    type: 'inline',
+    content: 'Coucou :wave:'
+  }
+  ```
+4. qui a son tour rentre dans la moulinette expliquée précédemment\
+  ```html
+    <p>Coucou <span class="emoji emoji--wave" aria-hidden="true">👋🏻</span></p>
+  ```
 
 [Le code complet est disponible sur GitHub](https://github.com/thom4parisot/thom4.net/blob/d1ff1b44ba0b28085478f4715175cc9427fe0f3e/config/markdown.js#L15-L47){hreflang=en}.
 
