@@ -7,7 +7,7 @@ event:
   location: Lyon
   duration: 20
   url: https://mixitconf.org/fr/2023/ce-code-qui-nous-lit
-cover: mixit/images/londres-river-lea.jpg
+cover: images/londres-river-lea.jpg
 video: https://vimeo.com/819306914
 category: [Talk]
 slides:

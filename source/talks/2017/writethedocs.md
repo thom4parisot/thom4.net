@@ -8,7 +8,7 @@ event:
   location: Prague
   duration: 30
   url: http://www.writethedocs.org/conf/eu/2017/speakers/#speaker-eu-2017-thomas-parisot
-cover: writethedocs/images/peak-district-train.jpg
+cover: images/peak-district-train.jpg
 video: https://www.youtube.com/watch?v=p2eAXLR3OOk
 slides:
   - file: intro.md

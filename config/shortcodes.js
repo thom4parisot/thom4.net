@@ -1,4 +1,4 @@
-import { dirname } from 'node:path'
+import { dirname, join } from 'node:path'
 import { env } from 'node:process'
 
 import { escapeAttribute } from 'entities'
@@ -65,10 +65,8 @@ export default function setupShortcodes (eleventyConfig) {
     ].join('')
 	})
 
-  eleventyConfig.addShortcode("bundledImage", async function (page, src, size = 840, alt = '', className = '') {
-    const fullSrc = `${dirname(page.inputPath)}/${src}`
-
-		const html = await Image(fullSrc, {
+  eleventyConfig.addShortcode("bundledImage", async function (src, size = 840, alt = '', className = '') {
+    const html = await Image(join(this.eleventy.directories.input, src), {
       transformOnRequest: env.ELEVENTY_RUN_MODE === "serve",
       formats: ['webp', 'jpeg'],
       outputDir: './_site/images/generated/',

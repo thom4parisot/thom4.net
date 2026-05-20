@@ -8,7 +8,7 @@ event:
   duration: 30
   url: https://www.frontendlondon.co.uk/archive#fel45
 category: [Featured, Talk]
-cover: frontendlondon/images/book-npm.png
+cover: images/book-npm.png
 video: https://www.youtube.com/watch?v=ac_QcHv-tyo
 slides:
   - file: intro.md

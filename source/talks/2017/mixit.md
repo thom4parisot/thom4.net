@@ -8,7 +8,7 @@ event:
   duration: 20
   url: https://mixitconf.org/2017/travailler-moins-pour-gagner-moins
 category: [Featured, Talk]
-cover: mixit/images/mixit-2017_33806419683_o.webp
+cover: images/mixit-2017_33806419683_o.webp
 video: https://vimeo.com/217023172
 slides:
   - file: intro.md

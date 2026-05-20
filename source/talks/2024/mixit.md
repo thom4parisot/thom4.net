@@ -7,7 +7,7 @@ event:
   location: Lyon
   duration: 20
   url: https://mixitconf.org/fr/2024/recruter-avec-amour
-cover: mixit/images/common-lens.jpg
+cover: images/common-lens.jpg
 video: https://www.youtube.com/watch?v=uVS1mDwDFJk
 category: [Featured, Talk]
 slides:

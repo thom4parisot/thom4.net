@@ -8,7 +8,7 @@ event:
   duration: 50
   url: https://www.paris-web.fr/2022/conferences/on-se-leve-et-on-se-cassetour-dhorizon-dun-travail-sans-capital
 category: [Featured, Talk, Workshop]
-cover: paris-web/images/52445467290_fdfcf33a88_c.webp
+cover: images/52445467290_fdfcf33a88_c.webp
 video: https://vimeo.com/774231944
 external: https://framagit.org/miette/travail-sans-capital/-/raw/main/slides/index.pdf?inline=true
 ---

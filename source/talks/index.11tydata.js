@@ -6,6 +6,12 @@ export default {
   permalink: '/{{ page.filePathStem }}/',
   theme: 'thom4',
   eleventyComputed: {
+    cover ({ cover, page }) {
+      if (cover) {
+        return `${page.filePathStem}/${cover}`
+      }
+    },
+
     async slides ({ page, slides = [] }) {
       if (!Array.isArray(slides) || !slides.length) {
         return []

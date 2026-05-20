@@ -8,7 +8,7 @@ event:
   location: Paris
   duration: 30
   url: https://www.paris-web.fr/2024/conference/appuyez-sur-entree-pour-envoyer-ce-message
-cover: paris-web/images/54175008507_8ef6601c42_k.webp
+cover: images/54175008507_8ef6601c42_k.webp
 video: https://vimeo.com/1016083566
 category: [Featured, Talk]
 slides:

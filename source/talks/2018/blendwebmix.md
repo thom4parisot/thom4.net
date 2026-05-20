@@ -10,7 +10,7 @@ event:
   location: Lyon
   duration: 40
   url: https://2018.blendwebmix.com/programme/conferences/smart-citizen-vers-une-production-de-donnees-citoyennes/
-cover: blendwebmix/images/filwood-community-centre.jpg
+cover: images/filwood-community-centre.jpg
 video: https://www.youtube.com/watch?v=D8PeqAlTykI
 external: https://dtc-innovation.github.io/mind-the-gaps/2018/10/24/blendwebmix
 ---
