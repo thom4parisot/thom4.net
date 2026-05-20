@@ -36,7 +36,7 @@ layout: base
 
       {% for post in collections.posts, offset: nextPostsOffset, limit: 2 %}
       <li>
-        <time datetime="{{ post.data.date | date: '%c' }}">
+        <time datetime="{{ post.data.date | date_to_xmlschema }}">
           {{ post.data.date | date: '%B %Y' }}
           <span class="visually-hidden">:</span>
         </time>
@@ -52,7 +52,7 @@ layout: base
       </li>
       {% for post in collections.posts, offset: prevPostsOffset, limit: 2 %}
       <li>
-        <time datetime="{{ post.data.date | date: '%c' }}">
+        <time datetime="{{ post.data.date | date_to_xmlschema }}">
           {{ post.data.date | date: '%B %Y' }}
           <span class="visually-hidden">:</span>
         </time>

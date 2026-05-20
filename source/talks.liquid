@@ -112,9 +112,9 @@ eleventyNavigation:
   <ol aria-label="{{ workshops|size }} ateliers proposées par {{ metadata.author }}">
     {% for talk in workshops  %}
     <li>
-      <date datetime="{{ talk.data.date | date_to_xmlschema }}">
+      <time datetime="{{ talk.data.date | date_to_xmlschema }}">
         {{ talk.data.date | date: '%B %Y' }}
-      </date>
+      </time>
 
       <a href="{{ talk.data.event.url }}" target="_blank" rel="noopener" lang="{{ talk.data.lang }}">
         {{ talk.data.title }}
