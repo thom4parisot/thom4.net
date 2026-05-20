@@ -15,27 +15,42 @@ export default {
 
       return `${yyyymmdd}/${page.fileSlug}/`
     },
-    async geo ({ geo, page, eleventy }) {
-      // webgeo data as a file
-      if (Object.hasOwn(geo, 'file')) {
-        const filePath = join(dirname(page.inputPath), geo.file)
-        const fileContent = await readFile(filePath, { encoding: 'utf8'})
-        geo.json = fileContent
-        geo.mimeType = mime.getType(geo.file)
 
-        // image alternative
-        const imageName = `${basename(geo.file, extname(geo.file))}.webp`
-        const imagePath = `${dirname(page.inputPath)}/${imageName}`
+    image ({ geo, image }) {
+      if (!image && geo?.image) {
+        return geo.image
+      }
+    },
 
-        try {
-          await access(imagePath, constants.R_OK)
-          geo.image = '/' + relative(eleventy.directories.input, imagePath)
-        } catch (error) {
-          console.error(`No alternative image found for %s in %s`, geo.file, page.inputPath)
+    geo: {
+      async image ({ eleventy, geo, page }) {
+        if (geo?.file) {
+          const imageName = `${basename(geo.file, extname(geo.file))}.webp`
+          const imagePath = `${dirname(page.inputPath)}/${imageName}`
+
+          try {
+            await access(imagePath, constants.R_OK)
+            return '/' + relative(eleventy.directories.input, imagePath)
+          } catch (error) {
+            console.error(`No alternative image found for %s in %s`, geo.file, page.inputPath)
+          }
+        }
+      },
+
+      async json ({ geo, page, eleventy }) {
+        if (geo?.file) {
+          const filePath = join(dirname(page.inputPath), geo.file)
+          const fileContent = await readFile(filePath, { encoding: 'utf8'})
+
+          return fileContent
+        }
+      },
+
+      mimeType ({ geo }) {
+        if (geo?.file) {
+          return mime.getType(geo.file)
         }
       }
-
-      return geo
     },
 
     section ({ categories }) {

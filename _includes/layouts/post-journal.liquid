@@ -15,7 +15,7 @@ layout: base
       </h1>
     </header>
 
-    {% if geo %}
+    {% if geo.json %}
       {% include "partials/map.liquid", geo: geo, title: title %}
     {% endif %}
 
