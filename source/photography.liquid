@@ -12,7 +12,7 @@ eleventyNavigation:
   {% for series in collections.photography-series %}
     <article class="tile is-square">
       <a href="{{ series.url }}" rel="bookmark">
-        {% bundledImage series.page, series.data.image, 300 -%}
+        {% bundledImage series.data.image, 300 -%}
 
         {{ series.data.title }}
       </a>

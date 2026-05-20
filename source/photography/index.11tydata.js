@@ -1,6 +1,14 @@
+import { dirname } from 'node:path'
+
 export default {
   layout: 'series-default.liquid',
   eleventyComputed: {
+    image ({ image, page }) {
+      if (image) {
+        return `${dirname(page.filePathStem)}/${image}`
+      }
+    },
+
     temporalCoverage ({ date, pictures }) {
       if (!Array.isArray(pictures)) {
         return []
