@@ -93,7 +93,7 @@ eleventyNavigation:
   <h2>Présentations</h2>
 
   <ol aria-label="{{ talks|size }} présentations proposées par {{ metadata.author }}">
-    {% for talk in talks  %}
+    {% for talk in talks, reversed  %}
     <li>
       <time datetime="{{ talk.data.date | date_to_xmlschema }}">
         {{ talk.data.date | date: '%B %Y' }}
@@ -110,7 +110,7 @@ eleventyNavigation:
   <h2 lang="en">Ateliers</h2>
 
   <ol aria-label="{{ workshops|size }} ateliers proposées par {{ metadata.author }}">
-    {% for talk in workshops  %}
+    {% for talk in workshops, reversed  %}
     <li>
       <time datetime="{{ talk.data.date | date_to_xmlschema }}">
         {{ talk.data.date | date: '%B %Y' }}
