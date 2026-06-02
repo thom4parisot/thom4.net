@@ -18,22 +18,30 @@ layout: base-raw
   import RandomColors from '/assets/reveal/plugin/random-colors/index.js';
 
   const printMode = /print-pdf/gi.test(window.location.search)
+  const showNotes = /(&no-notes)/.test(location.href) !== true
 
   const deck = new Reveal({
     center: true,
     controls: /(localhost|#live)/.test(location.href) !== true,
     history: true,
-    markdown: {
-    },
+    markdown: {},
+
+    // https://revealjs.com/pdf-export/#page-size
+    pdfMaxPagesPerSlide: 1,
+    // https://revealjs.com/pdf-export/#separate-pages-for-fragments
+    pdfSeparateFragments: false,
+
     progress: true,
 
     plugins: [Markdown, Notes, RandomColors],
 
-    showNotes: printMode ? 'separate-page' : false,
+    showNotes: printMode && showNotes ? 'separate-page' : false,
     transition: 'linear'
   })
 
   deck.initialize()
+
+  globalThis.Reveal = deck
 {% endjs %}
 
 {% css %}

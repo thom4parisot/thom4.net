@@ -584,48 +584,60 @@ template {
   }
 
 .reveal section h1:last-child,
-  .reveal section h2:last-child,
-  .reveal section h3:last-child,
-  .reveal section h1.last-child,
-  .reveal section h2.last-child,
-  .reveal section h3.last-child {
-    margin-bottom: 0;
-  }
+.reveal section h2:last-child,
+.reveal section h3:last-child,
+.reveal section h1.last-child,
+.reveal section h2.last-child,
+.reveal section h3.last-child {
+  margin-bottom: 0;
+}
 
-.background-light .slide-background.present::before, .background-dark .slide-background.present::before, .background-contrasted .slide-background.present::before {
-      content: "";
-      background-color: transparent;
-      position: absolute;
-      height: 100%;
-      width: 100%;
-      z-index: 10;
-    }
+.reveal-print .reveal .slides section {
+  z-index: 9999;
+}
 
-.background-light .reveal .slide-background.present::before {
-      background-color: rgba(255, 255, 255, 0.2);
-    }
+.background-light .slide-background.present::before,
+.background-dark .slide-background.present::before,
+.background-contrasted .slide-background.present::before,
+.pdf-page:has(:where([data-state="background-dark"], [data-state="background-light"], [data-state="background-contrasted"])) .slide-background::before {
+  content: "";
+  background-color: transparent;
+  left: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+}
 
-.background-light .reveal .slides .present {
+.background-light .reveal .slide-background.present::before,
+.pdf-page:has(:where([data-state="background-light"])) .slide-background::before {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.background-light .reveal .slides .present,
+[data-state="background-light"] section.present {
       color: #fff;
       text-shadow: 1px 1px rgba(0, 0, 0, .5);
     }
 
-.background-dark a:link, .background-dark a:visited, .background-contrasted a:link, .background-contrasted a:visited {
-      --link-foreground: var(--light-shade);
-    }
+:where([data-state="background-dark"], .background-dark, [data-state="background-contrasted"], .background-contrasted) :is(a:link, a:visited) {
+  --link-foreground: var(--light-shade);
+}
 
-.background-dark strong, .background-contrasted strong {
-      background: rgb(255, 230, 210);
-      background: color(var(--brand-color) tint(80%));
-      color: #fff;
-      text-shadow: 1px 1px 1px rgb(128, 128, 128);
-    }
+:where(.background-dark, [data-state="background-dark"], .background-contrasted, [data-state="background-contrasted"]) strong {
+  background: rgb(255, 230, 210);
+  background: color(var(--brand-color) tint(80%));
+  color: #fff;
+  text-shadow: 1px 1px 1px rgb(128, 128, 128);
+}
 
-.background-dark .slide-background.present::before {
+.background-dark .slide-background.present::before,
+.pdf-page:has(:where([data-state="background-dark"])) .slide-background::before {
     background-color: rgba(0, 0, 0, 0.3);
   }
 
-.background-dark .slides .present {
+.background-dark .slides .present,
+[data-state="background-dark"] section.present {
     color: #fff;
     text-shadow: 1px 1px rgba(255, 255, 255, .5);
   }
@@ -668,4 +680,9 @@ body.attention {
   thead th {
     font-weight: bold;
   }
+}
+
+
+html[lang^="fr"].reveal .speaker-notes::before {
+  content: "Notes de présentation";
 }
