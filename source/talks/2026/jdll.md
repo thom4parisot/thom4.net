@@ -8,9 +8,9 @@ event:
   location: Lyon
   duration: 55
   url: https://pretalx.jdll.org/jdll2026/talk/DRSQRP/
-cover:
-video:
-category: [Talk]
+cover: images/thumbnail.webp
+video: https://videos-libr.es/w/hTV7xR33TcE6rT3ZSTgTv7
+category: [Featured, Talk]
 slides:
   - file: 00-intro.md
   - file: 05-titre.md

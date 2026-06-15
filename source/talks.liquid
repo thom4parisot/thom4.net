@@ -15,12 +15,15 @@ eleventyNavigation:
   <h2>Les essentielles</h2>
 
   {% for post in featured, reversed %}
-    <article class="article article__card talk" id="{{ post.fileSlug }}-{{ post.data.date | date: '%Y' }}">
-      <h3 class="event-name" lang="{{ post.data.lang }}">
+    {%- assign year = post.data.date | date: '%Y' -%}
+    {%- assign id = post.fileSlug | append: '-' | append: year -%}
+    {%- assign has_description = post.data.description | size -%}
+  <article class="article article__card talk" id="{{ id }}" aria-labelledby="{{ id }}-title" {% if has_description %}aria-describedby="{{ id }}-description"{% endif %}>
+      <h3 class="event-name" lang="{{ post.data.lang }}" id="{{ id }}-title">
         {{ post.data.title | default: post.data.event.name }}
       </h3>
 
-      <div class="cover full">
+      <div class="cover thumbnail thumbnail-width-400">
         {% bundledImage post.data.cover 400 %}
       </div>
 
@@ -82,8 +85,8 @@ eleventyNavigation:
         {% endif %}
       </ul>
 
-      {%- if post.data.description %}
-      <div class="summary">{{ post.description }}</div>
+      {%- if has_description %}
+      <div class="summary" id="{{ id }}-description">{{ post.description }}</div>
       {% endif -%}
     </article>
   {% endfor %}
