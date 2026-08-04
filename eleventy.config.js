@@ -15,6 +15,11 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.addDataExtension('toml', (contents) => toml.parse(contents))
 
+  eleventyConfig.setServerOptions({
+    showAllHosts: true,
+    showVersion: true
+  })
+
   eleventyConfig.setFrontMatterParsingOptions({
 		excerpt: true,
     excerpt_separator: '<!--more-->'
