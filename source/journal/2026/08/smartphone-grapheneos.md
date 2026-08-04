@@ -18,4 +18,4 @@ J'aurais aimé choisir les deux *mais* j'ai opté pour le logiciel sans espion a
 Alors pour le fun, je veux que ce téléphone dure 10 ans.\
 Rendez-vous en 2036.
 
-[^1]: C'est surtout "moins pire" parce que ça n'enlève pas la facture environnementale des minerais. Ça rend l'exploitation des minerais mieux encadrés. Un peu comme Oeko-Tex avec le textile — pas d'exploitation humaine et des revenus descents pour les personnes qui vont au fond des mines.
+[^1]: C'est surtout "moins pire" parce que ça n'enlève pas la facture environnementale des minerais. Ça rend l'exploitation des minerais mieux encadrés. Un peu comme Oeko-Tex avec le textile — pas d'exploitation humaine et des revenus décents pour les personnes qui vont au fond des mines.
