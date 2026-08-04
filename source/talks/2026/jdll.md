@@ -21,6 +21,11 @@ slides:
   - file: 40-vision-politique.md
   - file: 80-contributions.md
   - file: 90-conclusion.md
+feedbacks:
+  - permet de mieux comprendre comment s'organise une campagne électorale à petite échelle
+  - j'étais content de voir qu'il était aussi un peu question du projet et pas seulement de "comment gagner", en particulier dans ce qui est d'aider les gens avec le numérique.
+  - le côté migration aussi était intéressant, d'ailleurs, est-ce qu'ils ont été demandeur d'aide ou de solution ou est-ce qu'il a fallut convaincre
+  - est-ce qu'ils étaient déjà sensibilisé à ces questions, ou il y a fallu aussi expliquer la problématique ?
 ---
 
 Retour d'expérience d'un collectif passé de trois à cent personnes et qui a réussi à remporter des élections municipales dans une ville restée 30 années à droite.
