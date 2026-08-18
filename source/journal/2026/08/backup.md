@@ -10,7 +10,7 @@ categories:
 J'arrivais au bout de ma sixième année d'utilisation d'[Arq Backup][^1].
 Avec l'arrivée de la notification de renouvellement de l'abonnement (60$ par an, pour le logiciel *et* 1 To de stockage), je me suis posé la question de continuer.
 
-Arq est compatible Windows et Linux *mais* pas Linux.
+Arq est compatible macOS et Windows *mais* pas Linux.
 Or l'arrivée d'un serveur à la maison change la donne, car je tiens également à le sauvegarder. Donc la question du logiciel de sauvegarde. Donc la question du stockage.
 
 J'aurais pu partager l'espace entre toutes les machines ? Probablement que ça aurait pu continuer ainsi.
